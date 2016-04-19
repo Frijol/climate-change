@@ -2,6 +2,7 @@
 * Lowell Wood: Worked at Livermore National Lab, weaponry for the Pentagon, and fringe science [Goodell, 112]
 * Ken Caldeira: Climate modeler at Stanford [Goodell, 10]
 * David Keith: Building a CO2 capturing machine at the University of Calgary [Goodell, 22]
+* James Lovelock: British scientist who created a device to measure CFCs ()
 
 ## Companies
 * [Intellectual Ventures](http://www.intellectualventures.com/): company in Bellevue which works toward geoengineering (and other patentable things for money) [Goodell, 112]
