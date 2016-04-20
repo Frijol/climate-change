@@ -4,7 +4,8 @@
 * David Keith: Building a CO2 capturing machine at the University of Calgary [p22][Goodell]
 * James Lovelock: British scientist who created a device to measure CFCs and came up with the concept of Gaia
 * [Edward Teller](https://en.wikipedia.org/wiki/Edward_Teller): Cold War scientist who built hydrogen bombs
-* Yoram Bauman: Reedie working towards carbon taxing in Washington state [ref][Sutter]
+* Yoram Bauman: Reedie working towards carbon taxing in Washington state [Sutter]
+* Stephen Salter: working on cloud brightening machines [p165][Goodell]
 
 ## Companies
 * [Intellectual Ventures](http://www.intellectualventures.com/): company in Bellevue which works toward geoengineering (and other patentable things for money) [p112][Goodell]

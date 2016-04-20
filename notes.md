@@ -26,6 +26,8 @@
 #### Cloud brightening
 * Smaller particles are more reflective than bigger particles of the same substance. Making the water droplets smaller could make them brighter [p169][Goodell]
 * Spraying atomized salt water from the ocean into the air could make the moisture in clouds form around the salt, which would be smaller particules than their current form [p169][Goodell]
+* According to Latham, 50-70% of the world's ocean-covering clouds would have to be brightened in order to offset a doubling of CO2 [p182][Goodell]
+* This could impact global weather patterns, esp. rainfall [p184][Goodell]
 
 ### Carbon engineering
 * Carbon engineering is less controversial than albedo engineering, more similar to Earth's natural carbon cycle. E.g. air scrubbers, iron in the ocean to create plankton blooms, huge plantations of trees [p17][Goodell]
