@@ -6,3 +6,6 @@ Reflectivity
 
 # carbon engineering
 Geoengineering to pull carbon out of the atmosphere
+
+# CFCs
+chlorofluorocarbons

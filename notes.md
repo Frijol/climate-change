@@ -1,7 +1,7 @@
 ## The basics
 * The earth is getting warmer, and it's creating nasty positive feedback loops. For example: Sea ice is melting; ice is more reflective than water, so heat gets absorbed by the water more quickly than before; sea ice melts even faster
 * Nobody's exactly sure what will happen and when, but so far it's gotten worse more quickly than mainstream models predicted.
-* CFCs (cholofluorocarbons) were evidence that humans were massively impacting the environment and creating a hole in the ozone layer. Political action banning specific chemical products was fairly decisive in reducing this issue.
+* CFCs (chlorofluorocarbons) were evidence that humans were massively impacting the environment and creating a hole in the ozone layer. Political action banning specific chemical products was fairly decisive in reducing this issue.
 * There is no decisive political action that can be taken regarding carbon emissions, because any that would actually work would also shut down the global economy.
 
 ## Geoengineering
@@ -25,3 +25,8 @@
 * Carbon engineering is less controversial than albedo engineering, more similar to Earth's natural carbon cycle. E.g. air scrubbers, iron in the ocean to create plankton blooms, huge plantations of trees [17][Goodell]
 * Plankton blooms: if we dump several tons of iron into the ocean, we can cause a phytoplankton bloom. Phytoplankton are 1% of photosynthetic material but take in 50% of the carbon on Earth, then sink to the bottom of the ocean when they die (trapping carbon for centuries-millennia) [137][Goodell]
 * Not sure what would eat the phytoplankton, and not sure what changing the nutritional balance of the ocean would do to other life forms [137][Goodell]
+
+## Economic approach
+* Carbon credits system: a global economic system to financially incentivize companies to reduce their carbon emissions [142][Goodell]
+* [Kyoto Protocol](https://en.wikipedia.org/wiki/Kyoto_Protocol) established the carbon credits system in 1997/enforced 2005. Each nation decides on a cap, then can trade for more/less with other nations [142][Goodell]
+* Prior art: the Acid Rain Program cut sulfur dioxide emissions quickly and cheaply using a similar credits system [141][Goodell]
