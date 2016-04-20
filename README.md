@@ -3,6 +3,8 @@ Climate Change
 
 Personal notes as I explore the subject of climate change.
 
+[View as a Gitbook](https://frijol.gitbooks.io/climate-change/content/) ([PDF](https://www.gitbook.com/download/pdf/book/frijol/climate-change) | [ePub](https://www.gitbook.com/download/epub/book/frijol/climate-change) | [Mobi](https://www.gitbook.com/download/mobi/book/frijol/climate-change))
+
 ## Why research this?
 
 There are a lot of problems with the world. A lot of the major issues (war, human displacement, destruction of natural spaces, etc.) lead back fairly directly to issues with energy.
