@@ -12,14 +12,20 @@
 
 ### Albedo engineering
 * Albedo engineering to change reflectivity of the earth- painting roofs and roads white, injecting reflective particles into the atmosphere [p17][Goodell]
-* We know for sure that particles in the atmosphere can cool the planet by a degree or two because that has happened with some big volcanoes in the past.
 * With albedo engineering, blocking 2% of Earth's sunlight returns climate to preindustrial levels - though this doesn't fix the other problems high CO2 causes [p17][Goodell]
 * Best way to have a quick impact and stop Arctic ice from melting is albedo engineering, which is either brightening clouds or filling the stratosphere with particles. Either of these could in theory cool the Arctic quickly enough to immediately stop ice melt. [p114][Goodell]
+
+#### Particles injected into the stratosphere
+* We know for sure that particles in the atmosphere can cool the planet by a degree or two because that has happened with some big volcanoes in the past.
 * How do you inject the stratosphere with particles? Teller & Wood looked into this problem: for $1 billion/year, set off an artificial volcano every 5-6 years full of particles 1/10th of a micron in diameter made of some nonreactive metallic substance [p123][Goodell]
 * Testing the stratospheric albedo approach: over 70 deg latitude, shade 20% to stop melting; 50% to grow the ice. The particles would rain out in a year or so. (Caldeira) [p127][Goodell]
 * Particles in the stratosphere might trigger the creation of chlorine, which degrades the ozone [p131][Goodell]
 * Particles in the stratosphere might affect monsoons and destroy agriculture [p132][Goodell]
 * If we stopped putting particles in the air, the heat would come back right away [p133][Goodell]
+
+#### Cloud brightening
+* Smaller particles are more reflective than bigger particles of the same substance. Making the water droplets smaller could make them brighter [p169][Goodell]
+* Spraying atomized salt water from the ocean into the air could make the moisture in clouds form around the salt, which would be smaller particules than their current form [p169][Goodell]
 
 ### Carbon engineering
 * Carbon engineering is less controversial than albedo engineering, more similar to Earth's natural carbon cycle. E.g. air scrubbers, iron in the ocean to create plankton blooms, huge plantations of trees [p17][Goodell]
