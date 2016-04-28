@@ -22,6 +22,12 @@
 * [Algae Systems](http://algaesystems.com/): company in Nevada using algae for wastewater treatment [Atwood]
 * [Permian Global](http://permianglobal.com/en): investment firm headquartered in London for forest restoration. They work in environmental sciences, forest conservation, project management, and carbon markets [Atwood]
 * [IAFN](http://www.analogforestry.org/): organization in Costa Rica dedicated to plant restoration through rural economic enfranchisement [Atwood]
-* [Carbon Engineering](http://carbonengineering.com/): Company in Calgary capturing CO2 from the air to turn into fuel [Atwood]
+* [Carbon Engineering](http://carbonengineering.com/): company in Calgary capturing CO2 from the air to turn into fuel [Atwood]
+* [Natural Capitalism Solutions](http://natcapsolutions.org/): consultancy in Colorado which works with companies to help them save money by reducing emissions [Lovins]
+* [Makani](http://www.google.com/makani/): a part of Google X which builds kites with turbines for wind power production, reducing materials cost per watt [Victor]
+* [Altaeros](http://www.altaerosenergies.com/): a company in Somerville which flies a wind turbine on a blimp for power production, reducing materials cost per watt [Victor]
+* [Sunfolding](http://www.sunfolding.com/): a company in San Francisco which makes pneumatically actuated tracking solar panels (the pneumatic design uses recycled materials and is cheaper than traditional mechanicals) [Victor]
+* [Evervest](http://www.evervest.co/): a company in Boston which uses software modeling to identify the best sites for solar and wind installations [Victor]
+* [California ISO](http://www.caiso.com/Pages/default.aspx): a company in Folsom, CA which orchestrates the power grid to match production to consumption [Victor]
 
 {% include "./bibliography.md" %}

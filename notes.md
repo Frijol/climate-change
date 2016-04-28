@@ -1,8 +1,15 @@
 ## The basics
 * The earth is getting warmer, and it's creating nasty positive feedback loops. For example: Sea ice is melting; ice is more reflective than water, so heat gets absorbed by the water more quickly than before; sea ice melts even faster
+* The primary cause of global warming is CO2 going into the atmosphere, specifically due to the burning of coal, natural gas, and petroleum. [Victor]
 * Nobody's exactly sure what will happen and when, but so far it's gotten worse more quickly than mainstream models predicted.
 * CFCs (chlorofluorocarbons) were evidence that humans were massively impacting the environment and creating a hole in the ozone layer. Political action banning specific chemical products was fairly decisive in reducing this issue.
 * There is no decisive political action that can be taken regarding carbon emissions, because any that would actually work would also shut down the global economy.
+
+## Clean energy
+* Hoped-for breakthrough technologies: fusion reactors, nanoscale solar cells [Victor]
+* Solar and wind are currently expensive to implement, but it's possible to significantly reduce cost for materials/transport/setup without a technological breakthrough, e.g. wind turbines on kites [Victor]
+* Improved software, especially modeling (where should my wind turbine go?) can dramatically increase the efficiency of existing technologies [Victor]
+* The current power grid is not set up to support distributed power; it works through a few sources providing great amounts of energy. [Victor]
 
 ## Geoengineering
 * Geoengineering: "the deliberate large-scale intervention in the Earth's climate system, in order to moderate global warming" (Royal society paper, in [p16][Goodell])
@@ -35,8 +42,15 @@
 * Not sure what would eat the phytoplankton, and not sure what changing the nutritional balance of the ocean would do to other life forms [p137][Goodell]
 
 ## Economic approach
+### Carbon credits
 * Carbon credits system: a global economic system to financially incentivize companies to reduce their carbon emissions [p142][Goodell]
 * [Kyoto Protocol](https://en.wikipedia.org/wiki/Kyoto_Protocol) established the carbon credits system in 1997/enforced 2005. Each nation decides on a cap, then can trade for more/less with other nations [p142][Goodell]
 * Prior art: the Acid Rain Program cut sulfur dioxide emissions quickly and cheaply using a similar credits system [p141][Goodell]
+
+### Capitalism
+* Using less energy/using renewables can save companies money - Walmart is a leading example [p12][Lovins]
+* Companies required to disclose accounting information including carbon footprint under the [Sarbanes-Oxley Act](https://en.wikipedia.org/wiki/Sarbanes–Oxley_Act). This lets the public see economic effect of cutting emissions; the trend has been cost savings [p11][Lovins]
+* Major $ savings to be had in more efficient buildings; 76% of energy produced in USA goes to building operation [p15][Lovins]
+* Biggest blocker to companies that would like to go greener: up-front capital [p31][Lovins]
 
 {% include "./bibliography.md" %}
