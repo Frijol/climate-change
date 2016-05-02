@@ -3,3 +3,4 @@
 [Sutter]: http://www.cnn.com/2016/04/19/opinions/sutter-carbon-tax-washington-british-columbia/index.html "Sutter, John. 'There's a cheap, proven fix to the world's biggest problem. Really overstated title, but decent information about carbon taxation."
 [Lovins]: https://www.goodreads.com/book/show/11273339-climate-capitalism "Lovins, L. and Cohen, Boyd. Climate Capitalism. 2011. How businesses should and do profit by reducing their carbon footprint. Reads as a bit idealistic, but there are a lot of examples."
 [Victor]: http://worrydream.com/ClimateChange/ "Victor, Bret. 'What Can a Technologist Do about Climate Change? (A Personal View).' 2015. Essay on how techies and entrepreneurs can work on the problem of climate change."
+[Larsson]: https://www.ted.com/talks/magnus_larsson_turning_dunes_into_architecture?language=en "Larsson, Magnus. 'Turning Dunes into Architecture.' TED 2009. Combating desertification in Africa through biology-driven sandstone architecture."

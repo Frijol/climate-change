@@ -51,6 +51,29 @@
 * Using less energy/using renewables can save companies money - Walmart is a leading example [p12][Lovins]
 * Companies required to disclose accounting information including carbon footprint under the [Sarbanes-Oxley Act](https://en.wikipedia.org/wiki/Sarbanes–Oxley_Act). This lets the public see economic effect of cutting emissions; the trend has been cost savings [p11][Lovins]
 * Major $ savings to be had in more efficient buildings; 76% of energy produced in USA goes to building operation [p15][Lovins]
-* Biggest blocker to companies that would like to go greener: up-front capital [p31][Lovins]
+* Biggest blocker to companies that would like to go greener (more efficient/renewable): up-front capital [p31][Lovins]
+* Utilities: some are publicly owned; some are from private investment. Particularly those with private investment stand to gain from clients using more energy. In the 1970s they even sold in declining block rates. PUC for each state sets rates, some use inverted rates and some decouple energy quantity from $ paid to utility company. Some reward utility companies for reducing client consumption (ex. Batinovich Plan) [p47-48][Lovins]
+
+## Energy efficiency
+* NAS reports show that it's much cheaper to make current systems more efficient than it is to create new energy sources [p31][Lovins]
+* Key targets for energy efficiency gains: transportation, buildings, agriculture, forestry [p32][Lovins]
+* Long-haul truckers often leave diesel engines in during mandatory 10h rest periods to power "hotel load". Better if they use Auxiliary Power Units and switch off the engine. [p138][Lovins]
+
+## Renewable energy
+* Solar thermal: heat water from the sun. 1 in 10 houses in China, not so many in the States [p66][Lovins]
+* Wind: fastest growing renewable. Solar electric is second [p71][Lovins]
+* Geothermal: requires hot rock and water (so e.g. island volcanic areas). Porous rock sponges up rainfall, volcano heats this. Dig a hole to create a vent, then hook up a turbine to get power. Iceland uses geothermal for 25% of its electricity and 90% of its heating/hot water needs [p75][Lovins]
+* One nuclear power plant produces 1gW. Geothermal across the states produces 2gW [Lovins]
+* Wave power by Pelamis: semi-submerged articulated structure undulates, pushing hydraulic rams, which pump fluids through hydraulic motors to generate electricity [p77][Lovins]
+* Wave + hydroelectric power by Aquamarine Power's Oyster: a hinged flap connected to the seabed 30m down moves with the waves. This drives a hydraulic piston, which shoots high-pressure water to an onshore turbine [p78][Lovins]
+* Electric demand of the U.S. could be met by covering 9% of Nevada with PV according to DoE report [p72][Lovins]
+* Current grid systems are highly distributed. Power transmission lines are expensive and inefficient - local solar & wind reduces cost and energy production need [p72][Lovins]
+* Nuclear power: contentious. Some argue that it's the best way to get off oil dependency; others say it's not worth the waste it creates
+* Biochar: as plants grow, they pull CO2 out of the air, but they release it again when they decay. Instead of letting it decay, heat woody material at low temperature anaerobically until it is carbonized (pyrolysis). Use this material as a fertilizer - dug into the ground, carbon is sequestered. Byproduct is biodiesel. [p199-200][Lovins]
+
+## Effects of climate change
+* Desertification: forces massive migration of villages (and cities) [Larsson]
+* In order to stop desertification, you need to make something that will catch sand and keep it from blowing past its borders and taking in more land. E.g. wall of trees [Larsson]
+* Around the Sahara, people are often poor and will chop down trees planted as sandbreak for firewood. Larsson proposes sandbreak made of sandstone, hardened by some bugs [Larsson]
 
 {% include "./bibliography.md" %}

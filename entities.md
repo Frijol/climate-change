@@ -29,5 +29,27 @@
 * [Sunfolding](http://www.sunfolding.com/): a company in San Francisco which makes pneumatically actuated tracking solar panels (the pneumatic design uses recycled materials and is cheaper than traditional mechanicals) [Victor]
 * [Evervest](http://www.evervest.co/): a company in Boston which uses software modeling to identify the best sites for solar and wind installations [Victor]
 * [California ISO](http://www.caiso.com/Pages/default.aspx): a company in Folsom, CA which orchestrates the power grid to match production to consumption [Victor]
+* eSolar: a company backed by Google.org which uses mirrors to focus solar heat on a boiler, driving a turbine for grid power [p67][Lovins]
+* Pelamis Wave Power: a company in Edinburgh, Scotland leading wave power development [p77][Lovins]
+* Aquamarine Power: a company in Scotland building wave power (notably the Oyster) [p78][Lovins]
+* Lucid Energy Technologies: a company that makes a turbine that goes in water pipes to replace water reducers, reclaiming some of the pumping energy [p79][Lovins]
+* [One Block off the Grid (1BOG)](https://en.wikipedia.org/wiki/One_Block_Off_the_Grid): Solar company which gets a neighborhood to contribute together to initial solar installation to reduce up-front cost for individuals
+* [Desertec](http://www.desertec.org/): a German GMbH aimed at placing renewable energy harvesting in deserts (otherwise "useless" land)
+* DONG Energy: Denmark's largest energy company
+* [ATDynamics](http://www.stemco.com/products/innovative-tire-mileage-solutions/aerodynamic-devices/): owned by STEMCO. Aerodynamic long-haul trucks intended for greater energy efficiency. [p138][Lovins]
+
+## Places
+* Dardesheim in Germany uses 100% renewable through a land-leasing wind program [p64-65][Lovins]
+* Beddington Zero Energy Development: an environmentally friendly housing development in Hackbridge, London, esp. anti-car [p112][Lovins]
+* [Dongtan Eco-City](https://en.wikipedia.org/wiki/Dongtan): a planned eco-city on a Chinese island, originally scheduled to open in 2010 but as of 2016 not yet begun. Intended to be zero-emission and totally self-supporting
+* [Masdar City](https://en.wikipedia.org/wiki/Masdar_City): a planned eco-city in Abu Dhabi, intended as a cleantech research and technology hub. Partially built.
+
+## Research
+* Adam Lewis Center for Environmental Studies at Oberlin College: experimental green community living space, acting as a lab for green architecture and living [p98][Lovins]
+
+## Standards
+* Energy Star: international energy standard for energy efficient consumer products, originating in the United States
+* LEED: Leadership in Energy and Environmental Design: a nationally accepted organization for design, operation and construction of high performance green buildings (United States)
+
 
 {% include "./bibliography.md" %}
