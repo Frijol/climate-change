@@ -12,7 +12,7 @@
 * [Cool Planet](http://www.coolplanet.com/): company in Colorado which makes carbon-negative gasoline using biochar [Atwood]
 * [Calera](http://calera.com/): company in Los Gatos which reuses captured CO2 to make cement [Atwood]
 * [Skyonic](http://skyonic.com/): company in Austin which uses waste heat to clean CO2 from emissions [Atwood]
-* [All Power Labs](http://www.allpowerlabs.com/): company in Berkeley which makes biomass gasifier generators. [They have an open house every month](http://www.eventbrite.com/e/biomass-powered-open-house-registration-19019972249). [Atwood]
+* [All Power Labs](http://www.allpowerlabs.com/): company in Berkeley which makes biomass gasifier generators (carbon negative energy generation). [They have an open house every month](http://www.eventbrite.com/e/biomass-powered-open-house-registration-19019972249). [Atwood]
 * [Mantra](http://mantraenergy.com/mantra-energy/technology/): Company in BC which makes usable products out of CO2 in waste streams [Atwood]
 * [Diacarbon](http://www.diacarbon.com/bi): company in BC which makes biochar and biocoal [Atwood]
 * [Carbon Cure](http://carboncure.com/): company in Nova Scotia which makes CO2-trapping concrete [Atwood]
@@ -43,6 +43,8 @@
 * Beddington Zero Energy Development: an environmentally friendly housing development in Hackbridge, London, esp. anti-car [p112][Lovins]
 * [Dongtan Eco-City](https://en.wikipedia.org/wiki/Dongtan): a planned eco-city on a Chinese island, originally scheduled to open in 2010 but as of 2016 not yet begun. Intended to be zero-emission and totally self-supporting
 * [Masdar City](https://en.wikipedia.org/wiki/Masdar_City): a planned eco-city in Abu Dhabi, intended as a cleantech research and technology hub. Partially built.
+* [Vauban, Freiberg, Germany](https://en.wikipedia.org/wiki/Vauban,_Freiburg): sustainable neighborhood, no cars
+* [Bayview Quarry Village](http://www.bayviewvillage.us/about_us/index.html): planned sustainable development community in the Hayward area of the East Bay (CA)
 
 ## Research
 * Adam Lewis Center for Environmental Studies at Oberlin College: experimental green community living space, acting as a lab for green architecture and living [p98][Lovins]
