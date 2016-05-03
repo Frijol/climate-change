@@ -37,6 +37,7 @@
 * [Desertec](http://www.desertec.org/): a German GMbH aimed at placing renewable energy harvesting in deserts (otherwise "useless" land)
 * DONG Energy: Denmark's largest energy company
 * [ATDynamics](http://www.stemco.com/products/innovative-tire-mileage-solutions/aerodynamic-devices/): owned by STEMCO. Aerodynamic long-haul trucks intended for greater energy efficiency. [Lovins, 138][Lovins]
+* [Iogen](http://www.iogen.ca/): company in Ontario producing cellulosic ethanol
 
 ## Places
 * Dardesheim in Germany uses 100% renewable through a land-leasing wind program [Lovins, 64-65][Lovins]
@@ -49,9 +50,9 @@
 ## Research
 * Adam Lewis Center for Environmental Studies at Oberlin College: experimental green community living space, acting as a lab for green architecture and living [Lovins, 98][Lovins]
 
-## Standards
+## Standards and organizations
 * Energy Star: international energy standard for energy efficient consumer products, originating in the United States
 * LEED: Leadership in Energy and Environmental Design: a nationally accepted organization for design, operation and construction of high performance green buildings (United States)
-
+* [Carbon War Room](http://carbonwarroom.com/): international NGO founded by Richard Branson working toward market-based solutions to carbon emissions (capitalistic/entrepreneurial solutions)
 
 {% include "./bibliography.md" %}

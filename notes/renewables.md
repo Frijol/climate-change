@@ -1,9 +1,10 @@
 # Renewable energy
 * Hoped-for breakthrough technologies: fusion reactors, nanoscale solar cells [Victor]
+
+## Wind
+* Wind: fastest growing renewable. Solar electric is second [Lovins, 71][Lovins]
 * Solar and wind are currently expensive to implement, but it's possible to significantly reduce cost for materials/transport/setup without a technological breakthrough, e.g. wind turbines on kites [Victor]
 * Improved software, especially modeling (where should my wind turbine go?) can dramatically increase the efficiency of existing technologies [Victor]
-* Wind: fastest growing renewable. Solar electric is second [Lovins, 71][Lovins]
-* Nuclear power: contentious. Some argue that it's the best way to get off oil dependency; others say it's not worth the waste it creates
 
 ## Solar
 * Electric demand of the U.S. could be met by covering 9% of Nevada with PV according to DoE report [Lovins, 72][Lovins]
@@ -11,8 +12,9 @@
 
 ## Biofuel
 * Biochar: as plants grow, they pull CO2 out of the air, but they release it again when they decay. Instead of letting it decay, heat woody material at low temperature anaerobically until it is carbonized (pyrolysis). Use this material as a fertilizer - dug into the ground, carbon is sequestered. Byproduct is biodiesel. [Lovins, 199-200][Lovins]
-* Biodiesel: can be made out of many things - not just waste oil and food but also "trash" such as dirty diapers and styrofoam cups [Lovins, 163][Lovins]
+* Biodiesel: can be made out of many things - not just waste oil and food but also "trash" such as dirty diapers and styrofoam cups. Typically, these types of solutions create cellulosic ethanol [Lovins, 162-163][Lovins]
 * Brazil weaned themselves off of global oil dependency via the National Alcohol Program (1975). Required oil company to blend at least 22% ethanol (made from local sugarcane) into its fuel, while offering low-interest loans. [Lovins, 160][Lovins]
+* Issues with upstream emissions (e.g. deforestation for plantation of fuel-source plants) crimp spread of biofuel as savior [Lovins, 161][Lovins]
 
 ## Geothermal
 * Geothermal: requires hot rock and water (so e.g. island volcanic areas). Porous rock sponges up rainfall, volcano heats this. Dig a hole to create a vent, then hook up a turbine to get power. Iceland uses geothermal for 25% of its electricity and 90% of its heating/hot water needs [Lovins, 75][Lovins]
@@ -21,6 +23,19 @@
 ## Wave
 * Wave power by Pelamis: semi-submerged articulated structure undulates, pushing hydraulic rams, which pump fluids through hydraulic motors to generate electricity [Lovins, 77][Lovins]
 * Wave + hydroelectric power by Aquamarine Power's Oyster: a hinged flap connected to the seabed 30m down moves with the waves. This drives a hydraulic piston, which shoots high-pressure water to an onshore turbine [Lovins, 78][Lovins]
+
+## Nuclear
+* Nuclear power: contentious. Some argue that it's the best way to get off oil dependency; others say it's not worth the waste it creates
+
+### Side: anti-nuclear
+* New nuclear plants cost $0.25 per kWh. Compared to efficiency solutions and other renewables, this is too expensive (wind in a good site: $0.03/kWh, solar on a good day: $0.12/kWh) [Lovins, 84][Lovins]
+* Reductions in carbon emissions need to take place on the scale of one to two years; it takes 10 years to get a new nuclear plant online (not including permitting/bureaucracy) [Lovins, 84][Lovins]
+* Replacing the world's coal plants with nuclear plants increases the accessibility of raw materials for nuclear bombs globally [Lovins, 84][Lovins]
+* Nuclear power plants require a lot of water; climate change causes droughts. This will increase operational expenses to unsustainable levels (and already has at some now-closed sites) [Lovins, 85][Lovins]
+* There is no solution in place for safe disposal of radioactive waste from nuclear power plants [Lovins, 85][Lovins]
+
+### Side: pro-nuclear
+* TODO
 
 ## Power grid - implementation changes
 * Current grid systems are highly distributed. Power transmission lines are expensive and inefficient - local solar & wind reduces cost and energy production need [Lovins, 72][Lovins]
