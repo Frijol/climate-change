@@ -10,6 +10,12 @@ the ratio of a power plant's actual output to its theoretical potential output a
 # carbon engineering
 Geoengineering to pull carbon out of the atmosphere
 
+# CDM
+Clean Development Mechanism, a flexible mechanism for carbon markets under the Kyoto Protocol
+
+# JI
+Joint Implementation, a flexible mechanism for carbon markets under the Kyoto Protocol
+
 # cellulosic ethanol
 a form of ethanol that can be made from any woody material, such as walnut hulls and lumber waste
 
