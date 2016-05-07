@@ -6,6 +6,7 @@
 * [Edward Teller](https://en.wikipedia.org/wiki/Edward_Teller): Cold War scientist who built hydrogen bombs
 * Yoram Bauman: Reedie working towards carbon taxing in Washington state [Sutter]
 * Stephen Salter: working on cloud brightening machines [Goodell, 165][Goodell]
+* Dr. Richard Sandor: the "father of carbon markets" and founder of the CCX [Lovins, 229][Lovins]
 
 ## Companies
 * [Intellectual Ventures](http://www.intellectualventures.com/): company in Bellevue which works toward geoengineering (and other patentable things for money) [Goodell, 112][Goodell]

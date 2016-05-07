@@ -7,8 +7,12 @@
 
 ### Kyoto Protocol implementation details
 * Flexible mechanism: the Clean Development Mechanism (CDM) carbon offset projects in developing countries [presumably, with unregulated markets] can be used to generate credits sellable in regulated markets [Lovins, 226][Lovins]
-* Flexible mechanism: Joint Implementation (JI)
-* First phase of Kyoto Protocol ended 2012 [TODO: look up retrospectives]
+* Flexible mechanism: Joint Implementation (JI) allows a country to claim offset credits generated outside its borders (in developed countries) [Lovins, 226][Lovins]
+* First phase of Kyoto Protocol ended 2012
+* EU ETS formed to meet Kyoto Protocol obligations, committing to an emission reduction of at least 20% by 2020 over 1990 levels [Lovins, 228][Lovins]
+* United States Government did not establish an ETS or ratify the international accord. [Lovins, 229][Lovins]
+* CCX became the de facto United States carbon market on an opt-in basis in 2003. Major companies opted in to prepare for future legislation, for good marketing, and other reasons. Some success was had but it was closed in 2010 [Lovins, 229-231][Lovins]
+* Regional systems started to put carbon markets in place when no federal ones appeared, starting with RGGI. Western Climate Initiative (Arizona, California, Montana, New Mexico, Oregon, Utah, Washington) followed in 2007. [Lovins, 232][Lovins]
 
 ### Controversy
 
@@ -19,7 +23,8 @@
 #### Anti carbon credits
 * This is challenging to regulate and enforce
 * The carbon credit system is an opt-in economy, and many major countries (esp. the United States) do not opt in
-* As emissions are reduced globally, the incentive to reduce goes away again - you would expect the value of a carbon credit to decrease over time as companies make up-front investments in more efficient/less emissive systems. [right? This is my analysis - wouldn't the government have to keep cutting and cutting the caps to make this work? I haven't seen anything about a long-term plan to this effect]
+* As emissions are reduced globally, the incentive to reduce goes away again - you would expect the value of a carbon credit to decrease over time as companies make up-front investments in more efficient/less emissive systems. [right? This is my analysis - wouldn't the government have to keep cutting and cutting the caps to make this work? I haven't seen anything about a long-term plan to this effect. Need to further research phases of Kyoto Protocol.]
+* Alternative: tax carbon-based fuels at the point at which they exit the earth or cross a border. This creates a clear and predictable accounting. [Lovins, 226-227][Lovins]
 
 ## Capitalism
 * Using less energy/using renewables can save companies money - Walmart is a leading example [Lovins, 12][Lovins]

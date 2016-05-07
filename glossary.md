@@ -1,5 +1,8 @@
+# additionality
+the assurance to a buyer of a carbon market that the money spent is really eliciting a reduction in carbon
+
 # albedo
-Reflectivity
+reflectivity
 
 # biofuel
 a fuel derived from living matter
@@ -10,8 +13,17 @@ the ratio of a power plant's actual output to its theoretical potential output a
 # carbon engineering
 Geoengineering to pull carbon out of the atmosphere
 
+# CCX
+Chicago Climate Exchange
+
 # CDM
 Clean Development Mechanism, a flexible mechanism for carbon markets under the Kyoto Protocol
+
+# ETS
+Emissions Trading System
+
+# EU ETS
+European Union Emissions Trading System (carbon market)
 
 # JI
 Joint Implementation, a flexible mechanism for carbon markets under the Kyoto Protocol
@@ -66,6 +78,9 @@ Public Utility Commission, state entity regulating utility companies
 
 # PV
 photovoltaic(s)
+
+# RGGI
+Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated carbon market in the United States
 
 # run-of-the-river
 Hydropower which uses natural flow and elevation drop of water rather than a dam
