@@ -8,6 +8,7 @@
 * Albedo engineering to change reflectivity of the earth- painting roofs and roads white, injecting reflective particles into the atmosphere [Goodell, 17][Goodell]
 * With albedo engineering, blocking 2% of Earth's sunlight returns climate to preindustrial levels - though this doesn't fix the other problems high CO2 causes [Goodell, 17][Goodell]
 * Best way to have a quick impact and stop Arctic ice from melting is albedo engineering, which is either brightening clouds or filling the stratosphere with particles. Either of these could in theory cool the Arctic quickly enough to immediately stop ice melt. [Goodell, 114][Goodell]
+* Planting trees in previously unforested areas in an attempt to offset carbon is controversial because of the change in albedo - it's unclear whether it is a net positive or negative. [Lovins, 239][Lovins]
 
 ### Particles injected into the stratosphere
 * We know for sure that particles in the atmosphere can cool the planet by a degree or two because that has happened with some big volcanoes in the past.

@@ -1,5 +1,6 @@
 # Renewable energy
 * Hoped-for breakthrough technologies: fusion reactors, nanoscale solar cells [Victor]
+* "clean coal": idea whereby coal-fired plants capture CO2 before it leaves the smokestack and bury it (sequester) in the earth. Mechanism: pressurized CO2 injected into saline aquifers below impermeable caprock - 1k-8k feet deep. There, it would form mild carbonic acid, which would dissolve and precipitate out as dolomite and limestone [Weisman, 223][Weisman]
 
 ## Wind
 * Wind: fastest growing renewable. Solar electric is second [Lovins, 71][Lovins]
@@ -26,6 +27,11 @@
 
 ## Nuclear
 * Nuclear power: contentious. Some argue that it's the best way to get off oil dependency; others say it's not worth the waste it creates
+* Current nuclear (fission) power works by creating heat through controlled atomic reactions, using this to boil water and create steam to drive a turbine. Specifically, all current nuclear plants use moveable cadmium rods to dampen or intensify the reaction (the rods suck up neutrons). [Weisman, 209][Weisman]
+* Biggest nuclear plant in the United States: Palo Verde Nuclear Generating Station, west of Phoenix. Produces 3.8 billion watts [Weisman, 209][Weisman]
+* Mechanism at Palo Verde: Cadmium dampers are interspersed with 170,000 cm-ish thick 14' hollow rods made of zirconium alloy stuffed with uranium pellets. Each rod contains the same amount of energy as 1 ton coal. Water flows through the rod assemblies to be heated. [Weisman, 210][Weisman]
+* The volume of used nuclear fuel rods created over the past 40 years is 74,258 metric tons. That's one football field, 8 yards deep. [NEI]
+* Used nuclear fuel is up to a million times more radioactive than when it was fresh. It is mutated into isotopes of plutonium and americum as it decays [Weisman, 210][Weisman]
 
 ### Side: anti-nuclear
 * New nuclear plants cost $0.25 per kWh. Compared to efficiency solutions and other renewables, this is too expensive (wind in a good site: $0.03/kWh, solar on a good day: $0.12/kWh) [Lovins, 84][Lovins]
@@ -35,7 +41,12 @@
 * There is no solution in place for safe disposal of radioactive waste from nuclear power plants [Lovins, 85][Lovins]
 
 ### Side: pro-nuclear
-* TODO
+* Nearly one hundred nuclear facilities in 30 states provide nearly 20 percent of all U.S. electricity. [NEI]
+* Nuclear energy facilities are used at high capacity compared to other energy generation mechanisms. They operate at a 92% energy capacity factor, compared to 47.8% for natural gas, 60.9% for coal, and 33.9% for wind. [NEI] (though - is this a meaningful statistic? Doesn't seem useful to me)
+* One uranium fuel pellet creates as much energy as one ton of coal or 17,000 cubic feet of natural gas. [NEI]
+* Significant uranium resources are available from U.S. sources or friendly trading partners such as Canada and Australia. [NEI]
+* A nuclear energy facility’s life-cycle carbon emissions—including mining and producing fuel and construction of the plant—are among the lowest of any electricity generation source at 13 tons of carbon dioxide equivalent per gigawatt-hour, comparable to geothermal (15 tons) and wind (12 tons). [NEI]
+* All U.S. nuclear energy facilities have extensive environmental monitoring programs, which are under the oversight of the NRC and state regulators. [NEI]
 
 ## Power grid - implementation changes
 * Current grid systems are highly distributed. Power transmission lines are expensive and inefficient - local solar & wind reduces cost and energy production need [Lovins, 72][Lovins]

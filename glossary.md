@@ -4,6 +4,9 @@ Reflectivity
 # biofuel
 a fuel derived from living matter
 
+# capacity factor
+the ratio of a power plant's actual output to its theoretical potential output at full capacity
+
 # carbon engineering
 Geoengineering to pull carbon out of the atmosphere
 
@@ -30,6 +33,9 @@ Department of Energy (U.S.A.)
 
 # geoengineering
 Deliberate human intervention in the earth's climate on a global scale
+
+# GHG
+greenhouse gas
 
 # helical turbine
 A vertical turbine whose blades are modeled after birds' wings
