@@ -3,4 +3,8 @@
 * In order to stop desertification, you need to make something that will catch sand and keep it from blowing past its borders and taking in more land. E.g. wall of trees [Larsson]
 * Around the Sahara, people are often poor and will chop down trees planted as sandbreak for firewood. Larsson proposes sandbreak made of sandstone, hardened by some bugs [Larsson]
 
+# Adaptation
+* Adaptation to climate change effects has become an emerging market segment. [Lovins, 252][Lovins]
+* Some worry that focus on adaptation will create financial incentives for climate change acceleration. Others argue that we will need adaptation services/technologies regardless of how fast we curb emissions, so we should start now.
+
 {% include "../bibliography.md" %}

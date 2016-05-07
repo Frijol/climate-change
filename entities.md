@@ -7,6 +7,7 @@
 * Yoram Bauman: Reedie working towards carbon taxing in Washington state [Sutter]
 * Stephen Salter: working on cloud brightening machines [Goodell, 165][Goodell]
 * Dr. Richard Sandor: the "father of carbon markets" and founder of the CCX [Lovins, 229][Lovins]
+* Dr. Geoff Coates: scientist at Cornell working on using CO2 with catalysts to make polycarbonates (cheap, biodegradable plastic) [Lovins, 285][Lovins]
 
 ## Companies
 * [Intellectual Ventures](http://www.intellectualventures.com/): company in Bellevue which works toward geoengineering (and other patentable things for money) [Goodell, 112][Goodell]
@@ -39,6 +40,8 @@
 * DONG Energy: Denmark's largest energy company
 * [ATDynamics](http://www.stemco.com/products/innovative-tire-mileage-solutions/aerodynamic-devices/): owned by STEMCO. Aerodynamic long-haul trucks intended for greater energy efficiency. [Lovins, 138][Lovins]
 * [Iogen](http://www.iogen.ca/): company in Ontario producing cellulosic ethanol
+* [Solvatten](http://www.solvatten.se/): company in Sweden making a combined solar water treatment/heating system for places with scarce, contaminated water [Lovins, 263][Lovins]
+* [Calera](http://www.calera.com/): company in California which makes carbon-sequestering cement based on the same process used when coral reefs are formed [Lovins, 285][Lovins]
 
 ## Places
 * Dardesheim in Germany uses 100% renewable through a land-leasing wind program [Lovins, 64-65][Lovins]
@@ -47,6 +50,9 @@
 * [Masdar City](https://en.wikipedia.org/wiki/Masdar_City): a planned eco-city in Abu Dhabi, intended as a cleantech research and technology hub. Partially built.
 * [Vauban, Freiberg, Germany](https://en.wikipedia.org/wiki/Vauban,_Freiburg): sustainable neighborhood, no cars
 * [Bayview Quarry Village](http://www.bayviewvillage.us/about_us/index.html): planned sustainable development community in the Hayward area of the East Bay (CA)
+
+## Charities
+* [Fogquest](http://www.fogquest.org/): charity in Ontario using screens to collect drinkable water from fog [Lovins, 265][Lovins]
 
 ## Research
 * Adam Lewis Center for Environmental Studies at Oberlin College: experimental green community living space, acting as a lab for green architecture and living [Lovins, 98][Lovins]

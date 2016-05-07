@@ -36,3 +36,7 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Howden]: http://www.independent.co.uk/environment/climate-change/deforestation-the-hidden-cause-of-global-warming-6262622.html "Howden, Daniel. 'Deforestation: the Hidden Cause of Global Warming.' 2007. Independent."
 * [NNMREC]: http://nnmrec.oregonstate.edu/nnmrec/education/wave-energy-101/how-do-waves-work "Northwest National Marine Renewable Energy Center. 'How Do Waves Work?' 2016. Oregon State Uiversity."
 * [Parkinson]: http://cleantechnica.com/2015/01/29/solar-costs-will-fall-40-next-2-years-heres/ "Parkinson, Giles. 'Solar Costs Will Fall Another 40% In 2 Years. Here’s Why.' 2015. Clean Technica."
+* [Ackerman]: https://www.nrdc.org/sites/default/files/fcost.pdf "Ackerman, Frank and Stanton, Elizabeth. 'The Cost of Climate Change: What We'll Pay if Global Warming Continues Unchecked.' 2008. Natural Resources Defense Council."
+* [Ramesh]: http://www.theguardian.com/environment/2008/nov/10/maldives-climate-change "Ramesh, Randeep. 'Paradise Almost Lost: Maldives Seek to Buy a New Homeland.' 2008. The Guardian."
+
+* [Stern]: http://mudancasclimaticas.cptec.inpe.br/~rmclima/pdfs/destaques/sternreview_report_complete.pdf "Stern, Nicholas. 'Stern Review: The Economics of Climate Change.' 2006."
