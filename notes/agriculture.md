@@ -9,5 +9,7 @@
 * Weeds will grow where the soil is best suited to them. You can use the weeds to identify soil needs: chicory, Queen Anne's lace, and wild carrot grow where there is low fertility. Milkweed shows low zinc. Wild garlic and yellow flowers mean there is low sulfur. [Barber, 57-58, 65][Barber]
 * Spelt builds deep root systems and creates soil aeration. Clover captures nitrogen from the air and fixes it in the soil and carbon from the process keeps the nitrogen stable so it doesn't run off like chemical fertilizer. [Barber, 63][Barber]
 * Soil management - nutrients, minerals, fertilizer content- create the end taste of the crop [Barber, 68][Barber]
+* Plant flavor can be measured with a refractometer to find Brix, which has enormous impact on food flavor. Commonly used with wine grapes. [Barber, 81][Barber]
+* Monocultures make entire crops susceptible to disease - all or nothing [Barber, 82][Barber]
 
 {% include "../bibliography.md" %}

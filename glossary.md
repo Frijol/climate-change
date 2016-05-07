@@ -7,6 +7,9 @@ reflectivity
 # biofuel
 a fuel derived from living matter
 
+# Brix
+the amount of sugar present in a fruit or vegetable
+
 # capacity factor
 the ratio of a power plant's actual output to its theoretical potential output at full capacity
 
@@ -73,11 +76,17 @@ National Academy of Sciences
 # peak oil
 the point in time when the maximum extraction of oil is reached (based on a theory by M. King Hubbert, a Shell researcher)
 
+# phytonutrients
+chemical compounds that are the building blocks of taste, such as amino acids, esters, and flavinoids. Also part of plant immune systems.
+
 # PUC
 Public Utility Commission, state entity regulating utility companies
 
 # PV
 photovoltaic(s)
+
+# refractometer
+a tool to measure Brix - looks like a small spyglass
 
 # RGGI
 Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated carbon market in the United States
