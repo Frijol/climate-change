@@ -11,5 +11,7 @@
 * Soil management - nutrients, minerals, fertilizer content- create the end taste of the crop [Barber, 68][Barber]
 * Plant flavor can be measured with a refractometer to find Brix, which has enormous impact on food flavor. Commonly used with wine grapes. [Barber, 81][Barber]
 * Monocultures make entire crops susceptible to disease - all or nothing [Barber, 82][Barber]
+* "The overproduction of grain helps enable the overproduction of chicken, which lowers the price of chicken, which means even more chickens are raised to make up for declining revenue. That leads to even more unneeded chicken [the parts that aren't breasts and thighs]. So it's fed to other animals it probably shouldn't be fed to, like fish (which are increasingly farm-raised, in part due to the offshore pollution caused by producing too much grain)." [Barber, 157][Barber]
+* Our food systems were originally driven by what the land could produce; it's now driven by what eaters want to consume - which leads to a lot of wasted animal parts when we only buy the choicest cuts [Barber, 156][Barber]
 
 {% include "../bibliography.md" %}
