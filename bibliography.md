@@ -1,6 +1,7 @@
 [Atwood]: https://medium.com/@MargaretAtwood/the-carbonivore-fund-b42b386a9af8#.o4ez5a7il "Atwood, Margaret. 'The Carbonivore Fund'.  List of companies working against climate change."
 [Barber]: https://www.goodreads.com/book/show/18667790-the-third-plate "Barber, Dan. 'The Third Plate: Field Notes on the Future of Food.' 2014."
 [Goodell]: https://www.goodreads.com/book/show/7687504-how-to-cool-the-planet "Goodell, Jeff. How to Cool the Planet. 2010. Conversational introduction to geoengineering."
+[Kolbert]: https://www.goodreads.com/book/show/17910054-the-sixth-extinction "Kolbert, Elizabeth. 'The Sixth Extinction.' 2014."
 [Larsson]: https://www.ted.com/talks/magnus_larsson_turning_dunes_into_architecture?language=en "Larsson, Magnus. 'Turning Dunes into Architecture.' TED 2009. Combating desertification in Africa through biology-driven sandstone architecture."
 [Lovins]: https://www.goodreads.com/book/show/11273339-climate-capitalism "Lovins, L. and Cohen, Boyd. Climate Capitalism. 2011. How businesses should and do profit by reducing their carbon footprint. Reads as a bit idealistic, but there are a lot of examples."
 [NEI]: http://www.nei.org/Master-Document-Folder/Backgrounders/Fact-Sheets/Quick-Facts-Nuclear-Energy-in-America "Nuclear Energy Institute. 'Quick Facts: Nuclear Energy in America.' 2015. Fact sheet about nuclear power produced by an organization with a vested interest in its success."
