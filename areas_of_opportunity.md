@@ -40,3 +40,5 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Ramesh]: http://www.theguardian.com/environment/2008/nov/10/maldives-climate-change "Ramesh, Randeep. 'Paradise Almost Lost: Maldives Seek to Buy a New Homeland.' 2008. The Guardian."
 
 * [Stern]: http://mudancasclimaticas.cptec.inpe.br/~rmclima/pdfs/destaques/sternreview_report_complete.pdf "Stern, Nicholas. 'Stern Review: The Economics of Climate Change.' 2006."
+
+{% include "./bibliography.md" %}
