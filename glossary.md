@@ -19,6 +19,9 @@ a fuel derived from living matter
 # Brix
 the amount of sugar present in a fruit or vegetable
 
+# calcifiers
+organisms that build shells or external skeletons, or for plants, internal scaffolding built from calcium carbonate
+
 # capacity factor
 the ratio of a power plant's actual output to its theoretical potential output at full capacity
 
@@ -30,6 +33,9 @@ Chicago Climate Exchange
 
 # CDM
 Clean Development Mechanism, a flexible mechanism for carbon markets under the Kyoto Protocol
+
+# coral bleaching
+corals turning white through ejection of their colorful zooxanthellae due to the zooxanthellae's dangerous release of oxygen radicals when ocean waters grow too warm
 
 # ETS
 Emissions Trading System
@@ -91,8 +97,14 @@ Latitudinal diversity gradient: the pattern that there is greater species divers
 # NAS
 National Academy of Sciences
 
+# ocean acidification
+the reduction of alkalinity in the world's oceans through absoroption of human-produced carbon dioxide from preindustrial levels of 8.2 to a projected 7.8 by 2100
+
 # peak oil
 the point in time when the maximum extraction of oil is reached (based on a theory by M. King Hubbert, a Shell researcher)
+
+# pH
+pH is a logarithmic scale from 0 to 14, where 7 is neutral, higher is basic (alkaline), and lower is acidic
 
 # phytonutrients
 chemical compounds that are the building blocks of taste, such as amino acids, esters, and flavinoids. Also part of plant immune systems.

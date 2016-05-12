@@ -1,6 +1,6 @@
 ## People
 * Lowell Wood: Worked at Livermore National Lab, weaponry for the Pentagon, and fringe science [Goodell, 112][Goodell]
-* Ken Caldeira: Climate modeler at Stanford [Goodell, 10][Goodell]
+* Ken Caldeira: Climate modeler and atmospheric scientist at Stanford. Coined the term "ocean acidification" [Goodell, 10][Goodell], [Kolbert, 131][Kolbert]
 * David Keith: Building a CO2 capturing machine at the University of Calgary [Goodell, 22][Goodell]
 * James Lovelock: British scientist who created a device to measure CFCs and came up with the concept of Gaia
 * [Edward Teller](https://en.wikipedia.org/wiki/Edward_Teller): Cold War scientist who built hydrogen bombs
@@ -9,6 +9,7 @@
 * Dr. Richard Sandor: the "father of carbon markets" and founder of the CCX [Lovins, 229][Lovins]
 * Dr. Geoff Coates: scientist at Cornell working on using CO2 with catalysts to make polycarbonates (cheap, biodegradable plastic) [Lovins, 285][Lovins]
 * Paul Crutzen: a Dutch chemist involved in discovering the effects of ozone-depleting compounds [Kolbert, 107][Kolbert]
+* Chris Langdon: a marine biologist who learned from the tanks of Biosphere 2 that ocean acidification kills coral [Kolbert, 135-136][Kolbert]
 
 ## Companies
 * [Intellectual Ventures](http://www.intellectualventures.com/): company in Bellevue which works toward geoengineering (and other patentable things for money) [Goodell, 112][Goodell]
@@ -57,6 +58,8 @@
 
 ## Research
 * Adam Lewis Center for Environmental Studies at Oberlin College: experimental green community living space, acting as a lab for green architecture and living [Lovins, 98][Lovins]
+* BIOACID: Biological Impacts of Ocean Acidification [Kolbert, 118][Kolbert]
+* EPOCA: the European Project on Ocean Acidification [Kolbert, 118][Kolbert]
 
 ## Standards and organizations
 * Energy Star: international energy standard for energy efficient consumer products, originating in the United States
