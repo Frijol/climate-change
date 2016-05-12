@@ -8,6 +8,7 @@
 * Stephen Salter: working on cloud brightening machines [Goodell, 165][Goodell]
 * Dr. Richard Sandor: the "father of carbon markets" and founder of the CCX [Lovins, 229][Lovins]
 * Dr. Geoff Coates: scientist at Cornell working on using CO2 with catalysts to make polycarbonates (cheap, biodegradable plastic) [Lovins, 285][Lovins]
+* Paul Crutzen: a Dutch chemist involved in discovering the effects of ozone-depleting compounds [Kolbert, 107][Kolbert]
 
 ## Companies
 * [Intellectual Ventures](http://www.intellectualventures.com/): company in Bellevue which works toward geoengineering (and other patentable things for money) [Goodell, 112][Goodell]

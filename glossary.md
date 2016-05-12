@@ -4,6 +4,15 @@ the assurance to a buyer of a carbon market that the money spent is really elici
 # albedo
 reflectivity
 
+# Anthropocene
+the name of the current geologic period, implying that the geology of the Earth (through climate change, nuclear fallout, river diversion, monoculture farming, ocean acidification, etc.) is being dominantly affected by humans
+
+# aquaculture
+fish farming
+
+# big five extinction
+There have been five major losses in species diversity throughout known natural history. These are known as the big five.
+
 # biofuel
 a fuel derived from living matter
 
@@ -27,6 +36,12 @@ Emissions Trading System
 
 # EU ETS
 European Union Emissions Trading System (carbon market)
+
+# FCR
+feed conversion ratio: in agriculture and aquaculture, the ratio of feed consumed versus pound of weight gained
+
+# Green Revolution
+From 1950-1992, a movement to increase food production without bringing more land under cultivation. Related to the work of Norman Borlaug and spread of monocultures.
 
 # JI
 Joint Implementation, a flexible mechanism for carbon markets under the Kyoto Protocol
@@ -69,6 +84,9 @@ kilowatt hour, the product of the power transmitted in kilowatts and the time in
 
 # Kyoto Protocol
 An international treaty which extends the UNFCCC, committing countries to reduce their greenhouse gas emissions. Acknowledges 1 premises: (1) global warming exists and (2) man-made CO2 emissions have caused it. Adopted in 1997, more enforced starting 2005.
+
+# LDG
+Latitudinal diversity gradient: the pattern that there is greater species diversity the farther away you get from the poles
 
 # NAS
 National Academy of Sciences
