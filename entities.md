@@ -10,6 +10,7 @@
 * Dr. Geoff Coates: scientist at Cornell working on using CO2 with catalysts to make polycarbonates (cheap, biodegradable plastic) [Lovins, 285][Lovins]
 * Paul Crutzen: a Dutch chemist involved in discovering the effects of ozone-depleting compounds [Kolbert, 107][Kolbert]
 * Chris Langdon: a marine biologist who learned from the tanks of Biosphere 2 that ocean acidification kills coral [Kolbert, 135-136][Kolbert]
+* Tom Lovejoy: a driving force behind the fact that ~half of the Amazon rainforest is now under some form of legal protection [Kolbert, 188][Kolbert]
 
 ## Companies
 * [Intellectual Ventures](http://www.intellectualventures.com/): company in Bellevue which works toward geoengineering (and other patentable things for money) [Goodell, 112][Goodell]
@@ -52,6 +53,7 @@
 * [Masdar City](https://en.wikipedia.org/wiki/Masdar_City): a planned eco-city in Abu Dhabi, intended as a cleantech research and technology hub. Partially built.
 * [Vauban, Freiberg, Germany](https://en.wikipedia.org/wiki/Vauban,_Freiburg): sustainable neighborhood, no cars
 * [Bayview Quarry Village](http://www.bayviewvillage.us/about_us/index.html): planned sustainable development community in the Hayward area of the East Bay (CA)
+* Ny-Alesund: a scientific community in Norway which serves as a watchtower for climate change in glaciers [Pearce, 28][Pearce]
 
 ## Charities
 * [Fogquest](http://www.fogquest.org/): charity in Ontario using screens to collect drinkable water from fog [Lovins, 265][Lovins]
@@ -65,5 +67,6 @@
 * Energy Star: international energy standard for energy efficient consumer products, originating in the United States
 * LEED: Leadership in Energy and Environmental Design: a nationally accepted organization for design, operation and construction of high performance green buildings (United States)
 * [Carbon War Room](http://carbonwarroom.com/): international NGO founded by Richard Branson working toward market-based solutions to carbon emissions (capitalistic/entrepreneurial solutions)
+* IPCC: Intergovernmental Panel on Climate Change (a UN organization)
 
 {% include "./bibliography.md" %}

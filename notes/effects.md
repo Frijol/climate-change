@@ -1,7 +1,10 @@
 # Effects of climate change
+* Sea chimneys (major in the ocean conveyor) are moving as the Arctic ice disappears, and are now disappearing. We're down to one in the Greenland Sea. [Pearce, xxi][Pearce]
 
 ## Mass extinctions
 * There have been five major extinction events in known natural history where species diversity plummeted in a short period of time – called the "Big Five". We are currently in a period of possibly similar extinction event proportions, likely caused by humans. Theorists are already terming this the "Sixth Extinction." [Kolbert, 3][Kolbert]
+* The change in temperature projected by 2100 is ~as big as the temperature swings of the ice ages, but at least 10 times faster. In order for organisms to survive, they will have to adapt an order of magnitude faster than they have before. [Kolbert, 161-162][Kolbert]
+* Species-area relationship: S=cA^z where z<1. S = number of species, A = area, c = some constant (asymptotal graph). As conditions change, directly or indirectly by climate, a species's ability to adapt or move (incl. dispersal over generations) to stay in favorable conditions determines its survival. Based on this, about 24% (pretty definitely this order of magnitude) of species will be committed to extinction by 2050 if current climate change rates continue. This puts the current extinction at a "lesser" extinction level compared to the earth's history, not quite on par with a big five extinction event [Kolbert, 166-168][Kolbert]
 
 ## Ocean dead zones
 * Runoff: fertilizers and pesticides, lawn maintenance, etc. leach into the ocean. Because of this, there are now more than 400 "dead zones" in the ocean, where nitrogen & phosphorous excess from this runoff cause algal blooms. Decomposition of these vast quantities of algae sucks oxygen from the surrounding water, making an oxygen-free space where sea creatures often cannot survive. [Barber, 216][Barber]

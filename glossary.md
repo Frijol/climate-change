@@ -25,6 +25,9 @@ organisms that build shells or external skeletons, or for plants, internal scaff
 # capacity factor
 the ratio of a power plant's actual output to its theoretical potential output at full capacity
 
+# carbon cycle
+Seasonal cycling of carbon dioxide around the earth, which fluctuates annually between lows in the summer and highs in the winter. Plants and other photosynthesizing organisms consume carbon dioxide in the summer. When the plants die in the fall and cease to photosynthesize, the plants are eaten by bacteria, fungi, and animals, which exhale carbon dioxide. Most of the vegetation on the planet is in the Northern Hemisphere, so the Earth's carbon cycle follows Northern Hemisphere seasons.
+
 # carbon engineering
 Geoengineering to pull carbon out of the atmosphere
 
@@ -36,21 +39,6 @@ Clean Development Mechanism, a flexible mechanism for carbon markets under the K
 
 # coral bleaching
 corals turning white through ejection of their colorful zooxanthellae due to the zooxanthellae's dangerous release of oxygen radicals when ocean waters grow too warm
-
-# ETS
-Emissions Trading System
-
-# EU ETS
-European Union Emissions Trading System (carbon market)
-
-# FCR
-feed conversion ratio: in agriculture and aquaculture, the ratio of feed consumed versus pound of weight gained
-
-# Green Revolution
-From 1950-1992, a movement to increase food production without bringing more land under cultivation. Related to the work of Norman Borlaug and spread of monocultures.
-
-# JI
-Joint Implementation, a flexible mechanism for carbon markets under the Kyoto Protocol
 
 # cellulosic ethanol
 a form of ethanol that can be made from any woody material, such as walnut hulls and lumber waste
@@ -73,17 +61,41 @@ The more you buy, the cheaper the price per unit
 # DoE
 Department of Energy (U.S.A.)
 
+# ETS
+Emissions Trading System
+
+# EU ETS
+European Union Emissions Trading System (carbon market)
+
+# FCR
+feed conversion ratio: in agriculture and aquaculture, the ratio of feed consumed versus pound of weight gained
+
 # geoengineering
 Deliberate human intervention in the earth's climate on a global scale
 
 # GHG
 greenhouse gas
 
+# greenhouse gases
+Atmospheric gases which are transparent to ultraviolet radiation from the sun, but impermeable to infrared (such as the warmth rising from the earth). Carbon dioxide is such a gas.
+
+# Green Revolution
+From 1950-1992, a movement to increase food production without bringing more land under cultivation. Related to the work of Norman Borlaug and spread of monocultures.
+
 # helical turbine
 A vertical turbine whose blades are modeled after birds' wings
 
 # inverted rates
 The more you buy, the more it costs per unit
+
+# IPCC
+Intergovernmental Panel on Climate Change (a UN organization)
+
+# JI
+Joint Implementation, a flexible mechanism for carbon markets under the Kyoto Protocol
+
+# Keeling's curve
+The mapping of background carbon concentrations on Mauna Loa which by 1962 showed that ~half the CO2 from fossil fuel burning was accumulating in the air.
 
 # kWh
 kilowatt hour, the product of the power transmitted in kilowatts and the time in hours
@@ -97,8 +109,14 @@ Latitudinal diversity gradient: the pattern that there is greater species divers
 # NAS
 National Academy of Sciences
 
+# New Pangaea
+A term used to refer to the ecological globalization/homogenization of the world through the spreading of non-native species via human activities
+
 # ocean acidification
 the reduction of alkalinity in the world's oceans through absoroption of human-produced carbon dioxide from preindustrial levels of 8.2 to a projected 7.8 by 2100
+
+# ocean conveyor
+Circulation of the ocean. They move underwater (brought down through sea chimneys) south of Africa, around Antarctica, through the Indian and Pacific Oceans, then come back up at the Atlantic to join the Gulf Stream and move north again to the sea chimney there.
 
 # peak oil
 the point in time when the maximum extraction of oil is reached (based on a theory by M. King Hubbert, a Shell researcher)
@@ -123,6 +141,15 @@ Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated
 
 # run-of-the-river
 Hydropower which uses natural flow and elevation drop of water rather than a dam
+
+# sea chimneys
+Giant whirlpools found at the ends of ocean currents. They take surface water and drain them down to the bottom of the ocean. This is a major component of global ocean circulation.
+
+# Type I
+A type of climate change which is gradual, following IPCC graphs
+
+# Type II
+A type of climate change that is abrupt and results from the crossing of tipping points
 
 # UNFCCC
 1992 United Nations Framework Convention on Climate Change
