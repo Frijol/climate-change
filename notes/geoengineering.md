@@ -29,4 +29,4 @@
 * Plankton blooms: if we dump several tons of iron into the ocean, we can cause a phytoplankton bloom. Phytoplankton are 1% of photosynthetic material but take in 50% of the carbon on Earth, then sink to the bottom of the ocean when they die (trapping carbon for centuries-millennia) [Goodell, 137][Goodell]
 * Not sure what would eat the phytoplankton, and not sure what changing the nutritional balance of the ocean would do to other life forms [Goodell, 137][Goodell]
 
-{% include "../bibliography.md" %}
+{% include "../BIBLIOGRAPHY.md" %}

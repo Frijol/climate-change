@@ -52,4 +52,4 @@
 * Current grid systems are highly distributed. Power transmission lines are expensive and inefficient - local solar & wind reduces cost and energy production need [Lovins, 72][Lovins]
 * The current power grid is not set up to support distributed power; it works through a few sources providing great amounts of energy. [Victor]
 
-{% include "../bibliography.md" %}
+{% include "../BIBLIOGRAPHY.md" %}

@@ -33,4 +33,4 @@
 * Biggest blocker to companies that would like to go greener (more efficient/renewable): up-front capital [Lovins, 31][Lovins]
 * Utilities: some are publicly owned; some are from private investment. Particularly those with private investment stand to gain from clients using more energy. In the 1970s they even sold in declining block rates. PUC for each state sets rates, some use inverted rates and some decouple energy quantity from $ paid to utility company. Some reward utility companies for reducing client consumption (ex. Batinovich Plan) [Lovins, 47-48][Lovins]
 
-{% include "../bibliography.md" %}
+{% include "../BIBLIOGRAPHY.md" %}

@@ -17,4 +17,4 @@
 * Colder water holds more oxygen [Kolbert, 183][Kolbert]
 * The end-Permian extinction (a big five extinction event) appears to have been triggered by a rapid rise in CO2/climate. Ocean temperatures rose ~18 degrees F, waters became more acidic and lost oxygen. 90% of species on earth became extinct over a period of 100-200k years. [Kolbert, 183][Kolbert]
 
-{% include "./bibliography.md" %}
+{% include "../BIBLIOGRAPHY.md" %}

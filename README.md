@@ -13,8 +13,16 @@ Climate change is one of the symptoms of the issues surrounding human use of ene
 
 I want to learn more about the crisis which is most likely to kill humanity on a short time scale, get a sense of how this will occur, and see what solutions have been explored in this space.
 
-## What's in this repo?
+## How do I use this book?
 
-* Notes: as I'm reading, facts and ideas that stand out. Might not be well organized.
-* Entities: people and organizations which are working in this space. Particularly aimed towards contacting them.
-* Glossary, bibliography: pretty standard
+If you're in the Gitbook, you can hover over or click on links. Underlined links are glossary terms (hover or click to read descriptions); non-underlined links are citations - hover to read bibliography or click to access articles or links to books.
+
+## How is this organized?
+
+Main sections have an introduction to what is there; they will also have a "stubs" section for unsorted notes and pieces which don't yet deserve their own sections.
+
+Glossary section includes some pieces which are not necessarily mentioned in the notes. They should serve as an introduction to the key terms and description of processes in the space.
+
+Bibliography section is annotated with a basic description per source, but I haven't yet found a good way to have it display in the gitbook. Work in progress.
+
+Areas of opportunity is a great place to start if you're looking for ways an engineer might work in this space or what some key questions might be.

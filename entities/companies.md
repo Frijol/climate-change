@@ -1,18 +1,4 @@
-## People
-* Lowell Wood: Worked at Livermore National Lab, weaponry for the Pentagon, and fringe science [Goodell, 112][Goodell]
-* Ken Caldeira: Climate modeler and atmospheric scientist at Stanford. Coined the term "ocean acidification" [Goodell, 10][Goodell], [Kolbert, 131][Kolbert]
-* David Keith: Building a CO2 capturing machine at the University of Calgary [Goodell, 22][Goodell]
-* James Lovelock: British scientist who created a device to measure CFCs and came up with the concept of Gaia
-* [Edward Teller](https://en.wikipedia.org/wiki/Edward_Teller): Cold War scientist who built hydrogen bombs
-* Yoram Bauman: Reedie working towards carbon taxing in Washington state [Sutter]
-* Stephen Salter: working on cloud brightening machines [Goodell, 165][Goodell]
-* Dr. Richard Sandor: the "father of carbon markets" and founder of the CCX [Lovins, 229][Lovins]
-* Dr. Geoff Coates: scientist at Cornell working on using CO2 with catalysts to make polycarbonates (cheap, biodegradable plastic) [Lovins, 285][Lovins]
-* Paul Crutzen: a Dutch chemist involved in discovering the effects of ozone-depleting compounds [Kolbert, 107][Kolbert]
-* Chris Langdon: a marine biologist who learned from the tanks of Biosphere 2 that ocean acidification kills coral [Kolbert, 135-136][Kolbert]
-* Tom Lovejoy: a driving force behind the fact that ~half of the Amazon rainforest is now under some form of legal protection [Kolbert, 188][Kolbert]
-
-## Companies
+# Companies
 * [Intellectual Ventures](http://www.intellectualventures.com/): company in Bellevue which works toward geoengineering (and other patentable things for money) [Goodell, 112][Goodell]
 * [Cool Planet](http://www.coolplanet.com/): company in Colorado which makes carbon-negative gasoline using biochar [Atwood]
 * [Calera](http://calera.com/): company in Los Gatos which reuses captured CO2 to make cement [Atwood]
@@ -46,27 +32,4 @@
 * [Solvatten](http://www.solvatten.se/): company in Sweden making a combined solar water treatment/heating system for places with scarce, contaminated water [Lovins, 263][Lovins]
 * [Calera](http://www.calera.com/): company in California which makes carbon-sequestering cement based on the same process used when coral reefs are formed [Lovins, 285][Lovins]
 
-## Places
-* Dardesheim in Germany uses 100% renewable through a land-leasing wind program [Lovins, 64-65][Lovins]
-* Beddington Zero Energy Development: an environmentally friendly housing development in Hackbridge, London, esp. anti-car [Lovins, 112][Lovins]
-* [Dongtan Eco-City](https://en.wikipedia.org/wiki/Dongtan): a planned eco-city on a Chinese island, originally scheduled to open in 2010 but as of 2016 not yet begun. Intended to be zero-emission and totally self-supporting
-* [Masdar City](https://en.wikipedia.org/wiki/Masdar_City): a planned eco-city in Abu Dhabi, intended as a cleantech research and technology hub. Partially built.
-* [Vauban, Freiberg, Germany](https://en.wikipedia.org/wiki/Vauban,_Freiburg): sustainable neighborhood, no cars
-* [Bayview Quarry Village](http://www.bayviewvillage.us/about_us/index.html): planned sustainable development community in the Hayward area of the East Bay (CA)
-* Ny-Alesund: a scientific community in Norway which serves as a watchtower for climate change in glaciers [Pearce, 28][Pearce]
-
-## Charities
-* [Fogquest](http://www.fogquest.org/): charity in Ontario using screens to collect drinkable water from fog [Lovins, 265][Lovins]
-
-## Research
-* Adam Lewis Center for Environmental Studies at Oberlin College: experimental green community living space, acting as a lab for green architecture and living [Lovins, 98][Lovins]
-* BIOACID: Biological Impacts of Ocean Acidification [Kolbert, 118][Kolbert]
-* EPOCA: the European Project on Ocean Acidification [Kolbert, 118][Kolbert]
-
-## Standards and organizations
-* Energy Star: international energy standard for energy efficient consumer products, originating in the United States
-* LEED: Leadership in Energy and Environmental Design: a nationally accepted organization for design, operation and construction of high performance green buildings (United States)
-* [Carbon War Room](http://carbonwarroom.com/): international NGO founded by Richard Branson working toward market-based solutions to carbon emissions (capitalistic/entrepreneurial solutions)
-* IPCC: Intergovernmental Panel on Climate Change (a UN organization)
-
-{% include "./bibliography.md" %}
+{% include "../BIBLIOGRAPHY.md" %}
