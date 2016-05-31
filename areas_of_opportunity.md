@@ -43,4 +43,4 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Seattle Times Ocean Acidification]: http://apps.seattletimes.com/reports/sea-change/2013/sep/11/pacific-ocean-perilous-turn-overview/
 * [Ensia]: http://ensia.com/about/overview/
 
-{% include "./bibliography.md" %}
+{% include "./BIBLIOGRAPHY.md" %}
