@@ -38,8 +38,9 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Parkinson]: http://cleantechnica.com/2015/01/29/solar-costs-will-fall-40-next-2-years-heres/ "Parkinson, Giles. 'Solar Costs Will Fall Another 40% In 2 Years. Here’s Why.' 2015. Clean Technica."
 * [Ackerman]: https://www.nrdc.org/sites/default/files/fcost.pdf "Ackerman, Frank and Stanton, Elizabeth. 'The Cost of Climate Change: What We'll Pay if Global Warming Continues Unchecked.' 2008. Natural Resources Defense Council."
 * [Ramesh]: http://www.theguardian.com/environment/2008/nov/10/maldives-climate-change "Ramesh, Randeep. 'Paradise Almost Lost: Maldives Seek to Buy a New Homeland.' 2008. The Guardian."
-
 * [Stern]: http://mudancasclimaticas.cptec.inpe.br/~rmclima/pdfs/destaques/sternreview_report_complete.pdf "Stern, Nicholas. 'Stern Review: The Economics of Climate Change.' 2006."
 * [The other CO2 problem]: https://theotherco2problem.wordpress.com/how-was-the-problem-uncovered/
+* [Seattle Times Ocean Acidification]: http://apps.seattletimes.com/reports/sea-change/2013/sep/11/pacific-ocean-perilous-turn-overview/
+* [Ensia]: http://ensia.com/about/overview/
 
 {% include "./bibliography.md" %}
