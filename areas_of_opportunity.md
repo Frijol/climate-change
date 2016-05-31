@@ -18,7 +18,7 @@
 ## Entrepreneurship
 * Training construction workers in how to build cheaper, more efficient sites using green techniques (many only know one way of building a given thing/now a little out of date)
 
-## Further research
+## Further research (to do)
 * Retrospective on Kyoto Protocol Phase 1 outcomes
 * Other phases of Kyoto Protocol?
 * [2009 California Climate Adaptation Strategy]: http://resources.ca.gov/docs/climate/Statewide_Adaptation_Strategy.pdf
