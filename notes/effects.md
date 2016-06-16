@@ -1,5 +1,9 @@
 # Effects of climate change
 
+## Stub notes
+* As of May 2014, glacier melt in a section of West Antarctica (~the size of France) "appears unstoppable"[Klein, 16][Klein]
+* If the West Antarctic ice sheet disintegrates (could take centuries), the sea level will rise 3-5m [Klein, 16][Klein]
+
 ## Mass extinctions
 * There have been five major extinction events in known natural history where species diversity plummeted in a short period of time – called the "Big Five". We are currently in a period of possibly similar extinction event proportions, likely caused by humans. Theorists are already terming this the "Sixth Extinction." [Kolbert, 3][Kolbert]
 * The change in temperature projected by 2100 is ~as big as the temperature swings of the ice ages, but at least 10 times faster. In order for organisms to survive, they will have to adapt an order of magnitude faster than they have before. [Kolbert, 161-162][Kolbert]
