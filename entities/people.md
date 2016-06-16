@@ -2,6 +2,7 @@
 
 ## Researchers
 * Alley, Richard: glaciologist at Penn state analyzing Greenland ice cores [Pearce, xv][Pearce]
+* Anderson, Kevin: a top climate expert in Britain arguing that current growth-based economic logic actively works creates climate change [Klein, 80][Klein]
 * Caldeira, Ken: Climate modeler and atmospheric scientist at Stanford. Coined the term "ocean acidification" [Goodell, 10][Goodell], [Kolbert, 131][Kolbert]
 * Coates, Geoff: scientist at Cornell working on using CO2 with catalysts to make polycarbonates (cheap, biodegradable plastic) [Lovins, 285][Lovins]
 * Crutzen, Paul: a Dutch chemist involved in discovering the effects of ozone-depleting compounds [Kolbert, 107][Kolbert]
