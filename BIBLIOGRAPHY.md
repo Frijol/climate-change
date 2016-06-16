@@ -2,6 +2,8 @@
 [Barber]: https://www.goodreads.com/book/show/18667790-the-third-plate "Barber, Dan. 'The Third Plate: Field Notes on the Future of Food.' 2014. A chef's search for excellent farm-to-table flavor and accompanying romance with organics and sustainability."
 [Goodell]: https://www.goodreads.com/book/show/7687504-how-to-cool-the-planet "Goodell, Jeff. How to Cool the Planet. 2010. Conversational introduction to geoengineering."
 [Kolbert]: https://www.goodreads.com/book/show/17910054-the-sixth-extinction "Kolbert, Elizabeth. 'The Sixth Extinction.' 2014."
+[Klein]:
+https://www.goodreads.com/book/show/21913812-this-changes-everything "Klein, Naomi. 'This Changes Everything: Capitalism vs. The Climate.' 2014. A frustrated look at how short-term economic gain has taken precedence over long-term through the last ~40 years of extreme capitalist values. Includes suggestions for sweeping changes to correct."
 [Larsson]: https://www.ted.com/talks/magnus_larsson_turning_dunes_into_architecture?language=en "Larsson, Magnus. 'Turning Dunes into Architecture.' TED 2009. Combating desertification in Africa through biology-driven sandstone architecture."
 [Lovins]: https://www.goodreads.com/book/show/11273339-climate-capitalism "Lovins, L. and Cohen, Boyd. Climate Capitalism. 2011. How businesses should and do profit by reducing their carbon footprint. Reads as a bit idealistic, but there are a lot of examples."
 [Montgomery]: www.salmonproject.org/book-drop "Montgomery, David. King of Fish: the Thousand-Year Run of Salmon. 2003. Everything about what salmon need to survive, and how these factors are changing with human activity."
