@@ -10,6 +10,8 @@
 * What $ savings/investments can be made for various energy efficiency improvements?
 * How does ethanol vs. oil-based fuel work?
 * Original car inventors envisioned ethanol as the primary fuel for the vehicle. Why did we make the switch?
+* Blockadia phrased as a war, with death/injury counts of protestors and police
+* SequoiaView for utilities usage - ability to drill down to see who is using how much of what
 
 ## Engineering/wild ideas
 * Electric car batteries when not in use as a distributed power storage network for a city/community [Lovins, 94][Lovins]
