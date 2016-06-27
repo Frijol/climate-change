@@ -82,6 +82,9 @@ feed conversion ratio: in agriculture and aquaculture, the ratio of feed consume
 ## fracking
 Hydraulic fracturing, a high-pressure injection of a liquid into a wellbore to create cracks in deep-rock formations to access otherwise hard-to-reach natural gas and petroleum
 
+## gas flaring
+when oil is extracted, natural gas builds up. "Flaring" this gas is setting it on fire (instead of capturing it for sale).
+
 ## geoengineering
 Deliberate human intervention in the earth's climate on a global scale
 

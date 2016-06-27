@@ -21,5 +21,9 @@
 * Bauman, Yoram: Reedie working towards carbon taxing in Washington state [Sutter]
 * Sandor, Richard: the "father of carbon markets" and founder of the CCX [Lovins, 229][Lovins]
 
+## Activists
+* Klein, Naomi: Canadian author seeking political and grassroots change agains free trade and current capitalistic systems [Klein]
+* Shiva, Vandana: agro-ecological activist and Indian author [Klein, 256][Klein]
+
 
 {% include "../BIBLIOGRAPHY.md" %}
