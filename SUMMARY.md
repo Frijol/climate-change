@@ -15,3 +15,4 @@
 * [Areas of Opportunity](areas_of_opportunity.md)
 * [Glossary](GLOSSARY.md)
 * [Bibliography](BIBLIOGRAPHY.md)
+* [Relevant Quotes](quotes.md)
