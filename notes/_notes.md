@@ -19,6 +19,12 @@ disorganized notes or sections I don't have filled out yet
 * The number of oil-carrying rail cars has increased from 9,500 in 2008 to 400,000 in 2013 (4,111% in five years) [Klein, 280][Klein]
 * Gas flaring in Nigeria is extremely damaging. If the natural gas were captured, it could power the entire country. Instead, it is set on fire and accounts for 40% of Nigeria's CO2 emissions. [Klein, 275][Klein]
 * In Nigeria, foreign-investment oil has spilled an Exxon Valdez worth of oil on the Niger Delta every year for ~50 years [Klein, 275][Klein]
+* Natural gas has been argued for as a "clean alternative" to oil, but fracked natural gas may emit enough methane to make it comparable in "dirtiness" to coal [Klein, 192][Klein]
+* The vast majority of new gas projects in North America rely on fracking [Klein, 192][Klein]
+* Principles from the "golden age" of environmental legislation: ban/severely limit the offending activity/substance. Where possible, get the offender to pay for the cleanup. [Klein, 183][Klein]
+* The amount of carbon that can be burned between 2011 and 2049 to have a 50% chance of keeping global warming below 2 degrees celcius is 565 gigatons. Reserves already claimed by all fossil fuel companies for oil, gas, and coal amounts to 2,795 gigatons of carbon. [Klein, 134][Klein]
+* Methane has a warming potential 86 times greater than carbon dioxide [Klein, 130][Klein]
+* Bitumen is roughly 3-4 times as greenhouse intensive as coal due to its extraction process [Klein, 127][Klein]
 
 
 {% include "../BIBLIOGRAPHY.md" %}

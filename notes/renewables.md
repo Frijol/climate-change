@@ -39,6 +39,7 @@
 * Replacing the world's coal plants with nuclear plants increases the accessibility of raw materials for nuclear bombs globally [Lovins, 84][Lovins]
 * Nuclear power plants require a lot of water; climate change causes droughts. This will increase operational expenses to unsustainable levels (and already has at some now-closed sites) [Lovins, 85][Lovins]
 * There is no solution in place for safe disposal of radioactive waste from nuclear power plants [Lovins, 85][Lovins]
+* Fossil fuels in large quantity are burned to mine, transport, and enrich uranium, as well as in the 10-19 years it takes to build a new plant [Klein, 125][Klein]
 
 ### Side: pro-nuclear
 * Nearly one hundred nuclear facilities in 30 states provide nearly 20 percent of all U.S. electricity. [NEI]

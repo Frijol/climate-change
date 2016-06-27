@@ -7,7 +7,8 @@
 ## Albedo engineering
 * Albedo engineering to change reflectivity of the earth- painting roofs and roads white, injecting reflective particles into the atmosphere [Goodell, 17][Goodell]
 * With albedo engineering, blocking 2% of Earth's sunlight returns climate to preindustrial levels - though this doesn't fix the other problems high CO2 causes [Goodell, 17][Goodell]
-* Best way to have a quick impact and stop Arctic ice from melting is albedo engineering, which is either brightening clouds or filling the stratosphere with particles. Either of these could in theory cool the Arctic quickly enough to immediately stop ice melt. [Goodell, 114][Goodell]
+* Surest way to have a quick impact and stop Arctic ice from melting is albedo engineering, which is either brightening clouds or filling the stratosphere with particles. Either of these could in theory cool the Arctic quickly enough to immediately stop ice melt. [Goodell, 114][Goodell]
+* Computer models suggest that albedo engineering will cause massive droughts, particularly in Africa and Asia. These were seen when Mt. Pinatubo erupted, and they would be worse over time. There is every likelihood that the albedo engineering approach would create problems beyond those immediately caused by global warming. [Klein, 248][Klein]
 * Planting trees in previously unforested areas in an attempt to offset carbon is controversial because of the change in albedo - it's unclear whether it is a net positive or negative. [Lovins, 239][Lovins]
 
 ### Particles injected into the stratosphere
@@ -28,5 +29,6 @@
 * Carbon engineering is less controversial than albedo engineering, more similar to Earth's natural carbon cycle. E.g. air scrubbers, iron in the ocean to create plankton blooms, huge plantations of trees [Goodell, 17][Goodell]
 * Plankton blooms: if we dump several tons of iron into the ocean, we can cause a phytoplankton bloom. Phytoplankton are 1% of photosynthetic material but take in 50% of the carbon on Earth, then sink to the bottom of the ocean when they die (trapping carbon for centuries-millennia) [Goodell, 137][Goodell]
 * Not sure what would eat the phytoplankton, and not sure what changing the nutritional balance of the ocean would do to other life forms [Goodell, 137][Goodell]
+* Carbon-sucking machines: "There's no way you can do a useful amount of carbon dioxide removal in less than a third of a century or maybe half a century." -David Keith, geoengineer & creator of a carbon-sucking machine [Klein, 229][Klein]
 
 {% include "../BIBLIOGRAPHY.md" %}

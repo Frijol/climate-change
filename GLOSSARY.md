@@ -1,6 +1,9 @@
 ## additionality
 the assurance to a buyer of a carbon market that the money spent is really eliciting a reduction in carbon
 
+## agroecology
+the use of sustainable farming methods on small-scale farms based on the combination of local knowledge and modern science. Based on the principle that farming should maximize species diversity and enhance natural systems of soil protection and pest control
+
 ## albedo
 reflectivity
 
@@ -15,6 +18,9 @@ There have been five major losses in species diversity throughout known natural 
 
 ## biofuel
 a fuel derived from living matter
+
+## bitumen
+the type of oil extracted from the Alberta Tar Sands
 
 ## Brix
 the amount of sugar present in a fruit or vegetable
@@ -94,11 +100,17 @@ greenhouse gas
 ## greenhouse gases
 Atmospheric gases which are transparent to ultraviolet radiation from the sun, but impermeable to infrared (such as the warmth rising from the earth). Carbon dioxide is such a gas.
 
+## green manures
+quick-growing plants that help prevent erosion and replace nutrients in soil
+
 ## Green Revolution
 From 1950-1992, a movement to increase food production without bringing more land under cultivation. Related to the work of Norman Borlaug and spread of monocultures.
 
 ## helical turbine
 A vertical turbine whose blades are modeled after birds' wings
+
+## intercropping
+planting two or more crops interspersed to maximize light, water, and nutrient usage
 
 ## inverted rates
 The more you buy, the more it costs per unit
@@ -145,6 +157,9 @@ pH is a logarithmic scale from 0 to 14, where 7 is neutral, higher is basic (alk
 ## phytonutrients
 chemical compounds that are the building blocks of taste, such as amino acids, esters, and flavinoids. Also part of plant immune systems.
 
+## Pinatubo Option
+shorthand name for albedo engineering
+
 ## PUC
 Public Utility Commission, state entity regulating utility companies
 
@@ -162,6 +177,9 @@ Hydropower which uses natural flow and elevation drop of water rather than a dam
 
 ## sea chimneys
 Giant whirlpools found at the ends of ocean currents. They take surface water and drain them down to the bottom of the ocean. This is a major component of global ocean circulation.
+
+## SRM
+Solar radiation management (albedo engineering)
 
 ## Transition town
 a grassroots community movement to reduce local dependence on oil and other high-emitting energy sources

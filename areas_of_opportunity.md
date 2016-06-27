@@ -48,5 +48,6 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Hayes]: https://www.thenation.com/article/new-abolitionism/ "Hayes, Christopher. 'The New Abolitionism.' 2014. On the costs of legislation needed to stay below a 2C warming."
 * [Levitan]: http://io9.gizmodo.com/5966689/after-extensive-mathematical-modeling-scientist-declares-earth-is-fucked "Levitan, Dave. 'After extensive mathematical modeling, scientist declares \"Earth is F**ked\".' Io9. 2012."
 * [Murphy]: http://physics.ucsd.edu/do-the-math/2011/09/dont-be-a-pv-efficiency-snob/ "Murphy, Tom. 'Don\'t be a PV efficiency snob.' 2011."
+* [Teske]: "Teske, Sven. 'Energy Revolution: A Sustainable EU 27 Energy Outlook.'"
 
 {% include "./BIBLIOGRAPHY.md" %}
