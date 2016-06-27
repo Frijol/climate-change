@@ -15,6 +15,7 @@ disorganized notes or sections I don't have filled out yet
 * In order to have a 50% chance of keeping below the agreed-upon international target of no more than 2 degrees C of warming, all wealthy countries need to start cutting greenhouse gas emissions by 8-10% immediately [Klein, 81][Klein]
 * In the neoliberal era, the rate of emissions growth had been declining: 4.5% annual increases in the 1960s were down to 1% annual increase in the 1990s. Between 2000 and 2008, they shot up to 3.4%/year [Klein, 74][Klein]
 * Countries are currently allocated responsible for emissions created in their country, not for emissions caused by their consumption. Shipping/etc. in the open ocean is not accounted for. [Klein, 73][Klein]
+* "It's easy to think that as a result of the extinction of the dodo, we are now sadder and wiser, but there's a lot of evidence to suggest that we are merely sadder and better informed." [Adams, 241][Adams]
 
 
 {% include "../BIBLIOGRAPHY.md" %}
