@@ -19,5 +19,7 @@ disorganized notes or sections I don't have filled out yet
 * IPCC: Intergovernmental Panel on Climate Change (a UN organization)
 * [One Million Climate Jobs](http://www.climate-change-jobs.org/about): campaign by trade unionists to create more jobs by moving to more climate-sustainable practices
 * [Beyond Zero Emissions](http://bze.org.au/): non-profit think-tank dedicated to carbon negativity in Australia [Klein, 93][Klein]
+* [Stockholm Environment Institute](https://www.sei-international.org/about-sei): international non-profit research organization working on policy change for the environment, including the [Greenhouse Development Rights](http://gdrights.org/about/) framework, an equity reference framework [Klein, 375][Klein]
+* [EcoEquity](http://www.ecoequity.org/about/): an activist thinktank based on equity reference frameworks
 
 {% include "../BIBLIOGRAPHY.md" %}

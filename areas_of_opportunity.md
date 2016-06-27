@@ -45,5 +45,8 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Seattle Times Ocean Acidification]: http://apps.seattletimes.com/reports/sea-change/2013/sep/11/pacific-ocean-perilous-turn-overview/
 * [Ensia]: http://ensia.com/about/overview/
 * [2030]: https://web.stanford.edu/group/efmh/jacobson/Articles/I/sad1109Jaco5p.indd.pdf "A Path for Sustainable Energy by 2030"
+* [Hayes]: https://www.thenation.com/article/new-abolitionism/ "Hayes, Christopher. 'The New Abolitionism.' 2014. On the costs of legislation needed to stay below a 2C warming."
+* [Levitan]: http://io9.gizmodo.com/5966689/after-extensive-mathematical-modeling-scientist-declares-earth-is-fucked "Levitan, Dave. 'After extensive mathematical modeling, scientist declares \"Earth is F**ked\".' Io9. 2012."
+* [Murphy]: http://physics.ucsd.edu/do-the-math/2011/09/dont-be-a-pv-efficiency-snob/ "Murphy, Tom. 'Don\'t be a PV efficiency snob.' 2011."
 
 {% include "./BIBLIOGRAPHY.md" %}

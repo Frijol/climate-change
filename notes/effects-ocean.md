@@ -1,5 +1,10 @@
 # Effects on the ocean
 
+## Young animals
+* Oyters along the Oregon/Washington coastline aren't able to form their shells in their infancy (as part of the reduction in alkalinity), and so are dying [Klein, 391][Klein]
+* Young sea animals are particularly affected by climate effects, oil contamination, etc. Disasters can wipe out a generation at a time. Juvenile animals are often not accounted for in environmental impact assessments. [Klein, 388][Klein]
+* "Entire regulatory systems are premised on the assumption that all members of the population act, biologically, like middle-aged men. ... Until 1990, for example, the reference dose for radiation exposure was based on a hypothetical 5\'7\" tall white man who weighed 157 pounds." biologist Sandra Steingraber, quoted in [Klein, 384][Klein]
+
 ## Ocean dead zones
 * Runoff: fertilizers and pesticides, lawn maintenance, etc. leach into the ocean. Because of this, there are now more than 400 "dead zones" in the ocean, where nitrogen & phosphorous excess from this runoff cause algal blooms. Decomposition of these vast quantities of algae sucks oxygen from the surrounding water, making an oxygen-free space where sea creatures often cannot survive. [Barber, 216][Barber]
 
