@@ -9,5 +9,6 @@
 * "We as a nation must undergo a radical revolution of values. We must rapidly begin the shift from a 'thing-oriented society' to a 'person-oriented society.' When machines and computers, profit motives and property rights, are considered more important than people, the giant triplets of racism, extreme materialism, and militarism are incapable of being conquered." [King]
 * "Our systems are designed to promote more life." [Simpson]
 * "What if it's a big hoax and we create a better world for nothing?" (comic, click through) [Pett]
+* "Genetic deterioration through man-made agents is the menace of our time, 'the last and greatest danger to our civilization.' ... the parallel between chemicals and radiation is exact and inescapable." [Carson, 58.1%][Carson]
 
 {% include "./BIBLIOGRAPHY.md" %}

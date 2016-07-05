@@ -49,5 +49,6 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Levitan]: http://io9.gizmodo.com/5966689/after-extensive-mathematical-modeling-scientist-declares-earth-is-fucked "Levitan, Dave. 'After extensive mathematical modeling, scientist declares \"Earth is F**ked\".' Io9. 2012."
 * [Murphy]: http://physics.ucsd.edu/do-the-math/2011/09/dont-be-a-pv-efficiency-snob/ "Murphy, Tom. 'Don\'t be a PV efficiency snob.' 2011."
 * [Teske]: "Teske, Sven. 'Energy Revolution: A Sustainable EU 27 Energy Outlook.'"
+* [Hansen]: http://monthlyreview.org/2013/02/01/james-hansen-and-the-climate-change-exit-strategy/ and http://monthlyreview.org/2012/12/01/the-planetary-emergency/
 
 {% include "./BIBLIOGRAPHY.md" %}
