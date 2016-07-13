@@ -33,6 +33,8 @@ disorganized notes or sections I don't have filled out yet
 * The FDA's protection against pesticides on crops is limited due to two facts: 1) they have jurisdiction only over foods shipped interstate and 2) there are fewer than 600 workers on its staff, so they can barely sample (let alone enforce regulations) [Carson, 195][Carson] //TODO updated facts?
 * The FDA typically does not ban the presence of toxins in foods, but sets "allowable levels", which means that even approved food can contain enough that toxins build up over time in your body [Carson, 195][Carson]
 * Cancer has increased drastically over the past 100-150 years. Malignant growths accounted for 15% of deaths in 1958, compared with 4% in 1900. More American school children [at time of publication] die of cancer than from any other disease, though 25 years previous it was considered medically rare to find cancer in children. [Carson, 231][Carson] //TODO: what are we at now? Office of Vital Statistics as source?
+* Past societal collapse theme: population growth --> intensified (unsustainable) agriculture --> adoption of marginal lands for agriculture --> environmental damage --> inability to continue using marginal lands --> food shortages --> starvation/war/weakness and disease, etc. [Diamond, 15][Diamond]
+* Eight categories of environmentally based societal collapse: deforestation/habitat destruction, soil erosion/salinization/fertility loss, water management issues, overhunting, overfishing, non-native species effects, overpopulation (human), high impact per capita [Diamond, 15][Diamond]
 
 
 {% include "../BIBLIOGRAPHY.md" %}
