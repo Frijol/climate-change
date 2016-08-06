@@ -35,6 +35,6 @@ disorganized notes or sections I don't have filled out yet
 * Cancer has increased drastically over the past 100-150 years. Malignant growths accounted for 15% of deaths in 1958, compared with 4% in 1900. More American school children [at time of publication] die of cancer than from any other disease, though 25 years previous it was considered medically rare to find cancer in children. [Carson, 231][Carson] //TODO: what are we at now? Office of Vital Statistics as source?
 * Past societal collapse theme: population growth --> intensified (unsustainable) agriculture --> adoption of marginal lands for agriculture --> environmental damage --> inability to continue using marginal lands --> food shortages --> starvation/war/weakness and disease, etc. [Diamond, 15][Diamond]
 * Eight categories of environmentally based societal collapse: deforestation/habitat destruction, soil erosion/salinization/fertility loss, water management issues, overhunting, overfishing, non-native species effects, overpopulation (human), high impact per capita [Diamond, 15][Diamond]
-
+* The IPCC says we get 90 more years of climate change regardless of how much emission we stop. 2007: 385 PPM CO2. No way to avoid 450 PPM by midcentury according to Pew Center on Global Climate Change [Begley]
 
 {% include "../BIBLIOGRAPHY.md" %}

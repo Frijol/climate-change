@@ -52,6 +52,9 @@ a form of ethanol that can be made from any woody material, such as walnut hulls
 ## CFCs
 chlorofluorocarbons, present in Freon and harmful to the earth's ozone
 
+## CO2
+Carbon dioxide
+
 ## COP15
 The 2009 Climate Change Convention of the Parties in Copenhagen
 
@@ -159,6 +162,9 @@ chemical compounds that are the building blocks of taste, such as amino acids, e
 
 ## Pinatubo Option
 shorthand name for albedo engineering
+
+## PPM
+Parts per million
 
 ## PUC
 Public Utility Commission, state entity regulating utility companies

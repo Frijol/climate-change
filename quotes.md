@@ -10,5 +10,7 @@
 * "Our systems are designed to promote more life." [Simpson]
 * "What if it's a big hoax and we create a better world for nothing?" (comic, click through) [Pett]
 * "Genetic deterioration through man-made agents is the menace of our time, 'the last and greatest danger to our civilization.' ... the parallel between chemicals and radiation is exact and inescapable." [Carson, 196][Carson]
+* "Implicit in some of the newest technologies is the assumption that there's little difference between living and nonliving matter at the atomic and molecular level. Some see this as one more example of turning life into a commodity- the cultural reduction that turns living bodies into machines." [Louv]
+
 
 {% include "./BIBLIOGRAPHY.md" %}
