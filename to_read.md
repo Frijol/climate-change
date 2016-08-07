@@ -26,3 +26,4 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Murphy]: http://physics.ucsd.edu/do-the-math/2011/09/dont-be-a-pv-efficiency-snob/ "Murphy, Tom. 'Don\'t be a PV efficiency snob.' 2011."
 * [Teske]: "Teske, Sven. 'Energy Revolution: A Sustainable EU 27 Energy Outlook.'"
 * [Hansen]: http://monthlyreview.org/2013/02/01/james-hansen-and-the-climate-change-exit-strategy/ and http://monthlyreview.org/2012/12/01/the-planetary-emergency/
+* [Salter]: http://link.springer.com/article/10.1007/s40722-016-0057-3 "Salter, Stephen. Wave energy: Nostalgic Ramblings, future hopes and heretical suggestions. 2016. Journal of Ocean Engineering and Marine Energy."
