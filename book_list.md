@@ -2,9 +2,9 @@
 
 ## Kelsey's shortlist
 
-* Hot, Flat, and Crowded by Thomas Friedman. If you're only going to read one of these books (and you're American), this is the one I'd recommend. It summarizes the main thrust of several of the books I've read and puts it into a geopolitical context. Quick caveat: the author's tone works better as an audiobook.
+* [Hot, Flat, and Crowded by Thomas Friedman](https://www.goodreads.com/book/show/2358737.Hot_Flat_and_Crowded). If you're only going to read one of these books (and you're American), this is the one I'd recommend. It summarizes the main thrust of several of the books I've read and puts it into a geopolitical context. Quick caveat: the author's tone works better as an audiobook.
 
-* This Changes Everything by Naomi Klen. Not an easy read, but sweeping and loaded with examples and reference material. This thorough book looks at the environmental movement from several different angles. Klein is highly opinionated, so the challenge is in parsing out her biases versus widely held opinion.
+* [This Changes Everything by Naomi Klein](https://www.goodreads.com/book/show/21913812-this-changes-everything). Not an easy read, but sweeping and loaded with examples and reference material. This thorough book looks at the environmental movement from several different angles. Klein is highly opinionated, so the challenge is in parsing out her biases versus widely held opinion.
 
 * [What Can a Technologist Do about Climate Change? (A Personal View) by Bret Victor](http://worrydream.com/ClimateChange/). Detailed, illustrated, and actionable essay on how techies and entrepreneurs can work on the problem of climate change.
 
