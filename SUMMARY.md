@@ -13,6 +13,5 @@
   * [People](entities/people.md)
   * [Places](entities/places.md)
 * [Areas of Opportunity](areas_of_opportunity.md)
-* [Glossary](GLOSSARY.md)
-* [Bibliography](BIBLIOGRAPHY.md)
+* [Book List](book_list.md)
 * [Relevant Quotes](quotes.md)
