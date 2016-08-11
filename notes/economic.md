@@ -4,10 +4,7 @@
 * [Kyoto Protocol](https://en.wikipedia.org/wiki/Kyoto_Protocol) established the carbon credits system in 1997/enforced 2005. [Goodell, 142][Goodell]
 * Carbon credits are a part of a "cap and trade" mechanism. Governments set upper limits on allowable greenhouse gas emissions by industry and region. Companies that use less than their allotment can sell their "unused" credits to companies that will exceed their cap. [Lovins, 225][Lovins]
 * Prior art: the Acid Rain Program cut sulfur dioxide emissions quickly and cheaply using a similar credits system [Goodell, 141][Goodell]
-
-## Failures of implementation
-* Poor implementation: companies which do tons of emissions have gamed the system by cheaply burning part of the toxic chemicals they spew, generating millions of dollars in carbon credits - sometimes worth more than the original business. A sort of encouragement to build a dirty business and then green it a little for profit. [Klein, 197][Klein]
-* Companies operating in the Niger Delta trying to claim carbon credits for stopping gas flaring [Klein, 196][Klein]
+* Failures of carbon credits thus far: see [Causes/Societal Response](./causes.html)
 
 ### Kyoto Protocol implementation details
 * Flexible mechanism: the Clean Development Mechanism (CDM) carbon offset projects in developing countries [presumably, with unregulated markets] can be used to generate credits sellable in regulated markets [Lovins, 226][Lovins]

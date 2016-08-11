@@ -1,3 +1,6 @@
+## Successes
+* Klein's analysis on successful movements for the environment in the last several years: Blockadia (civil disobedience), fossil fuel divestment/reinvestment movement,local laws against high-risk extraction, court challenges by Indigenous groups. [Klein, 407][Klein]
+
 ## Questions/blog post ideas
 * How are utility companies incentivized/disincentivized re energy use reductions?
 * Pros/cons: nuclear power

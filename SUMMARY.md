@@ -2,6 +2,7 @@
 
 * [Notes](notes/_notes.md)
   * [Basics](notes/basics.md)
+  * [Causes](notes/causes.md)
   * [Renewable energy](notes/renewables.md)
   * [Energy efficiency](notes/efficiency.md)
   * [Economic approaches](notes/economic.md)

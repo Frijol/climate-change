@@ -1,5 +1,4 @@
 # Agriculture
-* Modern agriculture is highly connected with climate change, particularly: practices dependent on fossil fuels, land usage and deforestation, chemical sprays (herbicides, fungicides, fertilizers, etc.), transportation/refrigeration/packaging/retail [Lovins, 178][Lovins]
 
 ## Organic farming
 * In theory, healthy plants don't need pesticides. Pests typically attack stressed plants. [Barber, 53][Barber]
