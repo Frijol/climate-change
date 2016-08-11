@@ -36,5 +36,10 @@ disorganized notes or sections I don't have filled out yet
 * Past societal collapse theme: population growth --> intensified (unsustainable) agriculture --> adoption of marginal lands for agriculture --> environmental damage --> inability to continue using marginal lands --> food shortages --> starvation/war/weakness and disease, etc. [Diamond, 15][Diamond]
 * Eight categories of environmentally based societal collapse: deforestation/habitat destruction, soil erosion/salinization/fertility loss, water management issues, overhunting, overfishing, non-native species effects, overpopulation (human), high impact per capita [Diamond, 15][Diamond]
 * The IPCC says we get 90 more years of climate change regardless of how much emission we stop. 2007: 385 PPM CO2. No way to avoid 450 PPM by midcentury according to Pew Center on Global Climate Change [Begley]
+* Difference between modern world and past societies which collapsed. Risk-lowering differences: tech advances, globalization, medicine, knowledge of other societies. Risk-heightening differences: unintended effects of tech, global interdependence, dependence on modern medicine for survival, enormous population [Diamond, 11][Diamond]
+* Recurring theme in societies that collapse: a series of good years -> population growth -> interdependent society -> less resilience to bad years [Diamond, 97][Diamond]
+* Immediate effects of deforestation on Easter Island: damages to soil, decreased crop yields. Further consequences: starvation, population crash, cammibailism [Diamond, 74][Diamond]
+* Glacier National Park in the late 1800s had over 150 glaciers, 35 in 2005, at current rates 0 by 2030 [Diamond, 37][Diamond]
+* Saline seep is occurring in Montana 
 
 {% include "../BIBLIOGRAPHY.md" %}

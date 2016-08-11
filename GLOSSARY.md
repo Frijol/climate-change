@@ -181,6 +181,9 @@ Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated
 ## run-of-the-river
 Hydropower which uses natural flow and elevation drop of water rather than a dam
 
+## saline seep
+Salty water which builds up in an uphill area travels through the soil and comes out downhill and distant. [Diamond, 36][Diamond]
+
 ## sea chimneys
 Giant whirlpools found at the ends of ocean currents. They take surface water and drain them down to the bottom of the ocean. This is a major component of global ocean circulation.
 
@@ -198,3 +201,5 @@ A type of climate change that is abrupt and results from the crossing of tipping
 
 ## UNFCCC
 1992 United Nations Framework Convention on Climate Change
+
+{% include "./BIBLIOGRAPHY.md" %}
