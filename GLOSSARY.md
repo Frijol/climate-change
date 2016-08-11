@@ -181,6 +181,9 @@ Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated
 ## run-of-the-river
 Hydropower which uses natural flow and elevation drop of water rather than a dam
 
+## salinization
+Salt accumulation in soil and groundwater, which interferes with the ability for plants to grow [Diamond, 35][Diamond]
+
 ## saline seep
 Salty water which builds up in an uphill area travels through the soil and comes out downhill and distant. [Diamond, 36][Diamond]
 

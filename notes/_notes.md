@@ -34,12 +34,13 @@ disorganized notes or sections I don't have filled out yet
 * The FDA typically does not ban the presence of toxins in foods, but sets "allowable levels", which means that even approved food can contain enough that toxins build up over time in your body [Carson, 195][Carson]
 * Cancer has increased drastically over the past 100-150 years. Malignant growths accounted for 15% of deaths in 1958, compared with 4% in 1900. More American school children [at time of publication] die of cancer than from any other disease, though 25 years previous it was considered medically rare to find cancer in children. [Carson, 231][Carson] //TODO: what are we at now? Office of Vital Statistics as source?
 * Past societal collapse theme: population growth --> intensified (unsustainable) agriculture --> adoption of marginal lands for agriculture --> environmental damage --> inability to continue using marginal lands --> food shortages --> starvation/war/weakness and disease, etc. [Diamond, 15][Diamond]
+* Recurring theme in societies that collapse: a series of good years -> population growth -> interdependent society -> less resilience to bad years [Diamond, 97][Diamond]
 * Eight categories of environmentally based societal collapse: deforestation/habitat destruction, soil erosion/salinization/fertility loss, water management issues, overhunting, overfishing, non-native species effects, overpopulation (human), high impact per capita [Diamond, 15][Diamond]
+* Five factors in societal collapse: environmental damage, climate change, hostile neighbors, friendly trade partners (these four optional), and society's response to its problems (always significant) [Diamond, 13][Diamond]
 * The IPCC says we get 90 more years of climate change regardless of how much emission we stop. 2007: 385 PPM CO2. No way to avoid 450 PPM by midcentury according to Pew Center on Global Climate Change [Begley]
 * Difference between modern world and past societies which collapsed. Risk-lowering differences: tech advances, globalization, medicine, knowledge of other societies. Risk-heightening differences: unintended effects of tech, global interdependence, dependence on modern medicine for survival, enormous population [Diamond, 11][Diamond]
-* Recurring theme in societies that collapse: a series of good years -> population growth -> interdependent society -> less resilience to bad years [Diamond, 97][Diamond]
 * Immediate effects of deforestation on Easter Island: damages to soil, decreased crop yields. Further consequences: starvation, population crash, cammibailism [Diamond, 74][Diamond]
 * Glacier National Park in the late 1800s had over 150 glaciers, 35 in 2005, at current rates 0 by 2030 [Diamond, 37][Diamond]
-* Saline seep is occurring in Montana 
+* Saline seep is occurring in Montana. The minerals in the area are naturally salty, but native vegetation typically keeps minerals from dissolving. Ground cover killing herbicides and tractor use are interfering with this system and causing downhill land to become toxic and unarable. [Diamond, 37][Diamond]
 
 {% include "../BIBLIOGRAPHY.md" %}
