@@ -166,6 +166,9 @@ shorthand name for albedo engineering
 ## PPM
 Parts per million
 
+## PTC
+Prouction Tax Credit, a federal tax credit in the United States which provides inflation-adjusted per-kWH rebates for qualifying renewable energy sales [Energy.gov][Energy.govPTC]
+
 ## PUC
 Public Utility Commission, state entity regulating utility companies
 

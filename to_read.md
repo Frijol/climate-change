@@ -27,3 +27,4 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Teske]: "Teske, Sven. 'Energy Revolution: A Sustainable EU 27 Energy Outlook.'"
 * [Hansen]: http://monthlyreview.org/2013/02/01/james-hansen-and-the-climate-change-exit-strategy/ and http://monthlyreview.org/2012/12/01/the-planetary-emergency/
 * [Salter]: http://link.springer.com/article/10.1007/s40722-016-0057-3 "Salter, Stephen. Wave energy: Nostalgic Ramblings, future hopes and heretical suggestions. 2016. Journal of Ocean Engineering and Marine Energy."
+* http://apps2.eere.energy.gov/wind/windexchange/windmaps/resource_potential.asp

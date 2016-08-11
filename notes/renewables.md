@@ -6,10 +6,16 @@
 * Wind: fastest growing renewable. Solar electric is second [Lovins, 71][Lovins]
 * Solar and wind are currently expensive to implement, but it's possible to significantly reduce cost for materials/transport/setup without a technological breakthrough, e.g. wind turbines on kites [Victor]
 * Improved software, especially modeling (where should my wind turbine go?) can dramatically increase the efficiency of existing technologies [Victor]
+* "In 2014, the average cost of Power Purchase Agreements for new wind power in the US was around 2.35 cents per kwh, the lowest it has ever been. In the windiest parts of the great plains, prices are as low as 2 cents per kwh." [Naam][NaamWind]
+* ![](http://rameznaam.com/wp-content/uploads/2015/08/US-Wind-Power-Capacity-at-80-110-and-140-meter-hub-heights-2-million-square-km-above-60-percent-Capacity-at-140m-NREL-800x581.jpg) "next-generation wind turbines could reach an incredible capacity factor of 60% over 2 million square kilometers of the US, or enough to provide roughly 10x as much electricity as the US uses" [Naam][NaamWind]
+* New natural gas electricity is 7c/kwH; new wind power (unsubsidized) costs an average of 4c/kwH or less [Naam][NaamWind]
 
 ## Solar
 * Electric demand of the U.S. could be met by covering 9% of Nevada with PV according to DoE report [Lovins, 72][Lovins]
 * Solar thermal: heat water from the sun. 1 in 10 houses in China, not so many in the States [Lovins, 66][Lovins]
+* "This is a ~16% learning rate, meaning that every doubling of utility-scale solar capacity in the US leads to a roughly 16% reduction in the cost of electricity from new solar installations." [Naam][NaamSolar]
+* "If current rates of improvement hold, solar will be incredibly cheap by the time it’s a substantial fraction of the world’s electricity supply." ![](http://rameznaam.com/wp-content/uploads/2015/08/Future-Solar-Cost-Projections-PPA-LCOE.jpg) [Naam][NaamSolar]
+* At the scale of utility installations, the cost of solar modules are now less than half of the price of delpoying solar. Inverters, labor, grid connection, and other soft costs are now higher. [Naam][NaamSolar]
 
 ## Biofuel
 * Biochar: as plants grow, they pull CO2 out of the air, but they release it again when they decay. Instead of letting it decay, heat woody material at low temperature anaerobically until it is carbonized (pyrolysis). Use this material as a fertilizer - dug into the ground, carbon is sequestered. Byproduct is biodiesel. [Lovins, 199-200][Lovins]

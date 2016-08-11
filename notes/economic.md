@@ -46,5 +46,6 @@
 ## Taxing and subsidies
 * Phasing out fossil fuel subsidies globally would conservatively save governments $775 billion in one year [Klein, 105][Klein]
 * A tax of $50/metric ton of CO2 emitted in developed countries would raise ~$450 billion annually [Klein, 105][Klein]
+* The United States provides a tax credit for the first 10 years of operation of new renewables: $0.023/kWh for wind, geothermal, closed-loop biomass; $0.012/kWh for other eligible technologies. [Energy.govPTC]
 
 {% include "../BIBLIOGRAPHY.md" %}
