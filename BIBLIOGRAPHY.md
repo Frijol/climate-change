@@ -3,6 +3,7 @@
 [Barber]: https://www.goodreads.com/book/show/18667790-the-third-plate "Barber, Dan. 'The Third Plate: Field Notes on the Future of Food.' 2014. A chef's search for excellent farm-to-table flavor and accompanying romance with organics and sustainability."
 [Begley]: http://www.newsweek.com/learning-love-climate-adaptation-95079 "Begley, Sharon. Learning to Love Climate Adaptation. 2007. Newsweek. Economic opportunities created by climate change."
 [Carson]: https://www.goodreads.com/book/show/27333.Silent_Spring "Carson, Rachel. 'Silent Spring.' 1962. Foundational book of the environmental movement, wholly focused on insecticide sprays and now fairly outdated."
+[Chabot]: "Chabot, Bennet. Discussion."
 [Diamond]: https://www.goodreads.com/book/show/475.Collapse "Diamond, Jared. 'Collapse: How Societies Choose to Fail or Succeed.' 2005."
 [Energy.govPTC]: http://energy.gov/savings/renewable-electricity-production-tax-credit-ptc "Energy.gov. 'Renewable Energy Production Tax Credit (PTC).' 2016. Information on federal tax credit for renewable energy production."
 [Friedman]: https://www.goodreads.com/book/show/2358737.Hot_Flat_and_Crowded "Friedman, Thomas. 'Hot, Flat, and Crowded: Why We Need a Green Revolution--and How It Can Renew America.' 2008. Concise, compelling, and holistic, this systems-level view is a standout for its treatment of environmental issues in a geopolitical context."

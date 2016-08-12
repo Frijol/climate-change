@@ -29,7 +29,7 @@ the amount of sugar present in a fruit or vegetable
 organisms that build shells or external skeletons, or for plants, internal scaffolding built from calcium carbonate
 
 ## capacity factor
-the ratio of a power plant's actual output to its theoretical potential output at full capacity
+The ratio of a power plant's actual output to its theoretical potential output at full capacity – accounting for downtime and other inefficiencies.
 
 ## carbon cycle
 Seasonal cycling of carbon dioxide around the earth, which fluctuates annually between lows in the summer and highs in the winter. Plants and other photosynthesizing organisms consume carbon dioxide in the summer. When the plants die in the fall and cease to photosynthesize, the plants are eaten by bacteria, fungi, and animals, which exhale carbon dioxide. Most of the vegetation on the planet is in the Northern Hemisphere, so the Earth's carbon cycle follows Northern Hemisphere seasons.
@@ -112,6 +112,9 @@ From 1950-1992, a movement to increase food production without bringing more lan
 ## helical turbine
 A vertical turbine whose blades are modeled after birds' wings
 
+## HVDC
+High voltage DC power
+
 ## intercropping
 planting two or more crops interspersed to maximize light, water, and nutrient usage
 
@@ -141,6 +144,12 @@ National Academy of Sciences
 
 ## New Pangaea
 A term used to refer to the ecological globalization/homogenization of the world through the spreading of non-native species via human activities
+
+## NIMBY
+Not in my backyard. As in "yes high voltage power transmission is a great idea, but not in my backyard"
+
+## NREL
+National Renewable Energy Laboratory
 
 ## ocean acidification
 the reduction of alkalinity in the world's oceans through absoroption of human-produced carbon dioxide from preindustrial levels of 8.2 to a projected 7.8 by 2100

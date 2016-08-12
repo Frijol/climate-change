@@ -9,6 +9,10 @@
 * "In 2014, the average cost of Power Purchase Agreements for new wind power in the US was around 2.35 cents per kwh, the lowest it has ever been. In the windiest parts of the great plains, prices are as low as 2 cents per kwh." [Naam][NaamWind]
 * ![](http://rameznaam.com/wp-content/uploads/2015/08/US-Wind-Power-Capacity-at-80-110-and-140-meter-hub-heights-2-million-square-km-above-60-percent-Capacity-at-140m-NREL-800x581.jpg) "next-generation wind turbines could reach an incredible capacity factor of 60% over 2 million square kilometers of the US, or enough to provide roughly 10x as much electricity as the US uses" [Naam][NaamWind]
 * New natural gas electricity is 7c/kwH; new wind power (unsubsidized) costs an average of 4c/kwH or less [Naam][NaamWind]
+* Wind turbine expenses impacted by materials fluctiations (copper, steel, etc) [Naam][NaamWind]
+* ![](http://rameznaam.com/wp-content/uploads/2015/08/Future-Wind-Price-Projections-Naam-14-Percent-Learning-Curve-800x434.jpg) "the trendlines suggest that, by the time wind supplies 20% of US electricity, the unsubsidized cost of wind power at the best sites could be around 3 cents per kwh, and at more typical sites they could be around 4.5 cents per kwh" [Naam][NaamWind]
+* Main barriers to wind power adoption in the United States: transmission, and wind reliability [Naam][NaamWind]
+* High wind speeds in the United States are typically far from high population density and also from HVDC lines, so high-producing turbines in the United States can't efficiently transmit power where it is needed [Naam][NaamWind]
 
 ## Solar
 * Electric demand of the U.S. could be met by covering 9% of Nevada with PV according to DoE report [Lovins, 72][Lovins]
@@ -56,7 +60,10 @@
 * All U.S. nuclear energy facilities have extensive environmental monitoring programs, which are under the oversight of the NRC and state regulators. [NEI]
 
 ## Power grid - implementation changes
+* Current American grids: Texas (ERCOT), East, and West. They are separately managed. [Chabot]
 * Current grid systems are highly distributed. Power transmission lines are expensive and inefficient - local solar & wind reduces cost and energy production need [Lovins, 72][Lovins]
 * The current power grid is not set up to support distributed power; it works through a few sources providing great amounts of energy. [Victor]
+* The United States has very few HVDC lines. "The cost of high voltage DC (HVDC) transmission lines is roughly 1 cents per kwh for 500 miles, or 1.5 cents per kwh for 1,000 miles transmitted. Over 1,000 miles, an HVDC line may lose 5% or so of the electricity it transmits." [Naam][NaamWind]
+* ![](http://rameznaam.com/wp-content/uploads/2015/08/Cost-of-AC-and-HVDC-Transmission-Lines-From-HandlemanPost-800x544.jpg) Cost of transmission lines by type & voltage [Naam][NaamWind]
 
 {% include "../BIBLIOGRAPHY.md" %}

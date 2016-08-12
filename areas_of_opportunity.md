@@ -24,5 +24,12 @@
 
 ## Entrepreneurship
 * Training construction workers in how to build cheaper, more efficient sites using green techniques (many only know one way of building a given thing/now a little out of date)
+* Leveraging higher numbers of HVDC lines in China to transport renewable power efficiently? ![](http://rameznaam.com/wp-content/uploads/2015/08/HVDC-Lines-in-US-and-China-800x522.jpg) [Naam][NaamWind]
+* A way to let consumers choose their own power source
+* A way to break out energy usage by type [Friedman]
+* Funding/help from emerging technology departments at utility companies
+* Ways to help balance peak loads
+* Preventative maintenance ideas
+* "Smart grid" space
 
 {% include "./BIBLIOGRAPHY.md" %}

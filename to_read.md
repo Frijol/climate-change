@@ -27,4 +27,8 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Teske]: "Teske, Sven. 'Energy Revolution: A Sustainable EU 27 Energy Outlook.'"
 * [Hansen]: http://monthlyreview.org/2013/02/01/james-hansen-and-the-climate-change-exit-strategy/ and http://monthlyreview.org/2012/12/01/the-planetary-emergency/
 * [Salter]: http://link.springer.com/article/10.1007/s40722-016-0057-3 "Salter, Stephen. Wave energy: Nostalgic Ramblings, future hopes and heretical suggestions. 2016. Journal of Ocean Engineering and Marine Energy."
-* http://apps2.eere.energy.gov/wind/windexchange/windmaps/resource_potential.asp
+* http://apps2.eere.energy.gov/wind/windexchange/windmaps/resource_potential.asp Wind potential
+* https://neo.ubs.com/shared/d1RBi2HvJq/ 'Wind by the Wire' prospects
+* http://www.globalproblems-globalsolutions-files.org/unf_website/PDF/climate%20_change_avoid_unmanagable_manage_unavoidable.pdf Confronting Climate Change: Avoid the Unmanageable, Manage the Unavoidable
+* http://www.c2es.org/publications/climate-change-101 Climate Change 101
+* https://itunes.apple.com/podcast/pew-center-on-global-climate/id437917753 Climate change 101 podcast
