@@ -13,6 +13,8 @@
 * ![](http://rameznaam.com/wp-content/uploads/2015/08/Future-Wind-Price-Projections-Naam-14-Percent-Learning-Curve-800x434.jpg) "the trendlines suggest that, by the time wind supplies 20% of US electricity, the unsubsidized cost of wind power at the best sites could be around 3 cents per kwh, and at more typical sites they could be around 4.5 cents per kwh" [Naam][NaamWind]
 * Main barriers to wind power adoption in the United States: transmission, and wind reliability [Naam][NaamWind]
 * High wind speeds in the United States are typically far from high population density and also from HVDC lines, so high-producing turbines in the United States can't efficiently transmit power where it is needed [Naam][NaamWind]
+* "As a general rule of thumb, wind turbines produce electricity equal to the area their blades sweep through. And area is equal to the square of blade length. That means that doubling the tower height and blade length quadruples the area the blades spin through, and generates 4x as much energy. Partially as a result, wind prices per kwh have dropped, even as (or in part because) wind turbines have grown taller." ![](http://rameznaam.com/wp-content/uploads/2015/08/Wind-Power-Cost-LCOE-vs-Hub-Heights-Energy-dot-gov-Wind-Visions-2014-800x545.jpg) [Naam][NaamWind]
+* Scaling up wind turbine sizes is limited in part by getting parts onto trucks to get them on site (low bridges etc.) [Naam][NaamWind]
 
 ## Solar
 * Electric demand of the U.S. could be met by covering 9% of Nevada with PV according to DoE report [Lovins, 72][Lovins]

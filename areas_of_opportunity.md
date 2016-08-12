@@ -31,5 +31,6 @@
 * Ways to help balance peak loads
 * Preventative maintenance ideas
 * "Smart grid" space
+* Ways to manufacture and transport large wind turbine components (see ![](http://rameznaam.com/wp-content/uploads/2015/08/Wind-Tower-Optimal-Size-vs-Transportable-Size-800x566.jpg) [Naam][NaamWind]) GE is working on this: https://www.gerenewableenergy.com/wind-energy/technology/space-frame-tower.html
 
 {% include "./BIBLIOGRAPHY.md" %}

@@ -25,6 +25,9 @@ the type of oil extracted from the Alberta Tar Sands
 ## Brix
 the amount of sugar present in a fruit or vegetable
 
+## CAES
+Compressed air energy storage
+
 ## calcifiers
 organisms that build shells or external skeletons, or for plants, internal scaffolding built from calcium carbonate
 
@@ -72,6 +75,9 @@ Department of Energy (U.S.A.)
 
 ## energy descent action plan
 a collectively designed blueprint for a community (transition town) to lower its emissions and cease to use fossil fuels
+
+## EPRI
+Electric Power Research Institute
 
 ## ERF
 Equity reference Framework
@@ -138,6 +144,9 @@ An international treaty which extends the UNFCCC, committing countries to reduce
 
 ## LDG
 Latitudinal diversity gradient: the pattern that there is greater species diversity the farther away you get from the poles
+
+## learning curve
+Economies of scale combined with improvements in technology and lessons learned as a technology rolls out [Naam][NaamStorage]
 
 ## NAS
 National Academy of Sciences

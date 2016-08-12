@@ -32,3 +32,10 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * http://www.globalproblems-globalsolutions-files.org/unf_website/PDF/climate%20_change_avoid_unmanagable_manage_unavoidable.pdf Confronting Climate Change: Avoid the Unmanageable, Manage the Unavoidable
 * http://www.c2es.org/publications/climate-change-101 Climate Change 101
 * https://itunes.apple.com/podcast/pew-center-on-global-climate/id437917753 Climate change 101 podcast
+* http://www.ucsusa.org/search/reports?f[0]=im_field_channel%3A187#.V61aEJMrJE4
+* Smoke, Mirrors, and Hot Air: http://www.ucsusa.org/global_warming/solutions/fight-misinformation/exxonmobil-report-smoke.html#.V61aOpMrJE4
+* Wind and solar: how far we've come http://www.theenergycollective.com/jessejenkins/2232451/look-wind-and-solar-energy-part-1-how-far-weve-come
+* Wind and solar: upper limits to renewables http://www.theenergycollective.com/jessejenkins/2233311/look-wind-and-solar-part-2-there-upper-limit-intermittent-renewables
+* GE scaffolding-style wind turbines https://www.gerenewableenergy.com/wind-energy/technology/space-frame-tower.html
+* Technical advances for wind power (Ars Technica) http://arstechnica.com/science/2015/06/making-wind-power-work-even-in-low-wind-locations/
+* Wind Vision from energy.gov http://energy.gov/eere/wind/maps/wind-vision

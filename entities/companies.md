@@ -4,6 +4,8 @@
 * [California ISO](http://www.caiso.com/Pages/default.aspx): a company in Folsom, CA which orchestrates the power grid to match production to consumption [Victor]
 * [Natural Capitalism Solutions](http://natcapsolutions.org/): consultancy in Colorado which works with companies to help them save money by reducing emissions [Lovins]
 * [Skyonic](http://skyonic.com/): company in Austin which uses waste heat to clean CO2 from emissions [Atwood]
+* [Light Sail](http://www.lightsail.com/): company in Berkeley working on CAES batteries from exhaust heat
+* [ESS](http://www.essinc.com/): company south of Portland (Oregon) making flow batteries
 
 ## Direct carbon capture
 * [CO2 Solutions](http://www.co2solutions.com/en): company in Quebec which makes carbon capture enzymes [Atwood]
