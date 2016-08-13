@@ -19,6 +19,9 @@ There have been five major losses in species diversity throughout known natural 
 ## biofuel
 a fuel derived from living matter
 
+## biophilia
+The urge to affiliate with other forms of life [Louv, 39][Louv]
+
 ## bitumen
 the type of oil extracted from the Alberta Tar Sands
 

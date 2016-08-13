@@ -13,5 +13,6 @@
 * [Masdar City](https://en.wikipedia.org/wiki/Masdar_City): a planned eco-city in Abu Dhabi, intended as a cleantech research and technology hub. Partially built.
 * [Red Hook Community Farm](https://communitygarden.org/find-a-garden/gardens/red-hook-community-farm/): a well-run community farm in New York City [Klein, 364][Klein]
 * [Vauban, Freiberg, Germany](https://en.wikipedia.org/wiki/Vauban,_Freiburg): sustainable neighborhood, no cars
+* Village Homes in Davis, CA: first fully solar-powered housing development in America [Louv, 213][Louv]
 
 {% include "../BIBLIOGRAPHY.md" %}

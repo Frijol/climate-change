@@ -11,5 +11,9 @@ disorganized notes or sections I don't have filled out yet
 * Lithium-Ion batteries are in the 10-25c/kwH range (compared with 7c/kwH for natural gas) for the forseeable future, but this is not a whole accounting. Batteries are a load flattener, so we can use any existing & new generators more evenly + reduce need for peaker plants. This graph makes even the 25c/kwH price look plausible: ![](http://rameznaam.com/wp-content/uploads/2015/04/CA-Time-of-Use-Pricing-Model-400x134.png) [Naam][NaamStorage]
 * Lithium-Ion batteries die out after ~1k cycles & are better to discharge only 70%; Flow can be used for 5-10k cycles, CAES for 10k+ with full discharge [Naam][NaamStorage]
 * CAES batteries don't leak the way traditional Lithium-Ion batteries do. CAES batteries can be stored for years [Naam][NaamStorage]
+* In a 1995 survey published in the MIT Press, a substantial majority justified environmental protection by explicitly invoking God's name as creator. From the article, "It seems that divine creation is the closest concept American culture provides to express the sacredness of nature. Regardless of whether one actually believes in biblical Creation, it is the best vehicle we have to express this value." [Louv, 248][Louv]
+* EPA warns that indoor air pollution is the United States' number one environmental threat to health, 2-10x worse than outdoor air pollution [Louv, 112][Louv]
+* Growing body of evidence suggests that quality of exposure to nature has large effects on human health and child development [Louv, 39][Louv]
+* USDA projects forests declining from 767,000 acres (1982) to 377,000 acres (2022). [Louv, 29][Louv]
 
 {% include "../BIBLIOGRAPHY.md" %}

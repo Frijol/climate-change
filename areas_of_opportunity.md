@@ -21,6 +21,7 @@
 ## Engineering/wild ideas
 * Electric car batteries when not in use as a distributed power storage network for a city/community [Lovins, 94][Lovins]
 * Building efficiency is a big waste of energy, people would fix their own if they knew how much. How can we make thermal scans/cameras more accessible such that people can scan for energy loss easily?
+* Anti-smoking campaign was comprised of top-down (science, regulation) + bottom up (knowledge about secondhand smoke leading to community action). Can a similar approach be applied to climate change action? [Louv, 254][Louv]
 
 ## Entrepreneurship
 * Training construction workers in how to build cheaper, more efficient sites using green techniques (many only know one way of building a given thing/now a little out of date)
