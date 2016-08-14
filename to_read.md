@@ -39,3 +39,4 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * GE scaffolding-style wind turbines https://www.gerenewableenergy.com/wind-energy/technology/space-frame-tower.html
 * Technical advances for wind power (Ars Technica) http://arstechnica.com/science/2015/06/making-wind-power-work-even-in-low-wind-locations/
 * Wind Vision from energy.gov http://energy.gov/eere/wind/maps/wind-vision
+* Jared Diamond: consumption factor http://www.nytimes.com/2008/01/02/opinion/02diamond.html

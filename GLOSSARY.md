@@ -1,6 +1,9 @@
 ## additionality
 the assurance to a buyer of a carbon market that the money spent is really eliciting a reduction in carbon
 
+## affluenza
+Portmanteau of affluence and influenza, relating to overload, debt, anxiety and waste from consumerism [Friedman 53][Friedman]
+
 ## agroecology
 the use of sustainable farming methods on small-scale farms based on the combination of local knowledge and modern science. Based on the principle that farming should maximize species diversity and enhance natural systems of soil protection and pest control
 
@@ -78,6 +81,9 @@ Department of Energy (U.S.A.)
 
 ## energy descent action plan
 a collectively designed blueprint for a community (transition town) to lower its emissions and cease to use fossil fuels
+
+## energy poverty
+Low availability of energy [Friedman, 155][Friedman]
 
 ## EPRI
 Electric Power Research Institute

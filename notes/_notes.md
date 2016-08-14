@@ -15,5 +15,9 @@ disorganized notes or sections I don't have filled out yet
 * EPA warns that indoor air pollution is the United States' number one environmental threat to health, 2-10x worse than outdoor air pollution [Louv, 112][Louv]
 * Growing body of evidence suggests that quality of exposure to nature has large effects on human health and child development [Louv, 39][Louv]
 * USDA projects forests declining from 767,000 acres (1982) to 377,000 acres (2022). [Louv, 29][Louv]
+* "...in India and China some 200 million people have emerged from poverty in the last 30 years, most of them moving from low-impact village life to middle-class life in urban areas. But, as economists point out, there are still 200 million behind them , and another 200 million behind them ... all waiting their turn. Their governments will not be able to dey them, and they will not deny themselves, an American style of life." [Friedman, 64][Friedman]
+* "In 2006, members of the OPEC oil cartel earned $506 billion from oil exports. In 2007, OPEC income rose to roughly $535 billion, and it was expected to surge to over $600 billion in 2008." [Friedman, 79][Friedman]
+* Friedman's "First Law of Petropolitics": As the price of oil goes up, the pace of freedom goes down; and as the price of oil goes down, the pace of freedom goes up [Friedman, 81][Friedman]
+* "I first hear the term 'energy poverty from Robert, Freling ... The right of every person to have access to energy is as fundamental as the right to access to air and water, Freling argues." [Friedman, 155][Friedman]
 
 {% include "../BIBLIOGRAPHY.md" %}
