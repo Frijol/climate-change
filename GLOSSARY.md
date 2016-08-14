@@ -64,6 +64,9 @@ chlorofluorocarbons, present in Freon and harmful to the earth's ozone
 ## CO2
 Carbon dioxide
 
+## CO2e
+Carbon dioxide equivalent, "the total climate change impact of all the greenhouse gases caused by an item or activity rolled into one and expressed in terms of the amount of carbon dioxide that would have the same impact" [Berners-Lee, 2][Berners-Lee]
+
 ## COP15
 The 2009 Climate Change Convention of the Parties in Copenhagen
 
@@ -75,6 +78,9 @@ The 2009 Climate Change Convention of the Parties in Copenhagen
 
 ## declining block rates
 The more you buy, the cheaper the price per unit
+
+## direct emissions
+Emissions caused by e.g. the manufacturing and transport of an item
 
 ## DoE
 Department of Energy (U.S.A.)
@@ -129,6 +135,9 @@ A vertical turbine whose blades are modeled after birds' wings
 
 ## HVDC
 High voltage DC power
+
+## indirect emissions
+Emissions caused by e.g. the process to extract the materials used in creating an item or activity
 
 ## intercropping
 planting two or more crops interspersed to maximize light, water, and nutrient usage
@@ -201,6 +210,9 @@ Public Utility Commission, state entity regulating utility companies
 
 ## PV
 photovoltaic(s)
+
+## rebound effect
+e.g. a low-carbon technology is more convenient than a high-carbon technology, so we use it more, and end up using more carbon than previously [Berners-Lee, 16][Berners-Lee]
 
 ## refractometer
 a tool to measure Brix - looks like a small spyglass
