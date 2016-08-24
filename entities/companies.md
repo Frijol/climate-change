@@ -72,7 +72,6 @@
 
 ## Energy Storage
 * [EOS Energy Systems](http://www.eosenergystorage.com/): a company based in New York building grid-scale energy storage batteries
-* [Stem]( http://www.stem.com): an American company building energy storage and predictive market software
 
 
 {% include "../BIBLIOGRAPHY.md" %}
