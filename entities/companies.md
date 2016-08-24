@@ -24,6 +24,10 @@
 * [Evervest](http://www.evervest.co/): a company in Boston which uses software modeling to identify the best sites for solar and wind installations [Victor]
 * Lucid Energy Technologies: a company that makes a turbine that goes in water pipes to replace water reducers, reclaiming some of the pumping energy [Lovins, 79][Lovins]
 
+## Alternative energy sales
+* [Arcadia Power](http://www.arcadiapower.com/): a company that sells Renewable Energy Credits as a way to let consumers purchase 100% renewables without paying the high upfront capital requirements of rooftop solar
+* [Ethical Electric]( https://ethicalelectric.com/ ): a company that buys renewable energy for consumers to let them feel like they are using only renewable energy
+
 ### Wind
 * [Altaeros](http://www.altaerosenergies.com/): a company in Somerville which flies a wind turbine on a blimp for power production, reducing materials cost per watt [Victor]
 * [Makani](http://www.google.com/makani/): a part of Google X which builds kites with turbines for wind power production, reducing materials cost per watt [Victor]
@@ -68,6 +72,7 @@
 
 ## Energy Storage
 * [EOS Energy Systems](http://www.eosenergystorage.com/): a company based in New York building grid-scale energy storage batteries
+* [Stem]( http://www.stem.com): an American company building energy storage and predictive market software
 
 
 {% include "../BIBLIOGRAPHY.md" %}
