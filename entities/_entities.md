@@ -4,6 +4,10 @@ People and organizations which are working in this space. Particularly aimed tow
 # Stubs
 disorganized notes or sections I don't have filled out yet
 
+* [Ramez Naam's clean energy AngelList syndicate](https://angel.co/ramez-1/syndicate)
+* [LOHAS Capital](http://lohascapital.com/): "works with companies to architect, market, and execute equity crowdfunding campaigns of up to $50 million." Dedicated to cleantech and sustainability
+* [STEM](http://www.stem.com/): company in Millbrae aimed at getting commercial buildings cheaper power by combining battery banks and machine learning to draw power from the grid only at off-peak times
+
 ## Charities
 * [Fogquest](http://www.fogquest.org/): charity in Ontario using screens to collect drinkable water from fog [Lovins, 265][Lovins]
 

@@ -18,10 +18,13 @@
 
 ## Alternative energy generation
 * [All Power Labs](http://www.allpowerlabs.com/): company in Berkeley which makes biomass gasifier generators (carbon negative energy generation). [They have an open house every month](http://www.eventbrite.com/e/biomass-powered-open-house-registration-19019972249). [Atwood]
+* [Arcadia Energy](http://www.arcadiapower.com/) clean energy supplier servicing all 50 states
 * [Desertec](http://www.desertec.org/): a German GMbH aimed at placing renewable energy harvesting in deserts (otherwise "useless" land)
 * DONG Energy: Denmark's largest energy company, which invests heavily in renewables
+* [Ethical Electric](https://ethicalelectric.com/): clean energy supplier based in Georgetown (DC area) servicing the Eastern seaboard
 * [Evervest](http://www.evervest.co/): a company in Boston which uses software modeling to identify the best sites for solar and wind installations [Victor]
 * Lucid Energy Technologies: a company that makes a turbine that goes in water pipes to replace water reducers, reclaiming some of the pumping energy [Lovins, 79][Lovins]
+* [TerraPower](http://terrapower.com/): a company in Bellevue committed to sustainability generating energy with a traveling wave reactor
 
 ### Wind
 * [Altaeros](http://www.altaerosenergies.com/): a company in Somerville which flies a wind turbine on a blimp for power production, reducing materials cost per watt [Victor]
