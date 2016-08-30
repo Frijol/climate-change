@@ -25,6 +25,7 @@
 [Pearce]: https://www.goodreads.com/book/show/51436.With_Speed_and_Violence "Pearce, Fred. 'With Speed and Violence: Why Scientists Fear Tipping Points in Climate Change.' 2007. Early chapters have great explanations of the basic climate systems of the planet."
 [Pett]: http://www.kentucky.com/opinion/op-ed/article44162106.html "Pett, Joel. 'The cartoon seen \'round the world.' 2009."
 [Simpson]: https://m.youtube.com/watch?v=EkrkCTZWWJU "Simpson, Leanne. 'Leanne Simpson speaking at Beit Zatoun.' 2012."
+[Smil]: https://www.goodreads.com/book/show/8793836-energy-myths-and-realities "Smil, Vaclav. 'Energy Myths and Realities.' 2010. Debunking of various headlines surrounding energy miracles. My study guide on the book: https://blog.hc3.io/engineering-and-entrepreneurship-opportunities-from-energy-myths-and-realities-by-vaclav-smil-facaf9728c31#.czmo9q1u5"
 [Sutter]: http://www.cnn.com/2016/04/19/opinions/sutter-carbon-tax-washington-british-columbia/index.html "Sutter, John. 'There\'s a cheap, proven fix to the world's biggest problem.' Really overstated title, but decent information about carbon taxation."
 [SutterParis]: http://www.cnn.com/2016/04/21/opinions/sutter-paris-agreement-whats-next/index.html "Sutter, John. 'What\'s next for the Paris agreement?' 2016. Straightforward FAQ on the Paris Agreement."
 [Victor]: http://worrydream.com/ClimateChange/ "Victor, Bret. 'What Can a Technologist Do about Climate Change? (A Personal View).' 2015. Essay on how techies and entrepreneurs can work on the problem of climate change."

@@ -166,6 +166,9 @@ Latitudinal diversity gradient: the pattern that there is greater species divers
 ## learning curve
 Economies of scale combined with improvements in technology and lessons learned as a technology rolls out [Naam][NaamStorage]
 
+## LMFBRs
+liquid metal fast breeder nuclear reactors
+
 ## NAS
 National Academy of Sciences
 
@@ -183,6 +186,9 @@ the reduction of alkalinity in the world's oceans through absoroption of human-p
 
 ## ocean conveyor
 Circulation of the ocean. They move underwater (brought down through sea chimneys) south of Africa, around Antarctica, through the Indian and Pacific Oceans, then come back up at the Atlantic to join the Gulf Stream and move north again to the sea chimney there.
+
+## OPEC
+organization of the petroleum exporting countries
 
 ## peak oil
 the point in time when the maximum extraction of oil is reached (based on a theory by M. King Hubbert, a Shell researcher)

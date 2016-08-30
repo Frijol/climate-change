@@ -19,5 +19,13 @@ disorganized notes or sections I don't have filled out yet
 * "In 2006, members of the OPEC oil cartel earned $506 billion from oil exports. In 2007, OPEC income rose to roughly $535 billion, and it was expected to surge to over $600 billion in 2008." [Friedman, 79][Friedman]
 * Friedman's "First Law of Petropolitics": As the price of oil goes up, the pace of freedom goes down; and as the price of oil goes down, the pace of freedom goes up [Friedman, 81][Friedman]
 * "I first hear the term 'energy poverty from Robert, Freling ... The right of every person to have access to energy is as fundamental as the right to access to air and water, Freling argues." [Friedman, 155][Friedman]
+* OPEC drove rise in oil prices less than $2/barrel 1973 to more than $11/barrel in 1974, not in response to supply shortage [Smil, 1][Smil]
+* Hybrid cars have taken more than 10 years to claim less than 3 percent of the market [Smil, 25][Smil]
+* In large cities (where electric cars for commute make the most sense), 30–60% of cars are parked curbside. Since most electric car scenarios envision overnight charging in garages, how would these curb-parked cars be charged? [Smil, 25][Smil]
+* Most published scenarios put likely share of pure electric cars at no more than 25% by 2050 [Smil, 25][Smil]
+* We don’t produce enough energy to charge 100% of cars, and can’t scale up to it quickly. Assuming that the overall demand of a midsized electric car is around 6MW/year, if all American cars suddenly became electric, we would immediately need new power generation equal to 25% of all of the energy used in the United States in 2008. [Smil, 26][Smil] We can’t produce that much more energy soon. It took 15 years (1993–2008) to spin up that quantity of power the last time we did. [Smil, 26][Smil]
+* Battery performance is sub-par and degrades quickly. Lithium ion batteries lose power even when idle and their performance degrades over time and with temperature. Tesla engineers expect the car battery pack to degrade by as much as 30% in 5 years [Smil, 29][Smil]
+
+
 
 {% include "../BIBLIOGRAPHY.md" %}
