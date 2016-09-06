@@ -26,5 +26,6 @@
 * Significant uranium resources are available from U.S. sources or friendly trading partners such as Canada and Australia. [NEI]
 * A nuclear energy facility’s life-cycle carbon emissions—including mining and producing fuel and construction of the plant—are among the lowest of any electricity generation source at 13 tons of carbon dioxide equivalent per gigawatt-hour, comparable to geothermal (15 tons) and wind (12 tons). [NEI]
 * All U.S. nuclear energy facilities have extensive environmental monitoring programs, which are under the oversight of the NRC and state regulators. [NEI]
+* Nuclear fission complements renewable sources in a long term energy strategy because it is reliable and high-load, compared to solar, wind, etc.'s fluctuating low to moderate loads [Smil, 40][Smil]
 
 {% include "../../BIBLIOGRAPHY.md" %}

@@ -191,7 +191,7 @@ Circulation of the ocean. They move underwater (brought down through sea chimney
 organization of the petroleum exporting countries
 
 ## peak oil
-the point in time when the maximum extraction of oil is reached (based on a theory by M. King Hubbert, a Shell researcher)
+the point in time when the maximum extraction of oil is reached (based on a theory by M. King Hubbert, a Shell researcher). Based on the incorrect belief that resource extraction curves fit a bell curve, “peak oil’ is the idea that we will run out of oil to extract and then our industry will drop precipitously, returning us to a hunter-gatherer lifestyle within a few thousand years [Smil, 62-64][Smil]
 
 ## People's Recovery
 The use of destruction from catastrophic events as an opportunity to rebuild with equity in mind

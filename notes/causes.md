@@ -30,6 +30,6 @@
 * Saline seep is occurring in Montana. The minerals in the area are naturally salty, but native vegetation typically keeps minerals from dissolving. Ground cover killing herbicides and tractor use are interfering with this system and causing downhill land to become toxic and unarable. [Diamond, 37][Diamond]
 
 ## Deforestation
-* Immediate effects of deforestation on Easter Island: damages to soil, decreased crop yields. Further consequences: starvation, population crash, cammibailism [Diamond, 74][Diamond]
+* Immediate effects of deforestation on Easter Island: damages to soil, decreased crop yields. Further consequences: starvation, population crash, cannibalism [Diamond, 74][Diamond]
 
 {% include "../BIBLIOGRAPHY.md" %}

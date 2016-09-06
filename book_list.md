@@ -19,6 +19,6 @@
 
 * [Annotated bibliography of all the sources I've consumed thus far](https://github.com/Frijol/climate-change/blob/master/BIBLIOGRAPHY.md). Sorry it doesn't render nicely.
 
-* [All the books on I haven't got around to reading yet](https://www.goodreads.com/review/list/18653539?shelf=climate-change%2Cto-read)
+* [All the books on I haven't gotten around to reading yet](https://www.goodreads.com/review/list/18653539?shelf=climate-change%2Cto-read)
 
 * [Articles and reports and other online links that I've found or been referred to but haven't read yet](https://github.com/Frijol/climate-change/blob/master/to_read.md)
