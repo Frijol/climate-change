@@ -31,3 +31,5 @@
 
 ## Deforestation
 * Immediate effects of deforestation on Easter Island: damages to soil, decreased crop yields. Further consequences: starvation, population crash, cammibailism [Diamond, 74][Diamond]
+
+{% include "../BIBLIOGRAPHY.md" %}
