@@ -4,6 +4,19 @@
 * Main promise of geoengineering: delay inevitable catastrophic warming of the earth. It's a desperate measure, but it seems likely that we'll have to use it at some point [Goodell, 115][Goodell]
 * Three main arguments against geoengineering: (1) we don't understand the system we're messing with and we'd be likely to mess it up in a really catastrophic way. (2) geoengineering distracts from the main problem, which is that we're still emitting too many greenhouse gases and need to figure out how to stop doing that. (3) Western civilization in the modern era is unsustainable regardless of the planet's temperature, and we'd end up depleting even more resources on the industry of planetary cooling [Goodell, 18-21][Goodell]
 
+## Carbon sequestration
+* Carbon sequestration is not something we can reliably accomplish in an energy-efficient manner with clear and permanent results. Many otherwise valuable carbon sequestration opportunities are decreasingly powerful due to the effects of global warming. [Smil]
+* Pumping CO2 into basalt might have a small effect, but it’s unproven. The idea is to trap CO2 in basalt layers beneath the Indian Ocean and/or the Juan de Fuca tectonic plate. This method, if functional, could only trap 4% of American CO2 emissions — so, this would be less effective than raising car emissions standards [Smil, 87][Smil]
+* We don’t have an infrastructure to capture, move, and sequester carbon. Most sequestration solutions depend on pipelines of CO2 and other infrastructure that we don’t have and which will take time to build [Smil, 87][Smil]
+
+### Sequestration in forests
+* Sequestering the amount of carbon we emit in trees would require truly enormous new forests. Planting mixed forests sequesters carbon at the rate over which the trees mature — so in 10–80 years after planting (depending on the type of tree), the tree must continue to live to hold carbon, but it does not offset new emissions [Smil, 82][Smil]. Offsetting just 10% of 2005 carbon would require a planting as big as the combined forests of North America and Russia, or a ~15% increase in tropical forests [Smil, 82][Smil].
+
+### Sequestration in soil
+* There is opportunity to sequester carbon in soil, but global warming makes this type of sequestration uncertain in the long term. Soil stores about 4 times the carbon that is stored in land plants [Smil, 83][Smil]. Tropospheric ozone levels are increasing and can reduce plant productivity thus slowing soil sequestration. Uncertainty caused by global warming means we can’t know whether soil will net store carbon from plants or net emit it from decomposition [Smil, 83][Smil]
+* Biochar could improve carbon sequestration in soil, but there are logistical and environmental challenges. Soil with biochar stores 2.5x carbon as soil of the same type without it [Smil, 83][Smil]. However, there is currently no supply chain set up to source waste biomass [Smil, 84][Smil].
+* Biochar can provide only a small piece of the solution; 900 million tons of straw (the total amount produced by affluent counties) turned into biochar (ignoring the logistical and application challenges) would sequester only 2.5% of the CO2 emitted globally in 2005 [Smil, 84][Smil].
+
 ## Albedo engineering
 * Albedo engineering to change reflectivity of the earth- painting roofs and roads white, injecting reflective particles into the atmosphere [Goodell, 17][Goodell]
 * With albedo engineering, blocking 2% of Earth's sunlight returns climate to preindustrial levels - though this doesn't fix the other problems high CO2 causes [Goodell, 17][Goodell]

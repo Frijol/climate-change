@@ -1,13 +1,21 @@
 # Causes of climate change
 
-## Energy extraction
 * **The amount of carbon that can be burned between 2011 and 2049 to have a 50% chance of keeping global warming below 2 degrees celcius is 565 gigatons. Reserves already claimed by all fossil fuel companies for oil, gas, and coal amounts to 2,795 gigatons of carbon.** [Klein, 134][Klein]
+
+## Oil extraction
 * New oil extraction processes consume much more water than conventional practices. It takes 2.3 barrels of water to produce one barrel of oil from tar sands mining, compared to 0.1-0.3 barres of water for a barrel of conventional crude. [Klein, 312][Klein]
-* Modern fracking takes 70-300x the amount of fluid (usually water + sand) used in traditional fracking. This fluid often becomes toxic, radioactive waste. 280 billions of this waste were created from fracking in 2012. [Klein, 312][Klein]
-* Methane has a warming potential 86 times greater than carbon dioxide [Klein, 130][Klein]
-* Bitumen is roughly 3-4 times as greenhouse intensive as coal due to its extraction process [Klein, 127][Klein]
-* Natural gas has been argued for as a "clean alternative" to oil, but fracked natural gas may emit enough methane to make it comparable in "dirtiness" to coal [Klein, 192][Klein]
+* Bitumen (tar sands oil) is roughly 3-4 times as greenhouse intensive as coal due to its extraction process [Klein, 127][Klein]
+* The United States Geographical Survey sets a 95% probability there are 400b barrels of oil that can be extracted from currently known fields. At a current global rate of ~100m barrels consumed per day, this would last us 4000 years [Smil, 68][Smil]
+* There are enormous major sedimentary fields both associated with existing land and deep underwater that most likely have a lot of oil. They have not been truly tapped until they have the same density of drilling as Texas. [Smil, 68][Smil]
+* Likelihoood of discovering new oil is highest in Mesopotamian Foredeep Basin (north of Baghdad through Iraq & Kuwait to E Saudi Ar), west Siberian Basin, Zagros Fold Belt of SE Iran, Niger Delta, Rub al Khali basin, East Greenland Rift Basin. In N America, northern Alaska, Canadian Arctic, Gulf of Mexico, supplemented by Venezuela, offshore Brazil. In Africa, offshore Congo and Niger, in Algeria, Libya. Asia: Kazakhstan, Timan-Pechora Basin. Europ: Atlantic west of Scotland [Smil, 68][Smil]
+* ExxonMobil is the world's largest multinational oil corporation, Khalid Al-FAlh runs Saudi Aramco, the world's largest national oil Corp [Smil, 74][Smil]
+
+
+## Natural gas extraction
 * The vast majority of new gas projects in North America rely on fracking [Klein, 192][Klein]
+* Natural gas has been argued for as a "clean alternative" to oil, but fracked natural gas may emit enough methane to make it comparable in "dirtiness" to coal [Klein, 192][Klein]
+* Methane has a warming potential 86 times greater than carbon dioxide [Klein, 130][Klein]
+* Modern fracking takes 70-300x the amount of fluid (usually water + sand) used in traditional fracking. This fluid often becomes toxic, radioactive waste. 280 billions of this waste were created from fracking in 2012. [Klein, 312][Klein]
 
 ## Poor societal response
 * Eight categories of environmentally based societal collapse: deforestation/habitat destruction, soil erosion/salinization/fertility loss, water management issues, overhunting, overfishing, non-native species effects, overpopulation (human), high impact per capita [Diamond, 15][Diamond]
