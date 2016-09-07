@@ -4,7 +4,7 @@
   * [Basics](notes/basics.md)
   * [Causes](notes/causes.md)
   * [Reducing Emissions](notes/reducing_emissions.md)
-  * [Renewable energy](notes/renewables.md)
+  * [Renewable energy](notes/renewables/_renewables.md)
     * [Biofuel](notes/renewables/biofuel.md)
     * [Nuclear](notes/renewables/nuclear.md)
     * [Solar](notes/renewables/solar.md)
