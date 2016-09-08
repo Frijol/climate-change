@@ -5,6 +5,7 @@
 * Friedman's "First Law of Petropolitics": As the price of oil goes up, the pace of freedom goes down; and as the price of oil goes down, the pace of freedom goes up [Friedman, 81][Friedman]
 * OPEC drove rise in oil prices less than $2/barrel 1973 to more than $11/barrel in 1974, not in response to supply shortage [Smil, 1][Smil]
 * US dependence on foreign oil has been increasing fairly steadily from 37% of oil around 1973 to 63% in 2007 [Smil, 135][Smil]
+* [Pickens Plan](http://www.pickensplan.com/the-plan/) is an effort to transition the United States off of foreign oil dependence
 
 ## Energy and poverty
 * "...in India and China some 200 million people have emerged from poverty in the last 30 years, most of them moving from low-impact village life to middle-class life in urban areas. But, as economists point out, there are still 200 million behind them , and another 200 million behind them ... all waiting their turn. Their governments will not be able to dey them, and they will not deny themselves, an American style of life." [Friedman, 64][Friedman]

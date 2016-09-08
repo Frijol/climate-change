@@ -8,6 +8,10 @@ disorganized notes or sections I don't have filled out yet
 * In a 1995 survey published in the MIT Press, a substantial majority justified environmental protection by explicitly invoking God's name as creator. From the article, "It seems that divine creation is the closest concept American culture provides to express the sacredness of nature. Regardless of whether one actually believes in biblical Creation, it is the best vehicle we have to express this value." [Louv, 248][Louv]
 * No country, as of 2000, uses local power as a major (even non-negligible) energy source [Smil, 49][Smil]
 * The best fit for a resource extraction model is logarithmic, so while we will hit an asymptote on oil (and thus be unable to keep up with increasing demand), we won’t suddenly be out of energy. [Smil, 66][Smil]
+* Energy transitions are slow by nature. Oil took 50 years to climb from first commercial production to a 10% market share, and we continue to depend on prior dominant energy forms: coal, wood [Smil, 138][Smil]
+* Quick energy transitions destabilize economies. Any new technology adoption requires a heavy up-front investment (estimated by Smil at at least $3 trillion). This is needed both in the energy sourcing and transport infrastructures, and in the “primary movers”, the major users of the new energy (such as cars). Primary movers take years to become efficient [Smil, 138][Smil].
+* Quick changes in primary energy sources leaves less time to build infrastructure and primary movers. Transition also requires people who had invested in the old system to write off of that infrastructure investment [Smil, 142][Smil]
+* From data up to 2008, we are not currently transitioning off of oil. In 2008, energy from new renewable energy sources was less than 2.4% in the United States. [Smil, 135][Smil]
 
 ## Electric cars
 * Hybrid cars have taken more than 10 years to claim less than 3 percent of the market [Smil, 25][Smil]
