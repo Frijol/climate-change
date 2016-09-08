@@ -12,5 +12,15 @@
 * High wind speeds in the United States are typically far from high population density and also from HVDC lines, so high-producing turbines in the United States can't efficiently transmit power where it is needed [Naam][NaamWind]
 * "As a general rule of thumb, wind turbines produce electricity equal to the area their blades sweep through. And area is equal to the square of blade length. That means that doubling the tower height and blade length quadruples the area the blades spin through, and generates 4x as much energy. Partially as a result, wind prices per kwh have dropped, even as (or in part because) wind turbines have grown taller." ![](http://rameznaam.com/wp-content/uploads/2015/08/Wind-Power-Cost-LCOE-vs-Hub-Heights-Energy-dot-gov-Wind-Visions-2014-800x545.jpg) [Naam][NaamWind]
 * Scaling up wind turbine sizes is limited in part by getting parts onto trucks to get them on site (low bridges etc.) [Naam][NaamWind]
+* Wind can theoretically be a major source of renewable energy, but never 100% of power needs. In 2007, global electricity production was 1,800 TWh (p125). Globally, about 1,200 TW is dissipated within 1km of the earth’s surface– and therefore harvestable [Smil, 121][Smil]
+* Wind power requires a lot of land (in windy places). A reasonable assumption of wind power capacity factor (the actual power output divided by the maximum theoretical output) is no higher than 25% based on measurements in Europe, so 4.1 TW of installed capacity would cover half of 2007 global power needs — which would cover a space equal in area to four Frances, assuming 2 W per square meter [Smil, 125][Smil]
+* North America is particularly well suited for wind power generation because there is a high land area of strong winds areas distributed across the land. But the continent also has prolonged calms and excessively strong winds; both conditions halt wind power generation [Smil, 128][Smil]
+* "Today, peak electricity demand in the US happens during the afternoons and early evenings. Electricity demand in the US is higher in summer months than in winter months. (Note that this pattern differs in Europe, where energy-intensive air-conditioning is less common than the US.) Wind power patterns are nearly the opposite of US electricity demand patterns. Winds tend to max out overnight and in winter months." [Naam][NaamWind]
+
+# Further research to do
+
+* "Harnessing High Altitude Wind Power" http://xa.yimg.com/kq/groups/20593576/1580747992/name/Roberts_etal_IEEE_Trans_on_Energy_Conv_2007.pdf
+* Reading throughout http://www.skywindpower.com/ww/
+* [Magenn tethered turbine](http://newatlas.com/magenn-mars-floating-wind-generator/11109/) doesn't seem to have news since 2009- why?
 
 {% include "../../BIBLIOGRAPHY.md" %}

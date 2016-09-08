@@ -8,6 +8,7 @@
 * In order to have a 50% chance of keeping below the agreed-upon international target of no more than 2 degrees C of warming, all wealthy countries need to start cutting greenhouse gas emissions by 8-10% immediately (2015) [Klein, 81][Klein]
 
 ## Poor human health
+* EPA warns that indoor air pollution is the United States' number one environmental threat to health, 2-10x worse than outdoor air pollution [Louv, 112][Louv]
 
 ### Effects on human health from pesticides
 * The FDA typically does not ban the presence of toxins in foods, but sets "allowable levels", which means that even approved food can contain enough that toxins build up over time in your body [Carson, 195][Carson]

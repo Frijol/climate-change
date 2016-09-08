@@ -39,5 +39,6 @@
 
 ## Deforestation
 * Immediate effects of deforestation on Easter Island: damages to soil, decreased crop yields. Further consequences: starvation, population crash, cannibalism [Diamond, 74][Diamond]
+* USDA projects forests declining from 767,000 acres (1982) to 377,000 acres (2022). [Louv, 29][Louv]
 
 {% include "../BIBLIOGRAPHY.md" %}
