@@ -24,10 +24,16 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [2030]: https://web.stanford.edu/group/efmh/jacobson/Articles/I/sad1109Jaco5p.indd.pdf "A Path for Sustainable Energy by 2030"
 * [Teske]: "Teske, Sven. 'Energy Revolution: A Sustainable EU 27 Energy Outlook.'"
 * [Ensia]: http://ensia.com/about/overview/ "Solutions to Earth's biggest environmental challenges"
+* [IEA]: http://www.iea.org/publications/freepublications/publication/tracking-clean-energy-progress-2016.html "International Energy Agency. 'Tracking Clean Energy Progress 2016.' 2016."
+
+## Energy storage
+* [IEA]: https://www.iea.org/publications/freepublications/publication/technology-roadmap-hydrogen-and-fuel-cells.html "International Energy Agency. 'Technology Roadmap: Hydrogen and Fuel Cells.' 2015."
 
 ## Alternative energies
 * Wind and solar: how far we've come http://www.theenergycollective.com/jessejenkins/2232451/look-wind-and-solar-energy-part-1-how-far-weve-come
 * Wind and solar: upper limits to renewables http://www.theenergycollective.com/jessejenkins/2233311/look-wind-and-solar-part-2-there-upper-limit-intermittent-renewables
+* [NaamRenewables]: http://rameznaam.com/2016/01/31/how-far-can-renewables-go-pretty-darn-far/ "Naam, Ramez. 'How far can renewables go? Pretty darn far.' 2016."
+* [ARENA]: http://arena.gov.au/files/2016/03/AECOM-Wind-solar-Co-location-Study-1.pdf "Australian Renewable Energy Agency. 'Co-location Investigation.' 2016."
 
 ### Nuclear power
 * [Cooper]: http://www.nirs.org/neconomics/cooperreport_neconomics062009.pdf "Cooper, Mark. 'The Economics of Nuclear Reactors: Renaissance or Relapse?' 2009."
@@ -48,10 +54,18 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Murphy]: http://physics.ucsd.edu/do-the-math/2011/09/dont-be-a-pv-efficiency-snob/ "Murphy, Tom. 'Don\'t be a PV efficiency snob.' 2011."
 * [McKenna]: http://ensia.com/features/look-whats-cooking-in-renewable-energy/ "Solar cheaper than coal"
 * [Jervey]: http://ensia.com/features/solars-time-to-rise-and-shine/ "Rising solar efficiency"
+* [IEA]: https://www.iea.org/publications/freepublications/publication/TechnologyRoadmapSolarPhotovoltaicEnergy_2014edition.pdf "International Energy Agency. 'Technology Roadmap: Solar Photovoltaic Energy.' 2014."
 
 ## Infrastructure
 * [Keyles]: http://ensia.com/voices/smart-utilities-embracing-distributed-electricity/ "Why Smart Utilities are Embracing Distributed Electricity"
 * [Gerdes]: http://ensia.com/features/the-emerging-power-of-microgrids/ "The emerging power of microgrids"
+* [IEA]: https://www.iea.org/publications/freepublications/publication/technology-roadmap-how2guide-for-smart-grids-in-distribution-networks.html "International Energy Agency. 'Technology Roadmap: How2Guide for Smart Grids in Distribution Networks.' 2015."
+
+## Carbon capture
+* [IEA]: http://www.iea.org/publications/insights/insightpublications/the-potential-for-equipping-chinas-existing-coal-fleet-with-carbon-capture-and-storage.html "International Energy Agency. 'The Potential for Equipping China's Existing Coal Fleet with Carbon Capture and Storage.' 2016."
+* [IEA]: https://www.iea.org/publications/insights/insightpublications/storing-co2-through-enhanced-oil-recovery.html "International Energy Agency. 'Storing CO2 through Enhanced Oil Recovery.' 2015."
+* [IEA]: https://www.iea.org/publications/freepublications/publication/technology-roadmap-carbon-capture-and-storage-2013.html "International Energy Agency. 'Technology Roadmap: Carbon Capture and Storage 2013.' 2013."
+* [IEA]: https://www.iea.org/publications/freepublications/publication/carbon-capture-and-storagethe-solution-for-deep-emissions-reductions.html "International Energy Agency. 'Carbon Capture and Storage:The solution for deep emissions reductions.' 2015."
 
 ## Effects of climate change
 * [Ramesh]: http://www.theguardian.com/environment/2008/nov/10/maldives-climate-change "Ramesh, Randeep. 'Paradise Almost Lost: Maldives Seek to Buy a New Homeland.' 2008. The Guardian."
@@ -60,6 +74,7 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [Ackerman]: https://www.nrdc.org/sites/default/files/fcost.pdf "Ackerman, Frank and Stanton, Elizabeth. 'The Cost of Climate Change: What We'll Pay if Global Warming Continues Unchecked.' 2008. Natural Resources Defense Council."
 * [UCS]: http://www.ucsusa.org/search/reports?f[0]=im_field_channel%3A187#.V61aEJMrJE4 "Union of Concerned Scientists: effects of rising seas"
 * [Wilcox]: http://ensia.com/voices/how-can-we-ensure-the-race-for-clean-energy-doesnt-leave-the-worlds-poorest-citizens-behind/ "How can we ensure the race for clean energy doesn't leave the world's poorest citizens behind?"
+* [IEA]: http://www.iea.org/publications/freepublications/publication/weo-2016-special-report-energy-and-air-pollution.html "International Energy Agency. 'World Energy Outlook Special Report 2016: Energy and Air Pollution.' 2016."
 
 ### Ocean Acidification
 * [The other CO2 problem]: https://theotherco2problem.wordpress.com/how-was-the-problem-uncovered/
