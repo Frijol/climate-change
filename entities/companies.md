@@ -1,4 +1,9 @@
 # Companies
+## Major energy companies
+* [DONG Energy](http://www.dongenergy.com/): Denmark's largest energy company, which invests heavily in renewables. A leader in Europe's energy scene. Market leader in offshore wind, has built ~half of current operating offshore wind farms
+* [Masdar](http://www.masdar.ae/): Abu Dhabi's renewable energy company, committed to renewable energy for the UAE
+* [E.ON](http://www.eon.com/en.html): a UK-based investor-owned energy company working in renewable energy, particularly wind
+
 ## Cleaner emissions & energy efficiency
 * [ATDynamics](http://www.stemco.com/products/innovative-tire-mileage-solutions/aerodynamic-devices/): owned by STEMCO. Aerodynamic long-haul trucks intended for greater energy efficiency. [Lovins, 138][Lovins]
 * [California ISO](http://www.caiso.com/Pages/default.aspx): a company in Folsom, CA which orchestrates the power grid to match production to consumption [Victor]
@@ -21,16 +26,11 @@
 * [All Power Labs](http://www.allpowerlabs.com/): company in Berkeley which makes biomass gasifier generators (carbon negative energy generation). [They have an open house every month](http://www.eventbrite.com/e/biomass-powered-open-house-registration-19019972249). [Atwood]
 * [Arcadia Energy](http://www.arcadiapower.com/) clean energy supplier servicing all 50 states
 * [Desertec](http://www.desertec.org/): a German GMbH aimed at placing renewable energy harvesting in deserts (otherwise "useless" land)
-* DONG Energy: Denmark's largest energy company, which invests heavily in renewables
 * [Ethical Electric](https://ethicalelectric.com/): clean energy supplier based in Georgetown (DC area) servicing the Eastern seaboard
 * [Evervest](http://www.evervest.co/): a company in Boston which uses software modeling to identify the best sites for solar and wind installations [Victor]
 * Lucid Energy Technologies: a company that makes a turbine that goes in water pipes to replace water reducers, reclaiming some of the pumping energy [Lovins, 79][Lovins]
 * [TerraPower](http://terrapower.com/): a company in Bellevue committed to sustainability generating energy with a traveling wave reactor
 * [Magenn](http://www.magenn.com/): company selling consumer alternative energy (mostly solar) products
-
-## Alternative energy sales
-* [Arcadia Power](http://www.arcadiapower.com/): a company that sells Renewable Energy Credits as a way to let consumers purchase 100% renewables without paying the high upfront capital requirements of rooftop solar
-* [Ethical Electric]( https://ethicalelectric.com/ ): a company that buys renewable energy for consumers to let them feel like they are using only renewable energy
 
 ### Wind
 * [Altaeros](http://www.altaerosenergies.com/): a company in Somerville which flies a wind turbine on a blimp for power production, reducing materials cost per watt [Victor]
@@ -45,6 +45,10 @@
 * Aquamarine Power (shutdown): a company in Scotland building wave power (notably the Oyster) [Lovins, 78][Lovins]
 * Pelamis Wave Power (shutdown): a company in Edinburgh, Scotland leading wave power development [Lovins, 77][Lovins]
 * [Wavepower](http://www.wavepower.com/): a company in England developing wave power technologies
+
+## Alternative energy sales
+* [Arcadia Power](http://www.arcadiapower.com/): a company that sells Renewable Energy Credits as a way to let consumers purchase 100% renewables without paying the high upfront capital requirements of rooftop solar
+* [Ethical Electric]( https://ethicalelectric.com/ ): a company that buys renewable energy for consumers to let them feel like they are using only renewable energy
 
 ## Carbon capturing usable materials
 * [Calera](http://calera.com/): company in Los Gatos which which makes carbon-sequestering cement based on the same process used when coral reefs are formed [Atwood], [Lovins, 285][Lovins]
@@ -77,6 +81,7 @@
 
 ## Energy Storage
 * [EOS Energy Systems](http://www.eosenergystorage.com/): a company based in New York building grid-scale energy storage batteries
+* [Younicos](http://www.younicos.com/en/republic_of_younicos/who_we_are/): an energy storage company based in Austin and Berlin working to stabilize the grid to let renewables take over energy production
 
 
 {% include "../BIBLIOGRAPHY.md" %}

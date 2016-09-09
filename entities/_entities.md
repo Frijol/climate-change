@@ -7,6 +7,7 @@ disorganized notes or sections I don't have filled out yet
 * [Ramez Naam's clean energy AngelList syndicate](https://angel.co/ramez-1/syndicate)
 * [LOHAS Capital](http://lohascapital.com/): "works with companies to architect, market, and execute equity crowdfunding campaigns of up to $50 million." Dedicated to cleantech and sustainability
 * [STEM](http://www.stem.com/): company in Millbrae aimed at getting commercial buildings cheaper power by combining battery banks and machine learning to draw power from the grid only at off-peak times
+* [London Array](http://www.londonarray.com/): wind-focused consortium of renewable energy companies: DONG, E.ON, Masdar, and  La Caisse de dépôt et placement du Québec (Caisse)
 
 ## Charities
 * [Fogquest](http://www.fogquest.org/): charity in Ontario using screens to collect drinkable water from fog [Lovins, 265][Lovins]

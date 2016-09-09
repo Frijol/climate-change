@@ -10,7 +10,7 @@
 * Wave power by Pelamis: semi-submerged articulated structure undulates, pushing hydraulic rams, which pump fluids through hydraulic motors to generate electricity [Lovins, 77][Lovins]
 * Wave + hydroelectric power by Aquamarine Power's Oyster: a hinged flap connected to the seabed 30m down moves with the waves. This drives a hydraulic piston, which shoots high-pressure water to an onshore turbine [Lovins, 78][Lovins]
 
-## Power grid - implementation changes
+## Infrastructure
 * Current American grids: Texas (ERCOT), East, and West. They are separately managed. [Chabot]
 * Current grid systems are highly distributed. Power transmission lines are expensive and inefficient - local solar & wind reduces cost and energy production need [Lovins, 72][Lovins]
 * The current power grid is not set up to support distributed power; it works through a few sources providing great amounts of energy. [Victor]
