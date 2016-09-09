@@ -1,6 +1,8 @@
 # Renewable energy
 * Hoped-for breakthrough technologies: fusion reactors, nanoscale solar cells [Victor]
 * "clean coal": idea whereby coal-fired plants capture CO2 before it leaves the smokestack and bury it (sequester) in the earth. Mechanism: pressurized CO2 injected into saline aquifers below impermeable caprock - 1k-8k feet deep. There, it would form mild carbonic acid, which would dissolve and precipitate out as dolomite and limestone [Weisman, 223][Weisman]
+* Colocation of wind & solar might make sense for renewables because they have ~opposite peaks. It also lets both farms use the same infrastructure [Cuff]
+* Colocation of wind and solar in practice [Pattison]: ![https://vtechworks.lib.vt.edu/bitstream/handle/10919/54690/3_Pattison_etal.pdf?sequence=2&isAllowed=y](http://i.imgur.com/iCQ3M4l.png)
 
 ## Geothermal
 * Geothermal: requires hot rock and water (so e.g. island volcanic areas). Porous rock sponges up rainfall, volcano heats this. Dig a hole to create a vent, then hook up a turbine to get power. Iceland uses geothermal for 25% of its electricity and 90% of its heating/hot water needs [Lovins, 75][Lovins]

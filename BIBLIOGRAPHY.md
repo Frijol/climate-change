@@ -23,6 +23,7 @@
 [NaamStorage]: http://rameznaam.com/2015/10/14/how-cheap-can-energy-storage-get/ "Naam, Ramez. 'How Cheap Can Energy Storage Get? Pretty Darn Cheap.' 2015."
 [NaamWind]: http://rameznaam.com/2015/08/30/how-steady-can-the-wind-blow/ "Naam, Ramez. 'How Steady can Wind Power Blow.' 2015. Analysis of market readiness for wind power."
 [NEI]: http://www.nei.org/Master-Document-Folder/Backgrounders/Fact-Sheets/Quick-Facts-Nuclear-Energy-in-America "Nuclear Energy Institute. 'Quick Facts: Nuclear Energy in America.' 2015. Fact sheet about nuclear power produced by an organization with a vested interest in its success."
+[Pattison]: https://vtechworks.lib.vt.edu/handle/10919/54690 "Pattison, Chris. 'Co-location of Wind and Solar Power Plants and Their Integration onto the US Power Grid.' 2015. VirginiaTech."
 [Pearce]: https://www.goodreads.com/book/show/51436.With_Speed_and_Violence "Pearce, Fred. 'With Speed and Violence: Why Scientists Fear Tipping Points in Climate Change.' 2007. Early chapters have great explanations of the basic climate systems of the planet."
 [Pett]: http://www.kentucky.com/opinion/op-ed/article44162106.html "Pett, Joel. 'The cartoon seen \'round the world.' 2009."
 [Simpson]: https://m.youtube.com/watch?v=EkrkCTZWWJU "Simpson, Leanne. 'Leanne Simpson speaking at Beit Zatoun.' 2012."

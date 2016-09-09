@@ -136,6 +136,9 @@ A vertical turbine whose blades are modeled after birds' wings
 ## HVDC
 High voltage DC power
 
+## hybrid parks
+Co-located farms for multiple renewable energy types, esp. wind and solar
+
 ## indirect emissions
 Emissions caused by e.g. the process to extract the materials used in creating an item or activity
 
