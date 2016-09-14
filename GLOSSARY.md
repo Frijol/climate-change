@@ -188,7 +188,7 @@ National Renewable Energy Laboratory
 the reduction of alkalinity in the world's oceans through absoroption of human-produced carbon dioxide from preindustrial levels of 8.2 to a projected 7.8 by 2100
 
 ## ocean conveyor
-Circulation of the ocean. They move underwater (brought down through sea chimneys) south of Africa, around Antarctica, through the Indian and Pacific Oceans, then come back up at the Atlantic to join the Gulf Stream and move north again to the sea chimney there.
+Circulation of the ocean. They move underwater (brought down through sea chimneys) south of Africa, around Antarctica, through the Indian and Pacific Oceans, then come back up at the Atlantic to join the Gulf Stream and move north again to the sea chimney there. More precisely known as the meridional overturning circulation or the thermohaline circulation [Pearce, 142][Pearce]
 
 ## OPEC
 organization of the petroleum exporting countries

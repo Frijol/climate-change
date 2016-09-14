@@ -12,6 +12,12 @@ disorganized notes or sections I don't have filled out yet
 * Quick energy transitions destabilize economies. Any new technology adoption requires a heavy up-front investment (estimated by Smil at at least $3 trillion). This is needed both in the energy sourcing and transport infrastructures, and in the “primary movers”, the major users of the new energy (such as cars). Primary movers take years to become efficient [Smil, 138][Smil].
 * Quick changes in primary energy sources leaves less time to build infrastructure and primary movers. Transition also requires people who had invested in the old system to write off of that infrastructure investment [Smil, 142][Smil]
 * From data up to 2008, we are not currently transitioning off of oil. In 2008, energy from new renewable energy sources was less than 2.4% in the United States. [Smil, 135][Smil]
+* Britain: Hadley Centre for Climate Prediction's climate model is one of the world's top 3 [Pearce, 66][Pearce]
+* Hadley model predicts that if climate emissions continue at current trends, the Amazon rainforest will be gone by 2100: "able to support only shrubs or grass at most" because of warmer seas > droughts > threshold forest fire conditions > huge fires across the rainforest [Hadley study in 2005, in Pearce, 66][Pearce]
+* Death of the Amazon rainforest (as predicted by 2100 assuming current emissions trends continue) would release enough carbon to increase expected rate of global warming by 50%+ (77b currently stored down to 16.5b by 2100) [Pearce, 66][Pearce]
+* Methane emissions from thawing peat bogs in Western Siberia are up to 100k tons/day, a greater warming effect than U.S. man-made emissions [Pearce, 79][Pearce]
+* Stordalen mire: well-monitored permafrost peat bog in northern Sweden that is beginning to break up [Pearce, 82][Pearce]
+* 1-10t tons of methane is currently held by clathrates [Pearce, 92][Pearce]
 
 ## Electric cars
 * Hybrid cars have taken more than 10 years to claim less than 3 percent of the market [Smil, 25][Smil]
