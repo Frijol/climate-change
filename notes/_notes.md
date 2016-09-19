@@ -18,6 +18,8 @@ disorganized notes or sections I don't have filled out yet
 * Methane emissions from thawing peat bogs in Western Siberia are up to 100k tons/day, a greater warming effect than U.S. man-made emissions [Pearce, 79][Pearce]
 * Stordalen mire: well-monitored permafrost peat bog in northern Sweden that is beginning to break up [Pearce, 82][Pearce]
 * 1-10t tons of methane is currently held by clathrates [Pearce, 92][Pearce]
+* On average, storms last 60% longer and have wind speeds 15% higher in the 2000s than they did in the 1950s [Pearce, 215][Pearce]
+* **History of carbon in the atmosphere:** 440b tons at the coldest part of the last ice age, 660b tons at the start of the Industrial Revolution (largely from the ocean). 2007: 880b tons. **Current estimate for "safe" level of carbon:** no more than 935b tons to get a 50% chance of staying below internationally recognized "dangerous" temperature rise. This is 55b tons more than already in the atmosphere in 2007. **Current rate of emission:** 8.2b tons/year emitted, ~60% stays in the atmosphere - so 4.4b tons/year. **That puts us crossing the "safe" threshold around 2020.** [Pearce, 242][Pearce]
 
 ## Electric cars
 * Hybrid cars have taken more than 10 years to claim less than 3 percent of the market [Smil, 25][Smil]

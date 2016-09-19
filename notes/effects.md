@@ -40,16 +40,22 @@
 * Glacier National Park in the late 1800s had over 150 glaciers, 35 in 2005, at current rates 0 by 2030 [Diamond, 37][Diamond]
 * As of May 2014, glacier melt in a section of West Antarctica (~the size of France) "appears unstoppable"[Klein, 16][Klein]
 
-## Desertification
+## Drought
+
+* The percentage of Earth's land area stricken by serious drought has more than doubled in 30 years. In the 1970s, it was less than 15% of the land; by the early 2000s, it was more than 30% [Pearce, 173][Pearce]
+* There is a correlation between droughts in the western United States, South America, parts of Europe, and Central Asia [Pearce, 173][Pearce]
+
+### Desertification
 * Desertification: forces massive migration of villages (and cities) [Larsson]
 * In order to stop desertification, you need to make something that will catch sand and keep it from blowing past its borders and taking in more land. E.g. wall of trees [Larsson]
 * Around the Sahara, people are often poor and will chop down trees planted as sandbreak for firewood. Larsson proposes sandbreak made of sandstone, hardened by some bugs [Larsson]
 
-# Flooding
+## Flooding
 * If the West Antarctic ice sheet disintegrates (could take centuries), the sea level will rise 3-5m [Klein, 16][Klein]
 * Major cities that will likely disappear under a rising ocean: Boston, New York, Los Angeles, Vancouver, London, Mumbai, Hong Kong, Shanghai [Klein, 14][Klein]
+* Wet places will get wetter; drought-stricken places will get drier as the course of global warming continues. The air will be overall more humid. [Pearce, 174][Pearce]
 
-# Adaptation
+## Adaptation
 * Adaptation to climate change effects has become an emerging market segment. [Lovins, 252][Lovins]
 * Some worry that focus on adaptation will create financial incentives for climate change acceleration. Others argue that we will need adaptation services/technologies regardless of how fast we curb emissions, so we should start now.
 * Villages and roads that used to be on the (melting) permafrost will need rebuilding/relocating. Floods are coming and we need sea-wall design and implementation (esp. for storm surges), inland areas need efficient space use for coastal climate refugees to occupy, power lines will need to be more resistant to extreme climates esp. ice. Alaska is figuring out how to relocate villages from flooding. California needs to get better at firefighting and desalination because heat and drought are only getting worse. Also need bridges higher than before for storm surges. Heat waves get dangerous, we need early warning systems for these (e.g. senior centers) [Begley]
