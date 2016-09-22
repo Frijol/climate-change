@@ -69,6 +69,7 @@
 ## Investment
 * [IAFN](http://www.analogforestry.org/): organization in Costa Rica dedicated to plant restoration through rural economic enfranchisement [Atwood]
 * [Permian Global](http://permianglobal.com/en): investment firm headquartered in London for forest restoration. They work in environmental sciences, forest conservation, project management, and carbon markets [Atwood]
+* [International Finance Corporation (IFC)](http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home): investment and resource mobilization to help the private sector work in developing countries.
 
 ## Alternative living
 * [One Block off the Grid (1BOG)](https://en.wikipedia.org/wiki/One_Block_Off_the_Grid): Solar company which gets a neighborhood to contribute together to initial solar installation to reduce up-front cost for individuals

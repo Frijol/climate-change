@@ -1,6 +1,9 @@
 ## additionality
 the assurance to a buyer of a carbon market that the money spent is really eliciting a reduction in carbon
 
+## AEDP
+alternative energy development plan
+
 ## affluenza
 Portmanteau of affluence and influenza, relating to overload, debt, anxiety and waste from consumerism [Friedman 53][Friedman]
 
@@ -16,6 +19,15 @@ the name of the current geologic period, implying that the geology of the Earth 
 ## aquaculture
 fish farming
 
+## a-Si
+amorphous silicon
+
+## BAPV
+Building applied photovoltaic [IFC]
+
+## BIPV
+Building integrated photovoltaic [IFC]
+
 ## big five extinction
 There have been five major losses in species diversity throughout known natural history. These are known as the big five.
 
@@ -27,6 +39,12 @@ The urge to affiliate with other forms of life [Louv, 39][Louv]
 
 ## bitumen
 the type of oil extracted from the Alberta Tar Sands
+
+## BOO
+Build-Own-Operate
+
+## BoP
+Balance of Plant
 
 ## Brix
 the amount of sugar present in a fruit or vegetable
@@ -46,11 +64,17 @@ Seasonal cycling of carbon dioxide around the earth, which fluctuates annually b
 ## carbon engineering
 Geoengineering to pull carbon out of the atmosphere
 
+## CCS
+Carbon capture and sequestration, sorting CO2 out of exhaust at its source
+
 ## CCX
 Chicago Climate Exchange
 
 ## CDM
-Clean Development Mechanism, a flexible mechanism for carbon markets under the Kyoto Protocol
+Clean Development Mechanism, a flexible mechanism for carbon markets under the Kyoto Protocol [IFC]
+
+## CERC
+Central Energy Regulatory Commission
 
 ## coral bleaching
 corals turning white through ejection of their colorful zooxanthellae due to the zooxanthellae's dangerous release of oxygen radicals when ocean waters grow too warm
@@ -76,6 +100,9 @@ The 2009 Climate Change Convention of the Parties in Copenhagen
 ## Copenhagen Accord
 2009 agreement from world leaders to pledge specific actions to cut greenhouse gas emissions.
 
+## c-Si
+crystalline silicon
+
 ## declining block rates
 The more you buy, the cheaper the price per unit
 
@@ -91,14 +118,17 @@ a collectively designed blueprint for a community (transition town) to lower its
 ## energy poverty
 Low availability of energy [Friedman, 155][Friedman]
 
+## EPIA
+European Photovoltaic Industry Association
+
 ## EPRI
 Electric Power Research Institute
 
-## ERF
-Equity reference Framework
-
 ## equity reference framework
 Applied egalitarian principle that seeks to address historical, current, and potential inequities
+
+## ERF
+Equity reference Framework
 
 ## ETS
 Emissions Trading System
@@ -114,6 +144,9 @@ Hydraulic fracturing, a high-pressure injection of a liquid into a wellbore to c
 
 ## gas flaring
 when oil is extracted, natural gas builds up. "Flaring" this gas is setting it on fire (instead of capturing it for sale).
+
+## GCR
+Ground cover ratio
 
 ## geoengineering
 Deliberate human intervention in the earth's climate on a global scale
@@ -139,6 +172,9 @@ High voltage DC power
 ## hybrid parks
 Co-located farms for multiple renewable energy types, esp. wind and solar
 
+## IEA
+International Energy Agency
+
 ## indirect emissions
 Emissions caused by e.g. the process to extract the materials used in creating an item or activity
 
@@ -163,6 +199,9 @@ kilowatt hour, the product of the power transmitted in kilowatts and the time in
 ## Kyoto Protocol
 An international treaty which extends the UNFCCC, committing countries to reduce their greenhouse gas emissions. Acknowledges 1 premises: (1) global warming exists and (2) man-made CO2 emissions have caused it. Adopted in 1997, more enforced starting 2005.
 
+## LCOE
+Levelised cost of electricity, the net present value of the unit-cost of electricity over the lifetime of a generating asset. It is often taken as a proxy for the average price that the generating asset must receive in a market to break even over its lifetime [Wikipedia](https://en.wikipedia.org/wiki/Cost_of_electricity_by_source#Levelized_cost_of_electricity)
+
 ## LDG
 Latitudinal diversity gradient: the pattern that there is greater species diversity the farther away you get from the poles
 
@@ -172,8 +211,14 @@ Economies of scale combined with improvements in technology and lessons learned 
 ## LMFBRs
 liquid metal fast breeder nuclear reactors
 
+## NAPCC
+National Action Plan on Climate Change
+
 ## NAS
 National Academy of Sciences
+
+## NCRE
+Non-conventional renewable energy
 
 ## New Pangaea
 A term used to refer to the ecological globalization/homogenization of the world through the spreading of non-native species via human activities
@@ -189,6 +234,9 @@ the reduction of alkalinity in the world's oceans through absoroption of human-p
 
 ## ocean conveyor
 Circulation of the ocean. They move underwater (brought down through sea chimneys) south of Africa, around Antarctica, through the Indian and Pacific Oceans, then come back up at the Atlantic to join the Gulf Stream and move north again to the sea chimney there. More precisely known as the meridional overturning circulation or the thermohaline circulation [Pearce, 142][Pearce]
+
+## OEM
+Original equipment manufacturer
 
 ## OPEC
 organization of the petroleum exporting countries
@@ -220,14 +268,23 @@ Public Utility Commission, state entity regulating utility companies
 ## PV
 photovoltaic(s)
 
+## PV plant design
+consists of site-specific requirements and restraints, type of PV module to use, tilting angle, inverters, mounting and tracking apparatus, and arrangement of cells. Optimization takes into account shade, performance degradation over time, and tradeoffs of energy yield vs. spend for improved equipment. [IFC, 5][IFC]
+
 ## rebound effect
 e.g. a low-carbon technology is more convenient than a high-carbon technology, so we use it more, and end up using more carbon than previously [Berners-Lee, 16][Berners-Lee]
 
 ## refractometer
 a tool to measure Brix - looks like a small spyglass
 
+## REIPPP
+Renewable Energy Independent Power Producer Procurement
+
 ## RGGI
 Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated carbon market in the United States
+
+## RPO
+Renewable purchase obligation
 
 ## run-of-the-river
 Hydropower which uses natural flow and elevation drop of water rather than a dam
@@ -238,8 +295,17 @@ Salt accumulation in soil and groundwater, which interferes with the ability for
 ## saline seep
 Salty water which builds up in an uphill area travels through the soil and comes out downhill and distant. [Diamond, 36][Diamond]
 
+## SCADA
+Supervisory control and data acquisition
+
 ## sea chimneys
 Giant whirlpools found at the ends of ocean currents. They take surface water and drain them down to the bottom of the ocean. This is a major component of global ocean circulation.
+
+## SERC
+State Electricity Regulatory Commission
+
+## solar energy resource
+Depends on solar irradiation of the geographic area and also on local shade
 
 ## SRM
 Solar radiation management (albedo engineering)
