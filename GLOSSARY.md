@@ -49,6 +49,9 @@ Balance of Plant
 ## Brix
 the amount of sugar present in a fruit or vegetable
 
+## broadcast irrigation
+flooding the land or using sprinklers to distribute water over a large area (as opposed to more focused and efficient drip irrigation) [Diamond, 401][Diamond]
+
 ## CAES
 Compressed air energy storage
 
