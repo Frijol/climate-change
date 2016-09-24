@@ -26,6 +26,17 @@ disorganized notes or sections I don't have filled out yet
 * 60% of Australia's land use and 80% of its human water use are for agriculture, but agriculture contributes less than 3% of the GDP. Most of the land (>99%) thus engaged is uneconomically viable without government subsidy; the only truly profitable agriculture is <0.8% of that agricultural land [Diamond, 413][Diamond]
 * Australian public environmentalism focuses on land clearance, river development, and old-growth logging [Diamond, 410][Diamond]
 * China's Grain to Green program (started 2000) gives subsidies to farmers who convert farmland  to forest or grassland [Diamond, 377][Diamond]
+* China reaching first world living standards (at current first world consumption rates) would double the world's human environmental impact [Diamond, 374][Diamond]
+* Health impacts in China: average blood lead levels in urban Chinese are double "dangerously high" levels in other parts of the world, 300k deaths and $54b in health care are attributable to pollution [Diamond, 329][Diamond]
+* World's largest development projects (all expected to be severely damaging to the environment): Three Gorges Dam, South-to-North Water Diversion Project [Diamond, 368][Diamond]
+* Droughts affect 30% of China's cropland every year [Diamond, 367][Diamond]
+* Deforestation is a major contributor to China's soil erosion and floods [Diamond, 366][Diamond]
+* China is a net importer of trash from other countries, and recycles very little. More than 2/3 of China's cities are surrounded by garbage [Diamond, 366][Diamond]
+* China is short on water, especially in the north. Water supply in the north is 1/5 per capita that it is in the south; shortages occasionally halt industrial production. 2/3 of city + irrigation water is from groundwater aquifers, which are beginning to salinate in coastal areas and collapse in emptier inland ones [Diamond, 365][Diamond]
+* China's industrial energy efficiency is half that of first world countries [Diamond, 362][Diamond]
+* Transportation in China is explosively growing. # of motor vehicles increased 15x 1980-2001. [Diamond, 362][Diamond]
+* China uses 3x the world average of fertilizer per acre [Diamond, 362][Diamond]
+* China's number of households has been grew at 3.5%/year 1990-2005 [Diamond, 361][Diamond]
 
 
 ## Electric cars
