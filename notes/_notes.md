@@ -25,6 +25,7 @@ disorganized notes or sections I don't have filled out yet
 * China's environmental problems: air pollution, biodiversity loss, cropland loss, desertification, shrinking wetlands, grassland degradation, increased natural disasters (both size and quantity), invasive species, overgrazing, river flow cessation, salinization, soil erosion, trash accumulation, water pollution, shortages [Diamond, 359][Diamond]
 * 60% of Australia's land use and 80% of its human water use are for agriculture, but agriculture contributes less than 3% of the GDP. Most of the land (>99%) thus engaged is uneconomically viable without government subsidy; the only truly profitable agriculture is <0.8% of that agricultural land [Diamond, 413][Diamond]
 * Australian public environmentalism focuses on land clearance, river development, and old-growth logging [Diamond, 410][Diamond]
+* China's Grain to Green program (started 2000) gives subsidies to farmers who convert farmland  to forest or grassland [Diamond, 377][Diamond]
 
 
 ## Electric cars

@@ -55,6 +55,8 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * [McKenna]: http://ensia.com/features/look-whats-cooking-in-renewable-energy/ "Solar cheaper than coal"
 * [Jervey]: http://ensia.com/features/solars-time-to-rise-and-shine/ "Rising solar efficiency"
 * [IEA]: https://www.iea.org/publications/freepublications/publication/TechnologyRoadmapSolarPhotovoltaicEnergy_2014edition.pdf "International Energy Agency. 'Technology Roadmap: Solar Photovoltaic Energy.' 2014."
+* https://en.wikipedia.org/wiki/Nanosolar
+* IFC solar plant installation guide: http://www.ifc.org/wps/wcm/connect/f05d3e00498e0841bb6fbbe54d141794/IFC+Solar+Report_Web+_08+05.pdf?MOD=AJPERES
 
 ## Infrastructure
 * [Keyles]: http://ensia.com/voices/smart-utilities-embracing-distributed-electricity/ "Why Smart Utilities are Embracing Distributed Electricity"
