@@ -18,4 +18,8 @@
 * CAES batteries don't leak the way traditional Lithium-Ion batteries do. CAES batteries can be stored for years [Naam][NaamStorage]
 * Battery performance is sub-par and degrades quickly. Lithium ion batteries lose power even when idle and their performance degrades over time and with temperature. Tesla engineers expect the car battery pack to degrade by as much as 30% in 5 years [Smil, 29][Smil]
 
+
+## Further reading
+* Battery storage in office/industrial buildings to load balance grid pull: http://www.ee.ucr.edu/~stan/papers/dac14_bat.pdf
+
 {% include "../BIBLIOGRAPHY.md" %}

@@ -4,11 +4,6 @@ People and organizations which are working in this space. Particularly aimed tow
 # Stubs
 disorganized notes or sections I don't have filled out yet
 
-* [Ramez Naam's clean energy AngelList syndicate](https://angel.co/ramez-1/syndicate)
-* [LOHAS Capital](http://lohascapital.com/): "works with companies to architect, market, and execute equity crowdfunding campaigns of up to $50 million." Dedicated to cleantech and sustainability
-* [STEM](http://www.stem.com/): company in Millbrae aimed at getting commercial buildings cheaper power by combining battery banks and machine learning to draw power from the grid only at off-peak times
-* [London Array](http://www.londonarray.com/): wind-focused consortium of renewable energy companies: DONG, E.ON, Masdar, and  La Caisse de dépôt et placement du Québec (Caisse)
-
 ## Charities
 * [Fogquest](http://www.fogquest.org/): charity in Ontario using screens to collect drinkable water from fog [Lovins, 265][Lovins]
 
@@ -28,5 +23,6 @@ disorganized notes or sections I don't have filled out yet
 * LEED: Leadership in Energy and Environmental Design: a nationally accepted organization for design, operation and construction of high performance green buildings (United States)
 * [One Million Climate Jobs](http://www.climate-change-jobs.org/about): campaign by trade unionists to create more jobs by moving to more climate-sustainable practices
 * [Stockholm Environment Institute](https://www.sei-international.org/about-sei): international non-profit research organization working on policy change for the environment, including the [Greenhouse Development Rights](http://gdrights.org/about/) framework, an equity reference framework [Klein, 375][Klein]
+* [London Array](http://www.londonarray.com/): wind-focused consortium of renewable energy companies: DONG, E.ON, Masdar, and  La Caisse de dépôt et placement du Québec (Caisse
 
 {% include "../BIBLIOGRAPHY.md" %}

@@ -12,6 +12,7 @@
 * [Light Sail](http://www.lightsail.com/): company in Berkeley working on CAES batteries from exhaust heat
 * [ESS](http://www.essinc.com/): company south of Portland (Oregon) making flow batteries
 * [Panoramic Power](http://www.panpwr.com/): company in NYC which makes a clip-on device which reads power usage from a cord, then gives analytics and suggestions through software. Aimed at industrial/enterprise use cases
+* [STEM](http://www.stem.com/): company in Millbrae aimed at getting commercial buildings cheaper power by combining battery banks and machine learning to draw power from the grid only at off-peak times
 
 ## Direct carbon capture
 * [CO2 Solutions](http://www.co2solutions.com/en): company in Quebec which makes carbon capture enzymes [Atwood]
@@ -28,7 +29,7 @@
 * [Arcadia Energy](http://www.arcadiapower.com/) clean energy supplier servicing all 50 states
 * [Desertec](http://www.desertec.org/): a German GMbH aimed at placing renewable energy harvesting in deserts (otherwise "useless" land)
 * [Ethical Electric](https://ethicalelectric.com/): clean energy supplier based in Georgetown (DC area) servicing the Eastern seaboard
-* [Evervest](http://www.evervest.co/): a company in Boston which uses software modeling to identify the best sites for solar and wind installations [Victor]
+* [Evervest](http://www.evervest.co/): a company in Boston which uses software modeling to identify the best sites for solar and wind installations [Victor] >> Update: acquired by [Ultracapital](http://www.ultracapital.com/)
 * Lucid Energy Technologies: a company that makes a turbine that goes in water pipes to replace water reducers, reclaiming some of the pumping energy [Lovins, 79][Lovins]
 * [TerraPower](http://terrapower.com/): a company in Bellevue committed to sustainability generating energy with a traveling wave reactor
 * [Magenn](http://www.magenn.com/): company selling consumer alternative energy (mostly solar) products
