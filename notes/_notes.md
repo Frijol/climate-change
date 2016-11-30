@@ -37,6 +37,8 @@ disorganized notes or sections I don't have filled out yet
 * Transportation in China is explosively growing. # of motor vehicles increased 15x 1980-2001. [Diamond, 362][Diamond]
 * China uses 3x the world average of fertilizer per acre [Diamond, 362][Diamond]
 * China's number of households has been grew at 3.5%/year 1990-2005 [Diamond, 361][Diamond]
+* "creeping normalcy": the idea that slow trends are concealed within noisy fluctuations, such that they can't be discerned by people who have experienced the slow change. E.g. do we experience more heat waves now than when I was a child? We had a lot two years ago, just a few last year. But I don't remember if we ever had more than one per year when I was seven. [Diamond, 69.4%][Diamond]
+* "landscape amnesia": forgetting how different the landscape used to look because the change has been gradual. E.g. lack of snow in the summer on a mountaintop may seem normal if it has gradually disappeared over 50 years but is shocking to someone who had never seen it bare from a childhood 50 years previous [Diamond, 69.4%][Diamond]
 
 
 ## Electric cars

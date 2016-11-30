@@ -11,6 +11,7 @@
 * [Skyonic](http://skyonic.com/): company in Austin which uses waste heat to clean CO2 from emissions [Atwood]
 * [Light Sail](http://www.lightsail.com/): company in Berkeley working on CAES batteries from exhaust heat
 * [ESS](http://www.essinc.com/): company south of Portland (Oregon) making flow batteries
+* [Panoramic Power](http://www.panpwr.com/): company in NYC which makes a clip-on device which reads power usage from a cord, then gives analytics and suggestions through software. Aimed at industrial/enterprise use cases
 
 ## Direct carbon capture
 * [CO2 Solutions](http://www.co2solutions.com/en): company in Quebec which makes carbon capture enzymes [Atwood]
