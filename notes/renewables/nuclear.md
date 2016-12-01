@@ -8,7 +8,7 @@
 * Biggest nuclear plant in the United States: Palo Verde Nuclear Generating Station, west of Phoenix. Produces 3.8 billion watts [Weisman, 209][Weisman]
 * Mechanism at Palo Verde: Cadmium dampers are interspersed with 170,000 cm-ish thick 14' hollow rods made of zirconium alloy stuffed with uranium pellets. Each rod contains the same amount of energy as 1 ton coal. Water flows through the rod assemblies to be heated. [Weisman, 210][Weisman]
 
-## Research
+## Research Efforts
 * Nuclear research received 96% of all funds appropriated by the US Congress for energy-related R&D between 1947 and 1998, a total of $145b in 1998 dollars [Smil, 43][Smil]
 * LMFBRs are intended to increase the supply of consumable reactants by converting a more available nonfissionable uranium isotope to a fissile plutonium isotope in a reaction less energy expensive than the energy retrieved from the result. Experimentation in this area (a fission reaction) has been funded and active since the 40s with no promising commercial outcomes yet [Smil, 38-39][Smil]
 
