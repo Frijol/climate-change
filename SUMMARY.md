@@ -22,6 +22,7 @@
     * [Effects on the ocean](notes/effects-ocean.md)
 * [Entities](entities/_entities.md)
   * [Companies](entities/companies.md)
+  * [Funds](entities/funds.md)
   * [People](entities/people.md)
   * [Places](entities/places.md)
 * [Areas of Opportunity](areas_of_opportunity.md)
