@@ -103,6 +103,9 @@ The 2009 Climate Change Convention of the Parties in Copenhagen
 ## Copenhagen Accord
 2009 agreement from world leaders to pledge specific actions to cut greenhouse gas emissions.
 
+## CPP
+Clean Power Plan, a 2015 federal initiative in the United States to reduce greenhouse gas emissions from power plants. EPA factsheet: https://www.epa.gov/cleanpowerplan/fact-sheet-overview-clean-power-plan
+
 ## c-Si
 crystalline silicon
 
@@ -214,6 +217,9 @@ Economies of scale combined with improvements in technology and lessons learned 
 ## LMFBRs
 liquid metal fast breeder nuclear reactors
 
+## LNG
+liquid natural gas
+
 ## NAPCC
 National Action Plan on Climate Change
 
@@ -322,7 +328,13 @@ A type of climate change which is gradual, following IPCC graphs
 ## Type II
 A type of climate change that is abrupt and results from the crossing of tipping points
 
+## TZEV
+transitional zero-emissions vehicles, plug-in hybrid electric and hydrogen internal combustion engine vehicles [DoE, 22][DoE]
+
 ## UNFCCC
 1992 United Nations Framework Convention on Climate Change
+
+## ZEV
+zero-emissions vehicles, such as electric and hydrogen fuel cell [DoE, 22][DoE]
 
 {% include "./BIBLIOGRAPHY.md" %}

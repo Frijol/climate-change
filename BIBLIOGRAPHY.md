@@ -8,6 +8,7 @@
 [Chabot]: www.com "Chabot, Bennet. Discussion."
 [Cuff]: https://www.theguardian.com/environment/2016/jan/12/vattenfall-starts-work-on-uk-hybrid-wind-and-solar-farm "Cuff, Madeleine. 'Vattenfall Starts Work on UK Hybrid Wind and Solar Farm.' 2016. The Guardian."
 [Diamond]: https://www.goodreads.com/book/show/475.Collapse "Diamond, Jared. 'Collapse: How Societies Choose to Fail or Succeed.' 2005."
+[DoE]: http://www.eia.gov/outlooks/aeo/pdf/0383(2016).pdf "Department of Energy. 'Annual Energy Outlook 2016 with projections to 2040.' 2016."
 [Energy.govPTC]: http://energy.gov/savings/renewable-electricity-production-tax-credit-ptc "Energy.gov. 'Renewable Energy Production Tax Credit (PTC).' 2016. Information on federal tax credit for renewable energy production."
 [Friedman]: https://www.goodreads.com/book/show/2358737.Hot_Flat_and_Crowded "Friedman, Thomas. 'Hot, Flat, and Crowded: Why We Need a Green Revolution--and How It Can Renew America.' 2008. Concise, compelling, and holistic, this systems-level view is a standout for its treatment of environmental issues in a geopolitical context."
 [Goodell]: https://www.goodreads.com/book/show/7687504-how-to-cool-the-planet "Goodell, Jeff. How to Cool the Planet. 2010. Conversational introduction to geoengineering."
