@@ -16,6 +16,9 @@ reflectivity
 ## Anthropocene
 the name of the current geologic period, implying that the geology of the Earth (through climate change, nuclear fallout, river diversion, monoculture farming, ocean acidification, etc.) is being dominantly affected by humans
 
+## ARRA
+American Recovery and Reinvestment Act: 2009 bill which included some bonus ITC + PTC as temporary economic stimulus [DoE, 33][DoE]
+
 ## aquaculture
 fish farming
 
@@ -159,6 +162,9 @@ Low availability of energy [Friedman, 155][Friedman]
 
 ## entrainment
 thermally and mechanically stressing aquatic organisms to create clean water [DoE, 31][DoE]
+
+## EPACT2005
+Energy Policy Act of 2005 increased ITC [DoE, 33][DoE]
 
 ## EPIA
 European Photovoltaic Industry Association
