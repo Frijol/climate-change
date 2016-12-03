@@ -25,6 +25,9 @@ amorphous silicon
 ## BAPV
 Building applied photovoltaic [IFC]
 
+## BAT
+best available technology
+
 ## BIPV
 Building integrated photovoltaic [IFC]
 
@@ -52,8 +55,17 @@ the amount of sugar present in a fruit or vegetable
 ## broadcast irrigation
 flooding the land or using sprinklers to distribute water over a large area (as opposed to more focused and efficient drip irrigation) [Diamond, 401][Diamond]
 
+## BSER
+best system of emission reduction
+
+## CAA
+Clean Air Act
+
 ## CAES
 Compressed air energy storage
+
+## CAIR
+Clean Air Interstate Rule (2005): cap & trade for sulfur dioxide and nitrogen oxides in the United States. Replaced by the CSAPR.
 
 ## calcifiers
 organisms that build shells or external skeletons, or for plants, internal scaffolding built from calcium carbonate
@@ -61,11 +73,17 @@ organisms that build shells or external skeletons, or for plants, internal scaff
 ## capacity factor
 The ratio of a power plant's actual output to its theoretical potential output at full capacity – accounting for downtime and other inefficiencies.
 
+## CARB
+California Air Resource Board
+
 ## carbon cycle
 Seasonal cycling of carbon dioxide around the earth, which fluctuates annually between lows in the summer and highs in the winter. Plants and other photosynthesizing organisms consume carbon dioxide in the summer. When the plants die in the fall and cease to photosynthesize, the plants are eaten by bacteria, fungi, and animals, which exhale carbon dioxide. Most of the vegetation on the planet is in the Northern Hemisphere, so the Earth's carbon cycle follows Northern Hemisphere seasons.
 
 ## carbon engineering
 Geoengineering to pull carbon out of the atmosphere
+
+## CCR
+Coal Combustion Residual Rule concerns the disposal of coal ash, a waste product of coal power plants
 
 ## CCS
 Carbon capture and sequestration, sorting CO2 out of exhaust at its source
@@ -106,8 +124,14 @@ The 2009 Climate Change Convention of the Parties in Copenhagen
 ## CPP
 Clean Power Plan, a 2015 federal initiative in the United States to reduce greenhouse gas emissions from power plants. EPA factsheet: https://www.epa.gov/cleanpowerplan/fact-sheet-overview-clean-power-plan
 
+## CSAPR
+Cross State Air Pollution Rule requires states to reduce power plant emissions that leave air pollution/particulate in other states (2011)
+
 ## c-Si
 crystalline silicon
+
+## CWA
+Clean Water Act
 
 ## declining block rates
 The more you buy, the cheaper the price per unit
@@ -118,11 +142,23 @@ Emissions caused by e.g. the manufacturing and transport of an item
 ## DoE
 Department of Energy (U.S.A.)
 
+## DoI
+Department of the Interior (U.S.A.)
+
+## EG
+Steam Electric Power Generating Effluent Guidelines
+
+## EGU
+electric generating unit
+
 ## energy descent action plan
 a collectively designed blueprint for a community (transition town) to lower its emissions and cease to use fossil fuels
 
 ## energy poverty
 Low availability of energy [Friedman, 155][Friedman]
+
+## entrainment
+thermally and mechanically stressing aquatic organisms to create clean water [DoE, 31][DoE]
 
 ## EPIA
 European Photovoltaic Industry Association
@@ -181,6 +217,9 @@ Co-located farms for multiple renewable energy types, esp. wind and solar
 ## IEA
 International Energy Agency
 
+## impingement
+trapping of aquatic organisms against water intake structures [DoE, 31][DoE]
+
 ## indirect emissions
 Emissions caused by e.g. the process to extract the materials used in creating an item or activity
 
@@ -192,6 +231,9 @@ The more you buy, the more it costs per unit
 
 ## IPCC
 Intergovernmental Panel on Climate Change (a UN organization)
+
+## ITC
+Investment Tax Credit: http://energy.gov/savings/business-energy-investment-tax-credit-itc
 
 ## JI
 Joint Implementation, a flexible mechanism for carbon markets under the Kyoto Protocol
@@ -211,6 +253,9 @@ Levelised cost of electricity, the net present value of the unit-cost of electri
 ## LDG
 Latitudinal diversity gradient: the pattern that there is greater species diversity the farther away you get from the poles
 
+## LDV
+Light-duty vehicle, i.e. passenger vehicles and some ~van-sized commercial vehicles
+
 ## learning curve
 Economies of scale combined with improvements in technology and lessons learned as a technology rolls out [Naam][NaamStorage]
 
@@ -219,6 +264,9 @@ liquid metal fast breeder nuclear reactors
 
 ## LNG
 liquid natural gas
+
+## MATS
+Mercury Air Toxics Standard
 
 ## NAPCC
 National Action Plan on Climate Change
@@ -229,14 +277,23 @@ National Academy of Sciences
 ## NCRE
 Non-conventional renewable energy
 
+## NEMS
+National Energy Modeling System
+
 ## New Pangaea
 A term used to refer to the ecological globalization/homogenization of the world through the spreading of non-native species via human activities
 
 ## NIMBY
 Not in my backyard. As in "yes high voltage power transmission is a great idea, but not in my backyard"
 
+## NPDES
+National Pollutant Discharge Elimination System
+
 ## NREL
 National Renewable Energy Laboratory
+
+## NSPS
+new source performance standard, a regulatory emissions standard on new power plants
 
 ## ocean acidification
 the reduction of alkalinity in the world's oceans through absoroption of human-produced carbon dioxide from preindustrial levels of 8.2 to a projected 7.8 by 2100
@@ -269,7 +326,7 @@ shorthand name for albedo engineering
 Parts per million
 
 ## PTC
-Prouction Tax Credit, a federal tax credit in the United States which provides inflation-adjusted per-kWH rebates for qualifying renewable energy sales [Energy.gov][Energy.govPTC]
+Production Tax Credit, a federal tax credit in the United States which provides inflation-adjusted per-kWH rebates for qualifying renewable energy sales [Energy.gov][Energy.govPTC]
 
 ## PUC
 Public Utility Commission, state entity regulating utility companies
@@ -295,6 +352,9 @@ Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated
 ## RPO
 Renewable purchase obligation
 
+## RPS
+Renewable Portfolio Standards, regulation requiring renewables in an energy portfolio
+
 ## run-of-the-river
 Hydropower which uses natural flow and elevation drop of water rather than a dam
 
@@ -315,6 +375,9 @@ State Electricity Regulatory Commission
 
 ## solar energy resource
 Depends on solar irradiation of the geographic area and also on local shade
+
+## SPR
+Stream Protection Rule: proposed rule affects surface mining operations and underground mining operations that affect the surface [DoE, 32][DoE]
 
 ## SRM
 Solar radiation management (albedo engineering)
