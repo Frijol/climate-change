@@ -1,3 +1,6 @@
+## ACP
+alternative compliance payment: amount that electricity suppliers have to pay if they aren't able to generate or buy rights to sufficient renewable energy to meet their renewable portfolio standards
+
 ## additionality
 the assurance to a buyer of a carbon market that the money spent is really eliciting a reduction in carbon
 
@@ -17,7 +20,7 @@ reflectivity
 the name of the current geologic period, implying that the geology of the Earth (through climate change, nuclear fallout, river diversion, monoculture farming, ocean acidification, etc.) is being dominantly affected by humans
 
 ## ARRA
-American Recovery and Reinvestment Act: 2009 bill which included some bonus ITC + PTC as temporary economic stimulus [DoE, 33][DoE]
+American Recovery and Reinvestment Act: 2009 bill which included some bonus ITC + PTC as temporary economic stimulus [EIA, 33][EIA]
 
 ## aquaculture
 fish farming
@@ -26,7 +29,7 @@ fish farming
 amorphous silicon
 
 ## ATPZEV
-Advanced Technology Partial Zero-Emission Vehicle: hybrid, compressed natural gas, and methanol fuel cell vehicles with near-zero emissions and extended emissions system warranties [DoE, 35][DoE]
+Advanced Technology Partial Zero-Emission Vehicle: hybrid, compressed natural gas, and methanol fuel cell vehicles with near-zero emissions and extended emissions system warranties [EIA, 35][EIA]
 
 ## BAPV
 Building applied photovoltaic [IFC]
@@ -103,6 +106,9 @@ Clean Development Mechanism, a flexible mechanism for carbon markets under the K
 ## CERC
 Central Energy Regulatory Commission
 
+## CHP
+combined heat and power, also called cogeneration: combined production of useful heat and electric or mechanical power. Also applies to useful cooling. Essentially, requires power generation to occur near the point of consumption so that the thermal effects can also be used. http://energy.gov/eere/amo/combined-heat-and-power-basics
+
 ## coral bleaching
 corals turning white through ejection of their colorful zooxanthellae due to the zooxanthellae's dangerous release of oxygen radicals when ocean waters grow too warm
 
@@ -145,11 +151,17 @@ The more you buy, the cheaper the price per unit
 ## direct emissions
 Emissions caused by e.g. the manufacturing and transport of an item
 
-## DoE
+## EIA
 Department of Energy (U.S.A.)
 
 ## DoI
 Department of the Interior (U.S.A.)
+
+## EEPS
+energy efficiency portfolio standard: legislated energy use reduction. "mandatory, sets long-term reduction targets (at least three years), is sufficiently funded to allow covered entities to meet their targets, uses financial incentives or nonperformance penalties, and usually (but not always) increases over time" [EIA, 42][EIA]
+
+## EERS
+energy efficiency resource standard: legislated energy use reduction. See EEPS [EIA, 42][EIA]
 
 ## EG
 Steam Electric Power Generating Effluent Guidelines
@@ -164,10 +176,10 @@ a collectively designed blueprint for a community (transition town) to lower its
 Low availability of energy [Friedman, 155][Friedman]
 
 ## entrainment
-thermally and mechanically stressing aquatic organisms to create clean water [DoE, 31][DoE]
+thermally and mechanically stressing aquatic organisms to create clean water [EIA, 31][EIA]
 
 ## EPACT2005
-Energy Policy Act of 2005 increased ITC [DoE, 33][DoE]
+Energy Policy Act of 2005 increased ITC [EIA, 33][EIA]
 
 ## EPIA
 European Photovoltaic Industry Association
@@ -227,7 +239,7 @@ Co-located farms for multiple renewable energy types, esp. wind and solar
 International Energy Agency
 
 ## impingement
-trapping of aquatic organisms against water intake structures [DoE, 31][DoE]
+trapping of aquatic organisms against water intake structures [EIA, 31][EIA]
 
 ## indirect emissions
 Emissions caused by e.g. the process to extract the materials used in creating an item or activity
@@ -237,6 +249,9 @@ planting two or more crops interspersed to maximize light, water, and nutrient u
 
 ## inverted rates
 The more you buy, the more it costs per unit
+
+## IOU
+investor owned utility, as opposed to publicly owned
 
 ## IPCC
 Intergovernmental Panel on Climate Change (a UN organization)
@@ -276,6 +291,9 @@ liquid metal fast breeder nuclear reactors
 
 ## LNG
 liquid natural gas
+
+## LSE
+load serving entities: energy suppliers
 
 ## MATS
 Mercury Air Toxics Standard
@@ -337,6 +355,9 @@ chemical compounds that are the building blocks of taste, such as amino acids, e
 ## Pinatubo Option
 shorthand name for albedo engineering
 
+## POU
+publicly owned utility (as opposed to investor owned)
+
 ## PPM
 Parts per million
 
@@ -353,7 +374,7 @@ photovoltaic(s)
 consists of site-specific requirements and restraints, type of PV module to use, tilting angle, inverters, mounting and tracking apparatus, and arrangement of cells. Optimization takes into account shade, performance degradation over time, and tradeoffs of energy yield vs. spend for improved equipment. [IFC, 5][IFC]
 
 ## PZEV
-Partial Zero-Emission Vehicle: low-emission conventional internal combustion vehicles with extended emissions system warranties [DoE, 35][DoE]
+Partial Zero-Emission Vehicle: low-emission conventional internal combustion vehicles with extended emissions system warranties [EIA, 35][EIA]
 
 ## rebound effect
 e.g. a low-carbon technology is more convenient than a high-carbon technology, so we use it more, and end up using more carbon than previously [Berners-Lee, 16][Berners-Lee]
@@ -395,7 +416,7 @@ State Electricity Regulatory Commission
 Depends on solar irradiation of the geographic area and also on local shade
 
 ## SPR
-Stream Protection Rule: proposed rule affects surface mining operations and underground mining operations that affect the surface [DoE, 32][DoE]
+Stream Protection Rule: proposed rule affects surface mining operations and underground mining operations that affect the surface [EIA, 32][EIA]
 
 ## SRM
 Solar radiation management (albedo engineering)
@@ -410,12 +431,12 @@ A type of climate change which is gradual, following IPCC graphs
 A type of climate change that is abrupt and results from the crossing of tipping points
 
 ## TZEV
-transitional zero-emissions vehicles, plug-in hybrid electric and hydrogen internal combustion engine vehicles [DoE, 22, 35][DoE]
+transitional zero-emissions vehicles, plug-in hybrid electric and hydrogen internal combustion engine vehicles [EIA, 22, 35][EIA]
 
 ## UNFCCC
 1992 United Nations Framework Convention on Climate Change
 
 ## ZEV
-zero-emissions vehicles: battery-electric and hydrogen fuel cell [DoE, 22, 35][DoE]
+zero-emissions vehicles: battery-electric and hydrogen fuel cell [EIA, 22, 35][EIA]
 
 {% include "./BIBLIOGRAPHY.md" %}
