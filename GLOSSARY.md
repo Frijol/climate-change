@@ -25,6 +25,9 @@ fish farming
 ## a-Si
 amorphous silicon
 
+## ATPZEV
+Advanced Technology Partial Zero-Emission Vehicle: hybrid, compressed natural gas, and methanol fuel cell vehicles with near-zero emissions and extended emissions system warranties [DoE, 35][DoE]
+
 ## BAPV
 Building applied photovoltaic [IFC]
 
@@ -265,6 +268,9 @@ Light-duty vehicle, i.e. passenger vehicles and some ~van-sized commercial vehic
 ## learning curve
 Economies of scale combined with improvements in technology and lessons learned as a technology rolls out [Naam][NaamStorage]
 
+## LFG
+landfill gas
+
 ## LMFBRs
 liquid metal fast breeder nuclear reactors
 
@@ -273,6 +279,9 @@ liquid natural gas
 
 ## MATS
 Mercury Air Toxics Standard
+
+## MSW
+Municipal solid waste: turning regular garbage into energy through various technologies such as landfill gas capture, combustion, pyrolysis, gasification [Wikipedia][https://en.wikipedia.org/wiki/Municipal_solid_waste#Energy_generation]
 
 ## NAPCC
 National Action Plan on Climate Change
@@ -343,6 +352,9 @@ photovoltaic(s)
 ## PV plant design
 consists of site-specific requirements and restraints, type of PV module to use, tilting angle, inverters, mounting and tracking apparatus, and arrangement of cells. Optimization takes into account shade, performance degradation over time, and tradeoffs of energy yield vs. spend for improved equipment. [IFC, 5][IFC]
 
+## PZEV
+Partial Zero-Emission Vehicle: low-emission conventional internal combustion vehicles with extended emissions system warranties [DoE, 35][DoE]
+
 ## rebound effect
 e.g. a low-carbon technology is more convenient than a high-carbon technology, so we use it more, and end up using more carbon than previously [Berners-Lee, 16][Berners-Lee]
 
@@ -398,12 +410,12 @@ A type of climate change which is gradual, following IPCC graphs
 A type of climate change that is abrupt and results from the crossing of tipping points
 
 ## TZEV
-transitional zero-emissions vehicles, plug-in hybrid electric and hydrogen internal combustion engine vehicles [DoE, 22][DoE]
+transitional zero-emissions vehicles, plug-in hybrid electric and hydrogen internal combustion engine vehicles [DoE, 22, 35][DoE]
 
 ## UNFCCC
 1992 United Nations Framework Convention on Climate Change
 
 ## ZEV
-zero-emissions vehicles, such as electric and hydrogen fuel cell [DoE, 22][DoE]
+zero-emissions vehicles: battery-electric and hydrogen fuel cell [DoE, 22, 35][DoE]
 
 {% include "./BIBLIOGRAPHY.md" %}
