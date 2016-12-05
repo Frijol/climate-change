@@ -151,11 +151,14 @@ The more you buy, the cheaper the price per unit
 ## direct emissions
 Emissions caused by e.g. the manufacturing and transport of an item
 
-## EIA
+## DoE
 Department of Energy (U.S.A.)
 
 ## DoI
 Department of the Interior (U.S.A.)
+
+## ECA
+emission control area
 
 ## EEPS
 energy efficiency portfolio standard: legislated energy use reduction. "mandatory, sets long-term reduction targets (at least three years), is sufficiently funded to allow covered entities to meet their targets, uses financial incentives or nonperformance penalties, and usually (but not always) increases over time" [EIA, 42][EIA]
@@ -295,8 +298,14 @@ liquid natural gas
 ## LSE
 load serving entities: energy suppliers
 
+## MARPOL
+International Convention for the Prevention of Pollution from Ships [EIA, 45][EIA]
+
 ## MATS
 Mercury Air Toxics Standard
+
+## MGO
+marine gas oil: fuel oil made from distillate only- wiki: https://en.wikipedia.org/wiki/Fuel_oil#Maritime
 
 ## MSW
 Municipal solid waste: turning regular garbage into energy through various technologies such as landfill gas capture, combustion, pyrolysis, gasification [Wikipedia][https://en.wikipedia.org/wiki/Municipal_solid_waste#Energy_generation]
@@ -318,6 +327,9 @@ A term used to refer to the ecological globalization/homogenization of the world
 
 ## NIMBY
 Not in my backyard. As in "yes high voltage power transmission is a great idea, but not in my backyard"
+
+## NOx
+nitrogen oxide, typically nitrogen dioxide, a pollutant in emissions that is harmful to humans- wiki: https://en.wikipedia.org/wiki/Nitrogen_dioxide#Human-caused_sources_and_exposure
 
 ## NPDES
 National Pollutant Discharge Elimination System
@@ -414,6 +426,9 @@ State Electricity Regulatory Commission
 
 ## solar energy resource
 Depends on solar irradiation of the geographic area and also on local shade
+
+## SOx
+sulful oxides, a pollutant present in exhaust which causes acid rain- wiki: https://en.wikipedia.org/wiki/Air_pollution#Pollutants
 
 ## SPR
 Stream Protection Rule: proposed rule affects surface mining operations and underground mining operations that affect the surface [EIA, 32][EIA]
