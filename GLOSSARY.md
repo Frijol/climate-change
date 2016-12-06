@@ -241,6 +241,9 @@ heavy-duty vehicles, 8.5k+ lbs GVWR [transportpolicy.net](http://transportpolicy
 ## helical turbine
 A vertical turbine whose blades are modeled after birds' wings
 
+## HGL
+hydrocarbon gas liquids: produced from unrefined natural gas, they have high energy density and sit on the gas/liquid boundary [EIA factsheet on HGL](https://www.eia.gov/energyexplained/index.cfm?page=hgls_home)
+
 ## HVDC
 High voltage DC power
 
@@ -336,6 +339,9 @@ National Energy Modeling System
 
 ## New Pangaea
 A term used to refer to the ecological globalization/homogenization of the world through the spreading of non-native species via human activities
+
+## NGPL
+natural gas plant liquids, recovered from processing, e.g. propane
 
 ## NIMBY
 Not in my backyard. As in "yes high voltage power transmission is a great idea, but not in my backyard"
