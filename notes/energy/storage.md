@@ -22,4 +22,4 @@
 ## Further reading
 * Battery storage in office/industrial buildings to load balance grid pull: http://www.ee.ucr.edu/~stan/papers/dac14_bat.pdf
 
-{% include "../BIBLIOGRAPHY.md" %}
+{% include "../../BIBLIOGRAPHY.md" %}

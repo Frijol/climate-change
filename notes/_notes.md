@@ -39,20 +39,6 @@ disorganized notes or sections I don't have filled out yet
 * China's number of households has been grew at 3.5%/year 1990-2005 [Diamond, 361][Diamond]
 * "creeping normalcy": the idea that slow trends are concealed within noisy fluctuations, such that they can't be discerned by people who have experienced the slow change. E.g. do we experience more heat waves now than when I was a child? We had a lot two years ago, just a few last year. But I don't remember if we ever had more than one per year when I was seven. [Diamond, 69.4%][Diamond]
 * "landscape amnesia": forgetting how different the landscape used to look because the change has been gradual. E.g. lack of snow in the summer on a mountaintop may seem normal if it has gradually disappeared over 50 years but is shocking to someone who had never seen it bare from a childhood 50 years previous [Diamond, 69.4%][Diamond]
-* energy return on energy invested (EROEI): you have to use some energy to get the energy you need to use. Changing ratios provide a useful look at energy pinch points. Oil was originally ~100:1, now it's closer to 20:1.
-
-| Fuel                      | EROEI   |
-|---------------------------|---------|
-| Natural gas               | 20-40:1 |
-| Oil                       |    20:1 |
-| Wind                      |    20:1 |
-| Nuclear (new)             |    15:1 |
-| Solar                     |    10:1 |
-| Sugar cane ethanol        |     8:1 |
-| Tar sands                 |     5:1 |
-| Shale oil                 |     3:1 |
-| Corn ethanol (optimistic) |   1.4:1 |
-[Murphy]
 
 
 ## Electric cars
