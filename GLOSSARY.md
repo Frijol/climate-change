@@ -199,6 +199,9 @@ Applied egalitarian principle that seeks to address historical, current, and pot
 ## ERF
 Equity reference Framework
 
+## EROEI
+energy return on energy invested [Murphy]
+
 ## ETS
 Emissions Trading System
 

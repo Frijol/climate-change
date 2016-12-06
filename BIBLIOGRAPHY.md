@@ -22,6 +22,7 @@
 [Lovins]: https://www.goodreads.com/book/show/11273339-climate-capitalism "Lovins, L. and Cohen, Boyd. Climate Capitalism. 2011. How businesses should and do profit by reducing their carbon footprint. Reads as a bit idealistic, but there are a lot of examples."
 [Louv]: https://www.goodreads.com/book/show/156599.Last_Child_in_the_Woods "Louv, Richard. Last Child in the Woods: Saving our Kids from Nature Deficit Disorder. 2005. Somewhat romanticized but still resonant argument that children need nature, and they're not growing up with it anymore."
 [Montgomery]: www.salmonproject.org/book-drop "Montgomery, David. King of Fish: the Thousand-Year Run of Salmon. 2003. Everything about what salmon need to survive, and how these factors are changing with human activity."
+[Murphy]: http://physics.ucsd.edu/do-the-math/2011/10/the-energy-trap/ "Murphy, Tom. 'The Energy Trap.' 2011. Discussion of peak oil."
 [NaamSolar]: http://rameznaam.com/2015/08/10/how-cheap-can-solar-get-very-cheap-indeed/ "Naam, Ramez. 'How Cheap can Solar Get? Very Cheap Indeed.' 2015. Analysis of market readiness for solar technology."
 [NaamStorage]: http://rameznaam.com/2015/10/14/how-cheap-can-energy-storage-get/ "Naam, Ramez. 'How Cheap Can Energy Storage Get? Pretty Darn Cheap.' 2015."
 [NaamWind]: http://rameznaam.com/2015/08/30/how-steady-can-the-wind-blow/ "Naam, Ramez. 'How Steady can Wind Power Blow.' 2015. Analysis of market readiness for wind power."
