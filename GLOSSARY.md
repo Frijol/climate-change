@@ -448,6 +448,12 @@ Stream Protection Rule: proposed rule affects surface mining operations and unde
 ## SRM
 Solar radiation management (albedo engineering)
 
+## tidal barrage
+a tidal power generator that is essentially a hydroelectric dam: open for inflow, close & run generator on outflow (possible to generate power in both directions) [Maehlum]
+
+## tidal stream generator
+underwater turbines for tidal power
+
 ## Transition town
 a grassroots community movement to reduce local dependence on oil and other high-emitting energy sources
 
