@@ -1,7 +1,10 @@
 # Natural Gas
 
 * Natural gas has been going through huge boom in the United States [EIA, 83][EIA]
-* Rising natural gas
+* Rising natural gas production makes byproduct fuels like HGL and NGPL more economically viable [EIA, 83][EIA]
+* Natural gas production from tight and shale gas formations increased 23% from 2010 to 2015 in the United States. This is a shift from traditional dry natural gas (which still dominates) to wet [EIA, 83][EIA]
+* Wet natural gas is slower to profit than dry natural gas (it requires processing into dry before it can be put in pipelines, and the formations have low initial yields) but the NGPL output can make it more profitable in the long run [EIA, 86][EIA]
+* "Because NGPL is produced during the processing of natural gas, either from natural gas wells or from gas associated with crude oil production, NGPL production levels are largely driven by the development of these resources. The revenue associated from extracting NGPL streams, such as ethane, propane, butane, and natural gasoline, justify the cost of producing areas with NGPL-rich resources. When the price ratio between crude oil and natural gas is high, a producer is more likely to develop higher NGPL recovery formations because they can overcome the higher cost of processing these resources. When the spread is narrow, a producer is likely to avoid these costs and focus on developing natural gas production areas with low or no NGPL." [Wilczewski]
 
 ## Climate change problems caused by natural gas
 * The vast majority of new gas projects in North America rely on fracking [Klein, 192][Klein]

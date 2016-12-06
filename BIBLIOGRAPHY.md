@@ -39,4 +39,5 @@
 [SutterParis]: http://www.cnn.com/2016/04/21/opinions/sutter-paris-agreement-whats-next/index.html "Sutter, John. 'What\'s next for the Paris agreement?' 2016. Straightforward FAQ on the Paris Agreement."
 [Victor]: http://worrydream.com/ClimateChange/ "Victor, Bret. 'What Can a Technologist Do about Climate Change? (A Personal View).' 2015. Essay on how techies and entrepreneurs can work on the problem of climate change."
 [Weisman]: https://www.goodreads.com/book/show/248787.The_World_Without_Us "Weisman, Alan. 'The World Without Us.' 2007. How Earth would remember our species if all humans suddenly disappeared. Thoroughly researched and dryly stated."
+[Wilczewski]: http://www.eia.gov/todayinenergy/detail.php?id=27372 "Wilczewski, Warren. 'Future natural gas plant liquids production depends on resources, market conditions.' 2016."
 [Yakama]: https://cig.uw.edu/our-work/decision-support/yakama-nation-adaptation-plan/ "Yakama Nation. 'Climate Adaptation Plan for the Territories of the Yakama Nation.' 2016. Link isn't the full report. Climate change adaptation plan for Yakama Nation with help from Oregon & WA universities."

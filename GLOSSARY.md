@@ -376,6 +376,10 @@ the point in time when the maximum extraction of oil is reached (based on a theo
 ## People's Recovery
 The use of destruction from catastrophic events as an opportunity to rebuild with equity in mind
 
+## petrochemical cracker
+a plant designed to convert ethane, propane, and normal
+butane, as well as naphtha, to ethylene, propylene, and other building blocks of the petrochemical industry [EIA, 86][EIA]
+
 ## pH
 pH is a logarithmic scale from 0 to 14, where 7 is neutral, higher is basic (alkaline), and lower is acidic
 
