@@ -1,5 +1,7 @@
 # Agriculture
 * Modern agriculture is highly connected with climate change, particularly: practices dependent on fossil fuels, land usage and deforestation, chemical sprays (herbicides, fungicides, fertilizers, etc.), transportation/refrigeration/packaging/retail [Lovins, 178][Lovins]
+* 60% of Australia's land use and 80% of its human water use are for agriculture, but agriculture contributes less than 3% of the GDP. Most of the land (>99%) thus engaged is uneconomically viable without government subsidy; the only truly profitable agriculture is <0.8% of that agricultural land [Diamond, 413][Diamond]
+* China uses 3x the world average of fertilizer per acre [Diamond, 362][Diamond]
 
 ## Overproduction
 * American farms overproduce to the extent that in 1962 the government subsidized at more than $1bn/year in surplus food storage [Carson, 27][Carson] //TODO: updated stat?

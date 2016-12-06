@@ -9,8 +9,9 @@
 * In Nigeria, foreign-investment oil has spilled an Exxon Valdez worth of oil on the Niger Delta every year for ~50 years [Klein, 275][Klein]
 * Principles from the "golden age" of environmental legislation: ban/severely limit the offending activity/substance. Where possible, get the offender to pay for the cleanup. [Klein, 183][Klein]
 
-## Effects on human health from air pollution
+## Effects on human health from pollution
 * EPA warns that indoor air pollution is the United States' number one environmental threat to health, 2-10x worse than outdoor air pollution [Louv, 112][Louv]
+* Health impacts in China: average blood lead levels in urban Chinese are double "dangerously high" levels in other parts of the world, 300k deaths and $54b in health care are attributable to pollution [Diamond, 329][Diamond]
 
 ## Effects on human health from pesticides
 * The FDA typically does not ban the presence of toxins in foods, but sets "allowable levels", which means that even approved food can contain enough that toxins build up over time in your body [Carson, 195][Carson]

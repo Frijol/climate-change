@@ -7,4 +7,8 @@
 * US dependence on foreign oil has been increasing fairly steadily from 37% of oil around 1973 to 63% in 2007 [Smil, 135][Smil]
 * [Pickens Plan](http://www.pickensplan.com/the-plan/) is an effort to transition the United States off of foreign oil dependence
 
+## International foci
+* China's environmental problems: air pollution, biodiversity loss, cropland loss, desertification, shrinking wetlands, grassland degradation, increased natural disasters (both size and quantity), invasive species, overgrazing, river flow cessation, salinization, soil erosion, trash accumulation, water pollution, shortages [Diamond, 359][Diamond]
+* Australian public environmentalism focuses on land clearance, river development, and old-growth logging [Diamond, 410][Diamond]
+
 {% include "../../BIBLIOGRAPHY.md" %}

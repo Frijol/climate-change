@@ -1,5 +1,7 @@
 # Effects of climate change
 
+* On average, storms last 60% longer and have wind speeds 15% higher in the 2000s than they did in the 1950s [Pearce, 215][Pearce]
+
 ## Positive feedback loops
 * Global warming reduces the likelihood that we can count on forests and trees as permanent carbon sinks. Sequestration of carbon in forests fluctuates to the extent that some years forests can produce more carbon than they sequester [Smil, 80][Smil]. In the near future, Tropical forests’ carbon impacts will change in the near future mostly due to deforestation, but many other forests will be limited by water and soil nutrient availability, especially a lack of nitrogen. This is one of the effects of global warming. We will also have more carbon-releasing wildfires across these forests due to longer droughts from global warming. [Smil, 82][Smil]
 
@@ -13,9 +15,10 @@
 * As of May 2014, glacier melt in a section of West Antarctica (~the size of France) "appears unstoppable"[Klein, 16][Klein]
 
 ## Drought
-
 * The percentage of Earth's land area stricken by serious drought has more than doubled in 30 years. In the 1970s, it was less than 15% of the land; by the early 2000s, it was more than 30% [Pearce, 173][Pearce]
 * There is a correlation between droughts in the western United States, South America, parts of Europe, and Central Asia [Pearce, 173][Pearce]
+* Droughts affect 30% of China's cropland every year [Diamond, 367][Diamond]
+* China is short on water, especially in the north. Water supply in the north is 1/5 per capita that it is in the south; shortages occasionally halt industrial production. 2/3 of city + irrigation water is from groundwater aquifers, which are beginning to salinate in coastal areas and collapse in emptier inland ones [Diamond, 365][Diamond]
 
 ### Desertification
 * Desertification: forces massive migration of villages (and cities) [Larsson]

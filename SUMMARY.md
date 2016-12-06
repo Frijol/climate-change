@@ -5,6 +5,7 @@
     * [Basics](notes/causes/basics.md)
     * [Agriculture](notes/causes/agriculture.md)
     * [Deforestation](notes/causes/deforestation.md)
+    * [Overconsumption](notes/causes/overconsumption.md)
     * [Response](notes/causes/response.md)
   * [Effects](notes/effects/_effects.md)
     * [Biodiversity](notes/effects/biodiversity.md)

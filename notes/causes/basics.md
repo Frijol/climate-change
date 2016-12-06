@@ -13,6 +13,7 @@
 * Greenhouse gases trap heat in the atmosphere - if atmospheric carbon doubles, world temperatures raise by 10F [Pearce, 4][Pearce]
 
 ## Historical precedent
+* **History of carbon in the atmosphere:** 440b tons at the coldest part of the last ice age, 660b tons at the start of the Industrial Revolution (largely from the ocean). 2007: 880b tons. **Current estimate for "safe" level of carbon:** no more than 935b tons to get a 50% chance of staying below internationally recognized "dangerous" temperature rise. This is 55b tons more than already in the atmosphere in 2007. **Current rate of emission:** 8.2b tons/year emitted, ~60% stays in the atmosphere - so 4.4b tons/year. **That puts us crossing the "safe" threshold around 2020.** [Pearce, 242][Pearce]
 * Most of the Ordovician period had a greenhouse climate (high CO2 levels in the air, high sea level, high temperature). Rapid drop in CO2 levels resulted in a big five extinction (according to current theory). [Kolbert, 183][Kolbert]
 * Colder water holds more oxygen [Kolbert, 183][Kolbert]
 * The end-Permian extinction (a big five extinction event) appears to have been triggered by a rapid rise in CO2/climate. Ocean temperatures rose ~18 degrees F, waters became more acidic and lost oxygen. 90% of species on earth became extinct over a period of 100-200k years. [Kolbert, 183][Kolbert]
