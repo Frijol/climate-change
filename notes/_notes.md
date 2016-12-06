@@ -4,17 +4,9 @@ As I'm reading, facts and ideas that stand out. These are mostly organized into 
 # Stubs
 disorganized notes or sections I don't have filled out yet
 
-* Climate change predictions have been underpredicted 20% more often than they have been overpredicted in the past 20 years [Brysse]
 * In a 1995 survey published in the MIT Press, a substantial majority justified environmental protection by explicitly invoking God's name as creator. From the article, "It seems that divine creation is the closest concept American culture provides to express the sacredness of nature. Regardless of whether one actually believes in biblical Creation, it is the best vehicle we have to express this value." [Louv, 248][Louv]
 * No country, as of 2000, uses local power as a major (even non-negligible) energy source [Smil, 49][Smil]
-* The best fit for a resource extraction model is logarithmic, so while we will hit an asymptote on oil (and thus be unable to keep up with increasing demand), we won’t suddenly be out of energy. [Smil, 66][Smil]
-* Energy transitions are slow by nature. Oil took 50 years to climb from first commercial production to a 10% market share, and we continue to depend on prior dominant energy forms: coal, wood [Smil, 138][Smil]
-* Quick energy transitions destabilize economies. Any new technology adoption requires a heavy up-front investment (estimated by Smil at at least $3 trillion). This is needed both in the energy sourcing and transport infrastructures, and in the “primary movers”, the major users of the new energy (such as cars). Primary movers take years to become efficient [Smil, 138][Smil].
-* Quick changes in primary energy sources leaves less time to build infrastructure and primary movers. Transition also requires people who had invested in the old system to write off of that infrastructure investment [Smil, 142][Smil]
-* From data up to 2008, we are not currently transitioning off of oil. In 2008, energy from new renewable energy sources was less than 2.4% in the United States. [Smil, 135][Smil]
-* Britain: Hadley Centre for Climate Prediction's climate model is one of the world's top 3 [Pearce, 66][Pearce]
-* Hadley model predicts that if climate emissions continue at current trends, the Amazon rainforest will be gone by 2100: "able to support only shrubs or grass at most" because of warmer seas > droughts > threshold forest fire conditions > huge fires across the rainforest [Hadley study in 2005, in Pearce, 66][Pearce]
-* Death of the Amazon rainforest (as predicted by 2100 assuming current emissions trends continue) would release enough carbon to increase expected rate of global warming by 50%+ (77b currently stored down to 16.5b by 2100) [Pearce, 66][Pearce]
+
 * Methane emissions from thawing peat bogs in Western Siberia are up to 100k tons/day, a greater warming effect than U.S. man-made emissions [Pearce, 79][Pearce]
 * Stordalen mire: well-monitored permafrost peat bog in northern Sweden that is beginning to break up [Pearce, 82][Pearce]
 * 1-10t tons of methane is currently held by clathrates [Pearce, 92][Pearce]

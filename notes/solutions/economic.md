@@ -15,6 +15,10 @@
 * CCX became the de facto United States carbon market on an opt-in basis in 2003. Major companies opted in to prepare for future legislation, for good marketing, and other reasons. Some success was had but it was closed in 2010 [Lovins, 229-231][Lovins]
 * Regional systems started to put carbon markets in place when no federal ones appeared, starting with RGGI. Western Climate Initiative (Arizona, California, Montana, New Mexico, Oregon, Utah, Washington) followed in 2007. [Lovins, 232][Lovins]
 
+### Failure in carbon credit system implementation
+* Poor implementation: companies which do tons of emissions have gamed the system by cheaply burning part of the toxic chemicals they spew, generating millions of dollars in carbon credits - sometimes worth more than the original business. A sort of encouragement to build a dirty business and then green it a little for profit. [Klein, 197][Klein]
+* Companies operating in the Niger Delta trying to claim carbon credits for stopping gas flaring [Klein, 196][Klein]
+
 ### Controversy
 
 #### Pro carbon credits
@@ -45,4 +49,4 @@
 * A tax of $50/metric ton of CO2 emitted in developed countries would raise ~$450 billion annually [Klein, 105][Klein]
 * The United States provides a tax credit for the first 10 years of operation of new renewables: $0.023/kWh for wind, geothermal, closed-loop biomass; $0.012/kWh for other eligible technologies. [Energy.govPTC]
 
-{% include "../BIBLIOGRAPHY.md" %}
+{% include "../../BIBLIOGRAPHY.md" %}

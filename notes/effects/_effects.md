@@ -1,0 +1,30 @@
+# Effects of climate change
+
+## Positive feedback loops
+* Global warming reduces the likelihood that we can count on forests and trees as permanent carbon sinks. Sequestration of carbon in forests fluctuates to the extent that some years forests can produce more carbon than they sequester [Smil, 80][Smil]. In the near future, Tropical forests’ carbon impacts will change in the near future mostly due to deforestation, but many other forests will be limited by water and soil nutrient availability, especially a lack of nitrogen. This is one of the effects of global warming. We will also have more carbon-releasing wildfires across these forests due to longer droughts from global warming. [Smil, 82][Smil]
+
+## Continued effects even after we improve
+* The IPCC says we get 90 more years of climate change regardless of how much emission we stop. 2007: 385 PPM CO2. No way to avoid 450 PPM by midcentury according to Pew Center on Global Climate Change [Begley]
+* In order to have a 50% chance of keeping below the agreed-upon international target of no more than 2 degrees C of warming, all wealthy countries need to start cutting greenhouse gas emissions by 8-10% immediately (2015) [Klein, 81][Klein]
+
+## Glacier retreat
+* In Glacier Bay (AK), ice front surveyed by Cook in late 1700s retreated 50 miles by 1980s [Montgomery, 32][Montgomery]
+* Glacier National Park in the late 1800s had over 150 glaciers, 35 in 2005, at current rates 0 by 2030 [Diamond, 37][Diamond]
+* As of May 2014, glacier melt in a section of West Antarctica (~the size of France) "appears unstoppable"[Klein, 16][Klein]
+
+## Drought
+
+* The percentage of Earth's land area stricken by serious drought has more than doubled in 30 years. In the 1970s, it was less than 15% of the land; by the early 2000s, it was more than 30% [Pearce, 173][Pearce]
+* There is a correlation between droughts in the western United States, South America, parts of Europe, and Central Asia [Pearce, 173][Pearce]
+
+### Desertification
+* Desertification: forces massive migration of villages (and cities) [Larsson]
+* In order to stop desertification, you need to make something that will catch sand and keep it from blowing past its borders and taking in more land. E.g. wall of trees [Larsson]
+* Around the Sahara, people are often poor and will chop down trees planted as sandbreak for firewood. Larsson proposes sandbreak made of sandstone, hardened by some bugs [Larsson]
+
+## Flooding
+* If the West Antarctic ice sheet disintegrates (could take centuries), the sea level will rise 3-5m [Klein, 16][Klein]
+* Major cities that will likely disappear under a rising ocean: Boston, New York, Los Angeles, Vancouver, London, Mumbai, Hong Kong, Shanghai [Klein, 14][Klein]
+* Wet places will get wetter; drought-stricken places will get drier as the course of global warming continues. The air will be overall more humid. [Pearce, 174][Pearce]
+
+{% include "../../BIBLIOGRAPHY.md" %}

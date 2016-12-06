@@ -1,18 +1,7 @@
-# Social and political implications
-
-## OPEC and oil dependence
-* "In 2006, members of the OPEC oil cartel earned $506 billion from oil exports. In 2007, OPEC income rose to roughly $535 billion, and it was expected to surge to over $600 billion in 2008." [Friedman, 79][Friedman]
-* Friedman's "First Law of Petropolitics": As the price of oil goes up, the pace of freedom goes down; and as the price of oil goes down, the pace of freedom goes up [Friedman, 81][Friedman]
-* OPEC drove rise in oil prices less than $2/barrel 1973 to more than $11/barrel in 1974, not in response to supply shortage [Smil, 1][Smil]
-* US dependence on foreign oil has been increasing fairly steadily from 37% of oil around 1973 to 63% in 2007 [Smil, 135][Smil]
-* [Pickens Plan](http://www.pickensplan.com/the-plan/) is an effort to transition the United States off of foreign oil dependence
-
 ## Energy and poverty
 * "...in India and China some 200 million people have emerged from poverty in the last 30 years, most of them moving from low-impact village life to middle-class life in urban areas. But, as economists point out, there are still 200 million behind them , and another 200 million behind them ... all waiting their turn. Their governments will not be able to dey them, and they will not deny themselves, an American style of life." [Friedman, 64][Friedman]
 * "I first heard the term 'energy poverty from Robert, Freling ... The right of every person to have access to energy is as fundamental as the right to access to air and water, Freling argues." [Friedman, 155][Friedman]
 * Pan Yue (China's Deputy Minister of the Environment) in [Lorenz] "Of course I am pleased with the success of China's economy. But at the same time I am worried. We are using too many raw materials to sustain this growth. To produce goods worth $10,000, for example, we need seven times more resources than Japan, nearly six times more than the United States and, perhaps most embarrassing, nearly three times more than India. Things can't, nor should they be allowed to go on like that. ... Currently, there are 1.3 billion people living in China, that's twice as many as 50 years ago. In 2020, there will be 1.5 billion people in China. Cities are growing but desert areas are expanding at the same time; habitable and usable land has been halved over the past 50 years. ... the environment can no longer keep pace. Acid rain is falling on one third of the Chinese territory, half of the water in our seven largest rivers is completely useless, while one fourth of our citizens does not have access to clean drinking water. One third of the urban population is breathing polluted air, and less than 20 percent of the trash in cities is treated and processed in an environmentally sustainable manner. Finally, five of the ten most polluted cities worldwide are in China. ... Because air and water are polluted, we are losing between 8 and 15 percent of our gross domestic product. And that doesn't include the costs for health. Then there's the human suffering: In Bejing alone, 70 to 80 percent of all deadly cancer cases are related to the environment. Lung cancer has emerged as the No. 1 cause of death. ... the western regions of China and the country's ecologically stressed regions can no longer support the people already living there. In the future, we will need to resettle 186 million residents from 22 provinces and cities. However, the other provinces and cities can only absorb some 33 million people. That means China will have more than 150 million ecological migrants, or, if you like, environmental refugees." Pan Yue, in [Lorenz]
 
-## Humans and nature
-* Growing body of evidence suggests that quality of exposure to nature has large effects on human health and child development [Louv, 39][Louv]
 
-{% include "../BIBLIOGRAPHY.md" %}
+{% include "../../BIBLIOGRAPHY.md" %}

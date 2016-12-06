@@ -27,4 +27,4 @@
 * Carbon sequestration through direct intervention by humans has unknown long-term effects. We don’t know what effect there is in injecting CO2 into underground structures. Sudden, catastrophic events might include earthquakes which rupture reservoirs and emit the CO2 gas directly back into the environment. Slow, long-term effects could include chemical reactions between stored CO2 and surrounding groundwater; some evidence suggests that this could result in heavy metals in drinking water reservoirs [Smil, 94][Smil]
 * Oil and gas companies already use CO2 pipelines and injections to harvest oil, so there is strong technical feasibility for transport and underground injection of CO2. We could even use the existing infrastructure, as a profit incentive for oil & gas companies. Is there a way to use this infrastructure and build additional for carbon sequestration? [Smil, 90][Smil]
 
-{% include "../BIBLIOGRAPHY.md" %}
+{% include "../../BIBLIOGRAPHY.md" %}

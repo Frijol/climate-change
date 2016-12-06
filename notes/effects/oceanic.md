@@ -30,4 +30,4 @@
 ## Sea chimneys
 * Sea chimneys (major in the ocean conveyor) are moving as the Arctic ice disappears, and are now disappearing. We're down to one in the Greenland Sea. [Pearce, xxi][Pearce]
 
-{% include "../BIBLIOGRAPHY.md" %}
+{% include "../../BIBLIOGRAPHY.md" %}

@@ -1,4 +1,4 @@
-## The basics
+# The basics
 * The earth is getting warmer, and it's creating nasty positive feedback loops. For example: Sea ice is melting; ice is more reflective than water, so heat gets absorbed by the water more quickly than before; sea ice melts even faster
 * The primary cause of global warming is CO2 going into the atmosphere, specifically due to the burning of coal, natural gas, and petroleum. [Victor]
 * Nobody's exactly sure what will happen and when, but so far it's gotten worse more quickly than mainstream models predicted.
@@ -17,4 +17,4 @@
 * Colder water holds more oxygen [Kolbert, 183][Kolbert]
 * The end-Permian extinction (a big five extinction event) appears to have been triggered by a rapid rise in CO2/climate. Ocean temperatures rose ~18 degrees F, waters became more acidic and lost oxygen. 90% of species on earth became extinct over a period of 100-200k years. [Kolbert, 183][Kolbert]
 
-{% include "../BIBLIOGRAPHY.md" %}
+{% include "../../BIBLIOGRAPHY.md" %}
