@@ -172,6 +172,9 @@ Steam Electric Power Generating Effluent Guidelines
 ## EGU
 electric generating unit
 
+## EMM
+electricity market model [EIA, 57][EIA]
+
 ## energy descent action plan
 a collectively designed blueprint for a community (transition town) to lower its emissions and cease to use fossil fuels
 
@@ -228,6 +231,9 @@ quick-growing plants that help prevent erosion and replace nutrients in soil
 
 ## Green Revolution
 From 1950-1992, a movement to increase food production without bringing more land under cultivation. Related to the work of Norman Borlaug and spread of monocultures.
+
+## HDV
+heavy-duty vehicles, 8.5k+ lbs GVWR [transportpolicy.net](http://transportpolicy.net/index.php?title=US:_Vehicle_Definitions)
 
 ## helical turbine
 A vertical turbine whose blades are modeled after birds' wings
@@ -303,6 +309,9 @@ International Convention for the Prevention of Pollution from Ships [EIA, 45][EI
 
 ## MATS
 Mercury Air Toxics Standard
+
+## MDV
+medium-duty vehicles, 8.5k lbs-10k lbs GVWR [transportpolicy.net](http://transportpolicy.net/index.php?title=US:_Vehicle_Definitions)
 
 ## MGO
 marine gas oil: fuel oil made from distillate only- wiki: https://en.wikipedia.org/wiki/Fuel_oil#Maritime
@@ -398,7 +407,7 @@ a tool to measure Brix - looks like a small spyglass
 Renewable Energy Independent Power Producer Procurement
 
 ## RGGI
-Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated carbon market in the United States
+Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated carbon market in the United States [Wiki](https://en.wikipedia.org/wiki/Regional_Greenhouse_Gas_Initiative)
 
 ## RPO
 Renewable purchase obligation
