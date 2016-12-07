@@ -16,7 +16,7 @@ Detractors assert that we can't afford to increase our methane emissions, becaus
 
 ## Climate change problems caused by natural gas
 * Natural gas has been argued for as a "clean alternative" to oil, but fracked natural gas may emit enough methane to make it comparable in "dirtiness" to coal [Klein, 192][Klein]
-* Methane has a warming potential 86 times greater than carbon dioxide [Klein, 130][Klein] // According to the EPA it's 28-36x greater, not 86x. Still bad, but not as bad
+* Methane has a warming potential 86 times greater than carbon dioxide [Klein, 130][Klein] // According to the EPA it's 28-36x greater, not 86x- but GWP calculations are not standard so perhaps Klein is using a shorter timescale (EPA's is 100 years)
 * Modern fracking takes 70-300x the amount of fluid (usually water + sand) used in traditional fracking. This fluid often becomes toxic, radioactive waste. 280 billions of this waste were created from fracking in 2012. [Klein, 312][Klein] //How does it get to be radioactive? Is this true?
 
 
