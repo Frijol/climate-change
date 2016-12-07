@@ -217,6 +217,9 @@ Emissions Trading System
 ## EU ETS
 European Union Emissions Trading System (carbon market)
 
+## exhaust gas recirculation
+NOx reduction technique where exhaust gas is sent back to the engine to reduce the availability of O2 and thus lower the combustion temperatures – since NOx is produced at high temperatures [wiki](https://en.wikipedia.org/wiki/Exhaust_gas_recirculation)
+
 ## FCR
 feed conversion ratio: in agriculture and aquaculture, the ratio of feed consumed versus pound of weight gained
 
@@ -467,8 +470,14 @@ Supervisory control and data acquisition
 ## sea chimneys
 Giant whirlpools found at the ends of ocean currents. They take surface water and drain them down to the bottom of the ocean. This is a major component of global ocean circulation.
 
+## selective catalytic reduction
+chemical reaction catalyzed by injection into exhaust which turns NOx into nitrogen, water, and tiny amounts of CO2, can reduce NOx up to 90% (http://www.dieselforum.org/about-clean-diesel/what-is-scr)
+
 ## SERC
 State Electricity Regulatory Commission
+
+## SMPS
+switched-mode power suppliers (AC/DC)
 
 ## solar energy resource
 Depends on solar irradiation of the geographic area and also on local shade
