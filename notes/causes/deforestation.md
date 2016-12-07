@@ -1,4 +1,5 @@
 # Deforestation
+* Fastest and cheapest way to prevent chaotic climates: stop deforestation. Loss of tropical forests accounts for up to 25% of GHG emissions [Lovins, 239][Lovins]
 * Immediate effects of deforestation on Easter Island: damages to soil, decreased crop yields. Further consequences: starvation, population crash, cannibalism [Diamond, 74][Diamond]
 * USDA projects forests declining from 767,000 acres (1982) to 377,000 acres (2022). [Louv, 29][Louv]
 * Britain: Hadley Centre for Climate Prediction's climate model is one of the world's top 3. Hadley model predicts that if climate emissions continue at current trends, the Amazon rainforest will be gone by 2100: "able to support only shrubs or grass at most" because of warmer seas > droughts > threshold forest fire conditions > huge fires across the rainforest [Hadley study in 2005, in Pearce, 66][Pearce]
