@@ -107,7 +107,7 @@ Clean Development Mechanism, a flexible mechanism for carbon markets under the K
 Central Energy Regulatory Commission
 
 ## CHP
-combined heat and power, also called cogeneration: combined production of useful heat and electric or mechanical power. Also applies to useful cooling. Essentially, requires power generation to occur near the point of consumption so that the thermal effects can also be used. http://energy.gov/eere/amo/combined-heat-and-power-basics
+combined heat and power, also called cogeneration: combined production of useful heat and electric or mechanical power. Also applies to useful cooling. Essentially, requires power generation to occur near the point of consumption so that the thermal effects can also be used. Often works in commercial-scale buildings using natural gas microturbines http://energy.gov/eere/amo/combined-heat-and-power-basics
 
 ## coral bleaching
 corals turning white through ejection of their colorful zooxanthellae due to the zooxanthellae's dangerous release of oxygen radicals when ocean waters grow too warm
@@ -116,7 +116,7 @@ corals turning white through ejection of their colorful zooxanthellae due to the
 a form of ethanol that can be made from any woody material, such as walnut hulls and lumber waste
 
 ## CFCs
-chlorofluorocarbons, present in Freon and harmful to the earth's ozone
+chlorofluorocarbons, also called halocarbons, contain fluorine, bromine, and chlorine. They are harmful to the earth's ozone and notably present in Freon [Clark]
 
 ## CO2
 Carbon dioxide
@@ -142,11 +142,17 @@ Cross State Air Pollution Rule requires states to reduce power plant emissions t
 ## c-Si
 crystalline silicon
 
+## CTL
+coal to liquid [wiki](https://en.wikipedia.org/wiki/Coal_liquefaction)
+
 ## CWA
 Clean Water Act
 
 ## declining block rates
 The more you buy, the cheaper the price per unit
+
+## DG
+distributed generation (of power)
 
 ## direct emissions
 Emissions caused by e.g. the manufacturing and transport of an item
@@ -234,6 +240,12 @@ quick-growing plants that help prevent erosion and replace nutrients in soil
 
 ## Green Revolution
 From 1950-1992, a movement to increase food production without bringing more land under cultivation. Related to the work of Norman Borlaug and spread of monocultures.
+
+## GTL
+gas to liquids [wiki](https://en.wikipedia.org/wiki/Gas_to_liquids)
+
+## GWP
+Global Warming Potential, a metric developed by the EPA to compare the warming potentials of various greenhouse gases [EPA-GWP]
 
 ## HDV
 heavy-duty vehicles, 8.5k+ lbs GVWR [transportpolicy.net](http://transportpolicy.net/index.php?title=US:_Vehicle_Definitions)
@@ -364,8 +376,11 @@ the reduction of alkalinity in the world's oceans through absoroption of human-p
 ## ocean conveyor
 Circulation of the ocean. They move underwater (brought down through sea chimneys) south of Africa, around Antarctica, through the Indian and Pacific Oceans, then come back up at the Atlantic to join the Gulf Stream and move north again to the sea chimney there. More precisely known as the meridional overturning circulation or the thermohaline circulation [Pearce, 142][Pearce]
 
+## OECD
+organization for economic cooperation and development, a forum of 34 countries working together on development and policy issues [OECD mission](https://usoecd.usmission.gov/mission/overview.html)
+
 ## OEM
-Original equipment manufacturer
+original equipment manufacturer
 
 ## OPEC
 organization of the petroleum exporting countries
