@@ -16,8 +16,8 @@
 
 ## Renewable energy (stubs)
 * Hoped-for breakthrough technologies: fusion reactors, nanoscale solar cells [Victor]
-* "clean coal": idea whereby coal-fired plants capture CO2 before it leaves the smokestack and bury it (sequester) in the earth. Mechanism: pressurized CO2 injected into saline aquifers below impermeable caprock - 1k-8k feet deep. There, it would form mild carbonic acid, which would dissolve and precipitate out as dolomite and limestone [Weisman, 223][Weisman]
 * Learn more about municipal solid waste (MSW) for energy generation [Wikipedia](https://en.wikipedia.org/wiki/Municipal_solid_waste#Energy_generation) qualifies for RPS in some states [EIA, 38][EIA]
+* New generation of power 2015-2040 is dominated by renewable and natural gas, regardless of policy. Policy drives the extent to which natural gas dominates. [EIA, 100][EIA]
 
 ## Stubs
 * No country, as of 2000, uses local power as a major (even non-negligible) energy source [Smil, 49][Smil]

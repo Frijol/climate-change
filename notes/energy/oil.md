@@ -1,5 +1,8 @@
 # Oil
 
+## Economic trends
+* As oil price/barrel increases, American oil becomes more economically feasible (primarily in the lower 48) [EIA, 20][EIA]
+
 ## Oil availability
 * Concept of peak oil:
 * The best fit for a resource extraction model is logarithmic, so while we will hit an asymptote on oil (and thus be unable to keep up with increasing demand), we won’t suddenly be out of energy. [Smil, 66][Smil]

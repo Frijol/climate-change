@@ -21,12 +21,16 @@ Detractors assert that we can't afford to increase our methane emissions, becaus
 
 
 ## Economics of natural gas
-* Natural gas has been going through huge boom in the United States [EIA, 83][EIA]
+* Both demand (including export) and supply (improved technology and lots of deposits) are expected to increase in the United States over the 2015-2040 period. This should keep natural gas prices stable & low over that time period [EIA, 21][EIA]
 * The vast majority of new gas projects in North America rely on fracking [Klein, 192][Klein]
 * Rising natural gas production makes byproduct fuels like HGL and NGPL more economically viable [EIA, 83][EIA]
 * Natural gas production from tight and shale gas formations increased 23% from 2010 to 2015 in the United States. This is a shift from traditional dry natural gas (which still dominates) to wet [EIA, 83][EIA]
 * Wet natural gas is slower to profit than dry natural gas (it requires processing into dry before it can be put in pipelines, and the formations have low initial yields) but the NGPL output can make it more profitable in the long run [EIA, 86][EIA]
 * "Because NGPL is produced during the processing of natural gas, either from natural gas wells or from gas associated with crude oil production, NGPL production levels are largely driven by the development of these resources. The revenue associated from extracting NGPL streams, such as ethane, propane, butane, and natural gasoline, justify the cost of producing areas with NGPL-rich resources. When the price ratio between crude oil and natural gas is high, a producer is more likely to develop higher NGPL recovery formations because they can overcome the higher cost of processing these resources. When the spread is narrow, a producer is likely to avoid these costs and focus on developing natural gas production areas with low or no NGPL." [Wilczewski]
+
+## Nonfuel uses of natural gas
+* // What are the emissions effects of using natural gas as feedstock rather than fuel?
+* Feedstock uses of natural gas are expected to increase domestically over the 2015-2040 period as petroleum producers build processing plants capitalizing on the low cost of natural gas/stabilizing supply/demand of NG. These plants will predominantly produce bulk chemicals for export. Other major uses will be refinement for fuel, food products, mining, iron, steel, paper, and metal-based durables [EIA, 23][EIA]
 
 
 {% include "../../BIBLIOGRAPHY.md" %}

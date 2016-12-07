@@ -155,7 +155,10 @@ The more you buy, the cheaper the price per unit
 distributed generation (of power)
 
 ## direct emissions
-Emissions caused by e.g. the manufacturing and transport of an item
+emissions caused by e.g. the manufacturing and transport of an item
+
+## distributed generation
+local production of power, e.g. solar panels on the roofs of buildings that use the power generated for their own energy needs but can also feed back excess/draw from the grid
 
 ## DoE
 Department of Energy (U.S.A.)
@@ -216,6 +219,9 @@ European Union Emissions Trading System (carbon market)
 
 ## FCR
 feed conversion ratio: in agriculture and aquaculture, the ratio of feed consumed versus pound of weight gained
+
+## feedstock
+raw material to supply an industrial process
 
 ## fracking
 Hydraulic fracturing, a high-pressure injection of a liquid into a wellbore to create cracks in deep-rock formations to access otherwise hard-to-reach natural gas and petroleum
@@ -351,6 +357,9 @@ National Energy Modeling System
 
 ## New Pangaea
 A term used to refer to the ecological globalization/homogenization of the world through the spreading of non-native species via human activities
+
+## NG
+natural gas
 
 ## NGPL
 natural gas plant liquids, recovered from processing, e.g. propane

@@ -22,6 +22,7 @@
     * [Geoengineering](notes/solutions/geoengineering.md)
   * [Energy Sources](notes/energy/_energy.md)
     * [Biofuel](notes/energy/biofuel.md)
+    * [Coal](notes/energy/coal.md)
     * [Geothermal](notes/energy/geothermal.md)
     * [Infrastructure](notes/energy/infrastructure.md)
     * [Natural Gas](notes/energy/natural_gas.md)

@@ -14,6 +14,8 @@
 * Stordalen mire: well-monitored permafrost peat bog in northern Sweden that is beginning to break up [Pearce, 82][Pearce]
 * 1-10t tons of methane is currently held by clathrates [Pearce, 92][Pearce]
 * Per-capita human impact: average resource consumption and waste production of one person. A society's total impact is per-capita impact multiplied by population. [Diamond, 353][Diamond]
+* Obama administration/EPA passed the CPP to reduce coal usage domestically. It's currently held up in the DC court under investigation for having a too-sweeping effect on industry (targeting coal). Proponents assert that EPA has the legal responsibility to pass targets to protect citizens from emissions; detractors say something with such industry-level effects should require passage through congress. Verdict is expected Feb. 2017
+* CPP would have a bigger effect than fuel prices on the country's total CO2 emissions over the 2015-2040 period [EIA, 24][EIA]
 
 
 {% include "../../BIBLIOGRAPHY.md" %}
