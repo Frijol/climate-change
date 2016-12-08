@@ -397,6 +397,9 @@ original equipment manufacturer
 ## OPEC
 organization of the petroleum exporting countries
 
+## PE
+primary energy: energy contained in raw fuels, or otherwise received as input to a system. Use of this metric ignores conversion efficiency (from its potential energy to the amount we can actually harvest), so it leads to imperfect comparisons - for example, nuclear, coal, and other thermal electricity generation processes are highly inefficient and can be overvalued using this metric [wiki](https://en.wikipedia.org/wiki/Primary_energy)
+
 ## peak oil
 the point in time when the maximum extraction of oil is reached (based on a theory by M. King Hubbert, a Shell researcher). Based on the incorrect belief that resource extraction curves fit a bell curve, “peak oil’ is the idea that we will run out of oil to extract and then our industry will drop precipitously, returning us to a hunter-gatherer lifestyle within a few thousand years [Smil, 62-64][Smil]
 
@@ -496,6 +499,9 @@ a tidal power generator that is essentially a hydroelectric dam: open for inflow
 
 ## tidal stream generator
 underwater turbines for tidal power
+
+## TPES
+total primary energy supply, the sum of production and imports minus exports and storage charges. See PE for more information [wiki](https://en.wikipedia.org/wiki/Primary_energy)
 
 ## Transition town
 a grassroots community movement to reduce local dependence on oil and other high-emitting energy sources

@@ -7,6 +7,8 @@
 ## Feasibility of large-scale deployment
 * Electric demand of the U.S. could be met by covering 9% of Nevada with PV according to DoE report [Lovins, 72][Lovins]
 * Solar has installed capacity of 137GWs worldwide as of 2015. The majority is in developed economies. [IFC, 3][IFC]
+* Solar is expected to increase by a factor of 10 from 2015-2040: 25 up to 246 GW (with CPP) or 202 GW (without CPP) [EIA, 114][EIA]
+* Because wind requires HVDC to to continue growing, solar capacity is expected to surpass wind capacity by 2032 [EIA, 114][EIA]
 
 ## Economics
 * "This is a ~16% learning rate, meaning that every doubling of utility-scale solar capacity in the US leads to a roughly 16% reduction in the cost of electricity from new solar installations." [Naam][NaamSolar]
