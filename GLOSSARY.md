@@ -58,6 +58,9 @@ Build-Own-Operate
 ## BoP
 Balance of Plant
 
+## Brent crude
+benchmark price for oil [wiki](https://en.wikipedia.org/wiki/Brent_Crude)
+
 ## Brix
 the amount of sugar present in a fruit or vegetable
 
@@ -217,6 +220,9 @@ Emissions Trading System
 ## EU ETS
 European Union Emissions Trading System (carbon market)
 
+## EUR
+estimated ultimate recovery (for oil/natural gas wells) [Investopedia](http://www.investopedia.com/terms/e/estimated-ultimate-recovery.asp)
+
 ## exhaust gas recirculation
 NOx reduction technique where exhaust gas is sent back to the engine to reduce the availability of O2 and thus lower the combustion temperatures – since NOx is produced at high temperatures [wiki](https://en.wikipedia.org/wiki/Exhaust_gas_recirculation)
 
@@ -261,6 +267,9 @@ heavy-duty vehicles, 8.5k+ lbs GVWR [transportpolicy.net](http://transportpolicy
 
 ## helical turbine
 A vertical turbine whose blades are modeled after birds' wings
+
+## Henry Hub
+pricing point for natural gas futures contracts [wiki](https://en.wikipedia.org/wiki/Henry_Hub)
 
 ## HGL
 hydrocarbon gas liquids: produced from unrefined natural gas, they have high energy density and sit on the gas/liquid boundary [EIA factsheet on HGL](https://www.eia.gov/energyexplained/index.cfm?page=hgls_home)
@@ -307,8 +316,11 @@ kilowatt hour, the product of the power transmitted in kilowatts and the time in
 ## Kyoto Protocol
 An international treaty which extends the UNFCCC, committing countries to reduce their greenhouse gas emissions. Acknowledges 1 premises: (1) global warming exists and (2) man-made CO2 emissions have caused it. Adopted in 1997, more enforced starting 2005.
 
+## LACE
+levelized avoided cost of electricity: LCOE for technologies with different duty cycles [EIA, 115][EIA]
+
 ## LCOE
-Levelised cost of electricity, the net present value of the unit-cost of electricity over the lifetime of a generating asset. It is often taken as a proxy for the average price that the generating asset must receive in a market to break even over its lifetime [Wikipedia](https://en.wikipedia.org/wiki/Cost_of_electricity_by_source#Levelized_cost_of_electricity)
+levelized cost of electricity: the cost of building and operating a plant per kWh of output. Useful for comparing costs among technologies with similar operating characteristics– see also LACE (for varied duty cycles). Can vary significantly by region for renewables (e.g. solar in Seattle vs. San Diego) [EIA, 115][EIA]
 
 ## LDG
 Latitudinal diversity gradient: the pattern that there is greater species diversity the farther away you get from the poles
@@ -335,7 +347,7 @@ load serving entities: energy suppliers
 International Convention for the Prevention of Pollution from Ships [EIA, 45][EIA]
 
 ## MATS
-Mercury Air Toxics Standard
+Mercury Air Toxics Standard (currently in effect) requires that all coal plants control emissions of SO2, mercury, and acid gases. Can remove 70-90% of SO2 emissions from coal plants [EIA, 116][EIA]
 
 ## MDV
 medium-duty vehicles, 8.5k lbs-10k lbs GVWR [transportpolicy.net](http://transportpolicy.net/index.php?title=US:_Vehicle_Definitions)

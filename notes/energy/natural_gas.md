@@ -19,6 +19,8 @@ Detractors assert that we can't afford to increase our methane emissions, becaus
 * Methane has a warming potential 86 times greater than carbon dioxide [Klein, 130][Klein] // According to the EPA it's 28-36x greater, not 86x- but GWP calculations are not standard so perhaps Klein is using a shorter timescale (EPA's is 100 years)
 * Modern fracking takes 70-300x the amount of fluid (usually water + sand) used in traditional fracking. This fluid often becomes toxic, radioactive waste. 280 billions of this waste were created from fracking in 2012. [Klein, 312][Klein] //How does it get to be radioactive? Is this true?
 
+## Mechanics of natural gas
+* Expected U.S. natural gas extraction methods: ![screen shot 2016-12-08 at 3 40 33 pm](https://cloud.githubusercontent.com/assets/454690/21032202/ad83660c-bd5c-11e6-8151-36dd57d3c5bc.png) [EIA, 119][EIA]
 
 ## Economics of natural gas
 * Both demand (including export) and supply (improved technology and lots of deposits) are expected to increase in the United States over the 2015-2040 period. This should keep natural gas prices stable & low over that time period [EIA, 21][EIA]
