@@ -23,6 +23,7 @@
 * New generation of power 2015-2040 is dominated by renewable and natural gas, regardless of policy. Policy drives the extent to which natural gas dominates. [EIA, 100][EIA]
 * Solar & wind together are expected to dominate (80%) renewables capacity by 2040 [EIA, 114][EIA]
 * The renewable energy market is highly sensitive to the price of oil and gas. If natural gas prices are low (they are), renewables grow about half as much as they would if oil & gas were expensive [EIA, 114][EIA]
+* [EIA, 59][EIA] has a graph of what renewable energy sectors to watch depending on whether/how CPP gets implemented
 
 ## Stubs
 * No country, as of 2000, uses local power as a major (even non-negligible) energy source [Smil, 49][Smil]
