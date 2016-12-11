@@ -1,5 +1,8 @@
 # Overconsumption
 
+![](http://akarlin.com/wp-content/uploads/2013/01/overshoot1.png)
+*Ecological footprint vs. carrying capacity of the earth, from [Meadows, xv][Meadows]*
+
 //TODO find the notes that belong in this section, where are they? Might be in solutions>efficiency
 
 ## Third world --> first world standards

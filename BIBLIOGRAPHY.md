@@ -25,6 +25,7 @@
 [Lovins]: https://www.goodreads.com/book/show/11273339-climate-capitalism "Lovins, L. and Cohen, Boyd. Climate Capitalism. 2011. How businesses should and do profit by reducing their carbon footprint. Reads as a bit idealistic, but there are a lot of examples."
 [Louv]: https://www.goodreads.com/book/show/156599.Last_Child_in_the_Woods "Louv, Richard. Last Child in the Woods: Saving our Kids from Nature Deficit Disorder. 2005. Somewhat romanticized but still resonant argument that children need nature, and they're not growing up with it anymore."
 [Maehlum]: http://energyinformative.org/how-does-tidal-power-work/ "Maehlum, Mathias. 'How Does Tidal Power Work?' 2013."
+[Meadows]: https://www.goodreads.com/book/show/705418.The_Limits_to_Growth "Meadows, Donella, Meadows, Dennis, Randers, Jorgen. 'The Limits to Growth: the 30-Year Update.' 2004."
 [Montgomery]: www.salmonproject.org/book-drop "Montgomery, David. King of Fish: the Thousand-Year Run of Salmon. 2003. Everything about what salmon need to survive, and how these factors are changing with human activity."
 [Murphy]: http://physics.ucsd.edu/do-the-math/2011/10/the-energy-trap/ "Murphy, Tom. 'The Energy Trap.' 2011. Discussion of peak oil."
 [Murphy-tides]: http://physics.ucsd.edu/do-the-math/2011/12/can-tides-turn-the-tide/ "Murphy, Tom. 'Can Tides Turn the Tide?' 2011. Tidal power discussion."

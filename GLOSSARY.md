@@ -172,6 +172,9 @@ Department of the Interior (U.S.A.)
 ## ECA
 emission control area
 
+## ecological footprint
+the land area required to provide the resources for and absorb the emissions from global society [Meadows, xiv][Meadows]
+
 ## EEPS
 energy efficiency portfolio standard: legislated energy use reduction. "mandatory, sets long-term reduction targets (at least three years), is sufficiently funded to allow covered entities to meet their targets, uses financial incentives or nonperformance penalties, and usually (but not always) increases over time" [EIA, 42][EIA]
 
