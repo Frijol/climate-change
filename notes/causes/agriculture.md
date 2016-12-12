@@ -7,6 +7,7 @@
 * American farms overproduce to the extent that in 1962 the government subsidized at more than $1bn/year in surplus food storage [Carson, 27][Carson] //TODO: updated stat?
 * "The overproduction of grain helps enable the overproduction of chicken, which lowers the price of chicken, which means even more chickens are raised to make up for declining revenue. That leads to even more unneeded chicken [the parts that aren't breasts and thighs]. So it's fed to other animals it probably shouldn't be fed to, like fish (which are increasingly farm-raised, in part due to the offshore pollution caused by producing too much grain)." [Barber, 157][Barber]
 * Our food systems were originally driven by what the land could produce; it's now driven by what eaters want to consume - which leads to a lot of wasted animal parts when we only buy the choicest cuts [Barber, 156][Barber]
+* Food production increases worldwide have come almost completely from greater efficiency- ~1.5 billion hectares (as of 2004) have crops growing on them, a nearly constant area over 30 years. But they're different places, as salinization, desertification, urbanization etc. uses up the old croplands [Meadows, 60][Meadows]
 
 ## Salinization
 * Saline seep is occurring in Montana. The minerals in the area are naturally salty, but native vegetation typically keeps minerals from dissolving. Ground cover killing herbicides and tractor use are interfering with this system and causing downhill land to become toxic and unarable. [Diamond, 37][Diamond]
