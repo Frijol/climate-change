@@ -521,6 +521,12 @@ Solar radiation management (albedo engineering)
 ## tidal barrage
 a tidal power generator that is essentially a hydroelectric dam: open for inflow, close & run generator on outflow (possible to generate power in both directions) [Maehlum]
 
+## tidal farm
+see tidal fence
+
+## tidal fence
+a row of tidal stream generator turbines cemented in place so that all flow must pass through the turbines. Can be implemented fully or partially across a tidal flow [Helston]
+
 ## tidal stream generator
 underwater turbines for tidal power
 
