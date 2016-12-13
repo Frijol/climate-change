@@ -15,6 +15,7 @@
 [EPA-GWP]: https://www.epa.gov/ghgemissions/understanding-global-warming-potentials "EPA. 'Understanding Global Warming Potentials.'"
 [Friedman]: https://www.goodreads.com/book/show/2358737.Hot_Flat_and_Crowded "Friedman, Thomas. 'Hot, Flat, and Crowded: Why We Need a Green Revolution--and How It Can Renew America.' 2008. Concise, compelling, and holistic, this systems-level view is a standout for its treatment of environmental issues in a geopolitical context."
 [Goodell]: https://www.goodreads.com/book/show/7687504-how-to-cool-the-planet "Goodell, Jeff. How to Cool the Planet. 2010. Conversational introduction to geoengineering."
+[Helston]: http://www.energybc.ca/profiles/tidal.html "Helston, Charlotte. 'EnergyBC Profiles: Tidal.' "
 [IFC]: http://www.ifc.org/wps/wcm/connect/f05d3e00498e0841bb6fbbe54d141794/IFC+Solar+Report_Web+_08+05.pdf?MOD=AJPERES "International Finance Corporation. 'Utility-Scale Solar Photovoltaic Power Plants: A Project Developer’s Guide.' 2015. Detailed guide for the siting, building, and efficient operation of a large-scale solar farm."
 [Kiker]: http://aceee.org/press/2014/03/new-report-finds-energy-efficiency-a "Kiker, Patrick. 'New Report Finds Energy Efficiency is America’s Cheapest Energy Resource.' 2014."
 [King]: https://m.youtube.com/watch?v=Wc1kQXL1Nwg "King, Martin Luther, Jr. 'Radical Revolution of Values.' 1967."

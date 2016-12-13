@@ -265,6 +265,9 @@ gas to liquids [wiki](https://en.wikipedia.org/wiki/Gas_to_liquids)
 ## GWP
 Global Warming Potential, a metric developed by the EPA to compare the warming potentials of various greenhouse gases [EPA-GWP]
 
+## head differential
+the difference in heights between the hydrostatic head of a tidal barrage and the water outside the sluice gates
+
 ## HDV
 heavy-duty vehicles, 8.5k+ lbs GVWR [transportpolicy.net](http://transportpolicy.net/index.php?title=US:_Vehicle_Definitions)
 
@@ -282,6 +285,9 @@ High voltage DC power
 
 ## hybrid parks
 Co-located farms for multiple renewable energy types, esp. wind and solar
+
+## hydrostatic head
+the water in the artificial estuary of a tidal barrage [Helston]
 
 ## IEA
 International Energy Agency
@@ -493,6 +499,9 @@ chemical reaction catalyzed by injection into exhaust which turns NOx into nitro
 
 ## SERC
 State Electricity Regulatory Commission
+
+## sluice gates
+movable gates that allow or impede the flow of water e.g. to let water into the hydrostatic head of a tidal barrage
 
 ## SMPS
 switched-mode power suppliers (AC/DC)
