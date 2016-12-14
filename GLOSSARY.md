@@ -196,6 +196,9 @@ a collectively designed blueprint for a community (transition town) to lower its
 ## energy poverty
 Low availability of energy [Friedman, 155][Friedman]
 
+## energy sprawl
+occupation of vast extra-urban tracts of land by energy facilities, problematic for (a) destroying wildlife habitats/fragmenting landscapes and (b) requiring transmission infrastructure across long distances [Bronin, 222][Bronin]
+
 ## entrainment
 thermally and mechanically stressing aquatic organisms to create clean water [EIA, 31][EIA]
 
@@ -313,6 +316,9 @@ Intergovernmental Panel on Climate Change (a UN organization)
 ## ITC
 Investment Tax Credit: http://energy.gov/savings/business-energy-investment-tax-credit-itc
 
+## ITEDSA
+Indian Tribal Energy Development and Self-Determination Act (2005), the most significant law in effect relating to energy on tribal lands (as of 2013) [Bronin, 222][Bronin]
+
 ## JI
 Joint Implementation, a flexible mechanism for carbon markets under the Kyoto Protocol
 
@@ -398,7 +404,7 @@ nitrogen oxide, typically nitrogen dioxide, a pollutant in emissions that is har
 National Pollutant Discharge Elimination System
 
 ## NREL
-National Renewable Energy Laboratory
+National Renewable Energy Laboratory (DoE R&D lab)
 
 ## NSPS
 new source performance standard, a regulatory emissions standard on new power plants

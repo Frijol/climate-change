@@ -20,6 +20,7 @@
     * [Economic Approaches](notes/solutions/economic.md)
     * [Efficiency](notes/solutions/efficiency.md)
     * [Geoengineering](notes/solutions/geoengineering.md)
+    * [Renewable Energy](notes/solutions/renewable_energy.md)
   * [Energy Sources](notes/energy/_energy.md)
     * [Biofuel](notes/energy/biofuel.md)
     * [Coal](notes/energy/coal.md)

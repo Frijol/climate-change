@@ -17,13 +17,9 @@
 | Corn ethanol (optimistic) |   1.4:1 |
 [Murphy]
 
-## Renewable energy (stubs)
-* Hoped-for breakthrough technologies: fusion reactors, nanoscale solar cells [Victor]
-* Learn more about municipal solid waste (MSW) for energy generation [Wikipedia](https://en.wikipedia.org/wiki/Municipal_solid_waste#Energy_generation) qualifies for RPS in some states [EIA, 38][EIA]
-* New generation of power 2015-2040 is dominated by renewable and natural gas, regardless of policy. Policy drives the extent to which natural gas dominates. [EIA, 100][EIA]
-* Solar & wind together are expected to dominate (80%) renewables capacity by 2040 [EIA, 114][EIA]
-* The renewable energy market is highly sensitive to the price of oil and gas. If natural gas prices are low (they are), renewables grow about half as much as they would if oil & gas were expensive [EIA, 114][EIA]
-* [EIA, 59][EIA] has a graph of what renewable energy sectors to watch depending on whether/how CPP gets implemented
+* Projected electricity generation by fuel in the United States:
+![EIA projection](https://cloud.githubusercontent.com/assets/454690/21199186/469147f8-c1f7-11e6-8939-b3c21de61343.png) [EIA]
+
 
 ## Stubs
 * No country, as of 2000, uses local power as a major (even non-negligible) energy source [Smil, 49][Smil]

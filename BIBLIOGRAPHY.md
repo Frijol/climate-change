@@ -3,6 +3,7 @@
 [Barber]: https://www.goodreads.com/book/show/18667790-the-third-plate "Barber, Dan. 'The Third Plate: Field Notes on the Future of Food.' 2014. A chef's search for excellent farm-to-table flavor and accompanying romance with organics and sustainability."
 [Begley]: http://www.newsweek.com/learning-love-climate-adaptation-95079 "Begley, Sharon. Learning to Love Climate Adaptation. 2007. Newsweek. Economic opportunities created by climate change."
 [Berners-Lee]: https://www.goodreads.com/book/show/7230015-how-bad-are-bananas "Berners-Lee, Mike. 'How Bad Are Bananas? The Carbon Footprint of Everything.' 2010. An guide to help the average reader develop an instinct for the emissions impact of their everyday choices."
+[Bronin]: http://digitalcommons.uconn.edu/cgi/viewcontent.cgi?article=1147&context=law_papers "Bronin, Sara. 'The Promise and Perils of Renewable Energy on Tribal Lands.' 2013."
 [Brysse]: http://www.sciencedirect.com/science/article/pii/S0959378012001215 "Brysse, Keynyn; Oreskes, Naomi; O'Reilly, Jessica; Oppenheimer, Michael. Climate change prediction: Erring on the side of least drama? 2013."
 [Carson]: https://www.goodreads.com/book/show/27333.Silent_Spring "Carson, Rachel. 'Silent Spring.' 1962. Foundational book of the environmental movement, wholly focused on insecticide sprays and now fairly outdated."
 [Chabot]: www.com "Chabot, Bennet. Discussion."
