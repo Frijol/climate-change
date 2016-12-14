@@ -2,6 +2,9 @@
 * Modern agriculture is highly connected with climate change, particularly: practices dependent on fossil fuels, land usage and deforestation, chemical sprays (herbicides, fungicides, fertilizers, etc.), transportation/refrigeration/packaging/retail [Lovins, 178][Lovins]
 * 60% of Australia's land use and 80% of its human water use are for agriculture, but agriculture contributes less than 3% of the GDP. Most of the land (>99%) thus engaged is uneconomically viable without government subsidy; the only truly profitable agriculture is <0.8% of that agricultural land [Diamond, 413][Diamond]
 * China uses 3x the world average of fertilizer per acre [Diamond, 362][Diamond]
+* Over the past 1000 years humans have turned ~2b hectares of productive farmland into wasteland (1986 estimate) [Meadows, 61][Meadows]
+* Rate of humus loss is accelerating from 25m tons/year (pre-Industrial) to 760m tons/year 1954-2004 [Meadows, 61][Meadows]
+* Fertilizers mask the signs of soil abuse, leading to a delay in signals, which is a characteristic cause of systemic overshoot [Meadows, 62][Meadows]
 
 ## Overproduction
 * American farms overproduce to the extent that in 1962 the government subsidized at more than $1bn/year in surplus food storage [Carson, 27][Carson] //TODO: updated stat?
@@ -10,6 +13,7 @@
 * Food production increases worldwide have come almost completely from greater efficiency- ~1.5 billion hectares (as of 2004) have crops growing on them, a nearly constant area over 30 years. But they're different places, as salinization, desertification, urbanization etc. uses up the old croplands [Meadows, 60][Meadows]
 
 ## Salinization
+* ~100m hectares of irrigated land has been lost to salinization [Meadows, 61][Meadows]
 * Saline seep is occurring in Montana. The minerals in the area are naturally salty, but native vegetation typically keeps minerals from dissolving. Ground cover killing herbicides and tractor use are interfering with this system and causing downhill land to become toxic and unarable. [Diamond, 37][Diamond]
 
 ## Monocultures
