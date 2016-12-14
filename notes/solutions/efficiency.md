@@ -4,6 +4,9 @@
 * Distributed generation is similar in metric to efficiency gains– both increased efficiency and the practice of producing power locally reduce draw on electric grid delivered energy [EIA, 102][EIA]
 * DoE has been setting efficiency standards for appliances and equipment since 1988 [EIA, 34][EIA]
 
+## Drawbacks
+* Energy efficiency often creates a rebound/backfire effect actually leading to increased consumption. Increased energy efficiency = increased productivity of energy, thus making it cheaper to use the thing that requires energy, thus driving up demand for that thing [Owens, 120][Owens]
+
 ## Ground transportation
 * Several states have policies in place requiring domestic manufacturers to produce a specific percentage of ZEV's and TZEV's in the coming years. The targets look aggressive, but the effect is likely not so big since we import a lot of our passenger vehicles [EIA, 22][EIA]
 * Long-haul truckers often leave diesel engines in during mandatory 10h rest periods to power "hotel load". Better if they use Auxiliary Power Units and switch off the engine. [Lovins, 138][Lovins]
