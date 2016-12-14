@@ -385,6 +385,9 @@ Non-conventional renewable energy
 ## NEMS
 National Energy Modeling System
 
+## NEPA
+National Environmental Policy Act: requires any federal actions with significant impact on the human environment to undergo a thorough environmental analysis. Notoriously expensive & long, does not actually require action to be taken based on the report
+
 ## New Pangaea
 A term used to refer to the ecological globalization/homogenization of the world through the spreading of non-native species via human activities
 
@@ -523,6 +526,9 @@ Stream Protection Rule: proposed rule affects surface mining operations and unde
 
 ## SRM
 Solar radiation management (albedo engineering)
+
+## TERA
+tribal energy resource agreement, which occurs between a tribe and the Secretary of the Interior. Required for natives to get rights of self-determination from ITEDSA, absolves the federal government of any losses occurring from the energy project decisions
 
 ## tidal barrage
 a tidal power generator that is essentially a hydroelectric dam: open for inflow, close & run generator on outflow (possible to generate power in both directions) [Maehlum]
