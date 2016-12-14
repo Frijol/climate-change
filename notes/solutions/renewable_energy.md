@@ -14,16 +14,21 @@
 
 ## On tribal lands
 
+### Need
+* As of 1990, energy availability at no cost was 10x higher on reservation lands than elsewhere in the United States. Of the 16k households in the US with no electricity access, 75% were in the Navajo Reservation. [Bronin, 228][Bronin]
+* Tribal households spend more on average on electricity & natural gas than national average electricity expenditure as percentage of income [Bronin, 228-229][Bronin]
+* Primary blockers to energy projects on tribal land are (1) up front capital and (2) lack of local expertise [Bronin, 233][Bronin]
+
 ### Opportunity
 * Tribal lands are 5% of USA but have 10% of its energy resources (both renewable & nonrenewable) [Bronin, 224][Bronin]
 * 95 million acres of tribal lands in the United States [Bronin, 221][Bronin]
 * Tribal lands typically have fewer land use restrictions than nontribal [Bronin, 225][Bronin]
 * Key benefit for energy projects on tribal land: reduced permitting time & expense (through ITEDSA & typically less zoning on native lands)
+* Several agencies offer grants for strategic planning, analysis, business development, job training, and construction. 2002-2010 DoE's Tribal Energy Program disbursed $30.4m to support feasibility studies for 129 tribal projects. Other departments offer low-interest loans [Bronin, 233][Bronin]
 
-### Need
-* As of 1990, energy availability at no cost was 10x higher on reservation lands than elsewhere in the United States. Of the 16k households in the US with no electricity access, 75% were in the Navajo Reservation. [Bronin, 228][Bronin]
-* Tribal households spend more on average on electricity & natural gas than national average electricity expenditure as percentage of income [Bronin, 228-229][Bronin]
-* Primary blockers to energy projects on tribal land are (1) up front capital and (2) lack of local expertise [Bronin, 233][Bronin]
+### Issues
+* Tribes are not eligible for the same renewable energy financial incentives as taxable private companies e.g. ITC and PTC. They aren't taxed entities, so the credits do nothing for them [Bronin, 234][Bronin]
+* Typically, tribes end up leasing land to private companies which then own the infrastructure. Tribes profit from land but not energy produced [Bronin, 234][Bronin]
 
 ### Legislation
 * Indian Tribal Energy Development and Self-Determination Act (ITEDSA), passed in 2005 for energy infrastructure on reservations. Allows leasing for renewables construction w/o federal approval.  [Bronin, 222][Bronin]
