@@ -41,10 +41,11 @@
 
 
 ### Further reading
+* [Geospatial Analysis of Renewable Energy Technical Potential on Tribal Lands: 2013 DoE report](http://www.nrel.gov/docs/fy13osti/56641.pdf)
+* [DoE's Tribal Energy Program, 2015 Review](http://energy.gov/sites/prod/files/2016/01/f28/1_lizana_pierce_overview.pdf)
 * [EIA report from 2000: Energy Consumption and Renewable Energy Development Potential on Indian Lands](http://www.eia.gov/renewable/archive/neaf0001.pdf)
 * [Tribes, Land, and the Environment - legal book](https://books.google.com/books/about/Tribes_Land_and_the_Environment.html?id=Y1giGEtzVO4C&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false)
 * [Energy Planning: a Guide for Northwest Indian Tribes](http://www.nwseed.org/wp-content/uploads/2013/05/NWSEED_Tribal-GB_Final.pdf)
-* [DoE's Tribal Energy Program, 2015 Review](http://energy.gov/sites/prod/files/2016/01/f28/1_lizana_pierce_overview.pdf)
 * [Tribal Environmental Policy in an Era of Self-Determination: The Role of Ethics, Economics, and Traditional Ecological Knowledge (paper on native cultural values + knowledge in environmental policy)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1401579)
 
 {% include "../../BIBLIOGRAPHY.md" %}
