@@ -67,5 +67,6 @@
 * [The economics of tidal power](http://ieeexplore.ieee.org/document/5589558/) an IEEE study on the break-even costs of tidal power. Super useful probably but because obviously science doesn't belong in the public domain it's behind a paywall
 * [Tidal energy thesis paper](http://www.ems.psu.edu/~elsworth/courses/cause2003/finalprojects/canutepaper.pdf)
 * [A listing of tidal turbine products from a company in the UK](http://www.tidalstream.co.uk/html/costs.html)
+* [Resources for energy development for Alaska Native Villages from NREL (and other native regions)](http://energy.gov/indianenergy/alaska-native-villages)
 
 {% include "../../BIBLIOGRAPHY.md" %}

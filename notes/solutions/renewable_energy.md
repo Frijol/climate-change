@@ -47,5 +47,6 @@
 * [Tribes, Land, and the Environment - legal book](https://books.google.com/books/about/Tribes_Land_and_the_Environment.html?id=Y1giGEtzVO4C&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false)
 * [Energy Planning: a Guide for Northwest Indian Tribes](http://www.nwseed.org/wp-content/uploads/2013/05/NWSEED_Tribal-GB_Final.pdf)
 * [Tribal Environmental Policy in an Era of Self-Determination: The Role of Ethics, Economics, and Traditional Ecological Knowledge (paper on native cultural values + knowledge in environmental policy)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1401579)
+* [Resources for energy development for Alaska Native Villages from NREL (and other native regions)](http://energy.gov/indianenergy/alaska-native-villages)
 
 {% include "../../BIBLIOGRAPHY.md" %}
