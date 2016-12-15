@@ -1,4 +1,5 @@
 # Deforestation
+* More than half the loss of the world's natural forests has occured since 1950 [Meadows, 75][Meadows]
 * Fastest and cheapest way to prevent chaotic climates: stop deforestation. Loss of tropical forests accounts for up to 25% of GHG emissions [Lovins, 239][Lovins]
 * Immediate effects of deforestation on Easter Island: damages to soil, decreased crop yields. Further consequences: starvation, population crash, cannibalism [Diamond, 74][Diamond]
 * USDA projects forests declining from 767,000 acres (1982) to 377,000 acres (2022). [Louv, 29][Louv]

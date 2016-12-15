@@ -112,6 +112,9 @@ Central Energy Regulatory Commission
 ## CHP
 combined heat and power, also called cogeneration: combined production of useful heat and electric or mechanical power. Also applies to useful cooling. Essentially, requires power generation to occur near the point of consumption so that the thermal effects can also be used. Often works in commercial-scale buildings using natural gas microturbines http://energy.gov/eere/amo/combined-heat-and-power-basics
 
+## consumptive withdrawal
+a resource removed from its source and not returned, e.g. water taken from streams that evaporates & moves elsewhere or is used as part of a crop or product [Meadows, 69][Meadows]
+
 ## coral bleaching
 corals turning white through ejection of their colorful zooxanthellae due to the zooxanthellae's dangerous release of oxygen radicals when ocean waters grow too warm
 

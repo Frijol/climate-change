@@ -3,8 +3,7 @@
 ![](http://akarlin.com/wp-content/uploads/2013/01/overshoot1.png)
 *Ecological footprint vs. carrying capacity of the earth, from [Meadows, xv][Meadows]*
 
-//TODO find the notes that belong in this section, where are they? Might be in solutions>efficiency
-
+* Characteristics of overshoot: 1) growth, acceleration, rapid change 2) limit beyond which the system cannot safely go 3) delay in signals or mistake in perceptions so that signals that the limit has been crossed do not lead to immediate response [Meadows, 1][Meadows]
 * GMOs and world hunger: people aren't going hungry because there's not enough food in the world, but because they can't afford to buy it. More high-cost food production does not help. [Meadows, 66][Meadows]
 
 ## Third world --> first world standards
