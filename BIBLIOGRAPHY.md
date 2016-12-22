@@ -10,6 +10,7 @@
 [Clark]: https://www.theguardian.com/environment/2012/jan/16/greenhouse-gases-remain-air "Clark, Duncan. 'How long do greenhouse gases stay in the air?' 2012."
 [Cuff]: https://www.theguardian.com/environment/2016/jan/12/vattenfall-starts-work-on-uk-hybrid-wind-and-solar-farm "Cuff, Madeleine. 'Vattenfall Starts Work on UK Hybrid Wind and Solar Farm.' 2016. The Guardian."
 [Diamond]: https://www.goodreads.com/book/show/475.Collapse "Diamond, Jared. 'Collapse: How Societies Choose to Fail or Succeed.' 2005."
+[Doris]: http://www.nrel.gov/docs/fy13osti/56641.pdf "Doris, E. 'Geospatial Analysis of Renewable Energy Technical Potential on Tribal Lands.' 2013."
 [EIA]: http://www.eia.gov/outlooks/aeo/pdf/0383(2016).pdf "Energy Information Administration. 'Annual Energy Outlook 2016 with projections to 2040.' 2016."
 [Energy.govPTC]: http://energy.gov/savings/renewable-electricity-production-tax-credit-ptc "Energy.gov. 'Renewable Energy Production Tax Credit (PTC).' 2016. Information on federal tax credit for renewable energy production."
 [EPA]: https://www.epa.gov/ghgemissions/overview-greenhouse-gases "EPA. 'Overview of Greenhouse Gases.' 2014."

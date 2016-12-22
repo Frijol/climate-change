@@ -67,6 +67,9 @@ the amount of sugar present in a fruit or vegetable
 ## broadcast irrigation
 flooding the land or using sprinklers to distribute water over a large area (as opposed to more focused and efficient drip irrigation) [Diamond, 401][Diamond]
 
+## brownfields
+a former industrial or commercial site where future use is affected by real or perceived environmental contamination
+
 ## BSER
 best system of emission reduction
 
@@ -147,6 +150,9 @@ Cross State Air Pollution Rule requires states to reduce power plant emissions t
 
 ## c-Si
 crystalline silicon
+
+## CSP
+concentrating solar power, whereby thermal power from sunlight is reflected onto a collector [Doris, 12][Doris]
 
 ## CTL
 coal to liquid [wiki](https://en.wikipedia.org/wiki/Coal_liquefaction)
@@ -255,6 +261,9 @@ Deliberate human intervention in the earth's climate on a global scale
 
 ## GHG
 greenhouse gas
+
+## greenfields
+land not previously used for industry (as opposed to brownfields)
 
 ## greenhouse gases
 Atmospheric gases which are transparent to ultraviolet radiation from the sun, but impermeable to infrared (such as the warmth rising from the earth). Carbon dioxide is such a gas.

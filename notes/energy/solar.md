@@ -1,14 +1,17 @@
 # Solar
 
 ## Mechanisms
-* Photovoltaic: light converted to electricity
+* Photovoltaic: light converted to electricity (can be concentrated)
 * Solar thermal: heat water from the sun. 1 in 10 houses in China, not so many in the States [Lovins, 66][Lovins]
+* Concentrating solar power (CSP): mirrors to concentrate and reflect sunlight onto a collector. This creates thermal energy which is harnessed to drive a steam turbine generator. Types include linear concentrator, dish/engine, power tower, and thermal storage [Doris, 12][Doris]
 
 ## Feasibility of large-scale deployment
 * Electric demand of the U.S. could be met by covering 9% of Nevada with PV according to DoE report [Lovins, 72][Lovins]
 * Solar has installed capacity of 137GWs worldwide as of 2015. The majority is in developed economies. [IFC, 3][IFC]
 * Solar is expected to increase by a factor of 10 from 2015-2040: 25 up to 246 GW (with CPP) or 202 GW (without CPP) [EIA, 114][EIA]
 * Because wind requires HVDC to to continue growing, solar capacity is expected to surpass wind capacity by 2032 [EIA, 114][EIA]
+* CSP in the United States makes the most economic sense in the Southwest as a utility-scale plant [Doris, 12][Doris]
+* CSP can be deployed on landfills, brownfields, and greenfields with minimal disturbance to the land [Doris, 12][Doris]
 
 ## Economics
 * "This is a ~16% learning rate, meaning that every doubling of utility-scale solar capacity in the US leads to a roughly 16% reduction in the cost of electricity from new solar installations." [Naam][NaamSolar]

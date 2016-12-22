@@ -20,8 +20,12 @@
 * Primary blockers to energy projects on tribal land are (1) up front capital and (2) lack of local expertise [Bronin, 233][Bronin]
 
 ### Opportunity
+![Summary of Tribal Technical Potential by Capacity and Generation](https://cloud.githubusercontent.com/assets/454690/21241845/74169f1e-c2c6-11e6-9a5a-e0dc115adc4d.png) [Doris, 10][Doris]
+
 * Tribal lands are 5% of USA but have 10% of its energy resources (both renewable & nonrenewable) [Bronin, 224][Bronin]
 * 95 million acres of tribal lands in the United States [Bronin, 221][Bronin]
+* Solar PV (urban and rural), CSP, and wind have the most technical potential on tribal lands; tribal land in the southwest has the highest percentage [Doris, 25][Doris]
+* Maps of where the highest technical potential for specific renewables on tribal lands are located can be found in [Doris]: biomass [Doris, 27][Doris], geothermal [Doris, 30][Doris], hydropower [Doris, 32][Doris], CSP [Doris, 34][Doris], urban PV [Doris, 36][Doris], rural PV [Doris, 38][Doris], wind [Doris, 40][Doris]
 * Tribal lands typically have fewer land use restrictions than nontribal [Bronin, 225][Bronin]
 * Key benefit for energy projects on tribal land: reduced permitting time & expense (through ITEDSA & typically less zoning on native lands)
 * Several agencies offer grants for strategic planning, analysis, business development, job training, and construction. 2002-2010 DoE's Tribal Energy Program disbursed $30.4m to support feasibility studies for 129 tribal projects. Other departments offer low-interest loans [Bronin, 233][Bronin]
@@ -29,6 +33,8 @@
 ### Issues
 * Tribes are not eligible for the same renewable energy financial incentives as taxable private companies e.g. ITC and PTC. They aren't taxed entities, so the credits do nothing for them [Bronin, 234][Bronin]
 * Typically, tribes end up leasing land to private companies which then own the infrastructure. Tribes profit from land but not energy produced [Bronin, 234][Bronin]
+* Ownership and tax structures are not always clear [Doris, 13][Doris]
+* Access to transmission lines may not be available [Doris, 13][Doris]
 
 ### Legislation
 * Indian Tribal Energy Development and Self-Determination Act (ITEDSA), passed in 2005 for energy infrastructure on reservations. Allows leasing for renewables construction w/o federal approval.  [Bronin, 222][Bronin]
@@ -41,7 +47,6 @@
 
 
 ### Further reading
-* [Geospatial Analysis of Renewable Energy Technical Potential on Tribal Lands: 2013 DoE report](http://www.nrel.gov/docs/fy13osti/56641.pdf)
 * [DoE's Tribal Energy Program, 2015 Review](http://energy.gov/sites/prod/files/2016/01/f28/1_lizana_pierce_overview.pdf)
 * [EIA report from 2000: Energy Consumption and Renewable Energy Development Potential on Indian Lands](http://www.eia.gov/renewable/archive/neaf0001.pdf)
 * [Tribes, Land, and the Environment - legal book](https://books.google.com/books/about/Tribes_Land_and_the_Environment.html?id=Y1giGEtzVO4C&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false)
