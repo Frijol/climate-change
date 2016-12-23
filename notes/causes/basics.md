@@ -2,6 +2,8 @@
 
 Best textbook-level introduction to the processes at play: [Limits to Growth: the 30-Year Update (pdf)](http://www.peakoilindia.org/wp-content/uploads/2013/10/Limits-to-Growth-updated.pdf)
 
+Quick scroll-through visualization showing [what causes global warming](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/)– oversimplified, but a good start
+
 ## Mechanics
 * The earth is getting warmer, and it's creating nasty positive feedback loops. For example: Sea ice is melting; ice is more reflective than water, so heat gets absorbed by the water more quickly than before; sea ice melts even faster
 * The primary cause of global warming is CO2 going into the atmosphere, specifically due to the burning of coal, natural gas, and petroleum. [Victor]
