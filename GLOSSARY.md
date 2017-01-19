@@ -346,6 +346,9 @@ An international treaty which extends the UNFCCC, committing countries to reduce
 ## LACE
 levelized avoided cost of electricity: LCOE for technologies with different duty cycles [EIA, 115][EIA]
 
+## LCA
+life cycle assessment (typically, cradle to grave carbon impact analysis)
+
 ## LCOE
 levelized cost of electricity: the cost of building and operating a plant per kWh of output. Useful for comparing costs among technologies with similar operating characteristics– see also LACE (for varied duty cycles). Can vary significantly by region for renewables (e.g. solar in Seattle vs. San Diego) [EIA, 115][EIA]
 

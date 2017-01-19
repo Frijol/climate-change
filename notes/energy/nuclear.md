@@ -29,6 +29,8 @@ This may all be a moot point with the growing use of natural gas making nuclear 
 * All U.S. nuclear energy facilities have extensive environmental monitoring programs, which are under the oversight of the NRC and state regulators. [NEI]
 * Nuclear fission complements renewable sources in a long term energy strategy because it is reliable and high-load, compared to solar, wind, etc.'s fluctuating low to moderate loads [Smil, 40][Smil]
 * “Nuclear generation is the only low-carbon-footprint option that is readily available on a gigawatt-level scale. That is why nuclear power should be part of any serious attempt to reduce the rate of global warming; at the same time, it would be naive to think that it could be (as some suggest) the single most effective component of this challenge during the next ten to thirty years. The best hope is for it to offer a modest contribution. “ [Smil, 43][Smil]
+* Nuclear power has a significantly lower carbon footprint (accounting for full lifecycle) than either of solar or wind [Cravens, 13][Cravens]
+* Coal plants cause more radiation dosage to their surrounding areas than nuclear plants [Cravens][Cravens]
 
 ## Mechanism
 * Current nuclear (fission) power works by creating heat through controlled atomic reactions, using this to boil water and create steam to drive a turbine. Specifically, all current nuclear plants use moveable cadmium rods to dampen or intensify the reaction (the rods suck up neutrons). [Weisman, 209][Weisman]

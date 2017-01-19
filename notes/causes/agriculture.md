@@ -5,6 +5,7 @@
 * Over the past 1000 years humans have turned ~2b hectares of productive farmland into wasteland (1986 estimate) [Meadows, 61][Meadows]
 * Rate of humus loss is accelerating from 25m tons/year (pre-Industrial) to 760m tons/year 1954-2004 [Meadows, 61][Meadows]
 * Fertilizers mask the signs of soil abuse, leading to a delay in signals, which is a characteristic cause of systemic overshoot [Meadows, 62][Meadows]
+* Greenhouse gas emissions are typically dominated by production, not by miles traveled to consumption [McWilliams, 26][McWilliams]
 
 ## Overproduction
 * American farms overproduce to the extent that in 1962 the government subsidized at more than $1bn/year in surplus food storage [Carson, 27][Carson] //TODO: updated stat?
