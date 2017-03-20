@@ -45,7 +45,16 @@
 | Gorlov Helical Turbine | GCK Technology Inc (USA) | 3 helical blades on a vertical turbine (efficient, minimal vibration) based on Darrieus Windmill concept | Scale model 1m version built and in testing since 7/10/2002 |
 | Lunar Energy Tidal Turbine | Lunar Energy Ltd (UK) | Horizontal axis, gravity base, 1 MW bidirectional turbine (11.5m diameter) in a 19.2m length x 15m diameter duct, hydraulic motor & generator | As of [ORourke], nothing built, but £500m contract in place to install 300 turbines off the coast of Korea |
 | Neptune Tidal Stream Device | Aquamarine Power Ltd (UK) | 2.4 MW, twin 3-blade horizontal turbines mounted to monopole structure, bidirectional generation | ABB commissioned the electrical system of the device in Jan. 2009. Planned to test at EMEC by 2012 |
-[O Rourke, 10][ORourke]
+| Nereus Tidal Turbine | Atlantis Resource Corporation Ltd. (Singapore) | Shallow-water horizontal turbine, rated to 400 kW, robust against lots of debris | Successfully tested in July 2008, has been grid connected in Australia |
+| Solon Tidal Turbine | Atlantis Resource Corporation Ltd. (Singapore) | Deep-water ducted horizontal turbine (500 kW) | Successfully tested August 2008 |
+| Open Centre Turbine | Open-Hydro Ltd. (Ireland) | 6m diameter slow rotor, stator, duct, and generator. 250 kW. | First tidal current energy company to connect to the UK national grid. Installed at EMEC. 8/2008 selected by EDF electricity suppliers in France to develop a demonstration farm. They are developing a specialist barge to install the turbines. |
+| Pulse Tidal Hydrofoil | Pulse Generation Ltd (UK) | Efficient in shallow water | Design phase as of 2009 with nothing built, but permission granted to deploy a prototype in Humber Estuary in Northern England |
+| SeaGen | Marine Current Turbines Ltd. (UK) | 1.2 MW, a pair of two-bladed horizontal axis rotors (16m diameter). Rotor blades are pitch controlled to work bidirectionally and to use for braking for maintenance | Successfully operated at full power 1/18/2009 at trial deployment (grid connected) in Strangford Lough in Norther Ireland |
+| Seaflow | Marine Current Turbines Ltd. (UK) | 300 kW | Successfully installed off the coast of Devon in 1993 |
+| Stingray Tidal Energy Converter | Engineering Business Ltd. (UK) | No rotor; parallel linkage holds large hydroplanes which create hydraulic power | Deployed 9/2002 in Yell Sound off Shetland but removed several weeks later, development stalled |
+| TidEl Stream Generator | SMD Hydrovision Ltd (UK) | Two contra-rotating 500 kW rotors, 15m diameter each, buoyant and moored with chains to align to tidal current flow | 1/10th scale model has been tested |
+| Tidal Stream Turbine | Hammerfest Strom AS (Norway) | 300 kW three-blade horizontal | World's first grid-connected tidal turbine as of 11/2003 installed in Kvalsundet on Norway's north coast |
+[O Rourke, 10-14][ORourke]
 
 ### Environmental considerations
 * A few turbines in a row have a minimal environmental effect, but tidal fences can be susceptible to similar environmental problems as tidal barrage as they can impact the tidal flow [Helston]
