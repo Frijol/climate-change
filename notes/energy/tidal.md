@@ -33,6 +33,19 @@
 
 ### Technology readiness
 * Still in demonstration phase (2011) [Helston]
+* As of 2009, main research focused on work reliability of the technology [O Rourke, 9][ORourke]
+* There has been a dedicated test in operation at the European Marine Energy Center (EMEC) in Orkney, Scotland since 2005 [O Rourke, 9][ORourke]
+
+#### Existing tidal stream generator devices
+| Name | Developed by | Key specs | Stage of development |
+|------|--------------|-----------|----------------------|
+| DeltaStream Turbine device | Tidal Energy Ltd. (UK) | 1.2 MW, three 3-blade (15m radius) horizontal turbines, gravity mounted on a triangular frame | Full production was expected for summer 2009, hadn't been tested yet as of [ORourke] |
+| EvoPod Tidal Turbine | Ocean Flow Energy Ltd. (UK) | 5-blade horizontal axis floating structure, mooring designed to maintain optimal heading | 1/10 scale model undergoing tests in Strangford Lough in Northern Ireland as of 2009 |
+| Free Flow Turbines | Verdant Power Ltd (US/CA) | 3-blade horizontal axis turbine, 4.68m diameter, piled structure | Prototype in NYC's East River was generating 1 MWh/day as of 2009, 2008 $1.15m contract from Sustainable Development Technology Canada to develop phase one of the Cornwall Ontario River Energy Project |
+| Gorlov Helical Turbine | GCK Technology Inc (USA) | 3 helical blades on a vertical turbine (efficient, minimal vibration) based on Darrieus Windmill concept | Scale model 1m version built and in testing since 7/10/2002 |
+| Lunar Energy Tidal Turbine | Lunar Energy Ltd (UK) | Horizontal axis, gravity base, 1 MW bidirectional turbine (11.5m diameter) in a 19.2m length x 15m diameter duct, hydraulic motor & generator | As of [ORourke], nothing built, but £500m contract in place to install 300 turbines off the coast of Korea |
+| Neptune Tidal Stream Device | Aquamarine Power Ltd (UK) | 2.4 MW, twin 3-blade horizontal turbines mounted to monopole structure, bidirectional generation | ABB commissioned the electrical system of the device in Jan. 2009. Planned to test at EMEC by 2012 |
+[O Rourke, 10][ORourke]
 
 ### Environmental considerations
 * A few turbines in a row have a minimal environmental effect, but tidal fences can be susceptible to similar environmental problems as tidal barrage as they can impact the tidal flow [Helston]

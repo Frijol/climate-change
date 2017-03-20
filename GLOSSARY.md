@@ -196,6 +196,9 @@ Steam Electric Power Generating Effluent Guidelines
 ## EGU
 electric generating unit
 
+## EMEC
+European Marine Energy Center: a marine power generation research facility located in Orkney, Scotland. The center was created to offer marine-based renewable energy technology developers the opportunity to test full-scale, grid-connected devices [O Rourke, 9][ORourke]
+
 ## EMM
 electricity market model [EIA, 57][EIA]
 
