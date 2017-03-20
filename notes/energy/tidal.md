@@ -5,27 +5,39 @@
 * Tidal stream generators do not generate the high power that tidal barrage can, but are typically less environmentally destructive [Helston]
 * Peak-to-trough amplitude of tides would be theoretically ~1m due to solar + lunar gravity on a perfectly fluid Earth. We see more extreme tides (e.g. 4m in Puget Sound) where there are geographical restrictions or shallower water. In an *inlet*, water has to *flow* in & out to accommodate the tide change [Murphy-tides]
 
-### Tidal barrage
+## Tidal barrage
+* Energy harvest can be ebb (high tide is trapped in, allowed to outflow through turbines), flood (high tide is trapped out, allowed to inflow through turbines- less popular than ebb because it reduces the size of the basin, impacting shipping and the environment), or two-way (both, with a smaller hydrostatic head & thus a gentler peak generation over more time). [O Rourke, 4][ORourke]
 * Essentially a hydroelectric dam where sluice gates create the hydrostatic head, thus generating a head differential which can be harvested
 * Tidal barrage functions best in inlets/similar places where the water can be trapped and tidal amplitude is high [Murphy-tides]
+* Double basin tidal barrage: ebb system where some of the electricity generated is used to pump water into a second basin & thus save generating capacity for when it is needed. Economically unfeasible (in 2009) because of generator inefficiencies and higher construction costs [O Rourke, 5][ORourke]
 * Tidal barrage power calculations: P=ρFgh, where ρ = 1000 kg/m³,  g = 10 m/s² (surface gravity), F is the flow rate of water in (m³/s), and h is the height of the water behind the dam. **h** is very small in a tidal installation compared with river hydroelectric (often 200m+). Accounting for timing (outer water has to be higher to create inflow, so you can't harvest the whole tide), ideal power is P = (1/8)πρgAH²/T, where A is the area impounded, H is the peak-to-peak tidal amplitude, and T is the period (about 12 hours) [Murphy-tides]
 * UK is interested in taking a lead with tidal power [Helston]
 
-### Tidal stream generators
+## Tidal stream generators
 * Essentially an underwater turbine in a tidal current
-* Typically sunk 20-30 meters, anywhere with a strong tidal flow [Helston]
-* Water is ~800x denser than air, so turbines are sturdier than wind turbines, with smaller diameters to generate the same power (10-15m rotor diameter can produce 200-700kW) [Helston]
-* Ideal flow rate is 7-11 km/hr [Helston]
 * Tidal fences/tidal farms: a row of turbines through which water flows [Helston]
-* Still in demonstration phase (2011) [Helston]
-* Turbines are designed for low rotation speeds, so they are not a significant danger to aquatic life. Turbines are also sometimes screened to prevent entry by aquatic life. [Helston]
-* A few turbines in a row have a minimal environmental effect, but tidal fences can be susceptible to similar environmental problems as tidal barrage as they can impact the tidal flow [Helston]
-* BC/Southeast Alaska has some of the best tidal current opportunity in the world. Fishing is a major industry, so it is extremely important that any technology is environmentally sound [Helston]
 
-### Siting requirements
+### Siting
 * At least 7m tidal difference [Helston]
+* Ideal flow rate is 7-11 km/hr [Helston]
 * Stable underwater site for installation [Helston]
+* Typically sunk 20-30 meters, anywhere with a strong tidal flow [Helston]
 * Environmental disturbances should be minimal [Helston]
+
+### Turbine design
+* Two styles: horizontal axis (rotation of blades is parallel to the flow of water) or vertical axis (rotation of blades is perpendicular to the flow of water) [O Rourke, 8][ORourke]
+* Simplest design: blades on a hub connected to a gearbox, connected to a generator. Generated electricity is transmitted to land with cables. [O Rourke, 9][ORourke]
+* Support structure: three main types. Gravity structure: a large mass (concrete + steel) steadies the turbine. Piled structure: steel or concrete beams pin the turbine to the seabed. Floating structure: turbine is moored to the seafloor (often with wire or chains) and held in position with a downward pointing vertical beam [O Rourke, 9][ORourke]
+* Must be able to generate on both ebb and flood (a moving turbine is better at withstanding structural stress than one held still/not generating) [O Rourke, 8][ORourke]
+* Water is ~800x denser than air, so turbines are sturdier than wind turbines, with smaller diameters to generate the same power (10-15m rotor diameter can produce 200-700kW) [Helston]
+
+### Technology readiness
+* Still in demonstration phase (2011) [Helston]
+
+### Environmental considerations
+* A few turbines in a row have a minimal environmental effect, but tidal fences can be susceptible to similar environmental problems as tidal barrage as they can impact the tidal flow [Helston]
+* Turbines are designed for low rotation speeds, so they are not a significant danger to aquatic life. Turbines are also sometimes screened to prevent entry by aquatic life. [Helston]
+* BC/Southeast Alaska has some of the best tidal current opportunity in the world. Fishing is a major industry, so it is extremely important that any technology is environmentally sound [Helston]
 
 ## Benefits
 * Highly consistent power sources

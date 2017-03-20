@@ -38,6 +38,7 @@
 [NaamStorage]: http://rameznaam.com/2015/10/14/how-cheap-can-energy-storage-get/ "Naam, Ramez. 'How Cheap Can Energy Storage Get? Pretty Darn Cheap.' 2015."
 [NaamWind]: http://rameznaam.com/2015/08/30/how-steady-can-the-wind-blow/ "Naam, Ramez. 'How Steady can Wind Power Blow.' 2015. Analysis of market readiness for wind power."
 [NEI]: http://www.nei.org/Master-Document-Folder/Backgrounders/Fact-Sheets/Quick-Facts-Nuclear-Energy-in-America "Nuclear Energy Institute. 'Quick Facts: Nuclear Energy in America.' 2015. Fact sheet about nuclear power produced by an organization with a vested interest in its success."
+[ORourke]: http://arrow.dit.ie/cgi/viewcontent.cgi?article=1015&context=engschmecart "O Rourke, Fergal. 'Tidal Energy Update 2009.' 2010. Dublin Institute of Technology."
 [Owen]: https://www.goodreads.com/book/show/12538134-the-conundrum "Owen, David. 'The Conundrum: How Scientific Innovation, Increased Efficiency, and Good Intentions Can Make Our Energy and Climate Problems Worse.' 2012. Like Smil, but without as thorough a scientific backing. Main point is that efficiency gains tend to lead to increased rather than decreased consumption."
 [Palomino]: http://www.alaskapublic.org/2014/07/10/alaska-harnesses-the-power-of-tides-rivers-and-waves/ "Palomino, Joaquin. 'Alaska Harnesses Power of Tides, Rivers, and Waves.' 2014. Alaska Public Media."
 [Pattison]: https://vtechworks.lib.vt.edu/handle/10919/54690 "Pattison, Chris. 'Co-location of Wind and Solar Power Plants and Their Integration onto the US Power Grid.' 2015. VirginiaTech."
