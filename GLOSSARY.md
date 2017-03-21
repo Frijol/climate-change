@@ -82,6 +82,9 @@ Compressed air energy storage
 ## CAIR
 Clean Air Interstate Rule (2005): cap & trade for sulfur dioxide and nitrogen oxides in the United States. Replaced by the CSAPR.
 
+## CAISO
+the California ISO (Independent System Operator, regional energy market oversight entity)
+
 ## calcifiers
 organisms that build shells or external skeletons, or for plants, internal scaffolding built from calcium carbonate
 
@@ -163,6 +166,12 @@ Clean Water Act
 ## declining block rates
 The more you buy, the cheaper the price per unit
 
+## DER
+distributed energy resources
+
+## DERP
+distributed energy resource provider
+
 ## DG
 distributed generation (of power)
 
@@ -177,6 +186,9 @@ Department of Energy (U.S.A.)
 
 ## DoI
 Department of the Interior (U.S.A.)
+
+## DSO
+(electric) distribution service operator
 
 ## ECA
 emission control area
@@ -249,6 +261,9 @@ feed conversion ratio: in agriculture and aquaculture, the ratio of feed consume
 
 ## feedstock
 raw material to supply an industrial process
+
+## FERC
+Federal Energy Regulatory Commission (U.S.A.) (FERC.gov)
 
 ## fracking
 Hydraulic fracturing, a high-pressure injection of a liquid into a wellbore to create cracks in deep-rock formations to access otherwise hard-to-reach natural gas and petroleum
@@ -328,6 +343,12 @@ investor owned utility, as opposed to publicly owned
 ## IPCC
 Intergovernmental Panel on Climate Change (a UN organization)
 
+## IRP
+integrated resource planning [Trabish]
+
+## ISO
+Independent System Operator for grid energy market (sometimes interchangeable with RTO)- a regional energy market oversight entity which exists to facilitate competition among wholesale energy companies, schedule and monitor transmission for non-discriminatory access, ensure reliability of the grid, manage the interconnection of new resources, guard against market manipulation, and create transparency into the system. [Caspary, 2][Caspary]
+
 ## ITC
 Investment Tax Credit: http://energy.gov/savings/business-energy-investment-tax-credit-itc
 
@@ -370,6 +391,9 @@ landfill gas
 ## LMFBRs
 liquid metal fast breeder nuclear reactors
 
+## LNBA
+locational net benefit analysis, an effort by California to value distributed energy resources based on their location on the grid [Trabish]
+
 ## LNG
 liquid natural gas
 
@@ -405,6 +429,9 @@ National Energy Modeling System
 
 ## NEPA
 National Environmental Policy Act: requires any federal actions with significant impact on the human environment to undergo a thorough environmental analysis. Notoriously expensive & long, does not actually require action to be taken based on the report
+
+## NERC
+North American Electric Reliability Corporation, a nonprofit international regulatory agency (NERC.com)
 
 ## New Pangaea
 A term used to refer to the ecological globalization/homogenization of the world through the spreading of non-native species via human activities
@@ -505,6 +532,9 @@ Renewable purchase obligation
 
 ## RPS
 Renewable Portfolio Standards, regulation requiring renewables in an energy portfolio
+
+## RTO
+Regional Transmission Organization, a regional energy market oversight entity which exists to facilitate competition among wholesale energy companies, schedule and monitor transmission for non-discriminatory access, ensure reliability of the grid, manage the interconnection of new resources, guard against market manipulation, and create transparency into the system. Term can be interchangeable with ISO. [Caspary, 2][Caspary]
 
 ## run-of-the-river
 Hydropower which uses natural flow and elevation drop of water rather than a dam

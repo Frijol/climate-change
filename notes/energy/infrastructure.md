@@ -1,4 +1,8 @@
 # Infrastructure
+An excellent introduction to terms and organization of the electric grid can be found in [Caspary].
+
+* FERC is officially voluntary, 1/3 of US transmission is outside of FERC and RTOs (mostly Texas) [Caspary, 7-8][Caspary]
+* Transmission systems mostly take place through organized markets (ISOs/RTOs). Other agreements are often called bilateral (2-way agreement between energy supplier and distributor) [Caspary, 13][Caspary]
 * Current American grids: Texas (ERCOT), East, and West. They are separately managed. [Chabot]
 * Current grid systems are highly distributed. Power transmission lines are expensive and inefficient - local solar & wind reduces cost and energy production need [Lovins, 72][Lovins]
 * The current power grid is not set up to support distributed power; it works through a few sources providing great amounts of energy. [Victor]
