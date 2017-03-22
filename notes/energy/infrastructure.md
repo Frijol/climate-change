@@ -1,6 +1,7 @@
 # Infrastructure
 An excellent introduction to terms and organization of the electric grid can be found in [Caspary].
 
+* It takes ~10 years (software) ~18 years (hardware) to go from research, through development and demonstration, then regulation, to roll out new operational technology to the grid. It's a waterfall-style development structure of sequential operations. [More than Smart, 15][More than Smart]
 * FERC is officially voluntary, 1/3 of US transmission is outside of FERC and RTOs (mostly Texas) [Caspary, 7-8][Caspary]
 * Transmission systems mostly take place through organized markets (ISOs/RTOs). Other agreements are often called bilateral (2-way agreement between energy supplier and distributor) [Caspary, 13][Caspary]
 * Current American grids: Texas (ERCOT), East, and West. They are separately managed. [Chabot]
@@ -18,5 +19,9 @@ An excellent introduction to terms and organization of the electric grid can be 
 ## Siting: colocation of wind + solar
 * Colocation of wind & solar might make sense for renewables because they have ~opposite peaks. It also lets both farms use the same infrastructure [Cuff]
 * Colocation of wind and solar in practice [Pattison]: ![https://vtechworks.lib.vt.edu/bitstream/handle/10919/54690/3_Pattison_etal.pdf?sequence=2&isAllowed=y](http://i.imgur.com/iCQ3M4l.png)
+
+## California: distributed energy resources
+* There is an effort underway to better integrate DER within CAISO. Guiding principles include work to evolve the grid to an open network platform that is based on energy nodes with high transparency and resiliency. Pieces of the strategy include flexible technologies that should be able to interoperate with future unforeseen innovations and better align timing of power resources with customer needs. [More than Smart, 16][More than Smart]
+
 
 {% include "../../BIBLIOGRAPHY.md" %}

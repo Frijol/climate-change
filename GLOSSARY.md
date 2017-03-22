@@ -31,6 +31,9 @@ amorphous silicon
 ## ATPZEV
 Advanced Technology Partial Zero-Emission Vehicle: hybrid, compressed natural gas, and methanol fuel cell vehicles with near-zero emissions and extended emissions system warranties [EIA, 35][EIA]
 
+## BA
+balancing authorities (electric grid)- they provide a reliable open-access power transmission service by keeping supply and demand balanced and scheduled [More than Smart, 16][More than Smart]
+
 ## BAPV
 Building applied photovoltaic [IFC]
 
@@ -494,6 +497,9 @@ chemical compounds that are the building blocks of taste, such as amino acids, e
 ## Pinatubo Option
 shorthand name for albedo engineering
 
+## P-node
+pricing node (in electric grid balancing)
+
 ## POU
 publicly owned utility (as opposed to investor owned)
 
@@ -574,6 +580,9 @@ Stream Protection Rule: proposed rule affects surface mining operations and unde
 
 ## SRM
 Solar radiation management (albedo engineering)
+
+## T-D
+transmission to distribution
 
 ## TERA
 tribal energy resource agreement, which occurs between a tribe and the Secretary of the Interior. Required for natives to get rights of self-determination from ITEDSA, absolves the federal government of any losses occurring from the energy project decisions
