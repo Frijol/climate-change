@@ -22,6 +22,6 @@ An excellent introduction to terms and organization of the electric grid can be 
 
 ## California: distributed energy resources
 * There is an effort underway to better integrate DER within CAISO. Guiding principles include work to evolve the grid to an open network platform that is based on energy nodes with high transparency and resiliency. Pieces of the strategy include flexible technologies that should be able to interoperate with future unforeseen innovations and better align timing of power resources with customer needs. [More than Smart, 16][More than Smart]
-
+* P-nodes, or pricing nodes, are a pricing structure for distributed energy resources. Essentially, a price is set by balancing the supply and demand at each point where two wires cross. As of 2015, there were 4,900 of these in California. [StJohn]
 
 {% include "../../BIBLIOGRAPHY.md" %}

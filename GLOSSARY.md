@@ -190,6 +190,9 @@ Department of Energy (U.S.A.)
 ## DoI
 Department of the Interior (U.S.A.)
 
+## DRAM
+Demand Response Auction Mechanism, a more open energy supply bidding process than currently employed by Western U.S. utilities
+
 ## DSO
 (electric) distribution service operator
 
@@ -498,7 +501,7 @@ chemical compounds that are the building blocks of taste, such as amino acids, e
 shorthand name for albedo engineering
 
 ## P-node
-pricing node (in electric grid balancing)
+pricing node (in electric grid balancing). P-nodes, PNodes, or pricing nodes, are a pricing structure for distributed energy resources. Essentially, a price is set by balancing the supply and demand at each point where two wires cross. As of 2015, there were 4,900 of these in California. [StJohn]
 
 ## POU
 publicly owned utility (as opposed to investor owned)
@@ -511,6 +514,9 @@ Production Tax Credit, a federal tax credit in the United States which provides 
 
 ## PUC
 Public Utility Commission, state entity regulating utility companies
+
+## PURPA
+Public Utility Regulatory Policies Act: requires utilities to purchase the output of certain types of generation facilities if it matches the cost of other system resources
 
 ## PV
 photovoltaic(s)
