@@ -1,5 +1,20 @@
 # Policy solutions for climate change
 
+## Incentives
+* Germany is a model for adoption of solar: ![screen shot 2017-03-23 at 10 28 45 am](https://cloud.githubusercontent.com/assets/454690/24261569/a1e973c2-0fb4-11e7-923e-6625b57c368e.png) [EPRI, 10][EPRI]
+* German PV and wind adoption are driven by the German Renewable Energy Sources Act (EEG) which created FIT for solar and wind. These sources are now cheap enough that FIT has droped from €0.50/kWh to €0.18 but solar + wind continue to grow [EPRI, 11][EPRI]
+
+## Taxing and subsidies
+* Phasing out fossil fuel subsidies globally would conservatively save governments $775 billion in one year [Klein, 105][Klein]
+* A tax of $50/metric ton of CO2 emitted in developed countries would raise ~$450 billion annually [Klein, 105][Klein]
+* The United States provides a tax credit for the first 10 years of operation of new renewables: $0.023/kWh for wind, geothermal, closed-loop biomass; $0.012/kWh for other eligible technologies. [Energy.govPTC]
+
+## Renewable portfolio standards (RPS)
+* Most of American States (29/50) have established RPS (or similar) to require a specific percentages of renewables. They are largely meeting/exceeding them! Here's why: (1) Federal incentives work! New renewables plants are coming online nationwide, creating options for states to buy from (2) Falling costs from renewables technology - economies of scale + increased efficiency of maturing technology (3) Clean Power Plan - which is currently stayed, but which states are acting on anyway just in case (4) State/local rebates on equipment & similar upfront capital incentives (5) State/local net metering & similar revenue incentives [EIA, 37][EIA]
+* See RPS requirements and qualifying technologies at [EIA, 38][EIA]
+* Some states allow ACP, which is similar to indulgences if not implemented at high enough cost
+* States often regulate RPS and efficiency targets separately [EIA, 44][EIA]
+
 ## Carbon credits
 * Carbon credits system: a global economic system to financially incentivize companies to reduce their carbon emissions [Goodell, 142][Goodell]
 * [Kyoto Protocol](https://en.wikipedia.org/wiki/Kyoto_Protocol) established the carbon credits system in 1997/enforced 2005. [Goodell, 142][Goodell]
@@ -40,16 +55,5 @@
 * The carbon credit system is an opt-in economy, and many major countries (esp. the United States) do not opt in
 * As emissions are reduced globally, the incentive to reduce goes away again - you would expect the value of a carbon credit to decrease over time as companies make up-front investments in more efficient/less emissive systems. [right? This is my analysis - wouldn't the government have to keep cutting and cutting the caps to make this work? I haven't seen anything about a long-term plan to this effect. Need to further research phases of Kyoto Protocol.] [Update: this is addressed– phases exist specifically to keep cutting the carbon cap]
 * Alternative: tax carbon-based fuels at the point at which they exit the earth or cross a border. This creates a clear and predictable accounting. [Lovins, 226-227][Lovins]
-
-## Taxing and subsidies
-* Phasing out fossil fuel subsidies globally would conservatively save governments $775 billion in one year [Klein, 105][Klein]
-* A tax of $50/metric ton of CO2 emitted in developed countries would raise ~$450 billion annually [Klein, 105][Klein]
-* The United States provides a tax credit for the first 10 years of operation of new renewables: $0.023/kWh for wind, geothermal, closed-loop biomass; $0.012/kWh for other eligible technologies. [Energy.govPTC]
-
-## Renewable portfolio standards (RPS)
-* Most of American States (29/50) have established RPS (or similar) to require a specific percentages of renewables. They are largely meeting/exceeding them! Here's why: (1) Federal incentives work! New renewables plants are coming online nationwide, creating options for states to buy from (2) Falling costs from renewables technology - economies of scale + increased efficiency of maturing technology (3) Clean Power Plan - which is currently stayed, but which states are acting on anyway just in case (4) State/local rebates on equipment & similar upfront capital incentives (5) State/local net metering & similar revenue incentives [EIA, 37][EIA]
-* See RPS requirements and qualifying technologies at [EIA, 38][EIA]
-* Some states allow ACP, which is similar to indulgences if not implemented at high enough cost
-* States often regulate RPS and efficiency targets separately [EIA, 44][EIA]
 
 {% include "../../BIBLIOGRAPHY.md" %}

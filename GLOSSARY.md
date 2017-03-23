@@ -19,6 +19,9 @@ reflectivity
 ## Anthropocene
 the name of the current geologic period, implying that the geology of the Earth (through climate change, nuclear fallout, river diversion, monoculture farming, ocean acidification, etc.) is being dominantly affected by humans
 
+## arbitrage
+the simultaneous purchase and sale of an asset to profit from a difference in price
+
 ## ARRA
 American Recovery and Reinvestment Act: 2009 bill which included some bonus ITC + PTC as temporary economic stimulus [EIA, 33][EIA]
 
@@ -55,6 +58,9 @@ The urge to affiliate with other forms of life [Louv, 39][Louv]
 ## bitumen
 the type of oil extracted from the Alberta Tar Sands
 
+## black start
+the process of starting an electric grid section or power station without relying on an external transmission network– often, small generators (BSDG) start larger generators to start main power station generators. The challenge is that large power generation plants require some base electricity in order to begin operation. Hydroelectric plants are relatively easy to black start because you just need enough energy to open intake gates and excite the turbine generators
+
 ## BOO
 Build-Own-Operate
 
@@ -72,6 +78,9 @@ flooding the land or using sprinklers to distribute water over a large area (as 
 
 ## brownfields
 a former industrial or commercial site where future use is affected by real or perceived environmental contamination
+
+## BSDG
+black start diesel generator
 
 ## BSER
 best system of emission reduction
@@ -169,6 +178,9 @@ Clean Water Act
 ## declining block rates
 The more you buy, the cheaper the price per unit
 
+## demand response
+the electric grid needs to be maintained in a specific frequency band. This band is determined by the balance of electricity supply vs. demand. When supply is lower than demand, the frequency drops. Demand response is typically a coordinated lowering of demand to balance with supply. See also: frequency control
+
 ## DER
 distributed energy resources
 
@@ -201,6 +213,9 @@ emission control area
 
 ## ecological footprint
 the land area required to provide the resources for and absorb the emissions from global society [Meadows, xiv][Meadows]
+
+## EEG
+German Renewable Energy Sources Act, which created feed-in tariffs for solar and wind
 
 ## EEPS
 energy efficiency portfolio standard: legislated energy use reduction. "mandatory, sets long-term reduction targets (at least three years), is sufficiently funded to allow covered entities to meet their targets, uses financial incentives or nonperformance penalties, and usually (but not always) increases over time" [EIA, 42][EIA]
@@ -271,8 +286,17 @@ raw material to supply an industrial process
 ## FERC
 Federal Energy Regulatory Commission (U.S.A.) (FERC.gov)
 
+## FIT
+feed-in tariffs, a long-term guaranteed incentive to resource owners based on the enegy produced (in kWh) and not based on demand [EPRI, 12][EPRI]
+
 ## fracking
 Hydraulic fracturing, a high-pressure injection of a liquid into a wellbore to create cracks in deep-rock formations to access otherwise hard-to-reach natural gas and petroleum
+
+## frequency control
+(also known as frequency regulation) on the grid, when power generation is greater than demand, the power frequency rises. Because it is important to maintain a standard frequency, frequency control is any way to discharge excess energy and keep the load and generation in balance. See also: demand response
+
+## frequency regulation
+(also known as frequency control) on the grid, when power generation is greater than demand, the power frequency rises. Because it is important to maintain a standard frequency, frequency control is any way to discharge excess energy and keep the load and generation in balance. See also: demand response
 
 ## gas flaring
 when oil is extracted, natural gas builds up. "Flaring" this gas is setting it on fire (instead of capturing it for sale).
@@ -451,6 +475,9 @@ natural gas plant liquids, recovered from processing, e.g. propane
 ## NIMBY
 Not in my backyard. As in "yes high voltage power transmission is a great idea, but not in my backyard"
 
+## non-spinning reserve
+also called supplemental reserve. Generating capacity which is capable of being brought online within 10 minutes if it is offline, or interrupted within 10 minutes if it is online, and which is capable of either being operated or interrupted for at least two hours
+
 ## NOx
 nitrogen oxide, typically nitrogen dioxide, a pollutant in emissions that is harmful to humans- wiki: https://en.wikipedia.org/wiki/Nitrogen_dioxide#Human-caused_sources_and_exposure
 
@@ -539,6 +566,9 @@ Renewable Energy Independent Power Producer Procurement
 ## RGGI
 Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated carbon market in the United States [Wiki](https://en.wikipedia.org/wiki/Regional_Greenhouse_Gas_Initiative)
 
+## RMI
+Rocky Mountain Institute, a sustainability research and education foundation
+
 ## RPO
 Renewable purchase obligation
 
@@ -581,6 +611,9 @@ Depends on solar irradiation of the geographic area and also on local shade
 ## SOx
 sulful oxides, a pollutant present in exhaust which causes acid rain- wiki: https://en.wikipedia.org/wiki/Air_pollution#Pollutants
 
+## spinning reserve
+any back-up energy production capacity which is can be made available to a transmission system with ten minutes' notice and can operate continuously for at least two hours once it is brought online
+
 ## SPR
 Stream Protection Rule: proposed rule affects surface mining operations and underground mining operations that affect the surface [EIA, 32][EIA]
 
@@ -604,6 +637,9 @@ a row of tidal stream generator turbines cemented in place so that all flow must
 
 ## tidal stream generator
 underwater turbines for tidal power
+
+## TOU
+time of use, a utility power billing scheme to correlate the price of electricity with its supply/demand economics (electricity is more expensive at times of day with historically high demand)
 
 ## TPES
 total primary energy supply, the sum of production and imports minus exports and storage charges. See PE for more information [wiki](https://en.wikipedia.org/wiki/Primary_energy)

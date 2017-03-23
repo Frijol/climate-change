@@ -13,6 +13,8 @@
 | batteries                | several..              |
 
 ## Batteries
+* Batteries can provide services to ISO/RTO's, utilities, and customers. For ISO/RTO's: energy arbitrage, frequency regulation, spinning reserve and non-spinning reserve, voltage support, black start. For utility: resource adequacy, distribution deferral, transmission congestion relief, transmission deferral. For customers: TOU bill management, self-consumption from PV, demand charge reduction, backup power [Fitzgerald, 3][Fitzgerald]
+* Batteries providing multiple services (e.g. demand response + backup power) are much more worthwhile than batteries used for a single purpose– RMI estimates a single-use battery system is only 5-50% utilized. Several examples are given at [Fitzgerald, 6][Fitzgerald] [Fitzgerald, 5][Fitzgerald]
 
 ### Characteristics
 * Lithium-Ion batteries die out after ~1k cycles & are better to discharge only 70%; Flow can be used for 5-10k cycles, CAES for 10k+ with full discharge [Naam][NaamStorage]

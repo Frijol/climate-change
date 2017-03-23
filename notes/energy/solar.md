@@ -11,6 +11,7 @@ It's happening in the U.S.:
 ![USSMI 2016 Year in Review](http://www.utilitydive.com/user_media/diveimage/UD-USSMI-2016-2-03-10-2017.jpg)
 
 * Electric demand of the U.S. could be met by covering 9% of Nevada with PV according to DoE report [Lovins, 72][Lovins]
+* Distributed PV generation was 4 GW worldwide in 2003, 128 GW in 2013 [EPRI, 11][EPRI]
 * Solar has installed capacity of 137GWs worldwide as of 2015. The majority is in developed economies. [IFC, 3][IFC]
 * Solar is expected to increase by a factor of 10 from 2015-2040: 25 up to 246 GW (with CPP) or 202 GW (without CPP) [EIA, 114][EIA]
 * Because wind requires HVDC to to continue growing, solar capacity is expected to surpass wind capacity by 2032 [EIA, 114][EIA]
@@ -23,6 +24,7 @@ It's happening in the U.S.:
 * At the scale of utility installations, the cost of solar modules are now less than half of the price of deploying solar. Inverters, labor, grid connection, and other soft costs are now higher. [Naam][NaamSolar]
 * Cost of solar PV power plants has decreased 80% in the 2008-2015 period [IFC, 3][IFC]
 * Solar capacity in the United States is expected to rise steadily through 2040 as a result of the declining capital cost of installation and from ITC incentives [EIA, 112][EIA]
+* Residential solar benefits greatly from its connection to the grid. EPRI estimates that a grid-connected system costs ~$51/month (2014) whereas an independent solar installation would cost 4x that [EPRI, 7][EPRI]
 
 ## How to
 * Detailed 2015 guide to the siting, building, and operation of a solar site available [here][IFC]

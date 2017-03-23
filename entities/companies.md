@@ -1,4 +1,8 @@
 # Companies
+## Electric grid
+* [Smart Electric Power Alliance](https://sepapower.org/about/) a non-profit to help stakeholders use smart devices to optimize energy usage
+* [Mission:data](http://www.missiondata.org/about-us/) an advocate for consumer- and machine-friendly energy data access policies (Seattle)
+
 ## Major energy companies
 * [DONG Energy](http://www.dongenergy.com/): Denmark's largest energy company, which invests heavily in renewables. A leader in Europe's energy scene. Market leader in offshore wind, has built ~half of current operating offshore wind farms
 * [Masdar](http://www.masdar.ae/): Abu Dhabi's renewable energy company, committed to renewable energy for the UAE
