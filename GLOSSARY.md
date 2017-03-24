@@ -286,6 +286,9 @@ raw material to supply an industrial process
 ## FERC
 Federal Energy Regulatory Commission (U.S.A.) (FERC.gov)
 
+## FIDVR
+fault induced delayed voltage recovery: a temporary dip in voltage causes a power supply stall [Hiskens, 24][Hiskens]
+
 ## FIT
 feed-in tariffs, a long-term guaranteed incentive to resource owners based on the enegy produced (in kWh) and not based on demand [EPRI, 12][EPRI]
 
@@ -420,6 +423,9 @@ landfill gas
 
 ## LMFBRs
 liquid metal fast breeder nuclear reactors
+
+## LMP
+locational marginal price (of energy), typically low at off-peak usage times [Fitzgerald, 15][Fitzgerald]
 
 ## LNBA
 locational net benefit analysis, an effort by California to value distributed energy resources based on their location on the grid [Trabish]
@@ -619,6 +625,9 @@ Stream Protection Rule: proposed rule affects surface mining operations and unde
 
 ## SRM
 Solar radiation management (albedo engineering)
+
+## system upgrade deferral
+allocation of off-peak energy (e.g. through battery storage) to times when new capacity would otherwise have to be added to meet demand [Fitzgerald, 15][Fitzgerald]
 
 ## T-D
 transmission to distribution

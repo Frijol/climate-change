@@ -2,13 +2,17 @@
 
 ## How the American energy grid works
 * An excellent introduction to terms and organization of the electric grid can be found in [Caspary].
-* Current grid paradigm: ![screen shot 2017-03-23 at 10 25 34 am](https://cloud.githubusercontent.com/assets/454690/24261156/5081e43e-0fb3-11e7-9aff-fb8d78d5c767.png) [EPRI, 8][EPRI]
+* Current grid paradigm: ![screen shot 2017-03-23 at 2 12 10 pm](https://cloud.githubusercontent.com/assets/454690/24270548/d479a0aa-0fd2-11e7-90cd-f02d92aa5ff4.png) [Hiskens, 4][Hiskens]
 * Modern grid has 99.97% energy availability reliability in the United States [EPRI, 9][EPRI]
 * Transmission systems mostly take place through organized markets (ISO's/RTO's). Other agreements are often called bilateral (2-way agreement between energy supplier and distributor) [Caspary, 13][Caspary]
 * Current American grids: Texas (ERCOT), East, and West. They are separately managed. [Chabot]
 * The United States has very few HVDC lines. "The cost of high voltage DC (HVDC) transmission lines is roughly 1 cents per kwh for 500 miles, or 1.5 cents per kwh for 1,000 miles transmitted. Over 1,000 miles, an HVDC line may lose 5% or so of the electricity it transmits." [Naam][NaamWind]
 * ![](http://rameznaam.com/wp-content/uploads/2015/08/Cost-of-AC-and-HVDC-Transmission-Lines-From-HandlemanPost-800x544.jpg) Cost of transmission lines by type & voltage [Naam][NaamWind]
 * FERC is officially voluntary, 1/3 of US transmission is outside of FERC and RTO's (mostly Texas) [Caspary, 7-8][Caspary]
+
+### Load profiles
+* Trends in when energy demand is high/low in the United States: ![screen shot 2017-03-23 at 2 12 44 pm](https://cloud.githubusercontent.com/assets/454690/24270554/d812fe6e-0fd2-11e7-9be9-8a7590237177.png) [Hiskens, 5][Hiskens]
+* [Hiskens] is an excellent engineering information source for how frequency is kept within bounds on the grid
 
 ## Changing the system
 * It takes ~10 years (software) ~18 years (hardware) to go from research, through development and demonstration, then regulation, to roll out new operational technology to the grid. It's a waterfall-style development structure of sequential operations. [More than Smart, 15][More than Smart]

@@ -12,9 +12,26 @@
 | flywheels                | short storage duration |
 | batteries                | several..              |
 
+* Energy can be stored at multiple levels:
+
+| System level | Voltage range | Sites | Companies |
+|--------------|---------------|-------|-----------|
+| transmission level (maximally upstream) | 115-765 kV | central generation stations, transmission lines, transmission substations | | AES, Eos Energy Storage |
+| distribution level | 4-69 kV| medium voltage distribution lines, distribution substations, commercial/industrial customers | |
+| behind the meter (consumer/maximally downstream) | lower | home batteries, electric vehicles, laptop batteries, etc. | Tesla, Stem, Sunverge, Coda |
+[Fitzgerald, 18][Fitzgerald]
+
+* Storage maximally downstream offers the highest system-wide benefits because it has the most flexibility of use [Fitzgerald, 18-20][Fitzgerald]
+* Economic value of various energy storage capabilities (note that this is theoretical and assumes no regulatory barriers, but is otherwise highly conservative):
+![screen shot 2017-03-23 at 4 45 06 pm](https://cloud.githubusercontent.com/assets/454690/24274825/1fb9bf9a-0fe8-11e7-909d-481d782b3231.png)
+[Fitzgerald, 22][Fitzgerald]
+
 ## Batteries
 * Batteries can provide services to ISO/RTO's, utilities, and customers. For ISO/RTO's: energy arbitrage, frequency regulation, spinning reserve and non-spinning reserve, voltage support, black start. For utility: resource adequacy, distribution deferral, transmission congestion relief, transmission deferral. For customers: TOU bill management, self-consumption from PV, demand charge reduction, backup power [Fitzgerald, 3][Fitzgerald]
 * Batteries providing multiple services (e.g. demand response + backup power) are much more worthwhile than batteries used for a single purpose– RMI estimates a single-use battery system is only 5-50% utilized. Several examples are given at [Fitzgerald, 6][Fitzgerald] [Fitzgerald, 5][Fitzgerald]
+* A current regulatory barrier: DER's on the grid are often treated as either a sink or a source, but not flexible. CAISO is looking into changing that. [Fitzgerald, 8][Fitzgerald]
+* For a residential load regulation battery pack to make economic sense (assuming stacked services but mostly keeping home energy use local to home solar), the up-front capital would have to be around $300/kWh or $1,111/kW to be cash positive without the tax incentive [Fitzgerald, 32][Fitzgerald]
+* Home battery might need replacement every 7 years [Fitzgerald, 33][Fitzgerald]
 
 ### Characteristics
 * Lithium-Ion batteries die out after ~1k cycles & are better to discharge only 70%; Flow can be used for 5-10k cycles, CAES for 10k+ with full discharge [Naam][NaamStorage]
