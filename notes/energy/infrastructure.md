@@ -1,7 +1,8 @@
 # Infrastructure
 
 ## How the American energy grid works
-* An excellent introduction to terms and organization of the electric grid can be found in [Caspary].
+* An excellent introduction to terms and organization of the electric grid can be found in [Caspary]
+* A detailed engineering introduction to the electrical dynamics of the grid can be found in [Hiskens]
 * Current grid paradigm: ![screen shot 2017-03-23 at 2 12 10 pm](https://cloud.githubusercontent.com/assets/454690/24270548/d479a0aa-0fd2-11e7-90cd-f02d92aa5ff4.png) [Hiskens, 4][Hiskens]
 * Modern grid has 99.97% energy availability reliability in the United States [EPRI, 9][EPRI]
 * Transmission systems mostly take place through organized markets (ISO's/RTO's). Other agreements are often called bilateral (2-way agreement between energy supplier and distributor) [Caspary, 13][Caspary]

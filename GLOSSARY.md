@@ -10,6 +10,9 @@ alternative energy development plan
 ## affluenza
 Portmanteau of affluence and influenza, relating to overload, debt, anxiety and waste from consumerism [Friedman 53][Friedman]
 
+## AGC
+automatic generation control uses an area control error (ACE) signal to adjust the governors of electrical generation plants for droop control - keeping all the grid generators running at the same frequency
+
 ## agroecology
 the use of sustainable farming methods on small-scale farms based on the combination of local knowledge and modern science. Based on the principle that farming should maximize species diversity and enhance natural systems of soil protection and pest control
 
@@ -33,6 +36,9 @@ amorphous silicon
 
 ## ATPZEV
 Advanced Technology Partial Zero-Emission Vehicle: hybrid, compressed natural gas, and methanol fuel cell vehicles with near-zero emissions and extended emissions system warranties [EIA, 35][EIA]
+
+## AVR
+automatic voltage regulator - in an electrical grid, this adjusts the field voltage of the generator
 
 ## BA
 balancing authorities (electric grid)- they provide a reliable open-access power transmission service by keeping supply and demand balanced and scheduled [More than Smart, 16][More than Smart]
@@ -204,6 +210,9 @@ Department of the Interior (U.S.A.)
 
 ## DRAM
 Demand Response Auction Mechanism, a more open energy supply bidding process than currently employed by Western U.S. utilities
+
+## droop control
+a mechanism for speed control of a primary power generator such that it runs at the same frequency as all of the other generators on the grid. It adjusts mechanical torque of generator mechanisms based on frequency, which takes 3-10 seconds in most systems [Hiskens, 26][Hiskens]
 
 ## DSO
 (electric) distribution service operator
@@ -448,6 +457,9 @@ medium-duty vehicles, 8.5k lbs-10k lbs GVWR [transportpolicy.net](http://transpo
 ## MGO
 marine gas oil: fuel oil made from distillate only- wiki: https://en.wikipedia.org/wiki/Fuel_oil#Maritime
 
+## MPC
+model predictive control, a grid power scheduling system whereby a model of the system's demands is used to schedule the running of generators so that the power is present in the system before it is required
+
 ## MSW
 Municipal solid waste: turning regular garbage into energy through various technologies such as landfill gas capture, combustion, pyrolysis, gasification [Wikipedia][https://en.wikipedia.org/wiki/Municipal_solid_waste#Energy_generation]
 
@@ -667,6 +679,9 @@ transitional zero-emissions vehicles, plug-in hybrid electric and hydrogen inter
 
 ## UNFCCC
 1992 United Nations Framework Convention on Climate Change
+
+## voltage collapse
+power demand exceeds supply so much that the system goes down (any given power supply has a finite supply capability, a "point of maximum loadability") [Hiskens, 21][Hiskens]
 
 ## ZEV
 zero-emissions vehicles: battery-electric and hydrogen fuel cell [EIA, 22, 35][EIA]
