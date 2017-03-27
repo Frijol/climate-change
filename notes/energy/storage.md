@@ -49,6 +49,19 @@
 * Energy storage in large Lithium-Ion batteries: ![](http://rameznaam.com/wp-content/uploads/2015/10/How-Cheap-Can-Lithium-Ion-Batteries-Get-Energy-Storage-800x422.jpg) [Naam][NaamStorage]
 
 #### Further reading
-* Battery storage in office/industrial buildings to load balance grid pull: http://www.ee.ucr.edu/~stan/papers/dac14_bat.pdf
+* [Battery storage in office/industrial buildings to load balance grid pull](http://www.ee.ucr.edu/~stan/papers/dac14_bat.pdf)
+* [NREL's Battery Lifetime Analysis and Simulation Tool (BLAST) for behind-the-meter batteries](https://www.nrel.gov/transportation/blast-btm-lite.html)
+* [North American Electric Reliability Corporation: Balancing and Frequency Control (technical document)](http://www.nerc.com/docs/oc/rs/NERC%20Balancing%20and%20Frequency%20Control%20040520111.pdf)
+* [Expanded Metering and Telemetry Options Phase 2 Distributed Energy Resource Provider (DERP) Draft Final Proposal (2015)](http://www.caiso.com/Documents/DraftFinalProposal_ExpandedMetering_TelemetryOptionsPhase2_DistributedEnergyResourceProvider.pdf)
+* [SCE's Preferred Resources Pilot (2016)](http://www.caiso.com/Documents/DraftFinalProposal_ExpandedMetering_TelemetryOptionsPhase2_DistributedEnergyResourceProvider.pdf)
+* [The Integrated Grid: Realizing the Full Value of Central and Distributed Energy Resources](https://www.epri.com/#/pages/product/000000003002002733/)
+* [The Future of US Electric Distribution (2012) EEI](http://gridarchitecture.pnnl.gov/media/white-papers/2012%20Jul-Future%20of%20Electric%20Distribution.pdf)
+* [What the duck curve tells us about managing a green grid (CAISO, 2016)](https://www.caiso.com/Documents/FlexibleResourcesHelpRenewables_FastFacts.pdf)
+* [21st century electric distribution system operations](http://smart.caltech.edu/papers/21stCElectricSystemOperations050714.pdf)
+* [2018 Demand Response Auction Mechanism (DRAM) - currently active](http://www.sdge.com/procurement/2018-demand-response-auction-mechanism-dram)
+* [Energy Storage for the Electric Grid: Benefits and Market Potential Assessment Guide (Sandia, 2010)](http://www.sandia.gov/ess/publications/SAND2010-0815.pdf)
+* [Demand Response 2.0, A Future of Customer Response (DoE, 2013)](https://s3.amazonaws.com/fonteva-customer-media/00Do0000000Yi66EAC/DR%202.0%20A%20Future%20of%20Customer%20Response.pdf)
+* [ISO basics, a CAISO how-to guide for getting interconnected](http://www.caiso.com/Documents/ResourceInterconnectionFAQs.pdf)
+* [Demand Response User Guide (CAISO, 2016)](http://www.caiso.com/Documents/DemandResponseResourceParticipationGuide.pdf)
 
 {% include "../../BIBLIOGRAPHY.md" %}

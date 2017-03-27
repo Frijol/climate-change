@@ -12,6 +12,7 @@
 [Clark]: https://www.theguardian.com/environment/2012/jan/16/greenhouse-gases-remain-air "Clark, Duncan. 'How long do greenhouse gases stay in the air?' 2012."
 [Cravens]: https://www.goodreads.com/book/show/1906869.Power_to_Save_the_World "Cravens, Gwyneth. Power to Save the World: the Truth about Nuclear Energy. 2007."
 [Cuff]: https://www.theguardian.com/environment/2016/jan/12/vattenfall-starts-work-on-uk-hybrid-wind-and-solar-farm "Cuff, Madeleine. 'Vattenfall Starts Work on UK Hybrid Wind and Solar Farm.' 2016. The Guardian."
+[D'Aprile]: http://www.mckinsey.com/business-functions/sustainability-and-resource-productivity/our-insights/the-new-economics-of-energy-storage "D'Aprile, Paolo. 'The new economics of energy storage.' 2016. McKinsey & Company."
 [Diamond]: https://www.goodreads.com/book/show/475.Collapse "Diamond, Jared. 'Collapse: How Societies Choose to Fail or Succeed.' 2005."
 [Doris]: http://www.nrel.gov/docs/fy13osti/56641.pdf "Doris, E. 'Geospatial Analysis of Renewable Energy Technical Potential on Tribal Lands.' 2013."
 [EIA]: http://www.eia.gov/outlooks/aeo/pdf/0383(2016).pdf "Energy Information Administration. 'Annual Energy Outlook 2016 with projections to 2040.' 2016."
