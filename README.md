@@ -4,6 +4,8 @@ Personal notes as I explore the subject of climate change.
 
 [View as a Gitbook](https://frijol.gitbooks.io/climate-change/content/) ([PDF](https://www.gitbook.com/download/pdf/book/frijol/climate-change) | [ePub](https://www.gitbook.com/download/epub/book/frijol/climate-change) | [Mobi](https://www.gitbook.com/download/mobi/book/frijol/climate-change))
 
+(Now starting to explore how others might best use these notes)
+
 ## Why research this?
 
 There are a lot of problems with the world. A lot of the major issues (war, human displacement, destruction of natural spaces, etc.) lead back fairly directly to issues with energy.
@@ -32,6 +34,9 @@ Areas of opportunity is a great place to start if you're looking for ways an eng
 
 - In general, this book is full of weird levels of specificity. The aim: provide broad context and increasing detail in promising areas. This doesn't always play out & can be corrected
 - Much of this is US-centric. Haven't decided if this is as it should be or not– climate change is global, but if the intent is to provide actionable and timely notes, focus on just one area is likely appropriate/international examples are good where adaptable/usable as prior art
+- What's a good way to link in the various lists (entities in particular) to the descriptive notes?
+- These notes are highly pragmatic and occasionally technical. There is almost no treatment of social justice. My tentative assessment is that this choice narrows target readership to engineers & entrepreneurs over activists and policymakers, which is useful to focus.
+- How much explanation of specific mechanisms is appropriate/useful? E.g. do we need to know that a battery stores energy, or that different chemistries have specific characteristics, or what the market trends are with those battery chemistries? What has useful shelf life, and how can I get people into position to seek information beyond my resources?
 
 ### Specific area assessments
 
@@ -41,8 +46,21 @@ Areas of opportunity is a great place to start if you're looking for ways an eng
 - Coal is good but very US-centric
 - Geothermal is very basic, could use filling out. Also, do I have notes on "fake geothermal" e.g. server farm heat harvesting?
 - Infrastructure is already long but could use some work. Will likely only make sense as case studies. There is currently a decent level of case study into CA DER policy but not much about overarching trends
-- Natural gas is pretty good, link to my Medium post on the topic?
+- Natural gas is pretty good, link to or pull from my Medium post on the topic?
+- Nuclear shows controversy well but fails to ID current work in the area. Help readers understand not just how they feel about the subject, but where they might be impactful!
+- Oil section is mostly just a discussion of peak oil. This section needs more direction. What is the point of it? Does it need a controversy section? Are there pro-env. uses of oil that it would be interesting to discuss (e.g. efficiency of combustion engine + fuel density of oil)?
+- Solar section is surprisingly short. Seems appropriate that it is tech trend focused, but doesn't give much "so what"/no call to action
+- Storage could use a policy/interaction with ISO & utilities section
+- Tidal section is good
+- Wave section barely exists
+- Wind section is messy and feels outdated. What is current state of the art in this field?
 
 #### Solutions
 
 - The notes on Cap and Trade notes are currently in solutions/policy but belong in solutions/economic (policy is only one possible implementation of an inherently economics-based solution)
+
+### Should I make this into a book?
+
+- Define specific objective. I think the core utility here is (a) targeted toward engineers and entrepreneurs, especially entrepreneurs (b) accessible to people new to the energy field (c) accessible to people who have not studied climate change (d) interesting to people who wish they knew more about climate change, what we're doing, how to fix it. Is that too much?
+- Gauge interest: make a google form to collect email addresses of interested? Crowdfund/self-publish or talk to publisher?
+- I think this would be a fairly massive book if fully filled out. Is that useful, or does it need to be more focused? Several of these pieces could be books-in-themselves: basic exploration of entrepreneurship & wild ideas, or explanation/intro to the energy sources. I haven't come across anything climate-change oriented that covers these subjects.
