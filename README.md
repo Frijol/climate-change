@@ -40,6 +40,20 @@ Areas of opportunity is a great place to start if you're looking for ways an eng
 
 ### Specific area assessments
 
+#### Areas of Opportunity
+
+- Potentially the most interesting section, might be blindingly naive, might be unfocused. Hard to tell at this point.
+
+#### Entities
+
+- This probably makes sense only as personal notes, not useful for me to make a yellow pages unless for immediate use on a project
+- Funds: Might be most useful to ID how to find funds vs. taking notes on specific funds. How grants work, how other funding types work. Challenging to do this without reaching beyond my experience.
+
+#### Causes
+
+- More of a let's-get-up-to-speed than an in-depth analysis. Patchy but could be handy to reference as intro to issues we are trying to solve.
+- Causes boils down to: we need to reduce fossil fuel emissions in a lot of ways
+
 #### Energy
 
 - Biofuel is fairly complete as a basic intro to the issue for non-chemists. Not much there for "where do we go next?"
@@ -62,5 +76,5 @@ Areas of opportunity is a great place to start if you're looking for ways an eng
 ### Should I make this into a book?
 
 - Define specific objective. I think the core utility here is (a) targeted toward engineers and entrepreneurs, especially entrepreneurs (b) accessible to people new to the energy field (c) accessible to people who have not studied climate change (d) interesting to people who wish they knew more about climate change, what we're doing, how to fix it. Is that too much?
-- Gauge interest: make a google form to collect email addresses of interested? Crowdfund/self-publish or talk to publisher?
+- Gauge interest: make a google form to collect email addresses of interested? Crowdfund/self-publish or talk to publisher? Would be useful to chat with publisher, get advice on focus, audience targeting, etc.
 - I think this would be a fairly massive book if fully filled out. Is that useful, or does it need to be more focused? Several of these pieces could be books-in-themselves: basic exploration of entrepreneurship & wild ideas, or explanation/intro to the energy sources. I haven't come across anything climate-change oriented that covers these subjects.
