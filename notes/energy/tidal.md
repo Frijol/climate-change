@@ -15,6 +15,12 @@
 - Tidal barrage power calculations: P=ρFgh, where ρ = 1000 kg/m³, g = 10 m/s² (surface gravity), F is the flow rate of water in (m³/s), and h is the height of the water behind the dam. **h** is very small in a tidal installation compared with river hydroelectric (often 200m+). Accounting for timing (outer water has to be higher to create inflow, so you can't harvest the whole tide), ideal power is P = (1/8)πρgAH²/T, where A is the area impounded, H is the peak-to-peak tidal amplitude, and T is the period (about 12 hours) [Murphy-tides]
 - UK is interested in taking a lead with tidal power [Helston]
 
+### Turbine design
+
+- Bulb turbines incorporate the generator-motor unit with the propellor. A drawback: because the whole unit is in the flow of water, maintenance is difficult. [Klossner, 20][Klossner]
+- Rim turbines incorporate the generator in the barrage unit, perpendicular to the blades [Klossner, 21][Klossner]
+- Tubular turbines are incorporated at an angle so that the shaft between turbine and motor allows the motor to be above the turbine, allowing for maintenance [Klossner, 21][Klossner]
+
 ## Tidal stream generators
 
 - Essentially an underwater turbine in a tidal current

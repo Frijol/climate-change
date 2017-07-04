@@ -1,4 +1,4 @@
-[McCarthy](http://www.baycrossings.com/Archives/2002/09_October/tidal_energy.htm "McCarthy, Michael. 'City Plans for Tidal Energy Surging Ahead.' October 2009\. "):
+[klossner](http://www.ems.psu.edu/~elsworth/courses/cause2003/finalprojects/canutepaper.pdf "Tidal Energy. 2003\. "):
 
 [adams]: https://www.goodreads.com/book/show/8696.Last_Chance_to_See "Adams, Douglas. 'Last Chance to See.' 1990. An entertaining romp with the Hitchhiker's Guide author as he travels with a zoologist to see a number of the world's most endangered species. Enjoyable, but light on information."
 [atwood]: https://medium.com/@MargaretAtwood/the-carbonivore-fund-b42b386a9af8#.o4ez5a7il "Atwood, Margaret. 'The Carbonivore Fund'. List of companies working against climate change."
@@ -31,6 +31,7 @@
 [kiker]: http://aceee.org/press/2014/03/new-report-finds-energy-efficiency-a "Kiker, Patrick. 'New Report Finds Energy Efficiency is America’s Cheapest Energy Resource.' 2014."
 [king]: https://m.youtube.com/watch?v=Wc1kQXL1Nwg "King, Martin Luther, Jr. 'Radical Revolution of Values.' 1967."
 [klein]: https://www.goodreads.com/book/show/21913812-this-changes-everything "Klein, Naomi. 'This Changes Everything: Capitalism vs. The Climate.' 2014. A frustrated look at how short-term economic gain has taken precedence over long-term through the last ~40 years of extreme capitalist values. Includes suggestions for sweeping changes to correct."
+[klossner]: http://www.ems.psu.edu/~elsworth/courses/cause2003/finalprojects/canutepaper.pdf "Tidal Energy. 2003."
 [kolbert]: https://www.goodreads.com/book/show/17910054-the-sixth-extinction "Kolbert, Elizabeth. 'The Sixth Extinction.' 2014. A broad-scoped investigation on the impact of humans on the earth, particularly its other species. The author writes invitingly and convincingly, and her experiences are intimate anecdotes of her explorations with the leading scientists of the day. This book will leave you with a much better (and perhaps a more visceral) understanding of the Anthropocene: the legacy of humankind carrying forward millions of years."
 [larsson]: https://www.ted.com/talks/magnus_larsson_turning_dunes_into_architecture?language=en "Larsson, Magnus. 'Turning Dunes into Architecture.' TED 2009. Combating desertification in Africa through biology-driven sandstone architecture."
 [lorenz]: http://www.spiegel.de/international/spiegel/spiegel-interview-with-china-s-deputy-minister-of-the-environment-the-chinese-miracle-will-end-soon-a-345694.html "Lorenz, Andreas. Translated by Kessler, Patrick. SPIEGEL Interview with China's Deputy Minister of the Environment: 'The Chinese Miracle Will End Soon'. 2005. Spiegel Online International. Candid interview with China's Deputy Minister of the Environment."
