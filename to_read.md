@@ -2,7 +2,6 @@
 
 ## Reports
 * [CDP]: https://www.cdp.net/CDPResults/CDP-global-climate-change-report-2015.pdf "CDP. 'CDP Global Climate Change Report 2015.' 2015."
-* [Levitan]: http://io9.gizmodo.com/5966689/after-extensive-mathematical-modeling-scientist-declares-earth-is-fucked "Levitan, Dave. 'After extensive mathematical modeling, scientist declares \"Earth is F**ked\".' Io9. 2012."
 * [Hansen]: http://monthlyreview.org/2013/02/01/james-hansen-and-the-climate-change-exit-strategy/ and http://monthlyreview.org/2012/12/01/the-planetary-emergency/
 * http://www.globalproblems-globalsolutions-files.org/unf_website/PDF/climate%20_change_avoid_unmanagable_manage_unavoidable.pdf Confronting Climate Change: Avoid the Unmanageable, Manage the Unavoidable
 * http://www.c2es.org/publications/climate-change-101 Climate Change 101
@@ -32,7 +31,6 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 ## Alternative energies
 * Wind and solar: how far we've come http://www.theenergycollective.com/jessejenkins/2232451/look-wind-and-solar-energy-part-1-how-far-weve-come
 * Wind and solar: upper limits to renewables http://www.theenergycollective.com/jessejenkins/2233311/look-wind-and-solar-part-2-there-upper-limit-intermittent-renewables
-* [NaamRenewables]: http://rameznaam.com/2016/01/31/how-far-can-renewables-go-pretty-darn-far/ "Naam, Ramez. 'How far can renewables go? Pretty darn far.' 2016."
 * [ARENA]: http://arena.gov.au/files/2016/03/AECOM-Wind-solar-Co-location-Study-1.pdf "Australian Renewable Energy Agency. 'Co-location Investigation.' 2016."
 
 ### Nuclear power
@@ -45,14 +43,7 @@ environmental liability disclosure obligations.' 2003. Drinker Biddle"
 * http://apps2.eere.energy.gov/wind/windexchange/windmaps/resource_potential.asp Wind potential
 * https://neo.ubs.com/shared/d1RBi2HvJq/ 'Wind by the Wire' prospects
 
-### Wave power
-* [NNMREC]: http://nnmrec.oregonstate.edu/nnmrec/education/wave-energy-101/how-do-waves-work "Northwest National Marine Renewable Energy Center. 'How Do Waves Work?' 2016. Oregon State University."
-* [Salter]: http://link.springer.com/article/10.1007/s40722-016-0057-3 "Salter, Stephen. Wave energy: Nostalgic Ramblings, future hopes and heretical suggestions. 2016. Journal of Ocean Engineering and Marine Energy."
-
 ### Solar power
-* [Parkinson]: http://cleantechnica.com/2015/01/29/solar-costs-will-fall-40-next-2-years-heres/ "Parkinson, Giles. 'Solar Costs Will Fall Another 40% In 2 Years. Here’s Why.' 2015. Clean Technica."
-* [Murphy]: http://physics.ucsd.edu/do-the-math/2011/09/dont-be-a-pv-efficiency-snob/ "Murphy, Tom. 'Don\'t be a PV efficiency snob.' 2011."
-* [McKenna]: http://ensia.com/features/look-whats-cooking-in-renewable-energy/ "Solar cheaper than coal"
 * [Jervey]: http://ensia.com/features/solars-time-to-rise-and-shine/ "Rising solar efficiency"
 * [IEA]: https://www.iea.org/publications/freepublications/publication/TechnologyRoadmapSolarPhotovoltaicEnergy_2014edition.pdf "International Energy Agency. 'Technology Roadmap: Solar Photovoltaic Energy.' 2014."
 * https://en.wikipedia.org/wiki/Nanosolar

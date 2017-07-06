@@ -2,9 +2,7 @@
 
 ## Kelsey's shortlist
 
-* [Hot, Flat, and Crowded by Thomas Friedman](https://www.goodreads.com/book/show/2358737.Hot_Flat_and_Crowded). If you're only going to read one of these books (and you're American), this is the one I'd recommend. It summarizes the main thrust of several of the books I've read and puts it into a geopolitical context. My favorite argument: Americans need a tax on carbon emissions because right now, by heavily subsidizing oil, we're already paying this tax (in effect) but to oil dictatorships rather than to our own country. Quick caveat: the author's tone works better as an audiobook.
-
-* [This Changes Everything by Naomi Klein](https://www.goodreads.com/book/show/21913812-this-changes-everything). Not an easy read, but sweeping and loaded with examples and reference material. This thorough book looks at the environmental movement from several different angles. Klein is highly opinionated, so the challenge is in parsing out her biases versus widely held opinion.
+* [Hot, Flat, and Crowded by Thomas Friedman](https://www.goodreads.com/book/show/2358737.Hot_Flat_and_Crowded). If you're only going to read one of these books (and you're American), this is the one I'd recommend for most people. It summarizes the main thrust of several of the books I've read and puts it into a geopolitical context. My favorite argument: Americans need a tax on carbon emissions because right now, by heavily subsidizing oil, we're already paying this tax (in effect) but to oil dictatorships rather than to our own country. Quick caveat: the author's tone works better as an audiobook.
 
 * [What Can a Technologist Do about Climate Change? (A Personal View) by Bret Victor](http://worrydream.com/ClimateChange/). Detailed, illustrated, and actionable essay on how techies and entrepreneurs can work on the problem of climate change.
 
@@ -12,7 +10,8 @@
 
 * [This cartoon](http://www.kentucky.com/opinion/op-ed/article44162106.html) is my favorite, briefest argument for action in the environmental space.
 
-* [How Shall I Live my Life? Interviews by Derrick Jensen](https://www.goodreads.com/book/show/2946563-how-shall-i-live-my-life). This is only a partial recommendation. Specifically, I thought the first three interviews in this book (with David Edwards, Thomas Berry, and Jan Lundberg) were really interesting personal perspectives on environmentalism. I loved these – they were thoughtful and incisive and made me think. But I'm hesitant to recommend this book, because the rest of the interviews get pretty weird and new-agey.
+* Vaclav Smil’s book [Energy Myths and Realities (2010)](https://www.goodreads.com/book/show/8793836-energy-myths-and-realities) is excellent for those looking to have their things-will-work-out-fine dreams shattered. It's a great place to start if you want to find the reasons to not be complacent about much-touted advances. It's not, however, built to inspire. [Here's my blog post synthesizing Smil's harsh cynicism into opportunity spaces](https://blog.hc3.io/engineering-and-entrepreneurship-opportunities-from-energy-myths-and-realities-by-vaclav-smil-facaf9728c31).
+
 
 
 ## Additional Material

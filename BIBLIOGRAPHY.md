@@ -57,6 +57,7 @@
 [pearce]: https://www.goodreads.com/book/show/51436.With_Speed_and_Violence "Pearce, Fred. 'With Speed and Violence: Why Scientists Fear Tipping Points in Climate Change.' 2007. Early chapters have great explanations of the basic climate systems of the planet."
 [pett]: http://www.kentucky.com/opinion/op-ed/article44162106.html "Pett, Joel. 'The cartoon seen \'round the world.' 2009."
 [simpson]: https://m.youtube.com/watch?v=EkrkCTZWWJU "Simpson, Leanne. 'Leanne Simpson speaking at Beit Zatoun.' 2012."
+[salter]: springerlink.com "Salter, Stephen. Wave energy: Nostalgic Ramblings, future hopes and heretical suggestions. Journal of Ocean Engineering Marine Energy. 2016."
 [smil]: https://www.goodreads.com/book/show/8793836-energy-myths-and-realities "Smil, Vaclav. 'Energy Myths and Realities.' 2010. Debunking of various headlines surrounding energy miracles. My study guide on the book: https://blog.hc3.io/engineering-and-entrepreneurship-opportunities-from-energy-myths-and-realities-by-vaclav-smil-facaf9728c31#.czmo9q1u5"
 [stjohn]: https://www.greentechmedia.com/articles/read/californias-plan-to-turn-distributed-energy-resources-into-grid-market-play "St. John, Jeff. 'California’s Plan to Turn Distributed Energy Resources Into Grid Market Players.' 2015. Green Tech Media."
 [sutter]: http://www.cnn.com/2016/04/19/opinions/sutter-carbon-tax-washington-british-columbia/index.html "Sutter, John. 'There\'s a cheap, proven fix to the world's biggest problem.' Really overstated title, but decent information about carbon taxation."

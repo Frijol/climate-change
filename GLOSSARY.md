@@ -322,6 +322,9 @@ Deliberate human intervention in the earth's climate on a global scale
 ## GHG
 greenhouse gas
 
+## Gibrat ratio
+the length of a tidal barrage in meters compared to its output in kWh/year. An economic term where a smaller ratio implies a preferable cost ratio [Klossner, 36][Klossner]
+
 ## greenfields
 land not previously used for industry (as opposed to brownfields)
 
