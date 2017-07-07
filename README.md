@@ -2,6 +2,8 @@
 
 Personal notes as I explore the subject of climate change.
 
+**I'm currently working on making this into a published book. Interested? [Let me know with this quick form.](https://docs.google.com/forms/d/e/1FAIpQLSeY0nX5XvmM2795fGK06CL-ePCxfy4oSXGMkRfz2mnmX832UA/viewform?usp=sf_link)**
+
 [View as a Gitbook](https://frijol.gitbooks.io/climate-change/content/) ([PDF](https://www.gitbook.com/download/pdf/book/frijol/climate-change) | [ePub](https://www.gitbook.com/download/epub/book/frijol/climate-change) | [Mobi](https://www.gitbook.com/download/mobi/book/frijol/climate-change))
 
 (Now starting to explore how others might best use these notes)
