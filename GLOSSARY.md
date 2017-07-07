@@ -367,6 +367,9 @@ Co-located farms for multiple renewable energy types, esp. wind and solar
 ## hydrostatic head
 the water in the artificial estuary of a tidal barrage [Helston]
 
+## ICRP
+International Commission on Radiological Protection
+
 ## IEA
 International Energy Agency
 
@@ -459,6 +462,9 @@ medium-duty vehicles, 8.5k lbs-10k lbs GVWR [transportpolicy.net](http://transpo
 
 ## MGO
 marine gas oil: fuel oil made from distillate only- wiki: https://en.wikipedia.org/wiki/Fuel_oil#Maritime
+
+## millisievert
+0.1 rem of radiation
 
 ## MPC
 model predictive control, a grid power scheduling system whereby a model of the system's demands is used to schedule the running of generators so that the power is present in the system before it is required
@@ -557,6 +563,9 @@ publicly owned utility (as opposed to investor owned)
 ## PPM
 Parts per million
 
+## precautionary principle
+the idea that when there is uncertainty, you should err on the side of safety
+
 ## PTC
 Production Tax Credit, a federal tax credit in the United States which provides inflation-adjusted per-kWH rebates for qualifying renewable energy sales [Energy.gov][Energy.govPTC]
 
@@ -575,11 +584,20 @@ consists of site-specific requirements and restraints, type of PV module to use,
 ## PZEV
 Partial Zero-Emission Vehicle: low-emission conventional internal combustion vehicles with extended emissions system warranties [EIA, 35][EIA]
 
+## radiation illness
+immediate sickness from exposure to 100 rem or more of radiation, resulting in nausea, loss of hair, and weakness
+
+## reactivity incident
+in nuclear physics, if something goes wrong in neutron moderation and a chain reaction begins to build up
+
 ## rebound effect
 e.g. a low-carbon technology is more convenient than a high-carbon technology, so we use it more, and end up using more carbon than previously [Berners-Lee, 16][Berners-Lee]
 
 ## refractometer
 a tool to measure Brix - looks like a small spyglass
+
+## rem
+the unit measure of radiation exposure
 
 ## REIPPP
 Renewable Energy Independent Power Producer Procurement
@@ -641,6 +659,9 @@ Stream Protection Rule: proposed rule affects surface mining operations and unde
 ## SRM
 Solar radiation management (albedo engineering)
 
+## station backup failure
+failure of an electricity generation station due to loss of electricity
+
 ## system upgrade deferral
 allocation of off-peak energy (e.g. through battery storage) to times when new capacity would otherwise have to be added to meet demand [Fitzgerald, 15][Fitzgerald]
 
@@ -661,6 +682,9 @@ a row of tidal stream generator turbines cemented in place so that all flow must
 
 ## tidal stream generator
 underwater turbines for tidal power
+
+## tipping point
+in the context of climate change, a singular event (typically triggered by global warming) which rapidly accelerates global warming
 
 ## TOU
 time of use, a utility power billing scheme to correlate the price of electricity with its supply/demand economics (electricity is more expensive at times of day with historically high demand)

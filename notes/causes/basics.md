@@ -5,10 +5,11 @@ Best textbook-level introduction to the processes at play: [Limits to Growth: th
 Quick scroll-through visualization showing [what causes global warming](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/)– oversimplified, but a good start
 
 ## Mechanics
-* The earth is getting warmer, and it's creating nasty positive feedback loops. For example: Sea ice is melting; ice is more reflective than water, so heat gets absorbed by the water more quickly than before; sea ice melts even faster
+* The earth is getting warmer, and it's creating nasty positive feedback loops which could lead to tipping point events for rapid climate increase. For example: Sea ice is melting; ice is more reflective than water, so heat gets absorbed by the water more quickly than before; sea ice melts even faster
 * The primary cause of global warming is CO2 going into the atmosphere, specifically due to the burning of coal, natural gas, and petroleum. [Victor]
 * Nobody's exactly sure what will happen and when, but so far it's gotten worse more quickly than mainstream models predicted.
-* CFCs (chlorofluorocarbons) were evidence that humans were massively impacting the environment and creating a hole in the ozone layer. Political action banning specific chemical products was fairly decisive in reducing this issue.
+* Current models suggest that CO2 emissions are increasing exponentially, and that CO2 causes logarithmic warming– thus, that we can expect roughly linear warming (assuming we don't reach a tipping point). This yields a warming rate of 1.1C every year globally, or 1.6C over land [Muller, 49][Muller]
+* Tipping point events could cause much faster global warming. For example: the Antarctic ice sheet loosens and slips into the sea, causing 100 feet of sea rise globally; freshwater from Greenland glaciers disrupts Gulf Stream current and thus currents throughout the Pacific Ocean; Methane is released from clathrates in melting permafrost or Arctic seabeds [Muller, 51][Muller]
 
 ## Global political response
 * There is no decisive political action that can be taken regarding carbon emissions, because any that would actually work would also shut down the global economy.
@@ -26,5 +27,6 @@ Quick scroll-through visualization showing [what causes global warming](https://
 * Most of the Ordovician period had a greenhouse climate (high CO2 levels in the air, high sea level, high temperature). Rapid drop in CO2 levels resulted in a big five extinction (according to current theory). [Kolbert, 183][Kolbert]
 * Colder water holds more oxygen [Kolbert, 183][Kolbert]
 * The end-Permian extinction (a big five extinction event) appears to have been triggered by a rapid rise in CO2/climate. Ocean temperatures rose ~18 degrees F, waters became more acidic and lost oxygen. 90% of species on earth became extinct over a period of 100-200k years. [Kolbert, 183][Kolbert]
+* CFCs (chlorofluorocarbons) were evidence that humans were massively impacting the environment and creating a hole in the ozone layer. Political action banning specific chemical products was fairly decisive in reducing this issue.
 
 {% include "../../BIBLIOGRAPHY.md" %}
