@@ -21,6 +21,7 @@ Detractors assert that we can't afford to increase our methane emissions, becaus
 
 ## Mechanics of natural gas
 * Expected U.S. natural gas extraction methods: ![screen shot 2016-12-08 at 3 40 33 pm](https://cloud.githubusercontent.com/assets/454690/21032202/ad83660c-bd5c-11e6-8151-36dd57d3c5bc.png) [EIA, 119][EIA]
+* Fracking (hydraulic fracturing): Water is shot into the shale layer through a drilled hole. When water pressure exceeds the weight of the rock above it, the rock cracks to let the water expand. This lets gases (adsorbed into rock) escape. When water pressure is released, it spurts from the ground along with the released gas. [Muller, 93][Muller]
 
 ## Economics of natural gas
 * Both demand (including export) and supply (improved technology and lots of deposits) are expected to increase in the United States over the 2015-2040 period. This should keep natural gas prices stable & low over that time period [EIA, 21][EIA]
