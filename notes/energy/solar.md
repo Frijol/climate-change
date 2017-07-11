@@ -2,8 +2,15 @@
 
 ## Mechanisms
 * Photovoltaic: light converted to electricity (can be concentrated)
-* Solar thermal: heat water from the sun. 1 in 10 houses in China, not so many in the States [Lovins, 66][Lovins]
-* Concentrating solar power (CSP): mirrors to concentrate and reflect sunlight onto a collector. This creates thermal energy which is harnessed to drive a steam turbine generator. Types include linear concentrator, dish/engine, power tower, and thermal storage [Doris, 12][Doris]
+* Solar thermal water heating: heat water from the sun. 1 in 10 houses in China, not so many in the States [Lovins, 66][Lovins]
+* Concentrating solar power (CSP): mirrors to concentrate and reflect sunlight onto a collector. This can be used with solar thermal or with photovoltaics.
+* Solar thermal: CSP is used to create thermal energy, which is typically harnessed to heat salt (which can store thermal energy) and in turn to heat water to drive a steam turbine generator. Types include linear concentrator, dish/engine, power tower, and thermal storage [Doris, 12][Doris], [Muller, 152][Muller]
+
+### Materials
+* Main photovoltaic technologies: silicon crystals, cadmium telluride (CdTe), copper indium gallium selenide (CIGS), amorphous (glass like) silicon, multijunction cells [Muller, 153][Muller]
+* Silicon is cheap in materials (found in sand) but can be expensive to process and is brittle. CdTe is thin and therefore flexible, but Tellurium might be a constrained resource (we aren't sure). Additionally, Cadmium is toxic. PV cells are typically sealed, but this could be a PR problem in home PV systems. CIGS is flexible and nontoxic, but indium is expensive and rare. [Muller, 154-6][Muller]
+* Multijunction cells are the current highest efficiency PV technology– they have layers for each wavelength of light. Cost is around $500/square centimeter. They are usually used in concentrator PV arrays, so positioning and maintenance is typically the highest cost, rather than the PV cell itself [Muller, 157][Muller]
+* Silicon-based PV systems are produced primarily in China; CdTe and CIGS systems are primarily produced in the U.S. [Muller, 154-6][Muller]
 
 ## Feasibility of large-scale deployment
 It's happening in the U.S.:

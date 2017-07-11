@@ -130,11 +130,17 @@ Chicago Climate Exchange
 ## CDM
 Clean Development Mechanism, a flexible mechanism for carbon markets under the Kyoto Protocol [IFC]
 
+## CdTe
+a photovoltaic composed of cadmium and telluride, notable as a thin, flexible PV
+
 ## CERC
 Central Energy Regulatory Commission
 
 ## CHP
 combined heat and power, also called cogeneration: combined production of useful heat and electric or mechanical power. Also applies to useful cooling. Essentially, requires power generation to occur near the point of consumption so that the thermal effects can also be used. Often works in commercial-scale buildings using natural gas microturbines http://energy.gov/eere/amo/combined-heat-and-power-basics
+
+## CIGS
+a photovoltaic composed of copper, indium, gallium, and selenium, notable as a thin, flexible PV
 
 ## clathrate
 also called methane hydrate, a form of natural gas that is highly hydrated and found in deep sea formations [Muller, 98]
@@ -186,6 +192,9 @@ Clean Water Act
 
 ## declining block rates
 The more you buy, the cheaper the price per unit
+
+## decoupling plus
+a policy designed to incentivize utilities to promote energy efficiency whereby hitting specific per capita energy use decreases is tied to utilities' right to raise rates
 
 ## demand response
 the electric grid needs to be maintained in a specific frequency band. This band is determined by the balance of electricity supply vs. demand. When supply is lower than demand, the frequency drops. Demand response is typically a coordinated lowering of demand to balance with supply. See also: frequency control
@@ -483,6 +492,9 @@ model predictive control, a grid power scheduling system whereby a model of the 
 
 ## MSW
 Municipal solid waste: turning regular garbage into energy through various technologies such as landfill gas capture, combustion, pyrolysis, gasification [Wikipedia][https://en.wikipedia.org/wiki/Municipal_solid_waste#Energy_generation]
+
+## multijunction cells
+a type of photovoltaic that is layered to react with every wavelength of light. It is extremely efficient and extremely expensive, used in the Mars rover and with utility-scale CSP PV plants
 
 ## NAPCC
 National Action Plan on Climate Change

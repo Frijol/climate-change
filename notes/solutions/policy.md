@@ -9,7 +9,11 @@
 * A tax of $50/metric ton of CO2 emitted in developed countries would raise ~$450 billion annually [Klein, 105][Klein]
 * The United States provides a tax credit for the first 10 years of operation of new renewables: $0.023/kWh for wind, geothermal, closed-loop biomass; $0.012/kWh for other eligible technologies. [Energy.govPTC]
 
-## Renewable portfolio standards (RPS)
+## Utility Policy
+
+* Decoupling plus: energy policy designed to get utilities to make efficiency investments on the public's behalf and share the profits. Efficiency return on investment per dollar is about 2.5x better than new capacity. State agrees that if utility spends to hit specific efficiency metrics, rates can rise specific amount. So in theory the ratepayers pay less even with higher rates because they use less; utilities spend less than they would have had to to meet growing demand [Muller, 120-121][Muller]
+
+### Renewable portfolio standards (RPS)
 * Most of American States (29/50) have established RPS (or similar) to require a specific percentages of renewables. They are largely meeting/exceeding them! Here's why: (1) Federal incentives work! New renewables plants are coming online nationwide, creating options for states to buy from (2) Falling costs from renewables technology - economies of scale + increased efficiency of maturing technology (3) Clean Power Plan - which is currently stayed, but which states are acting on anyway just in case (4) State/local rebates on equipment & similar upfront capital incentives (5) State/local net metering & similar revenue incentives [EIA, 37][EIA]
 * See RPS requirements and qualifying technologies at [EIA, 38][EIA]
 * Some states allow ACP, which is similar to indulgences if not implemented at high enough cost
