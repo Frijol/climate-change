@@ -12,6 +12,7 @@
 * Weeds will grow where the soil is best suited to them. You can use the weeds to identify soil needs: chicory, Queen Anne's lace, and wild carrot grow where there is low fertility. Milkweed shows low zinc. Wild garlic and yellow flowers mean there is low sulfur. [Barber, 57-58, 65][Barber]
 * Soil management - nutrients, minerals, fertilizer content- create the end taste of the crop [Barber, 68][Barber]
 * Plant flavor can be measured with a refractometer to find Brix, which has enormous impact on food flavor. Commonly used with wine grapes. [Barber, 81][Barber]
+* Biochar: as plants grow, they pull CO2 out of the air, but they release it again when they decay. Instead of letting it decay, heat woody material at low temperature anaerobically until it is carbonized (pyrolysis). Use this material as a fertilizer - dug into the ground, carbon is sequestered. Byproduct is biodiesel. [Lovins, 199-200][Lovins]
 
 ## Animal farming
 * Grazing animals seek varied and nutritious diets. That's why you see them reaching through fencelines. [Barber, 61][Barber]

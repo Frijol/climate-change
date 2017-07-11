@@ -1,6 +1,7 @@
 # Oil
 
 ## Economic trends
+* Most energy sources use oil pricing as a benchmark for economic feasibility, but oil prices vary widely in a way not necessarily related to supply/demand - e.g. OPEC artificially restricts supply to drive prices
 * As oil price/barrel increases, American oil becomes more economically feasible (primarily in the lower 48) [EIA, 20][EIA]
 
 ## Oil availability
@@ -14,7 +15,12 @@
 * New oil extraction processes consume much more water than conventional practices. It takes 2.3 barrels of water to produce one barrel of oil from tar sands mining, compared to 0.1-0.3 barres of water for a barrel of conventional crude. [Klein, 312][Klein]
 * Bitumen (tar sands oil) is roughly 3-4 times as greenhouse intensive as coal due to its extraction process [Klein, 127][Klein]
 
+## Shale oil
+* The United States has about 1.5 trillion barrels of shale oil resource, enough to power the United States for 200 years [Muller, 110][Muller]
+* Shale oil is expensive to recover and requires a lot of environmental cleanup when extracted using retorting. Retorting requires massive mining of shale, most of which is then waste to dispose of [Muller, 109][Muller]
+* A newer in situ conversion process could make shale oil extraction more feasible: electrically heat deep rock (1-2km down) to 1200-1300 degrees F, then use fracking and horizontal drilling to extract over the course of 3-4 years. Shell is doing this and quotes $30/barrel [Muller, 110][Muller]
+
 ## Other
-* ExxonMobil is the world's largest multinational oil corporation, Khalid Al-FAlh runs Saudi Aramco, the world's largest national oil Corp [Smil, 74][Smil]
+* ExxonMobil is the world's largest multinational oil corporation, Khalid Al-Falh runs Saudi Aramco, the world's largest national oil Corp [Smil, 74][Smil]
 
 {% include "../../BIBLIOGRAPHY.md" %}

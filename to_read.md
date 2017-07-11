@@ -1,5 +1,7 @@
 # Further research (to do)
 
+* Learn more about landfill gas
+
 ## Reports
 * [CDP]: https://www.cdp.net/CDPResults/CDP-global-climate-change-report-2015.pdf "CDP. 'CDP Global Climate Change Report 2015.' 2015."
 * [Hansen]: http://monthlyreview.org/2013/02/01/james-hansen-and-the-climate-change-exit-strategy/ and http://monthlyreview.org/2012/12/01/the-planetary-emergency/

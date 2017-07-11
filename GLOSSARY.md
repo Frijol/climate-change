@@ -136,6 +136,9 @@ Central Energy Regulatory Commission
 ## CHP
 combined heat and power, also called cogeneration: combined production of useful heat and electric or mechanical power. Also applies to useful cooling. Essentially, requires power generation to occur near the point of consumption so that the thermal effects can also be used. Often works in commercial-scale buildings using natural gas microturbines http://energy.gov/eere/amo/combined-heat-and-power-basics
 
+## clathrate
+also called methane hydrate, a form of natural gas that is highly hydrated and found in deep sea formations [Muller, 98]
+
 ## consumptive withdrawal
 a resource removed from its source and not returned, e.g. water taken from streams that evaporates & moves elsewhere or is used as part of a crop or product [Meadows, 69][Meadows]
 
@@ -176,7 +179,7 @@ crystalline silicon
 concentrating solar power, whereby thermal power from sunlight is reflected onto a collector [Doris, 12][Doris]
 
 ## CTL
-coal to liquid [wiki](https://en.wikipedia.org/wiki/Coal_liquefaction)
+coal to liquid (a synthetic fuel/synfuel) [wiki](https://en.wikipedia.org/wiki/Coal_liquefaction)
 
 ## CWA
 Clean Water Act
@@ -298,6 +301,9 @@ Federal Energy Regulatory Commission (U.S.A.) (FERC.gov)
 ## FIDVR
 fault induced delayed voltage recovery: a temporary dip in voltage causes a power supply stall [Hiskens, 24][Hiskens]
 
+## Fischer-Tropsch process
+also called the Fischer-Tropsch Synthesis or F-T. A set of chemical reactions that produces synfuel from a combination of carbon dioxide gas and hydrogen gas [wiki](https://simple.wikipedia.org/wiki/Fischer-Tropsch_process)
+
 ## FIT
 feed-in tariffs, a long-term guaranteed incentive to resource owners based on the enegy produced (in kWh) and not based on demand [EPRI, 12][EPRI]
 
@@ -309,6 +315,9 @@ Hydraulic fracturing, a high-pressure injection of a liquid into a wellbore to c
 
 ## frequency regulation
 (also known as frequency control) on the grid, when power generation is greater than demand, the power frequency rises. Because it is important to maintain a standard frequency, frequency control is any way to discharge excess energy and keep the load and generation in balance. See also: demand response
+
+## F-T
+see Fischer-Tropsch process
 
 ## gas flaring
 when oil is extracted, natural gas builds up. "Flaring" this gas is setting it on fire (instead of capturing it for sale).
@@ -338,7 +347,7 @@ quick-growing plants that help prevent erosion and replace nutrients in soil
 From 1950-1992, a movement to increase food production without bringing more land under cultivation. Related to the work of Norman Borlaug and spread of monocultures.
 
 ## GTL
-gas to liquids [wiki](https://en.wikipedia.org/wiki/Gas_to_liquids)
+gas to liquid, a form of synfuel where natural gas is converted into an oil substitute [wiki](https://en.wikipedia.org/wiki/Gas_to_liquids)
 
 ## GWP
 Global Warming Potential, a metric developed by the EPA to compare the warming potentials of various greenhouse gases [EPA-GWP]
@@ -408,6 +417,9 @@ Joint Implementation, a flexible mechanism for carbon markets under the Kyoto Pr
 
 ## Keeling's curve
 The mapping of background carbon concentrations on Mauna Loa which by 1962 showed that ~half the CO2 from fossil fuel burning was accumulating in the air.
+
+## kerogen
+impure oil-rich gunk that can be extracted from shale to make shale oil
 
 ## kWh
 kilowatt hour, the product of the power transmitted in kilowatts and the time in hours
@@ -596,11 +608,14 @@ e.g. a low-carbon technology is more convenient than a high-carbon technology, s
 ## refractometer
 a tool to measure Brix - looks like a small spyglass
 
+## REIPPP
+Renewable Energy Independent Power Producer Procurement
+
 ## rem
 the unit measure of radiation exposure
 
-## REIPPP
-Renewable Energy Independent Power Producer Procurement
+## retorting
+a method of shale oil extraction. In this method, you mine shale, heat it aboveground to let kerogen leak out, and then refine the kerogen into oil. The process leaves a lot of leftover shale rock [Muller, 109][Muller]
 
 ## RGGI
 Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated carbon market in the United States [Wiki](https://en.wikipedia.org/wiki/Regional_Greenhouse_Gas_Initiative)
@@ -661,6 +676,9 @@ Solar radiation management (albedo engineering)
 
 ## station backup failure
 failure of an electricity generation station due to loss of electricity
+
+## synfuel
+synthetic fuel; fuel (liquid hydrocarbons such as gasoline or kerosene) produced from coal, natural gas, or biomass into synthetic crude or other liquid fuel
 
 ## system upgrade deferral
 allocation of off-peak energy (e.g. through battery storage) to times when new capacity would otherwise have to be added to meet demand [Fitzgerald, 15][Fitzgerald]
