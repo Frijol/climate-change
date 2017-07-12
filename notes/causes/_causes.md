@@ -14,6 +14,7 @@
 * Stordalen mire: well-monitored permafrost peat bog in northern Sweden that is beginning to break up [Pearce, 82][Pearce]
 * 1-10t tons of methane is currently held by clathrates [Pearce, 92][Pearce]
 * Per-capita human impact: average resource consumption and waste production of one person. A society's total impact is per-capita impact multiplied by population. [Diamond, 353][Diamond]
+* The world's highest-emission companies: [Carbon Majors, 2017](https://b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf?1499866813)
 
 
 {% include "../../BIBLIOGRAPHY.md" %}

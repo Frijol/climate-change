@@ -1,3 +1,6 @@
+## AC meters
+absorption-attenuation meter, an optical sensor
+
 ## ACP
 alternative compliance payment: amount that electricity suppliers have to pay if they aren't able to generate or buy rights to sufficient renewable energy to meet their renewable portfolio standards
 
@@ -136,6 +139,9 @@ a photovoltaic composed of cadmium and telluride, notable as a thin, flexible PV
 ## CERC
 Central Energy Regulatory Commission
 
+## CFD
+computational fluid dynamics
+
 ## CHP
 combined heat and power, also called cogeneration: combined production of useful heat and electric or mechanical power. Also applies to useful cooling. Essentially, requires power generation to occur near the point of consumption so that the thermal effects can also be used. Often works in commercial-scale buildings using natural gas microturbines http://energy.gov/eere/amo/combined-heat-and-power-basics
 
@@ -186,6 +192,9 @@ concentrating solar power, whereby thermal power from sunlight is reflected onto
 
 ## CTL
 coal to liquid (a synthetic fuel/synfuel) [wiki](https://en.wikipedia.org/wiki/Coal_liquefaction)
+
+## CVM
+contingent valuation methodology: a standard non-market valuation technique for renewable energy technology, based in economic theory and survey methodology specifically asking willingness to pay [Polis]
 
 ## CWA
 Clean Water Act
@@ -484,6 +493,9 @@ medium-duty vehicles, 8.5k lbs-10k lbs GVWR [transportpolicy.net](http://transpo
 ## MGO
 marine gas oil: fuel oil made from distillate only- wiki: https://en.wikipedia.org/wiki/Fuel_oil#Maritime
 
+## MHK
+marine hydro-kinetic
+
 ## millisievert
 0.1 rem of radiation
 
@@ -542,7 +554,7 @@ National Renewable Energy Laboratory (DoE R&D lab)
 new source performance standard, a regulatory emissions standard on new power plants
 
 ## ocean acidification
-the reduction of alkalinity in the world's oceans through absoroption of human-produced carbon dioxide from preindustrial levels of 8.2 to a projected 7.8 by 2100
+the reduction of alkalinity in the world's oceans through absorption of human-produced carbon dioxide from preindustrial levels of 8.2 to a projected 7.8 by 2100
 
 ## ocean conveyor
 Circulation of the ocean. They move underwater (brought down through sea chimneys) south of Africa, around Antarctica, through the Indian and Pacific Oceans, then come back up at the Atlantic to join the Gulf Stream and move north again to the sea chimney there. More precisely known as the meridional overturning circulation or the thermohaline circulation [Pearce, 142][Pearce]
@@ -555,6 +567,9 @@ original equipment manufacturer
 
 ## OPEC
 organization of the petroleum exporting countries
+
+## PAR
+photosynthetically active radiation
 
 ## PE
 primary energy: energy contained in raw fuels, or otherwise received as input to a system. Use of this metric ignores conversion efficiency (from its potential energy to the amount we can actually harvest), so it leads to imperfect comparisons - for example, nuclear, coal, and other thermal electricity generation processes are highly inefficient and can be overvalued using this metric [wiki](https://en.wikipedia.org/wiki/Primary_energy)
@@ -610,6 +625,9 @@ Partial Zero-Emission Vehicle: low-emission conventional internal combustion veh
 
 ## radiation illness
 immediate sickness from exposure to 100 rem or more of radiation, resulting in nausea, loss of hair, and weakness
+
+## RANS
+Reynolds-averaged Navier-Stokes (equations)
 
 ## reactivity incident
 in nuclear physics, if something goes wrong in neutron moderation and a chain reaction begins to build up
@@ -671,6 +689,9 @@ movable gates that allow or impede the flow of water e.g. to let water into the 
 ## SMPS
 switched-mode power suppliers (AC/DC)
 
+## socio-environmental
+environmental aspects with significant social ramifications, e.g. culturally significant species [mctiernan]
+
 ## solar energy resource
 Depends on solar irradiation of the geographic area and also on local shade
 
@@ -697,6 +718,9 @@ allocation of off-peak energy (e.g. through battery storage) to times when new c
 
 ## T-D
 transmission to distribution
+
+## techno-economic
+considerations where technical options are constrained by economics [McTiernan]
 
 ## TERA
 tribal energy resource agreement, which occurs between a tribe and the Secretary of the Interior. Required for natives to get rights of self-determination from ITEDSA, absolves the federal government of any losses occurring from the energy project decisions

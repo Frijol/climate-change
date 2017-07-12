@@ -3,7 +3,8 @@
 * Learn more about landfill gas
 
 ## Reports
-* [CDP]: https://www.cdp.net/CDPResults/CDP-global-climate-change-report-2015.pdf "CDP. 'CDP Global Climate Change Report 2015.' 2015."
+* McKinsey: [Unlocking Energy Efficiency in the U.S. Economy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0ahUKEwitzMmuuoTVAhVKzGMKHQd3BU0QFgg6MAc&url=http%3A%2F%2Fwww.mckinsey.com%2Fclient_service%2Felectric_power_and_natural_gas%2Flatest_thinking%2F~%2Fmedia%2F204463a4d27a419ba8d05a6c280a97dc.ashx&usg=AFQjCNGBIpEUQpS3PmPkFNPg3hBjrnz11w&cad=rja)
+* McKinsey: [Energy Efficiency: A Compelling Global Resource]( http://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/sustainability/pdfs/a_compelling_global_resource.ashx)
 * [Hansen]: http://monthlyreview.org/2013/02/01/james-hansen-and-the-climate-change-exit-strategy/ and http://monthlyreview.org/2012/12/01/the-planetary-emergency/
 * http://www.globalproblems-globalsolutions-files.org/unf_website/PDF/climate%20_change_avoid_unmanagable_manage_unavoidable.pdf Confronting Climate Change: Avoid the Unmanageable, Manage the Unavoidable
 * http://www.c2es.org/publications/climate-change-101 Climate Change 101

@@ -49,6 +49,7 @@
 - There has been a dedicated test site in operation at the European Marine Energy Center (EMEC) in Orkney, Scotland since 2005 [O Rourke, 9][ORourke]
 - Major challenges as of 2009: installation, maintenance, electricity transmission, loading conditions, environmental impact [O Rourke, 15][ORourke]
 - If transmission distance is long, higher voltage transmission is needed. Ideally, there would be no transformers below sea level, so generators should run at high voltages [O Rourke, 15][ORourke]
+- In a calm Puget Sound test at peak biofouling, it was found that an optical port could be minimally biofouled after ~3 months with the measures of a copper ring and a wiper. This is promising for long-term optical sensor deployment at real sites [Joslin]
 
 ### Environmental considerations
 
@@ -74,6 +75,7 @@
 - La Rance provides at the cost of 3.7c/kWh, BC gvt estimates 11-25c/kWh dropping to 5-7c/kWh for new tidal installations on the BC coast [Helston]
 - Higher thrust & thus higher material cost than wind turbines [O Rourke, 15][ORourke]
 - Impractical in most of the world [Murphy-tides]
+- Depends in part on availability of research funding. In a 2016 survey [Polis] it was found that WA state residents would be willing to pay $57 million annually for tidal energy R&D (comparable to the federal $60m budget for marine hydrokinetic and hydropower in 2015)
 
 ### Alaska
 
@@ -134,8 +136,5 @@ Race Rocks Tidal Energy Project | EnCana Corporation                            
 ## Further reading
 
 - [The economics of tidal power](http://ieeexplore.ieee.org/document/5589558/) an IEEE study on the break-even costs of tidal power. Super useful probably but because obviously science doesn't belong in the public domain it's behind a paywall
-- [Tidal energy thesis paper](http://www.ems.psu.edu/~elsworth/courses/cause2003/finalprojects/canutepaper.pdf)
-- [A listing of tidal turbine products from a company in the UK](http://www.tidalstream.co.uk/html/costs.html)
-- [Resources for energy development for Alaska Native Villages from NREL (and other native regions)](http://energy.gov/indianenergy/alaska-native-villages)
 
 {% include "../../BIBLIOGRAPHY.md" %}
