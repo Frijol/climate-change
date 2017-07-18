@@ -1,5 +1,17 @@
 # Tidal Power
 
+Tides cycle twice a day, consistently creating a harvestable energy source at the coast– which is where the majority of the world's population can be found. However, tidal power has not taken off as a major renewable resource. Partly, this is because the technology is still considered early-stage– and thus both expensive and risky. Partly, it's because not all tidal flows are created equal– greater tidal flows can be found in Norway, Alaska, New Zealand, and Scotland than in other parts of the world.
+
+*Questions: Why are those sites best– what is unique about their terrain? What is the exact argument for useful vs. not useful globally?*
+
+Most analysts discount tidal power as a solution to global renewable energy, citing tidal changes that are too small to be useful at population centers.
+
+There are two main implementations of tidal power. The older technology is a "tidal barrage", essentially a hydroelectric dam designed to flood an area as the tide rises, and slowly release the held water as the tide recedes. This is effective at generating power from existing technologies, but necessarily changes the environment (particularly disrupting the intertidal zone).
+
+The newer tidal technology is an underwater turbine called a tidal turbine, essentially a small, stout wind turbine analog. It turns with the in-and-out flow of the tides. A single tidal turbine generates much less electricity than a tidal barrage; the design intentionally leaves most of the water flow (and thus harvestable energy) undisturbed. One solution to generate more power is by creating "tidal fences", turbines side by side to multiply the energy generated.
+
+I posit that another approach to tidal turbines is to deploy them in smaller coastal communities– towns of a few hundred, in the remote areas which are most appropriate for tidal power from the perspective of tide height. These towns are often highly energy-dependent on expensive imported oil used to generate electricity locally; due to the high price of existing energy and potentially low expense of one or two tidal turbines, there is potential for greater energy independence and cost savings for residents.
+
 ## How it works
 
 - Major methods are tidal barrage (essentially a hydroelectric dam: open for inflow, close & run generator on outflow), tidal stream generator (underwater turbine), and dynamic tidal power (not defined but perhaps similar to wave mechanisms?) [Maehlum]
