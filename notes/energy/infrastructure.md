@@ -1,15 +1,22 @@
 # Infrastructure
 
 ## How the American energy grid works
-* An excellent introduction to terms and organization of the electric grid can be found in [Caspary]
-* A detailed engineering introduction to the electrical dynamics of the grid can be found in [Hiskens]
 * Current grid paradigm: ![screen shot 2017-03-23 at 2 12 10 pm](https://cloud.githubusercontent.com/assets/454690/24270548/d479a0aa-0fd2-11e7-90cd-f02d92aa5ff4.png) [Hiskens, 4][Hiskens]
-* Modern grid has 99.97% energy availability reliability in the United States [EPRI, 9][EPRI]
-* Transmission systems mostly take place through organized markets (ISO's/RTO's). Other agreements are often called bilateral (2-way agreement between energy supplier and distributor) [Caspary, 13][Caspary]
+
+### Organization of the grid
 * Current American grids: Texas (ERCOT), East, and West. They are separately managed. [Chabot]
+* Transmission systems mostly take place through organized markets (ISO's/RTO's). Other agreements are often called bilateral (2-way agreement between energy supplier and distributor) [Caspary, 13][Caspary]
+* An excellent introduction to terms and organization of the electric grid can be found in [Caspary]
+* FERC is officially voluntary, 1/3 of US transmission is outside of FERC and RTO's (mostly Texas) [Caspary, 7-8][Caspary]
+
+### Reliability
+* Modern grid has 99.97% energy availability reliability in the United States [EPRI, 9][EPRI]
+
+### Electrical characteristics and losses
+* A detailed engineering introduction to the electrical dynamics of the grid can be found in [Hiskens]
 * The United States has very few HVDC lines. "The cost of high voltage DC (HVDC) transmission lines is roughly 1 cents per kwh for 500 miles, or 1.5 cents per kwh for 1,000 miles transmitted. Over 1,000 miles, an HVDC line may lose 5% or so of the electricity it transmits." [Naam][NaamWind]
 * ![](http://rameznaam.com/wp-content/uploads/2015/08/Cost-of-AC-and-HVDC-Transmission-Lines-From-HandlemanPost-800x544.jpg) Cost of transmission lines by type & voltage [Naam][NaamWind]
-* FERC is officially voluntary, 1/3 of US transmission is outside of FERC and RTO's (mostly Texas) [Caspary, 7-8][Caspary]
+* U.S. grid loses about 7% of its energy in transmission from generation to end use [Muller, 166][Muller]
 
 ### Load profiles
 * Trends in when energy demand is high/low in the United States: ![screen shot 2017-03-23 at 2 12 44 pm](https://cloud.githubusercontent.com/assets/454690/24270554/d812fe6e-0fd2-11e7-9be9-8a7590237177.png) [Hiskens, 5][Hiskens]
