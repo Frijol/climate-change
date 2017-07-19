@@ -22,6 +22,9 @@ the use of sustainable farming methods on small-scale farms based on the combina
 ## albedo
 reflectivity
 
+## aneutronic
+producing no neutrons
+
 ## Anthropocene
 the name of the current geologic period, implying that the geology of the Earth (through climate change, nuclear fallout, river diversion, monoculture farming, ocean acidification, etc.) is being dominantly affected by humans
 
@@ -544,6 +547,9 @@ natural gas
 ## NGPL
 natural gas plant liquids, recovered from processing, e.g. propane
 
+## NIF
+National Ignition Facility, a laser facility at Lawrence Livermore National Laboratory [website](https://lasers.llnl.gov/)
+
 ## NIMBY
 Not in my backyard. As in "yes high voltage power transmission is a great idea, but not in my backyard"
 
@@ -561,6 +567,9 @@ National Renewable Energy Laboratory (DoE R&D lab)
 
 ## NSPS
 new source performance standard, a regulatory emissions standard on new power plants
+
+## nuclear battery
+a small, modular, no-maintenance nuclear plant- often manufactured remotely, shipped, assembled on site, and buried for 3-4 years at a time while in operation [Muller, 186][Muller]
 
 ## ocean acidification
 the reduction of alkalinity in the world's oceans through absorption of human-produced carbon dioxide from preindustrial levels of 8.2 to a projected 7.8 by 2100

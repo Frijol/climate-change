@@ -40,19 +40,30 @@ This may all be a moot point with the growing use of natural gas making nuclear 
 * A dose of 25 rem increases your likelihood of cancer by 1% scaled linearly [Muller, 17][Muller] //TODO: Check this, I believe the science is not settled on whether small doses of radiation scale linearly in effect
 * The average rate of cancer contraction without exposure to nuclear is about 20%. Of 100k survivors of Hiroshima & Nagasaki, 20,000 die of cancer, but only about 800 die from cancer caused by nuclear radiation [Muller, 19][Muller]
 * Denver, Colorado is naturally radioactive (due to uranium deposits in granite); residents are dosed with 0.3 rem above usual annually. Despite this, Denver has a relatively low incidence of cancer. The ICRP recommends evacuation from a site with 0.1 rem annually, theoretically based on the precautionary principle– but Denver's example suggests this may be a misguided policy choice [Muller, 20-21][Muller]
+* Myth of uranium scarcity: we have enough uranium to last 9,000 years– it's cheaply recoverable uranium that is scarce, but this will still not be a primary expenditure for nuclear power [Muller, 180][Muller]
 
 ## Mechanism
 * Current nuclear (fission) power works by creating heat through controlled atomic reactions, using this to boil water and create steam to drive a turbine. Specifically, all current nuclear plants use moveable cadmium rods to dampen or intensify the reaction (the rods suck up neutrons). [Weisman, 209][Weisman]
 * Biggest nuclear plant in the United States: Palo Verde Nuclear Generating Station, west of Phoenix. Produces 3.8 billion watts [Weisman, 209][Weisman]
 * Mechanism at Palo Verde: Cadmium dampers are interspersed with 170,000 cm-ish thick 14' hollow rods made of zirconium alloy stuffed with uranium pellets. Each rod contains the same amount of energy as 1 ton coal. Water flows through the rod assemblies to be heated. [Weisman, 210][Weisman]
 * The volume of used nuclear fuel rods created over the past 40 years is 74,258 metric tons. That's one football field, 8 yards deep. [NEI]
+* Nuclear plant capacity factor is at around 90% [Muller, 184][Muller]
+* A "nuclear battery" is a small, self-regulating source of nuclear power, often buried for 5-30 years of operation (at which point it is typically exhumed and refueled). Self-regulation is based on physics rather than engineering principles– there are no moving parts; neutron reflection and convection moderate the reaction. [Muller, 186-190][Muller]
+* Waste storage: uranium is mined from underground; if not mined, it could leak radiation into the water table– this gives us a baseline safety for storage. Nuclear waste is 100x more radioactive than raw uranium after being stored for 100 years. If you can design storage that has a <10% chance of leaking <10% of the material after 100 years, you have decreased global danger from uranium-based radioactivity after using that uranium to produce nuclear power [Muller, 196][Muller]
 
 ## Economic viability
 * Building a nuclear energy plant is very, very slow and expensive. Between 1972 and 1992, the cost of building a new 1 GW nuclear power plant in the United States increased more than 10x. This was due mostly to increased safety regulations. The plants are now much less likely to become meltdown sites, but the adoption rate is very slow. [Smil, 36][Smil]
 * Viability of financing for nuclear– new, extended, or uprated– is somewhat competitive with natural gas for economic viability. There's a strong possibility that natural gas electricity is so cheap that nuclear plants will go offline in the near future [EIA, 113][EIA]
+* Small (300 MW) modular nuclear plants are less of a capital risk than traditional 1 GW models and can be expanded later by adding more modules to existing grid-hookup infrastructure. Because selling nuclear power is profitable, this means smaller financing deals can start modular nuclear plants which then pay for their own expansion up to & beyond the capacity of older, large plant designs [Muller, 186][Muller]
 
 ## Research efforts
 * Nuclear research received 96% of all funds appropriated by the US Congress for energy-related R&D between 1947 and 1998, a total of $145b in 1998 dollars [Smil, 43][Smil]
 * LMFBRs are intended to increase the supply of consumable reactants by converting a more available nonfissionable uranium isotope to a fissile plutonium isotope in a reaction less energy expensive than the energy retrieved from the result. Experimentation in this area (a fission reaction) has been funded and active since the 40s with no promising commercial outcomes yet [Smil, 38-39][Smil]
+
+### Fusion
+* Fusion reaction: combine deuterium and tritium to make helium and a radioactive neutron [Muller, 200][Muller]
+* "Breakeven fusion": nuclear fusion that produces more energy than it takes to create the reaction– has not yet been achieved
+* Tokamak: toroidal chamber with magnetic coils based on thermonuclear fusion (high temp hydrogen fusion as in the sun or a hydrogen bomb). In Tokamak reaction, magnetic confinement holds hydrogen with a magnetic field so it can be contained at the extreme temperatures of a reaction. This is the key challenge in Tokamak, there's progress but it still leaks [Muller, 202][Muller]
+* Beam fusion: as opposed to thermonuclear, not based on heat. Collide enough density of atoms in neutron generators (beams of deuterium) into a tritium target– NIF is a research site [Muller, 208][Muller]
 
 {% include "../../BIBLIOGRAPHY.md" %}
