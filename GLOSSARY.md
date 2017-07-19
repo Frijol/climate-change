@@ -169,11 +169,17 @@ a fully underwater point absorber where the pumping of the floating part pressur
 ## CFCs
 chlorofluorocarbons, also called halocarbons, contain fluorine, bromine, and chlorine. They are harmful to the earth's ozone and notably present in Freon [Clark]
 
+## CNG
+compressed natural gas
+
 ## CO2
 Carbon dioxide
 
 ## CO2e
 Carbon dioxide equivalent, "the total climate change impact of all the greenhouse gases caused by an item or activity rolled into one and expressed in terms of the amount of carbon dioxide that would have the same impact" [Berners-Lee, 2][Berners-Lee]
+
+## coal gas
+fuel gas harvested from seams of coal burning underground [Muller, 232][Muller]
 
 ## COP15
 The 2009 Climate Change Convention of the Parties in Copenhagen
@@ -282,6 +288,9 @@ occupation of vast extra-urban tracts of land by energy facilities, problematic 
 
 ## entrainment
 thermally and mechanically stressing aquatic organisms to create clean water [EIA, 31][EIA]
+
+## EOR
+enhanced oil recovery: steam heat to reduce the viscosity of the oil, then pump in oxygen to burn in situ [Muller, 234][Muller]
 
 ## EPACT2005
 Energy Policy Act of 2005 increased ITC [EIA, 33][EIA]
