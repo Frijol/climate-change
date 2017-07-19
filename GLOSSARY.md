@@ -163,6 +163,9 @@ corals turning white through ejection of their colorful zooxanthellae due to the
 ## cellulosic ethanol
 a form of ethanol that can be made from any woody material, such as walnut hulls and lumber waste
 
+## Ceto device
+a fully underwater point absorber where the pumping of the floating part pressurizes water for onshore generation
+
 ## CFCs
 chlorofluorocarbons, also called halocarbons, contain fluorine, bromine, and chlorine. They are harmful to the earth's ozone and notably present in Freon [Clark]
 
@@ -415,6 +418,9 @@ Emissions caused by e.g. the process to extract the materials used in creating a
 ## intercropping
 planting two or more crops interspersed to maximize light, water, and nutrient usage
 
+## intertidal zone
+land area that is exposed when the tide is not high
+
 ## inverted rates
 The more you buy, the more it costs per unit
 
@@ -547,6 +553,9 @@ natural gas
 ## NGPL
 natural gas plant liquids, recovered from processing, e.g. propane
 
+## NGV
+natural gas vehicle
+
 ## NIF
 National Ignition Facility, a laser facility at Lawrence Livermore National Laboratory [website](https://lasers.llnl.gov/)
 
@@ -586,6 +595,9 @@ original equipment manufacturer
 ## OPEC
 organization of the petroleum exporting countries
 
+## OWC
+oscillating water column: a vertical chamber drilled into a cliff where waves push aboveground air through a turbine
+
 ## PAR
 photosynthetically active radiation
 
@@ -613,6 +625,9 @@ shorthand name for albedo engineering
 
 ## P-node
 pricing node (in electric grid balancing). P-nodes, PNodes, or pricing nodes, are a pricing structure for distributed energy resources. Essentially, a price is set by balancing the supply and demand at each point where two wires cross. As of 2015, there were 4,900 of these in California. [StJohn]
+
+## point absorber
+wave harvesting device based on a floating part and a fixed part where the floating part's vertical motion is converted into electricity (e.g. a buoy bobbing a copper coil over magnets)
 
 ## POU
 publicly owned utility (as opposed to investor owned)
@@ -755,6 +770,9 @@ see tidal fence
 ## tidal fence
 a row of tidal stream generator turbines cemented in place so that all flow must pass through the turbines. Can be implemented fully or partially across a tidal flow [Helston]
 
+## tidal range
+the height difference between high tide and low tide
+
 ## tidal stream generator
 underwater turbines for tidal power
 
@@ -784,6 +802,9 @@ transitional zero-emissions vehicles, plug-in hybrid electric and hydrogen inter
 
 ## voltage collapse
 power demand exceeds supply so much that the system goes down (any given power supply has a finite supply capability, a "point of maximum loadability") [Hiskens, 21][Hiskens]
+
+## WEC
+wave energy converter
 
 ## ZEV
 zero-emissions vehicles: battery-electric and hydrogen fuel cell [EIA, 22, 35][EIA]
