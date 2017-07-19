@@ -22,6 +22,7 @@ Detractors assert that we can't afford to increase our methane emissions, becaus
 ## Mechanics of natural gas
 * Expected U.S. natural gas extraction methods: ![screen shot 2016-12-08 at 3 40 33 pm](https://cloud.githubusercontent.com/assets/454690/21032202/ad83660c-bd5c-11e6-8151-36dd57d3c5bc.png) [EIA, 119][EIA]
 * Fracking (hydraulic fracturing): Water is shot into the shale layer through a drilled hole. When water pressure exceeds the weight of the rock above it, the rock cracks to let the water expand. This lets gases (adsorbed into rock) escape. When water pressure is released, it spurts from the ground along with the released gas. [Muller, 93][Muller]
+* Compressed natural gas (CNG) is compressible to 250 atm and can be carried in steel or fiber composite tanks. At this level, CNG is 1/3 the energy density of gasoline (11kwh/g), 10x the energy density of li-ion, 4x the energy density of hydrogen at the same pressure, and 2/5 cost of gasoline [Muller, 261][Muller]
 
 ## Economics of natural gas
 * Both demand (including export) and supply (improved technology and lots of deposits) are expected to increase in the United States over the 2015-2040 period. This should keep natural gas prices stable & low over that time period [EIA, 21][EIA]
@@ -30,6 +31,7 @@ Detractors assert that we can't afford to increase our methane emissions, becaus
 * Natural gas production from tight and shale gas formations increased 23% from 2010 to 2015 in the United States. This is a shift from traditional dry natural gas (which still dominates) to wet [EIA, 83][EIA]
 * Wet natural gas is slower to profit than dry natural gas (it requires processing into dry before it can be put in pipelines, and the formations have low initial yields) but the NGPL output can make it more profitable in the long run [EIA, 86][EIA]
 * "Because NGPL is produced during the processing of natural gas, either from natural gas wells or from gas associated with crude oil production, NGPL production levels are largely driven by the development of these resources. The revenue associated from extracting NGPL streams, such as ethane, propane, butane, and natural gasoline, justify the cost of producing areas with NGPL-rich resources. When the price ratio between crude oil and natural gas is high, a producer is more likely to develop higher NGPL recovery formations because they can overcome the higher cost of processing these resources. When the spread is narrow, a producer is likely to avoid these costs and focus on developing natural gas production areas with low or no NGPL." [Wilczewski]
+* Assuming easy supply, a natural gas vehicle (NGV) costs $0.04/mile; gasoline costs $0.10; all electric (including battery replacement) costs $0.44-0.75 [Muller, 263][Muller]
 
 ## Nonfuel uses of natural gas
 * // What are the emissions effects of using natural gas as feedstock rather than fuel?

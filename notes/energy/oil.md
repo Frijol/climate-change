@@ -1,5 +1,7 @@
 # Oil
 
+* Oil extraction: an oil gusher can bring up about 20% of the deposit. Flush the deposit for secondary oil recovery with natural gas, water, or CO2 for a total of 40% (potentially also sequestering the CO2) [Muller, 233][Muller]
+
 ## Economic trends
 * Most energy sources use oil pricing as a benchmark for economic feasibility, but oil prices vary widely in a way not necessarily related to supply/demand - e.g. OPEC artificially restricts supply to drive prices
 * As oil price/barrel increases, American oil becomes more economically feasible (primarily in the lower 48) [EIA, 20][EIA]

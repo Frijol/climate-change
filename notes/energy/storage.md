@@ -32,6 +32,7 @@
 * A current regulatory barrier: DER's on the grid are often treated as either a sink or a source, but not flexible. CAISO is looking into changing that. [Fitzgerald, 8][Fitzgerald]
 * For a residential load regulation battery pack to make economic sense (assuming stacked services but mostly keeping home energy use local to home solar), the up-front capital would have to be around $300/kWh or $1,111/kW to be cash positive without the tax incentive [Fitzgerald, 32][Fitzgerald]
 * Home battery might need replacement every 7 years [Fitzgerald, 33][Fitzgerald]
+* Common implementation of a fuel cell: supply O2 and H2 gas in wire-connected vials underwater, an anode and cathode are formed to supply electricity. Also works using methane and air as the gases [Muller, 267][Muller]
 
 ### Characteristics
 * Lithium-Ion batteries die out after ~1k cycles & are better to discharge only 70%; Flow can be used for 5-10k cycles, CAES for 10k+ with full discharge [Naam][NaamStorage]
