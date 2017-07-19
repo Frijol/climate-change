@@ -337,6 +337,9 @@ Hydraulic fracturing, a high-pressure injection of a liquid into a wellbore to c
 ## F-T
 see Fischer-Tropsch process
 
+## fuel cell
+a battery wherein you "recharge" by pumping in new chemicals. E.g. a hydrogen fuel cell requires new hydrogen + air [Muller, 177][Muller]
+
 ## gas flaring
 when oil is extracted, natural gas builds up. "Flaring" this gas is setting it on fire (instead of capturing it for sale).
 
@@ -448,6 +451,9 @@ An international treaty which extends the UNFCCC, committing countries to reduce
 ## LACE
 levelized avoided cost of electricity: LCOE for technologies with different duty cycles [EIA, 115][EIA]
 
+## laminar
+taking place across constant streamlines; not turbulent
+
 ## LCA
 life cycle assessment (typically, cradle to grave carbon impact analysis)
 
@@ -507,6 +513,9 @@ Municipal solid waste: turning regular garbage into energy through various techn
 
 ## multijunction cells
 a type of photovoltaic that is layered to react with every wavelength of light. It is extremely efficient and extremely expensive, used in the Mars rover and with utility-scale CSP PV plants
+
+## nacelle
+a streamlined housing or tank for something on the outside of an aircraft or motor vehicle
 
 ## NAPCC
 National Action Plan on Climate Change
@@ -646,6 +655,9 @@ the unit measure of radiation exposure
 
 ## retorting
 a method of shale oil extraction. In this method, you mine shale, heat it aboveground to let kerogen leak out, and then refine the kerogen into oil. The process leaves a lot of leftover shale rock [Muller, 109][Muller]
+
+## Reynolds number
+a dimensionless quantity in fluid mechanics used to predict flow patterns. It is used to predict the transition from laminar/smooth flow (low Reynolds number– viscous forces are dominant) to turbulent flow (high Reynolds numbers– inertial forces are dominant). [wiki](https://en.wikipedia.org/wiki/Reynolds_number)
 
 ## RGGI
 Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated carbon market in the United States [Wiki](https://en.wikipedia.org/wiki/Regional_Greenhouse_Gas_Initiative)

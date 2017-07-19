@@ -41,6 +41,8 @@
 * Flow batteries can use expensive, corrosive, and/or toxic fluids (vanadium is market leader); on-site load to power pumps can be high [Maloney]
 * Zinc-air batteries have a longer life span, greater safety and lower costs than li-ion batteries [Maloney]
 * Li-ion might not be the most technically appropriate technology for grid storage, but its economies of scale might make it the most cost-effective [Maloney]
+* Lead-acid batteries can return 80-90% of stored energy [Muller, 167][Muller]
+* Sodium-sulfur batteries have low cost per cycle– can be used 4500 times (vs. 500x for lead-acid) and costs 1/10 lead-acid materials cost. Drawback is that they use liquid sodium & thus must be kept at 660 degrees F [Muller, 168][Muller]
 
 ### In load balancing
 * 1,280 MWh of battery storage added to the grid 2010-2017 [Maloney]
