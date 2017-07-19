@@ -3,6 +3,9 @@
 * Wind: fastest growing renewable. Solar electric is second [Lovins, 71][Lovins]
 
 ## Mechanism
+* Wind velocity relates to power cubically: W/m^2=(mph)^3/10 [Muller, 161][Muller]
+* Just three blades can harvest more than half of the wind energy [Muller, 162][Muller]
+* Betz's law: a wind turbine can theoretically extract up to 59% of the wind's power [Muller, 162][Muller]
 * "As a general rule of thumb, wind turbines produce electricity equal to the area their blades sweep through. And area is equal to the square of blade length. That means that doubling the tower height and blade length quadruples the area the blades spin through, and generates 4x as much energy. Partially as a result, wind prices per kwh have dropped, even as (or in part because) wind turbines have grown taller." ![](http://rameznaam.com/wp-content/uploads/2015/08/Wind-Power-Cost-LCOE-vs-Hub-Heights-Energy-dot-gov-Wind-Visions-2014-800x545.jpg) [Naam][NaamWind]
 
 ## Opportunity
