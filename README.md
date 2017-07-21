@@ -6,8 +6,6 @@ Personal notes as I explore the subject of climate change.
 
 [View as a Gitbook](https://frijol.gitbooks.io/climate-change/content/) ([PDF](https://www.gitbook.com/download/pdf/book/frijol/climate-change) | [ePub](https://www.gitbook.com/download/epub/book/frijol/climate-change) | [Mobi](https://www.gitbook.com/download/mobi/book/frijol/climate-change))
 
-(Now starting to explore how others might best use these notes)
-
 ## Why research this?
 
 There are a lot of problems with the world. A lot of the major issues (war, human displacement, destruction of natural spaces, etc.) lead back fairly directly to issues with energy.
@@ -74,9 +72,3 @@ Areas of opportunity is a great place to start if you're looking for ways an eng
 #### Solutions
 
 - The notes on Cap and Trade notes are currently in solutions/policy but belong in solutions/economic (policy is only one possible implementation of an inherently economics-based solution)
-
-### Should I make this into a book?
-
-- Define specific objective. I think the core utility here is (a) targeted toward engineers and entrepreneurs, especially entrepreneurs (b) accessible to people new to the energy field (c) accessible to people who have not studied climate change (d) interesting to people who wish they knew more about climate change, what we're doing, how to fix it. Is that too much?
-- Gauge interest: make a google form to collect email addresses of interested? Crowdfund/self-publish or talk to publisher? Would be useful to chat with publisher, get advice on focus, audience targeting, etc.
-- I think this would be a fairly massive book if fully filled out. Is that useful, or does it need to be more focused? Several of these pieces could be books-in-themselves: basic exploration of entrepreneurship & wild ideas, or explanation/intro to the energy sources. I haven't come across anything climate-change oriented that covers these subjects.
