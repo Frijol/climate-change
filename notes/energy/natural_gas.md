@@ -10,6 +10,8 @@ Methane gas is a more powerful GHG than CO2, but its effects are much shorter-li
 
 Detractors assert that we can't afford to increase our methane emissions, because even a decades-long timescale for the high warming effects is too long for our current climate. However, there isn't another option that's currently available on the economic timescales we need to transition off of coal. (Ideally, we'd have strong investment in solar/wind, but production capacity will take some time to ramp up– and it would have to be a huge investment. While solar/wind are economically positive, they're nowhere near as economically attractive as natural gas.)
 
+I have an article that goes into more detail on what to expect for natural gas based on the EIA's 2016 report– read it [on Medium](https://extranewsfeed.com/natural-gas-a-quick-look-at-the-biggest-mover-in-the-american-energy-world-91060d81f015).
+
 ### Natural gas as a transition fuel
 * Natural gas is so cheap that it's causing coal plants to close/switching American power generation away from coal [EIA, 112][EIA]
 * Methane emissions are highly warming, but they persist in the atmosphere only about 12 years, compared to 20-200 years for CO2 [Clark]
