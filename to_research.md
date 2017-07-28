@@ -14,4 +14,7 @@ Gaps in my information– rough to-learn list.
 * For tidal, what terrain characteristics are necessary?
 * What is the exact argument for characterizing tidal as useful vs. not useful globally?
 * Why does it make sense that geographic restriction would drive larger tidal differences rather than smaller ones?
-* How is EGS different from regular geothermal? 
+* What is a straflo turbine?
+* What is a bulb turbine?
+* What is a hydrofoil?
+* What is a helicoidal turbine?

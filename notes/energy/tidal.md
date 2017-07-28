@@ -18,6 +18,14 @@ I posit that another approach to tidal turbines is to deploy them in smaller coa
 - Tidal stream generators do not generate the high power that tidal barrage can, but are typically less environmentally destructive [Helston]
 - Peak-to-trough amplitude of tides would be theoretically ~1m due to solar + lunar gravity on a perfectly fluid Earth. We see more extreme tides (e.g. 4m in Puget Sound) where there are geographical restrictions or shallower water. In an _inlet_, water has to _flow_ in & out to accommodate the tide change [Murphy-tides]
 
+### Tidal harvest mechanisms
+* Tide mill: a medieval technology where tides push water up an estuary into a retaining basin; sluices direct the draining water through a run-of-the-river waterwheel to turn a grindstone [Charlier, 80][Charlier]
+* Tidal power plant (TPP): a tidal barrage using one or more basins. Single or double effect (can power on ebb tide, flood tide, or both). Might or might not have pumping to even out flow across tides. Uses bulb, straflo, or other turbines [Charlier, 80][Charlier]
+* Tidal stream/tidal current: uses the horizontal movement (flow) of tides rather than the vertical up & down movement [Charlier, 80][Charlier]
+* Pulse stream: A converter uses a pair of hydrofoils oscillating across the flow of the tide, useful to harvest tidal energy in shallow water. There's a 100kW prototype in progress. [Charlier, 80][Charlier]
+* Gorlov: a tidal power scheme using a helicoidal turbine that needs no dam. He works at Northeastern University in Boston [Charlier, 80][Charlier]
+*
+
 ## Tidal barrage
 
 - Energy harvest can be ebb (high tide is trapped in, allowed to outflow through turbines), flood (high tide is trapped out, allowed to inflow through turbines- less popular than ebb because it reduces the size of the basin, impacting shipping and the environment), or two-way (both, with a smaller hydrostatic head & thus a gentler peak generation over more time). [O Rourke, 4][ORourke]
@@ -88,6 +96,7 @@ I posit that another approach to tidal turbines is to deploy them in smaller coa
 - Higher thrust & thus higher material cost than wind turbines [O Rourke, 15][ORourke]
 - Impractical in most of the world [Murphy-tides]
 - Depends in part on availability of research funding. In a 2016 survey [Polis] it was found that WA state residents would be willing to pay $57 million annually for tidal energy R&D (comparable to the federal $60m budget for marine hydrokinetic and hydropower in 2015)
+- There is massive potential for power generation in Australian sites (Turnagain Inlet is notable), but they are far from population centers and thus have not been pursued [Charlier, 82][Charlier]
 
 ### Alaska
 
