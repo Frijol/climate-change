@@ -11,6 +11,8 @@
 [carson]: https://www.goodreads.com/book/show/27333.Silent_Spring "Carson, Rachel. 'Silent Spring.' 1962. Foundational book of the environmental movement, wholly focused on insecticide sprays and now fairly outdated."
 [caspary]: http://www.eesi.org/files/070913_Jay_Caspary.pdf "Caspary, Jay. 'Electric Transmission 101: Markets, ISO/RTOs and Grid Planning/Operations.' 2013. Southwest Power Pool."
 [chabot]: www.com "Chabot, Bennet. Discussion."
+[chao]: http://newscenter.lbl.gov/2017/07/20/berkeley-lab-lead-multimillion-dollar-geothermal-energy-project/ "Chao, Julie. 'Berkeley Lab to Lead Multimillion-Dollar Geothermal Energy Project.' Berkeley Lab, 2017."
+[charlier]: https://www.goodreads.com/book/show/16884573-ocean-energies "Charlier, R. H. 'Ocean Energy: Tide and Tidal Power.' Springer, 2009."
 [clark]: https://www.theguardian.com/environment/2012/jan/16/greenhouse-gases-remain-air "Clark, Duncan. 'How long do greenhouse gases stay in the air?' 2012."
 [cravens]: https://www.goodreads.com/book/show/1906869.Power_to_Save_the_World "Cravens, Gwyneth. Power to Save the World: the Truth about Nuclear Energy. 2007."
 [cuff]: https://www.theguardian.com/environment/2016/jan/12/vattenfall-starts-work-on-uk-hybrid-wind-and-solar-farm "Cuff, Madeleine. 'Vattenfall Starts Work on UK Hybrid Wind and Solar Farm.' 2016. The Guardian."

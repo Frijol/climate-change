@@ -271,6 +271,9 @@ Steam Electric Power Generating Effluent Guidelines
 ## EGU
 electric generating unit
 
+## EGS
+enhanced geothermal energy systems
+
 ## EMEC
 European Marine Energy Center: a marine power generation research facility located in Orkney, Scotland. The center was created to offer marine-based renewable energy technology developers the opportunity to test full-scale, grid-connected devices [O Rourke, 9][ORourke]
 
@@ -363,6 +366,9 @@ Ground cover ratio
 
 ## geoengineering
 Deliberate human intervention in the earth's climate on a global scale
+
+## geothermal reservoir
+the underground fracture network in rock in areas of high temperature gradient where geothermal energy can be harvested
 
 ## GHG
 greenhouse gas
