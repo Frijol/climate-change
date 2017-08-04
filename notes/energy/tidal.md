@@ -44,6 +44,7 @@ I posit that another approach to tidal turbines is to deploy them in smaller coa
 ## Tidal stream generators
 
 - Essentially an underwater turbine in a tidal current
+- Estimation of extractable power (in W/m^2): Px = 1/2u * w * Ks * Kn * V^3 = 0.3 * w * V^3 where u is the efficiency factor (0.25), Ks is the velocity profile factor (0.424), and Kn is the spring/neap tide factor (0.57), and w is the fluid density in kg/m^3 [Charlier, 144][Charlier]
 - Tidal fences/tidal farms: a row of turbines through which water flows [Helston]
 
 ### Siting

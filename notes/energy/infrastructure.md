@@ -17,6 +17,8 @@
 * The United States has very few HVDC lines. "The cost of high voltage DC (HVDC) transmission lines is roughly 1 cents per kwh for 500 miles, or 1.5 cents per kwh for 1,000 miles transmitted. Over 1,000 miles, an HVDC line may lose 5% or so of the electricity it transmits." [Naam][NaamWind]
 * ![](http://rameznaam.com/wp-content/uploads/2015/08/Cost-of-AC-and-HVDC-Transmission-Lines-From-HandlemanPost-800x544.jpg) Cost of transmission lines by type & voltage [Naam][NaamWind]
 * U.S. grid loses about 7% of its energy in transmission from generation to end use [Muller, 166][Muller]
+* The Wikipedia page on [Utility frequency](https://en.wikipedia.org/wiki/Utility_frequency) has some great coverage of why specific grid voltages and frequencies were chosen
+
 
 ### Load profiles
 * Trends in when energy demand is high/low in the United States: ![screen shot 2017-03-23 at 2 12 44 pm](https://cloud.githubusercontent.com/assets/454690/24270554/d812fe6e-0fd2-11e7-9be9-8a7590237177.png) [Hiskens, 5][Hiskens]
