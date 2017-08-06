@@ -22,6 +22,9 @@ the use of sustainable farming methods on small-scale farms based on the combina
 ## albedo
 reflectivity
 
+## alternator
+an electrical generator that converts mechanical energy into electrical energy in the form of alternating current
+
 ## aneutronic
 producing no neutrons
 
@@ -276,6 +279,9 @@ enhanced geothermal energy systems
 
 ## EMEC
 European Marine Energy Center: a marine power generation research facility located in Orkney, Scotland. The center was created to offer marine-based renewable energy technology developers the opportunity to test full-scale, grid-connected devices [O Rourke, 9][ORourke]
+
+## EMF
+electromotive force
 
 ## EMM
 electricity market model [EIA, 57][EIA]
@@ -653,6 +659,9 @@ Parts per million
 ## precautionary principle
 the idea that when there is uncertainty, you should err on the side of safety
 
+## prime mover
+a machine or part of a machine that converts energy from a source energy into mechanical energy, e.g. a steam turbine or water wheel
+
 ## PTC
 Production Tax Credit, a federal tax credit in the United States which provides inflation-adjusted per-kWH rebates for qualifying renewable energy sales [Energy.gov][Energy.govPTC]
 
@@ -749,6 +758,9 @@ Depends on solar irradiation of the geographic area and also on local shade
 ## SOx
 sulful oxides, a pollutant present in exhaust which causes acid rain- wiki: https://en.wikipedia.org/wiki/Air_pollution#Pollutants
 
+## speed droop
+a speed control mode in a system of generators which allows them to run in parallel, sharing loads across generators proportional to their power rating
+
 ## spinning reserve
 any back-up energy production capacity which is can be made available to a transmission system with ten minutes' notice and can operate continuously for at least two hours once it is brought online
 
@@ -760,6 +772,9 @@ Solar radiation management (albedo engineering)
 
 ## station backup failure
 failure of an electricity generation station due to loss of electricity
+
+## synchronous generator
+An electrical generator of AC power which is synchronized with a standard frequency
 
 ## synfuel
 synthetic fuel; fuel (liquid hydrocarbons such as gasoline or kerosene) produced from coal, natural gas, or biomass into synthetic crude or other liquid fuel
@@ -775,6 +790,9 @@ considerations where technical options are constrained by economics [McTiernan]
 
 ## TERA
 tribal energy resource agreement, which occurs between a tribe and the Secretary of the Interior. Required for natives to get rights of self-determination from ITEDSA, absolves the federal government of any losses occurring from the energy project decisions
+
+## three-phase
+in an electric power system, having at least three conductors carrying AC voltages that are offset in time by 1/3 the period, the most common type of generator in the electrical grid
 
 ## tidal barrage
 a tidal power generator that is essentially a hydroelectric dam: open for inflow, close & run generator on outflow (possible to generate power in both directions) [Maehlum]

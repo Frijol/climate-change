@@ -17,8 +17,19 @@
 * The United States has very few HVDC lines. "The cost of high voltage DC (HVDC) transmission lines is roughly 1 cents per kwh for 500 miles, or 1.5 cents per kwh for 1,000 miles transmitted. Over 1,000 miles, an HVDC line may lose 5% or so of the electricity it transmits." [Naam][NaamWind]
 * ![](http://rameznaam.com/wp-content/uploads/2015/08/Cost-of-AC-and-HVDC-Transmission-Lines-From-HandlemanPost-800x544.jpg) Cost of transmission lines by type & voltage [Naam][NaamWind]
 * U.S. grid loses about 7% of its energy in transmission from generation to end use [Muller, 166][Muller]
-* The Wikipedia page on [Utility frequency](https://en.wikipedia.org/wiki/Utility_frequency) has some great coverage of why specific grid voltages and frequencies were chosen
 
+### Frequency and voltage regulation
+* The Wikipedia page on [Utility frequency](https://en.wikipedia.org/wiki/Utility_frequency) has some great coverage of why specific grid voltages and frequencies were chosen
+* North America is typically on a 60Hz/110V system; Europe is typically 50Hz/230V. Other places vary, and there doesn't seem to be a significant advantage of one vs. the other (as long as it's consistent)
+* Frequency and voltage need to be adjusted in real time – here's [a graph from National Grid in the UK](https://en.wikipedia.org/wiki/Automatic_Generation_Control) and [a map of changing frequencies as measured by the public in North America](http://fnetpublic.utk.edu/frequencymap.html)
+
+#### Generator basics
+* A "prime mover" is the part of the generator that converts an energy source (like steam, water, wind) into mechanical energy
+* An electrical generator works by electromagnetic induction– a conductor moves in a magnetic field (or vice versa) & electric current is induced in that conductor proportional to the motion. This also causes back EMF, resisting the motion and requiring more force to move
+* Generators connected to the grid all run with the same frequency. Depending on phase, they might move at different speeds (the most common type on the grid is three-phase)
+* Because generators on the grid have to be all the same frequency, input energy has to increase to counteract EMF as electrical load on the system increases. Imagine a 
+* The frequency of a synchronous generator is F=PN/120 where P is the number of poles and N is the speed of the generator in RPM
+* Before AGC, one generator in a system would be designated the regulating unit and manually adjusted to match load, the rest of the units would match from speed droop
 
 ### Load profiles
 * Trends in when energy demand is high/low in the United States: ![screen shot 2017-03-23 at 2 12 44 pm](https://cloud.githubusercontent.com/assets/454690/24270554/d812fe6e-0fd2-11e7-9be9-8a7590237177.png) [Hiskens, 5][Hiskens]
