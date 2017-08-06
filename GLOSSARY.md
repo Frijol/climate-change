@@ -184,6 +184,9 @@ Carbon dioxide equivalent, "the total climate change impact of all the greenhous
 ## coal gas
 fuel gas harvested from seams of coal burning underground [Muller, 232][Muller]
 
+## contract path billing
+in wheeling (selling of power), the cost for the transmission infrastructure is usually derived from the annualized cost of a specific power line, despite the physical innacuracy of this concept caused by loop flow
+
 ## COP15
 The 2009 Climate Change Convention of the Parties in Copenhagen
 
@@ -249,6 +252,9 @@ Demand Response Auction Mechanism, a more open energy supply bidding process tha
 
 ## droop control
 a mechanism for speed control of a primary power generator such that it runs at the same frequency as all of the other generators on the grid. It adjusts mechanical torque of generator mechanisms based on frequency, which takes 3-10 seconds in most systems [Hiskens, 26][Hiskens]
+
+## DSM
+demand-side management
 
 ## DSO
 (electric) distribution service operator
@@ -472,6 +478,9 @@ The mapping of background carbon concentrations on Mauna Loa which by 1962 showe
 ## kerogen
 impure oil-rich gunk that can be extracted from shale to make shale oil
 
+## Kirchhoff's Laws
+Two equalities describing current and voltage in lumped models of electrical circuits. (1) Node rule (KCL): Conservation of electric charge. The sum of current flowing into a node is equal to the sum of current flowing out of that node. (2) Loop rule (KVL): The sum of directional electric voltage around a closed loop is zero. [Wiki](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws)
+
 ## kWh
 kilowatt hour, the product of the power transmitted in kilowatts and the time in hours
 
@@ -513,6 +522,9 @@ locational net benefit analysis, an effort by California to value distributed en
 
 ## LNG
 liquid natural gas
+
+## loop flow
+the fact that power flows over all available paths between supply and load, despite specifications in a given power transfer contract [Graves, 1-3][Graves]
 
 ## LSE
 load serving entities: energy suppliers
@@ -601,6 +613,9 @@ new source performance standard, a regulatory emissions standard on new power pl
 ## nuclear battery
 a small, modular, no-maintenance nuclear plant- often manufactured remotely, shipped, assembled on site, and buried for 3-4 years at a time while in operation [Muller, 186][Muller]
 
+## NUGs
+non-utility generators
+
 ## ocean acidification
 the reduction of alkalinity in the world's oceans through absorption of human-produced carbon dioxide from preindustrial levels of 8.2 to a projected 7.8 by 2100
 
@@ -615,6 +630,9 @@ original equipment manufacturer
 
 ## OPEC
 organization of the petroleum exporting countries
+
+## OPF
+optimum power flow, models to simulate power dispatch from various generators through various transmission lines– used by some utilities every half hour; others not at all due to high computational intensity [Graves, 1-5][Graves]
 
 ## OWC
 oscillating water column: a vertical chamber drilled into a cliff where waves push aboveground air through a turbine
@@ -655,6 +673,9 @@ publicly owned utility (as opposed to investor owned)
 
 ## PPM
 Parts per million
+
+# PPP
+power purchase price
 
 ## precautionary principle
 the idea that when there is uncertainty, you should err on the side of safety
@@ -818,6 +839,9 @@ time of use, a utility power billing scheme to correlate the price of electricit
 ## TPES
 total primary energy supply, the sum of production and imports minus exports and storage charges. See PE for more information [wiki](https://en.wikipedia.org/wiki/Primary_energy)
 
+## transition costs
+in electrical power generation, the cost to start up and shut down a power generation station, generally very significant in thermally-based power plants
+
 ## Transition town
 a grassroots community movement to reduce local dependence on oil and other high-emitting energy sources
 
@@ -833,11 +857,17 @@ transitional zero-emissions vehicles, plug-in hybrid electric and hydrogen inter
 ## UNFCCC
 1992 United Nations Framework Convention on Climate Change
 
+## uplift
+an extra cost, usually about 10% of the power purchase price, added to the power purchase price to account for extra operating costs (out-of-merit dispatch, standby, and reactive power) related to market inefficiencies resulting from a day-ahead power purchase market in the United Kingdom [Graves, 1-2][Graves]
+
 ## voltage collapse
 power demand exceeds supply so much that the system goes down (any given power supply has a finite supply capability, a "point of maximum loadability") [Hiskens, 21][Hiskens]
 
 ## WEC
 wave energy converter
+
+## wheeling
+the practice of shipping power between a buyer and a seller over third-party transmission lines [Graves, 1-3][Graves]
 
 ## ZEV
 zero-emissions vehicles: battery-electric and hydrogen fuel cell [EIA, 22, 35][EIA]

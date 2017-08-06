@@ -9,6 +9,11 @@
 * An excellent introduction to terms and organization of the electric grid can be found in [Caspary]
 * FERC is officially voluntary, 1/3 of US transmission is outside of FERC and RTO's (mostly Texas) [Caspary, 7-8][Caspary]
 
+### Utility-controlled vs. non-utility generation
+* Historically, utilities typically aimed to self-supply, and would import energy from other utilities only in times of system stress (plant outage, very high demand). By the 1980s, due to decreased grid balance, it became more common for utilities with high reserves to sell to neighboring utilities and overall increase in wheeling [Graves, 1-2][Graves]
+* Non-utility generators (NUGs) are a substantial and growing segment of electrical energy generation for the grid [Graves, 1-1][Graves]
+* Use of NUGs allows utilities to add new capacity without large capital expenditures, but decreases flexibility of the power supply– NUGs often cannot provide spinning reserve or frequency or voltage control [Graves, 1-2][Graves]
+
 ### Reliability
 * Modern grid has 99.97% energy availability reliability in the United States [EPRI, 9][EPRI]
 
@@ -22,12 +27,16 @@
 * The Wikipedia page on [Utility frequency](https://en.wikipedia.org/wiki/Utility_frequency) has some great coverage of why specific grid voltages and frequencies were chosen
 * North America is typically on a 60Hz/110V system; Europe is typically 50Hz/230V. Other places vary, and there doesn't seem to be a significant advantage of one vs. the other (as long as it's consistent)
 * Frequency and voltage need to be adjusted in real time – here's [a graph from National Grid in the UK](https://en.wikipedia.org/wiki/Automatic_Generation_Control) and [a map of changing frequencies as measured by the public in North America](http://fnetpublic.utk.edu/frequencymap.html)
+* AGC is a system feedback mechanism that automatically detects small load variations and redistributes the burden of power generation between available generators to keep frequency close to standard [Graves, 1-5][Graves]
+* Power generation systems don't all produce at the same price– ideally AGC would select for power to be produced for minimal cost, but this is not always physically feasible (it could overload a plant's ability to maintain frequency or a section of transmission infrastructure). Power route through lines also impacts line loss, creating a complex economic tradeoff [Graves, 1-5][Graves]
+* Some utilities use OPF (optimum power flow simulations) to determine changing rules for AGC [Graves, 1-5][Graves]
+* Transmission line operators have been using computational modeling to determine which generators to spin up to match load and to account for contingency scenarios since at least 1995 [Graves, 1-5][Graves]
 
 #### Generator basics
 * A "prime mover" is the part of the generator that converts an energy source (like steam, water, wind) into mechanical energy
 * An electrical generator works by electromagnetic induction– a conductor moves in a magnetic field (or vice versa) & electric current is induced in that conductor proportional to the motion. This also causes back EMF, resisting the motion and requiring more force to move
 * Generators connected to the grid all run with the same frequency. Depending on phase, they might move at different speeds (the most common type on the grid is three-phase)
-* Because generators on the grid have to be all the same frequency, input energy has to increase to counteract EMF as electrical load on the system increases. Imagine a 
+* Because generators on the grid have to be all the same frequency, input energy has to increase to counteract EMF as electrical load on the system increases. Imagine a
 * The frequency of a synchronous generator is F=PN/120 where P is the number of poles and N is the speed of the generator in RPM
 * Before AGC, one generator in a system would be designated the regulating unit and manually adjusted to match load, the rest of the units would match from speed droop
 
@@ -37,6 +46,9 @@
 
 ## Changing the system
 * It takes ~10 years (software) ~18 years (hardware) to go from research, through development and demonstration, then regulation, to roll out new operational technology to the grid. It's a waterfall-style development structure of sequential operations. [More than Smart, 15][More than Smart]
+* In the mid-1980s, cost of new high-voltage lines was $125,000-750,000/mile [Graves, 1-1][Graves]
+* Transmission capacity expansion can be the addition of new lines, but it can also be the addition of capacitors to smooth out congestion or of devices that redirect flow [Graves, 1-4][Graves]
+* In utility-scale planning, "short-term" problems use time horizons of a day to a week. Major short-term problems: unit power commitments, coordination of different types of power generation, reduction of transition costs by balancing when a thermal plant becomes a spinning reserve (using fuel without contributing useful power to the grid) vs. is shut down to be restarted much later. Seasonal planning problems: maintenance scheduling for large generating units, involving shifting of a large load to many less-economical smaller plants while the usual plant is shut down. "Annual" problems span a 1-3 year time horizon: operational budgeting, fuel procurement and inventory planning, maintenance scheduling, design and pricing of utility services. Production costing model is a key tool for annual planning [Graves, 1-6][Graves]
 
 ### Transition in major energy sources
 * Energy transitions are slow by nature. Oil took 50 years to climb from first commercial production to a 10% market share, and we continue to depend on prior dominant energy forms: coal, wood [Smil, 138][Smil]
