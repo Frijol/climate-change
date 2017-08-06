@@ -2,7 +2,9 @@
 
 ## Kelsey's shortlist
 
-* [Hot, Flat, and Crowded by Thomas Friedman](https://www.goodreads.com/book/show/2358737.Hot_Flat_and_Crowded). If you're only going to read one of these books (and you're American), this is the one I'd recommend to most people. It summarizes the main thrust of several of the books I've read and puts it into a geopolitical context. My favorite argument: Americans need a tax on carbon emissions because right now, by heavily subsidizing oil, we're already paying this tax (in effect) but to oil dictatorships rather than to our own country. Quick caveat: the author's tone works better as an audiobook.
+* [Hot, Flat, and Crowded by Thomas Friedman](https://www.goodreads.com/book/show/2358737.Hot_Flat_and_Crowded). If you're only going to read one of these books (and you're American), this is the one I'd recommend to people looking for the big-picture context. It summarizes the main thrust of several of the books I've read and puts it into a geopolitical context. My favorite argument: Americans need a tax on carbon emissions because right now, by heavily subsidizing oil, we're already paying this tax (in effect) but to oil dictatorships rather than to our own country. Quick caveat: the author's tone works better as an audiobook.
+
+* [Energy for Future Presidents by Richard Muller](https://www.goodreads.com/book/show/13707580-energy-for-future-presidents). This is the best book I've found for people with engineering interests who want to understand the available energy technologies, their likely impacts, and their current challenges.
 
 * [What Can a Technologist Do about Climate Change? (A Personal View) by Bret Victor](http://worrydream.com/ClimateChange/). Detailed, illustrated, and actionable essay on how techies and entrepreneurs can work on the problem of climate change.
 
