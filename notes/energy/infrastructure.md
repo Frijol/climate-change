@@ -11,6 +11,7 @@
 
 ### Utility-controlled vs. non-utility generation
 * Historically, utilities typically aimed to self-supply, and would import energy from other utilities only in times of system stress (plant outage, very high demand). By the 1980s, due to decreased grid balance, it became more common for utilities with high reserves to sell to neighboring utilities and overall increase in wheeling [Graves, 1-2][Graves]
+* Wheeling increases quantity of reactive power needed [Graves, 1-3][Graves]
 * Non-utility generators (NUGs) are a substantial and growing segment of electrical energy generation for the grid [Graves, 1-1][Graves]
 * Use of NUGs allows utilities to add new capacity without large capital expenditures, but decreases flexibility of the power supply– NUGs often cannot provide spinning reserve or frequency or voltage control [Graves, 1-2][Graves]
 
@@ -49,6 +50,17 @@
 * In the mid-1980s, cost of new high-voltage lines was $125,000-750,000/mile [Graves, 1-1][Graves]
 * Transmission capacity expansion can be the addition of new lines, but it can also be the addition of capacitors to smooth out congestion or of devices that redirect flow [Graves, 1-4][Graves]
 * In utility-scale planning, "short-term" problems use time horizons of a day to a week. Major short-term problems: unit power commitments, coordination of different types of power generation, reduction of transition costs by balancing when a thermal plant becomes a spinning reserve (using fuel without contributing useful power to the grid) vs. is shut down to be restarted much later. Seasonal planning problems: maintenance scheduling for large generating units, involving shifting of a large load to many less-economical smaller plants while the usual plant is shut down. "Annual" problems span a 1-3 year time horizon: operational budgeting, fuel procurement and inventory planning, maintenance scheduling, design and pricing of utility services. Production costing model is a key tool for annual planning [Graves, 1-6][Graves]
+* Utility prices are typically set for 1-3 year periods [Graves, 1-7][Graves]
+* Capacity expansion plans have ~40-year time horizons [Graves, 1-8][Graves]
+
+Planning timeframes, copied from [Graves, 1-8 - 1-9][Graves]
+
+Time Frame | Planning and control problems | Transmission considerations | Planning topics
+-|-|-|-
+Real time (seconds to minutes) | Preserving system security while meeting continuously varying demands economically; Maintaining frequency and voltage very near to standards; Anticipating and preventing disruptions to the system | Line electrical characteristics, thermal and voltage limits; Network-constrained dispatch; Flow capacity reserves for contingencies | AGC; OPF; Load-flow sensitivities and distribution factors
+Short term (a few hours to a week) | Unit commitment tradeoff between transition costs and operating costs | Transmission bottlenecks that affect location and sizing of spinning reserves | Dynamic programming (DP)
+Annual (1-3 years) | Production budgeting, e.g. for fuel procurement; Maintenance scheduling; Payment rate design | Must-run plants, line losses; Marginal costs of wheeling or providing reactive power; Fixed cost recovery | Production costing; OPF; Cost of service, pricing theory
+Multi-year (3-40 years) | Power supply planning and NUG bidding; Network expansion for growth and reliability; Long-term wheeling contracts; Open-access regulatory policies | Transmission construction costs and siting constraints; Location-based siting penalties for new generation based on impacts on transmission; Protocols and prices for transmission | Mixed integer programming; PVRR; OPF; Security studies; Financial analyses, LRACs
 
 ### Transition in major energy sources
 * Energy transitions are slow by nature. Oil took 50 years to climb from first commercial production to a 10% market share, and we continue to depend on prior dominant energy forms: coal, wood [Smil, 138][Smil]

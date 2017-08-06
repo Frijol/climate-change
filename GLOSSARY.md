@@ -247,6 +247,9 @@ Department of Energy (U.S.A.)
 ## DoI
 Department of the Interior (U.S.A.)
 
+## DP
+Dynamic programming: methods such as optimization which can be used to model tradeoffs in a complex system
+
 ## DRAM
 Demand Response Auction Mechanism, a more open energy supply bidding process than currently employed by Western U.S. utilities
 
@@ -526,6 +529,9 @@ liquid natural gas
 ## loop flow
 the fact that power flows over all available paths between supply and load, despite specifications in a given power transfer contract [Graves, 1-3][Graves]
 
+## LRACs
+long run avoided costs
+
 ## LSE
 load serving entities: energy suppliers
 
@@ -555,6 +561,9 @@ Municipal solid waste: turning regular garbage into energy through various techn
 
 ## multijunction cells
 a type of photovoltaic that is layered to react with every wavelength of light. It is extremely efficient and extremely expensive, used in the Mars rover and with utility-scale CSP PV plants
+
+## must-run plants
+critically located electrical generation plants whose failure to operate can compromise the security of the grid through long transmission lines or create transmission bottlenecks
 
 ## nacelle
 a streamlined housing or tank for something on the outside of an aircraft or motor vehicle
@@ -613,8 +622,8 @@ new source performance standard, a regulatory emissions standard on new power pl
 ## nuclear battery
 a small, modular, no-maintenance nuclear plant- often manufactured remotely, shipped, assembled on site, and buried for 3-4 years at a time while in operation [Muller, 186][Muller]
 
-## NUGs
-non-utility generators
+## NUG
+non-utility generator
 
 ## ocean acidification
 the reduction of alkalinity in the world's oceans through absorption of human-produced carbon dioxide from preindustrial levels of 8.2 to a projected 7.8 by 2100
@@ -698,6 +707,9 @@ photovoltaic(s)
 ## PV plant design
 consists of site-specific requirements and restraints, type of PV module to use, tilting angle, inverters, mounting and tracking apparatus, and arrangement of cells. Optimization takes into account shade, performance degradation over time, and tradeoffs of energy yield vs. spend for improved equipment. [IFC, 5][IFC]
 
+## PVRR
+present value of revenue requirements
+
 ## PZEV
 Partial Zero-Emission Vehicle: low-emission conventional internal combustion vehicles with extended emissions system warranties [EIA, 35][EIA]
 
@@ -707,8 +719,14 @@ immediate sickness from exposure to 100 rem or more of radiation, resulting in n
 ## RANS
 Reynolds-averaged Navier-Stokes (equations)
 
+## reactive power
+temporarily stored power used to maintain voltage at a constant level, contrast with real power
+
 ## reactivity incident
 in nuclear physics, if something goes wrong in neutron moderation and a chain reaction begins to build up
+
+## real power
+the power available for performing useful work, in contrast to reactive power
 
 ## rebound effect
 e.g. a low-carbon technology is more convenient than a high-carbon technology, so we use it more, and end up using more carbon than previously [Berners-Lee, 16][Berners-Lee]
