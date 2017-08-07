@@ -61,6 +61,10 @@ shunt conductance | flow of current between theoretically disconnected lines, wh
 * Some utilities use OPF (optimum power flow simulations) to determine changing rules for AGC [Graves, 1-5][Graves]
 * Transmission line operators have been using computational modeling to determine which generators to spin up to match load and to account for contingency scenarios since at least 1995 [Graves, 1-5][Graves]
 
+### Optimal power flow (OPF)
+* Optimal power flow modeling is a nonlinear, objective-based optimization problem. A common objective is to minimize short-term costs for power delivery while operating within physical system constraints. Outputs typically include: recommended power production per generating unit, line flows, identification of constraining factors, and marginal cost of operation at various points in the system [Graves, 5-1][Graves]
+* OPF is a static analysis and so real-life changes in flow/availability/etc. can drastically alter what is "optimal" post-OPF simulation
+
 ### Load profiles
 * Trends in when energy demand is high/low in the United States: ![screen shot 2017-03-23 at 2 12 44 pm](https://cloud.githubusercontent.com/assets/454690/24270554/d812fe6e-0fd2-11e7-9be9-8a7590237177.png) [Hiskens, 5][Hiskens]
 * [Hiskens] is an excellent engineering information source for how frequency is kept within bounds on the grid
