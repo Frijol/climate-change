@@ -217,6 +217,9 @@ contingent valuation methodology: a standard non-market valuation technique for 
 ## CWA
 Clean Water Act
 
+## deadband
+the allowable error range around a frequency before a governor kicks on to adjust the system back to its set frequency
+
 ## declining block rates
 The more you buy, the cheaper the price per unit
 
@@ -252,6 +255,9 @@ Dynamic programming: methods such as optimization which can be used to model tra
 
 ## DRAM
 Demand Response Auction Mechanism, a more open energy supply bidding process than currently employed by Western U.S. utilities
+
+## droop
+in a generator, the responsiveness to frequency change (so, the size of the deadband)
 
 ## droop control
 a mechanism for speed control of a primary power generator such that it runs at the same frequency as all of the other generators on the grid. It adjusts mechanical torque of generator mechanisms based on frequency, which takes 3-10 seconds in most systems [Hiskens, 26][Hiskens]
@@ -393,6 +399,9 @@ greenhouse gas
 
 ## Gibrat ratio
 the length of a tidal barrage in meters compared to its output in kWh/year. An economic term where a smaller ratio implies a preferable cost ratio [Klossner, 36][Klossner]
+
+## governor
+in a load-following generator, the device which changes energy input to the prime mover to maintain frequency
 
 ## greenfields
 land not previously used for industry (as opposed to brownfields)
@@ -865,6 +874,9 @@ the height difference between high tide and low tide
 
 ## tidal stream generator
 underwater turbines for tidal power
+
+## tie-lines
+electrical lines which connect two neighboring areas
 
 ## tipping point
 in the context of climate change, a singular event (typically triggered by global warming) which rapidly accelerates global warming

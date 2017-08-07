@@ -49,11 +49,14 @@ shunt conductance | flow of current between theoretically disconnected lines, wh
 * The Wikipedia page on [Utility frequency](https://en.wikipedia.org/wiki/Utility_frequency) has some great coverage of why specific grid voltages and frequencies were chosen
 * North America is typically on a 60Hz/110V system; Europe is typically 50Hz/230V. Other places vary, and there doesn't seem to be a significant advantage of one vs. the other (as long as it's consistent)
 * Frequency and voltage need to be adjusted in real time – here's [a graph from National Grid in the UK](https://en.wikipedia.org/wiki/Automatic_Generation_Control) and [a map of changing frequencies as measured by the public in North America](http://fnetpublic.utk.edu/frequencymap.html)
+* Equipment designed for a specific frequency can easily break if subjected to even a few minutes of out-of-phase work. A 60 Hz steam turbine may crack if 0.05 Hz off of 60 for a few minutes. Fully loaded, a 60 Hz steam turbine can survive 58 Hz for a total of 10 minutes over its operational lifetime. [Graves, 3-15][Graves]
 
 #### Automatic generation control (AGC)
 * AGC: Automatic Generation Control. An engineered feedback system which uses telemetry from transmission lines to make small adjustments to energy input to the prime mover (e.g. moderating steam injection to the turbine) to keep frequency steady [Graves, 3-2][Graves]
 * AGC is a system feedback mechanism that automatically detects small load variations and redistributes the burden of power generation between available generators to keep frequency close to standard [Graves, 1-5][Graves]
+* Two key indicators of system status are used in AGC: system frequency and tie-in flows [Graves, 3-15][Graves]
 * Before AGC, one generator in a system would be designated the regulating unit and manually adjusted to match load, the rest of the units would match from speed droop
+* Droop is settable; it's a way to optimize which generators respond first to changes in the load [Graves, 3-16][Graves]
 * Power generation systems don't all produce at the same price– ideally AGC would select for power to be produced for minimal cost, but this is not always physically feasible (it could overload a plant's ability to maintain frequency or a section of transmission infrastructure). Power route through lines also impacts line loss, creating a complex economic tradeoff [Graves, 1-5][Graves]
 * Some utilities use OPF (optimum power flow simulations) to determine changing rules for AGC [Graves, 1-5][Graves]
 * Transmission line operators have been using computational modeling to determine which generators to spin up to match load and to account for contingency scenarios since at least 1995 [Graves, 1-5][Graves]
