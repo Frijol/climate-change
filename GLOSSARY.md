@@ -482,7 +482,7 @@ The mapping of background carbon concentrations on Mauna Loa which by 1962 showe
 impure oil-rich gunk that can be extracted from shale to make shale oil
 
 ## Kirchhoff's Laws
-Two equalities describing current and voltage in lumped models of electrical circuits. (1) Node rule (KCL): Conservation of electric charge. The sum of current flowing into a node is equal to the sum of current flowing out of that node. (2) Loop rule (KVL): The sum of directional electric voltage around a closed loop is zero. [Wiki](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws)
+Two equalities describing current and voltage in lumped models of electrical circuits. (1) Node rule (KCL): Conservation of electric charge. The sum of current flowing into a node is equal to the sum of current flowing out of that node. (2) Loop rule (KVL): The sum of directional electric voltage around a closed loop is zero– or, the sum of voltage drops must be equal to the sum of the applied EMF. [Wiki](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws)
 
 ## kWh
 kilowatt hour, the product of the power transmitted in kilowatts and the time in hours
@@ -665,6 +665,9 @@ butane, as well as naphtha, to ethylene, propylene, and other building blocks of
 ## pH
 pH is a logarithmic scale from 0 to 14, where 7 is neutral, higher is basic (alkaline), and lower is acidic
 
+## phase angle
+the difference in phases between the (same-frequency) waveforms of voltage and current in a circuit
+
 ## phytonutrients
 chemical compounds that are the building blocks of taste, such as amino acids, esters, and flavinoids. Also part of plant immune systems.
 
@@ -720,13 +723,13 @@ immediate sickness from exposure to 100 rem or more of radiation, resulting in n
 Reynolds-averaged Navier-Stokes (equations)
 
 ## reactive power
-temporarily stored power used to maintain voltage at a constant level, contrast with real power
+temporarily stored power used to maintain voltage at a constant level, measured in VARs, contrast with real power
 
 ## reactivity incident
 in nuclear physics, if something goes wrong in neutron moderation and a chain reaction begins to build up
 
 ## real power
-the power available for performing useful work, in contrast to reactive power
+the power available for performing useful work, measured in Watts, in contrast to reactive power
 
 ## rebound effect
 e.g. a low-carbon technology is more convenient than a high-carbon technology, so we use it more, and end up using more carbon than previously [Berners-Lee, 16][Berners-Lee]
@@ -781,6 +784,12 @@ chemical reaction catalyzed by injection into exhaust which turns NOx into nitro
 
 ## SERC
 State Electricity Regulatory Commission
+
+## shunt
+a device which allows electric current to pass around another point in a circuit by creating a low-resistance path
+
+## single-phase
+having one voltage waveform
 
 ## sluice gates
 movable gates that allow or impede the flow of water e.g. to let water into the hydrostatic head of a tidal barrage
@@ -877,6 +886,9 @@ transitional zero-emissions vehicles, plug-in hybrid electric and hydrogen inter
 
 ## uplift
 an extra cost, usually about 10% of the power purchase price, added to the power purchase price to account for extra operating costs (out-of-merit dispatch, standby, and reactive power) related to market inefficiencies resulting from a day-ahead power purchase market in the United Kingdom [Graves, 1-2][Graves]
+
+## VARs
+volt-amps reactive, a measure of reactive power
 
 ## voltage collapse
 power demand exceeds supply so much that the system goes down (any given power supply has a finite supply capability, a "point of maximum loadability") [Hiskens, 21][Hiskens]
