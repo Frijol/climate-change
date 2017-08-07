@@ -337,6 +337,9 @@ European Union Emissions Trading System (carbon market)
 ## EUR
 estimated ultimate recovery (for oil/natural gas wells) [Investopedia](http://www.investopedia.com/terms/e/estimated-ultimate-recovery.asp)
 
+## excitation current
+current supplied to a conductor wrapped around a conductive core to create a magnetic field
+
 ## exhaust gas recirculation
 NOx reduction technique where exhaust gas is sent back to the engine to reduce the availability of O2 and thus lower the combustion temperatures – since NOx is produced at high temperatures [wiki](https://en.wikipedia.org/wiki/Exhaust_gas_recirculation)
 
@@ -755,6 +758,9 @@ Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated
 ## RMI
 Rocky Mountain Institute, a sustainability research and education foundation
 
+## rotor
+the part that turns– in a generator, a rotor (typically producing a magnetic field) turns around a stator
+
 ## RPO
 Renewable purchase obligation
 
@@ -820,6 +826,9 @@ Solar radiation management (albedo engineering)
 
 ## station backup failure
 failure of an electricity generation station due to loss of electricity
+
+## stator
+the part of an assembly that holds still– in the case of a generator, typically the stator contains windings of a conductor in which AC current is excited by the motion of the magnetic field in a moving rotor
 
 ## synchronous generator
 An electrical generator of AC power which is synchronized with a standard frequency
