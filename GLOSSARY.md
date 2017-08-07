@@ -1,3 +1,6 @@
+## ACE
+area control error: in the electric grid, adjustments to generators to ensure that each control area is generating the correct amount of energy (according to power purchase agreements between control areas). Typically measured every few seconds, its formula is (average frequency in control area) * bias + (net unscheduled tie-line flows into or out of the area), where bias accounts for the MWs of energy needed within the control area to offset an frequency shift of 0.01 Hz [Graves, 3-17][Graves]
+
 ## AC meters
 absorption-attenuation meter, an optical sensor
 
@@ -186,6 +189,9 @@ fuel gas harvested from seams of coal burning underground [Muller, 232][Muller]
 
 ## contract path billing
 in wheeling (selling of power), the cost for the transmission infrastructure is usually derived from the annualized cost of a specific power line, despite the physical innacuracy of this concept caused by loop flow
+
+## control area
+a conceptually "pooled" utility area in which there are enough generators to follow load and control the frequency and tie-line exchanges of the system [Graves, 3-17][Graves]
 
 ## COP15
 The 2009 Climate Change Convention of the Parties in Copenhagen
@@ -875,8 +881,8 @@ the height difference between high tide and low tide
 ## tidal stream generator
 underwater turbines for tidal power
 
-## tie-lines
-electrical lines which connect two neighboring areas
+## tie-line
+electrical line which connects two neighboring areas (usually there are many tie-lines)
 
 ## tipping point
 in the context of climate change, a singular event (typically triggered by global warming) which rapidly accelerates global warming
