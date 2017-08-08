@@ -55,6 +55,9 @@ automatic voltage regulator - in an electrical grid, this adjusts the field volt
 ## BA
 balancing authorities (electric grid)- they provide a reliable open-access power transmission service by keeping supply and demand balanced and scheduled [More than Smart, 16][More than Smart]
 
+## balancing power
+the power to balance out stochastically available electrical generation resources (e.g. wind) with resources that can be moderated (e.g. hydro)
+
 ## BAPV
 Building applied photovoltaic [IFC]
 
@@ -408,6 +411,9 @@ greenhouse gas
 
 ## Gibrat ratio
 the length of a tidal barrage in meters compared to its output in kWh/year. An economic term where a smaller ratio implies a preferable cost ratio [Klossner, 36][Klossner]
+
+## GIL
+gas-insulated lines (for transmission of electricity)
 
 ## governor
 in a load-following generator, the device which changes energy input to the prime mover to maintain frequency

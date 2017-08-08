@@ -37,7 +37,8 @@ inductance | magnetic field associated with current in the line, varying as volt
 capacitance | because lines are conductors insulated from one another, adjacent lines are functionally a capacitor | some of the flow of the current diverts and adjusts the electrostatic charge between the lines as the voltage varies, serving the inductor ned for reactive power
 shunt conductance | flow of current between theoretically disconnected lines, which can happen if the electrical field is stronger than the insulative property of air | typically this is very minor and not accounted for in planning
 
-* High power transmission lines are typically made of many-stranded aluminum (or rarely copper) wound around steel (for strength and flexibility). Often 60+ strands, several thousand pounds per mile [Graves, 3-9][Graves]
+* High power transmission lines (overhead lines) are typically made of many-stranded aluminum (or rarely copper) wound around steel (for strength and flexibility). Often 60+ strands, several thousand pounds per mile. Insulator is the air around them [Graves, 3-9][Graves]
+* Insulated cables and GIL are typically used in population-dense areas as the power circuits can be much more dense [Hug, 7][Hug]
 * High-voltage transmission is less lossy than low-voltage transmission. This is because loss is proportional to current squared, and high-voltage lines have been step-up transformed (reducing current per Ohm's law)
 * ![](http://rameznaam.com/wp-content/uploads/2015/08/Cost-of-AC-and-HVDC-Transmission-Lines-From-HandlemanPost-800x544.jpg) Cost of transmission lines by type & voltage [Naam][NaamWind]
 

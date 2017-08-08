@@ -24,8 +24,13 @@ You have to use some energy to get the energy you need to use. Changing ratios p
 | Corn ethanol (optimistic) |   1.4:1 |
 [Murphy]
 
-#### Projected electricity generation by fuel in the United States
+#### Electricity generation by fuel
+* Projected electricity generation by fuel in the United States:
 ![EIA projection](https://cloud.githubusercontent.com/assets/454690/21199186/469147f8-c1f7-11e6-8939-b3c21de61343.png) [EIA]
+* Norway meets nearly all of its electrical power needs through hydro [Hug, 6][Hug]
+* France is a leader in nuclear power, which accounts for about 3/4 of its electrical energy [Hug, 6][Hug]
+* Denmark is a leader in wind, which was 19% of its total electric energy demand in 2006 [Hug, 6][Hug]
+* Norway & Sweden have strong hydropower resources, which can be time-moderated; Denmark's wind power is more sporadic. Denmark can trade high production from wind farms to Norway and Sweden when it is cheap, and purchase timely hydropower when wind is not meeting demand [Hug, 6][Hug]
 
 
 ## Stubs
