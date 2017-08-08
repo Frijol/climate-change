@@ -704,6 +704,12 @@ pH is a logarithmic scale from 0 to 14, where 7 is neutral, higher is basic (alk
 ## phase angle
 the difference in phases between the (same-frequency) waveforms of voltage and current in a circuit
 
+## phase voltage
+voltage as measured between one phase and the neutral point, the voltage at an element of a wye configuration of generators
+
+## phase-to-phase voltage
+voltage as measured between two phases, the voltage at an element in a delta configuration of generations
+
 ## phytonutrients
 chemical compounds that are the building blocks of taste, such as amino acids, esters, and flavinoids. Also part of plant immune systems.
 
