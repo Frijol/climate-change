@@ -740,6 +740,9 @@ a machine or part of a machine that converts energy from a source energy into me
 ## PTC
 Production Tax Credit, a federal tax credit in the United States which provides inflation-adjusted per-kWH rebates for qualifying renewable energy sales [Energy.gov][Energy.govPTC]
 
+## p.u.
+per unit
+
 ## PUC
 Public Utility Commission, state entity regulating utility companies
 
