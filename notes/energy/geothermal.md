@@ -1,7 +1,7 @@
 ## Geothermal
 * Geothermal: requires hot rock and water (so e.g. island volcanic areas). Porous rock sponges up rainfall, volcano or other hot part of earth's crust heats this. Dig a hole to create a vent, then hook up a turbine to get power. Iceland uses geothermal for 25% of its electricity and 90% of its heating/hot water needs [Lovins, 75][Lovins]
 * 3 necessary factors for a geothermal site: heat, fluid, and permeability [Chao]
-* Conventional geothermal
+* Conventional geothermal: drill a borehole "injection borehole" for injection, inject the fluid, drill other boreholes "production boreholes" to harvest the steam [Hug, 4][Hug]
 * One nuclear power plant produces 1GW. Geothermal across the States produces 2GW [Lovins]
 * In the continental United States, high geothermal gradients exist in the Western states, particularly Nevada [Chao]
 * Lawrence Berkeley National Laboratory + 7 other labs are partnering on a $9 million project to develop enhanced geothermal energy (EGS), particularly improving understanding of underground rock fractures [Chao]

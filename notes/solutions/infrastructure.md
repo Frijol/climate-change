@@ -2,6 +2,11 @@
 
 ## Physical characteristics
 
+### Use of electricity
+* Advantages: easy to measure and control, can be used for many purposes, can be generated from many sources, has high thermodynamic quality (high efficiency of conversion into mechanical or thermal energy), relatively low-loss in transmission and distribution [Hug, 1][Hug]
+* Disadvantages: high voltages are dangerous to humans, storage is inefficient [Hug, 1][Hug]
+* Hydropower stations (especially with large static head) are easy to moderate as necessary; thermal plants are harder/more expensive to moderate quickly, so are more often used for baseload coverage. Steam turbines are hardest to load/unload; gas turbines can help some with load following [Hug, 3][Hug]
+
 ### Reliability
 Term | Meaning in the electric grid context | Moderated by
 -|-|-

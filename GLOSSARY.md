@@ -130,6 +130,9 @@ Seasonal cycling of carbon dioxide around the earth, which fluctuates annually b
 ## carbon engineering
 Geoengineering to pull carbon out of the atmosphere
 
+## CCGT
+combined cycle gas turbine: both steam and gas turbines used in combination
+
 ## CCR
 Coal Combustion Residual Rule concerns the disposal of coal ash, a waste product of coal power plants
 
@@ -544,6 +547,9 @@ locational net benefit analysis, an effort by California to value distributed en
 ## LNG
 liquid natural gas
 
+## load following
+moderation of generator electricity production to match energy load, or demand
+
 ## loop flow
 the fact that power flows over all available paths between supply and load, despite specifications in a given power transfer contract [Graves, 1-3][Graves]
 
@@ -673,6 +679,9 @@ primary energy: energy contained in raw fuels, or otherwise received as input to
 ## peak oil
 the point in time when the maximum extraction of oil is reached (based on a theory by M. King Hubbert, a Shell researcher). Based on the incorrect belief that resource extraction curves fit a bell curve, “peak oil’ is the idea that we will run out of oil to extract and then our industry will drop precipitously, returning us to a hunter-gatherer lifestyle within a few thousand years [Smil, 62-64][Smil]
 
+## PEM
+Proton Exchange Membrane, a type of fuel cell with low efficiency (50%) and low (50-80C) operating temperature typically used in the transportation sector
+
 ## People's Recovery
 The use of destruction from catastrophic events as an opportunity to rebuild with equity in mind
 
@@ -764,6 +773,9 @@ the unit measure of radiation exposure
 ## retorting
 a method of shale oil extraction. In this method, you mine shale, heat it aboveground to let kerogen leak out, and then refine the kerogen into oil. The process leaves a lot of leftover shale rock [Muller, 109][Muller]
 
+## reversible fuel cell
+electricity is used for hydrogen production; hydrogen is stored in a fuel cell and converted back into electrical energy
+
 ## Reynolds number
 a dimensionless quantity in fluid mechanics used to predict flow patterns. It is used to predict the transition from laminar/smooth flow (low Reynolds number– viscous forces are dominant) to turbulent flow (high Reynolds numbers– inertial forces are dominant). [wiki](https://en.wikipedia.org/wiki/Reynolds_number)
 
@@ -820,6 +832,9 @@ switched-mode power suppliers (AC/DC)
 
 ## socio-environmental
 environmental aspects with significant social ramifications, e.g. culturally significant species [mctiernan]
+
+## SOFC
+Solid Oxide Fuel Cells, a type of fuel cell with high (70%) efficiency and high (600-1000C) operating temperature typically used for stationary applications
 
 ## solar energy resource
 Depends on solar irradiation of the geographic area and also on local shade
@@ -910,6 +925,9 @@ transitional zero-emissions vehicles, plug-in hybrid electric and hydrogen inter
 
 ## UNFCCC
 1992 United Nations Framework Convention on Climate Change
+
+## unit commitment
+planning regarding which generating units should be on during a given day to meet load forecast
 
 ## uplift
 an extra cost, usually about 10% of the power purchase price, added to the power purchase price to account for extra operating costs (out-of-merit dispatch, standby, and reactive power) related to market inefficiencies resulting from a day-ahead power purchase market in the United Kingdom [Graves, 1-2][Graves]

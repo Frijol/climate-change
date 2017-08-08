@@ -26,7 +26,7 @@ I have an article that goes into more detail on what to expect for natural gas b
 * Fracking (hydraulic fracturing): Water is shot into the shale layer through a drilled hole. When water pressure exceeds the weight of the rock above it, the rock cracks to let the water expand. This lets gases (adsorbed into rock) escape. When water pressure is released, it spurts from the ground along with the released gas. [Muller, 93][Muller]
 * Compressed natural gas (CNG) is compressible to 250 atm and can be carried in steel or fiber composite tanks. At this level, CNG is 1/3 the energy density of gasoline (11kwh/g), 10x the energy density of li-ion, 4x the energy density of hydrogen at the same pressure, and 2/5 cost of gasoline [Muller, 261][Muller]
 
-## Economics of natural gas
+## Economics of natural gas harvest
 * Both demand (including export) and supply (improved technology and lots of deposits) are expected to increase in the United States over the 2015-2040 period. This should keep natural gas prices stable & low over that time period [EIA, 21][EIA]
 * The vast majority of new gas projects in North America rely on fracking [Klein, 192][Klein]
 * Rising natural gas production makes byproduct fuels like HGL and NGPL more economically viable [EIA, 83][EIA]
