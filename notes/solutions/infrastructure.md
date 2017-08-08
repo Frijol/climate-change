@@ -5,7 +5,6 @@
 ### Use of electricity
 * Advantages: easy to measure and control, can be used for many purposes, can be generated from many sources, has high thermodynamic quality (high efficiency of conversion into mechanical or thermal energy), relatively low-loss in transmission and distribution [Hug, 1][Hug]
 * Disadvantages: high voltages are dangerous to humans, storage is inefficient [Hug, 1][Hug]
-* Hydropower stations (especially with large static head) are easy to moderate as necessary; thermal plants are harder/more expensive to moderate quickly, so are more often used for baseload coverage. Steam turbines are hardest to load/unload; gas turbines can help some with load following [Hug, 3][Hug]
 
 ### Reliability
 Term | Meaning in the electric grid context | Moderated by
@@ -55,6 +54,7 @@ shunt conductance | flow of current between theoretically disconnected lines, wh
 * North America is typically on a 60Hz/110V system; Europe is typically 50Hz/230V. Other places vary, and there doesn't seem to be a significant advantage of one vs. the other (as long as it's consistent)
 * Frequency and voltage need to be adjusted in real time – here's [a graph from National Grid in the UK](https://en.wikipedia.org/wiki/Automatic_Generation_Control) and [a map of changing frequencies as measured by the public in North America](http://fnetpublic.utk.edu/frequencymap.html)
 * Equipment designed for a specific frequency can easily break if subjected to even a few minutes of out-of-phase work. A 60 Hz steam turbine may crack if 0.05 Hz off of 60 for a few minutes. Fully loaded, a 60 Hz steam turbine can survive 58 Hz for a total of 10 minutes over its operational lifetime. [Graves, 3-15][Graves]
+* [Hiskens] is an excellent engineering information source for how frequency is kept within bounds on the grid
 
 #### Automatic generation control (AGC)
 * AGC: Automatic Generation Control. An engineered feedback system which uses telemetry from transmission lines to make small adjustments to energy input to the prime mover (e.g. moderating steam injection to the turbine) to keep frequency steady [Graves, 3-2][Graves]
@@ -70,9 +70,18 @@ shunt conductance | flow of current between theoretically disconnected lines, wh
 * Optimal power flow modeling is a nonlinear, objective-based optimization problem. A common objective is to minimize short-term costs for power delivery while operating within physical system constraints. Outputs typically include: recommended power production per generating unit, line flows, identification of constraining factors, and marginal cost of operation at various points in the system [Graves, 5-1][Graves]
 * OPF is a static analysis and so real-life changes in flow/availability/etc. can drastically alter what is "optimal" post-OPF simulation
 
-### Load profiles
+### Load following
+* Generation facilities are classified based on how quickly they can be dispatched. Table of classifications, info from [Hug, 5-6][Hug]:
+
+Classification | Operational time (h/a) | Generator types
+-|-|-
+Peak load units | 1000-2000 | Hydropower with storage (large static head); Pumped storage hydro; Gas turbine
+Intermediate load units | 3000-4000 | Fossil fuel thermal; Biomass thermal
+Base load units | 5000-6000 | Run of the river hydropower; Nuclear
+
+* In order to minimize cost (including startup/shutdown transition costs), nuclear and run of river hydro are used all year; controlled hydro is deployed as often as needed up to capacity; thermal power is used to support longer periods of high load; hydropower reserves and gas turbines are used infrequently to support peaks [Hug, 6]
 * Trends in when energy demand is high/low in the United States: ![screen shot 2017-03-23 at 2 12 44 pm](https://cloud.githubusercontent.com/assets/454690/24270554/d812fe6e-0fd2-11e7-9be9-8a7590237177.png) [Hiskens, 5][Hiskens]
-* [Hiskens] is an excellent engineering information source for how frequency is kept within bounds on the grid
+* Hydropower stations (especially with large static head) are easy to moderate as necessary; thermal plants are harder/more expensive to moderate quickly, so are more often used for baseload coverage. Steam turbines are hardest to load/unload; gas turbines can help some with load following [Hug, 3][Hug]
 
 ## Organization
 
