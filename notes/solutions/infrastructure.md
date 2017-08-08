@@ -85,11 +85,13 @@ Peak load units | 1000-2000 | Hydropower with storage (large static head); Pumpe
 Intermediate load units | 3000-4000 | Fossil fuel thermal; Biomass thermal
 Base load units | 5000-6000 | Run of the river hydropower; Nuclear
 
-* In order to minimize cost (including startup/shutdown transition costs), nuclear and run of river hydro are used all year; controlled hydro is deployed as often as needed up to capacity; thermal power is used to support longer periods of high load; hydropower reserves and gas turbines are used infrequently to support peaks [Hug, 6]
 * Trends in when energy demand is high/low in the United States: ![screen shot 2017-03-23 at 2 12 44 pm](https://cloud.githubusercontent.com/assets/454690/24270554/d812fe6e-0fd2-11e7-9be9-8a7590237177.png) [Hiskens, 5][Hiskens]
+* Typical trends (though they can vary by geography): consumption is high at noon and in the evening, low at night; weekdays have higher consumption than weekends, but holidays can be either higher or lower depending on season; depending on climate, seasons have different consumption patterns– warm regions have high AC use while cold regions have high heater use [Hug, 14-16][Hug]
 * Hydropower stations (especially with large static head) are easy to moderate as necessary; thermal plants are harder/more expensive to moderate quickly, so are more often used for baseload coverage. Steam turbines are hardest to load/unload; gas turbines can help some with load following [Hug, 3][Hug]
+* In order to minimize cost (including startup/shutdown transition costs), nuclear and run of river hydro are used all year; controlled hydro is deployed as often as needed up to capacity; thermal power is used to support longer periods of high load; hydropower reserves and gas turbines are used infrequently to support peaks [Hug, 6]
 
 ## Organization
+* NERC is a nonprofit corporation designed to ensure reliability of the North American grid system. Key concepts: Continuously balance power generation and demand; Maintain voltages through balancing of reactive power supply; Keep transmission stable/within technically advisable limits (e.g. not overheating); Operate the system so it is reliable even in the case of an unexpected disruption; Plan, design, and maintain the system; Prepare for emergencies [Hug, 10][Hug]
 
 ### How the American energy grid works
 * Current grid paradigm: ![screen shot 2017-03-23 at 2 12 10 pm](https://cloud.githubusercontent.com/assets/454690/24270548/d479a0aa-0fd2-11e7-90cd-f02d92aa5ff4.png) [Hiskens, 4][Hiskens]
@@ -103,8 +105,6 @@ Base load units | 5000-6000 | Run of the river hydropower; Nuclear
 * Wheeling increases quantity of reactive power needed [Graves, 1-3][Graves]
 * Non-utility generators (NUGs) are a substantial and growing segment of electrical energy generation for the grid [Graves, 1-1][Graves]
 * Use of NUGs allows utilities to add new capacity without large capital expenditures, but decreases flexibility of the power supply– NUGs often cannot provide spinning reserve or frequency or voltage control [Graves, 1-2][Graves]
-
-
 
 ## Changing the system
 * It takes ~10 years (software) ~18 years (hardware) to go from research, through development and demonstration, then regulation, to roll out new operational technology to the grid. It's a waterfall-style development structure of sequential operations. [More than Smart, 15][More than Smart]
@@ -145,10 +145,6 @@ Multi-year (3-40 years) | Power supply planning and NUG bidding; Network expansi
 ### In Germany
 * Germany's DER adoption was spurred in part by EEG but didn't pre-plan to integrate the new distributed resources with the grid– so they have been learning how to integrate the existing already-connected resources [EPRI, 12][EPRI]
 * In initial rollout, PV generators were not required to respond to grid operating requirements or support the grid (with e.g. frequency control or demand response) [EPRI, 13][EPRI]
-
-## Siting: colocation of wind + solar
-* Colocation of wind & solar might make sense for renewables because they have ~opposite peaks. It also lets both farms use the same infrastructure [Cuff]
-* Colocation of wind and solar in practice [Pattison]: ![https://vtechworks.lib.vt.edu/bitstream/handle/10919/54690/3_Pattison_etal.pdf?sequence=2&isAllowed=y](http://i.imgur.com/iCQ3M4l.png)
 
 
 {% include "../../BIBLIOGRAPHY.md" %}

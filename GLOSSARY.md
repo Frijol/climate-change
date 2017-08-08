@@ -325,6 +325,9 @@ occupation of vast extra-urban tracts of land by energy facilities, problematic 
 ## entrainment
 thermally and mechanically stressing aquatic organisms to create clean water [EIA, 31][EIA]
 
+## ENTSO-E
+European Network of Transmission System Operators for Electricity, the international organization for grid reliability in Europe
+
 ## EOR
 enhanced oil recovery: steam heat to reduce the viscosity of the oil, then pump in oxygen to burn in situ [Muller, 234][Muller]
 
@@ -925,6 +928,9 @@ in electrical power generation, the cost to start up and shut down a power gener
 
 ## Transition town
 a grassroots community movement to reduce local dependence on oil and other high-emitting energy sources
+
+## TSO
+transmission system operator
 
 ## Type I
 A type of climate change which is gradual, following IPCC graphs
