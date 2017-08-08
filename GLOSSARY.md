@@ -866,6 +866,12 @@ failure of an electricity generation station due to loss of electricity
 ## stator
 the part of an assembly that holds still– in the case of a generator, typically the stator contains windings of a conductor in which AC current is excited by the motion of the magnetic field in a moving rotor
 
+## step-down
+in electrical transformers, the process of transforming electrical power so that it has lower voltage and higher current, typically performed at substations for distribution to end users
+
+## step-up
+in electrical transformers, the process of transforming electrical power so that it has higher voltage and lower current, typically for the purpose of transmitting the electrical energy over long distances with minimal power loss
+
 ## synchronous generator
 An electrical generator of AC power which is synchronized with a standard frequency
 

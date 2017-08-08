@@ -6,15 +6,10 @@
 * Advantages: easy to measure and control, can be used for many purposes, can be generated from many sources, has high thermodynamic quality (high efficiency of conversion into mechanical or thermal energy), relatively low-loss in transmission and distribution [Hug, 1][Hug]
 * Disadvantages: high voltages are dangerous to humans, storage is inefficient [Hug, 1][Hug]
 
-### Reliability
-Term | Meaning in the electric grid context | Moderated by
--|-|-
-reliability | ability to withstand unplanned disturbances, measured as % likelihood to not lose power, particularly in the event of generator failure | having redundant generation and transmission resources, can be by interconnection with adjacent utility
-stability | ability for generators to remain synchronized across changes in system status | operating generators well within capacity limits
-security | ability of the system to sustain changes in power flow | operating transmission resources below their theoretical capacity
-[Graves, 3-2][Graves]
-
-* Modern grid has 99.97% energy availability reliability in the United States [EPRI, 9][EPRI]
+### Basic concept of the Grid
+* Generators produce electricity, typically in large plants of varying types (hydro, gas, wind, etc.). Electricity is step-up transformed to be transported over high voltage transmission lines, then step-down transformed closer to the destination for distribution to end users [Hug, 8][Hug]
+* Most of the system is in AC [Hug, 8][Hug]
+* High voltage lines are operated in the 230,000-750,000V range at low current, which keeps losses due to conductor heating low [Hug, 8][Hug]
 
 ### System components
 
@@ -41,6 +36,16 @@ shunt conductance | flow of current between theoretically disconnected lines, wh
 * Insulated cables and GIL are typically used in population-dense areas as the power circuits can be much more dense [Hug, 7][Hug]
 * High-voltage transmission is less lossy than low-voltage transmission. This is because loss is proportional to current squared, and high-voltage lines have been step-up transformed (reducing current per Ohm's law)
 * ![](http://rameznaam.com/wp-content/uploads/2015/08/Cost-of-AC-and-HVDC-Transmission-Lines-From-HandlemanPost-800x544.jpg) Cost of transmission lines by type & voltage [Naam][NaamWind]
+
+### Reliability
+Term | Meaning in the electric grid context | Moderated by
+-|-|-
+reliability | ability to withstand unplanned disturbances, measured as % likelihood to not lose power, particularly in the event of generator failure | having redundant generation and transmission resources, can be by interconnection with adjacent utility
+stability | ability for generators to remain synchronized across changes in system status | operating generators well within capacity limits
+security | ability of the system to sustain changes in power flow | operating transmission resources below their theoretical capacity
+[Graves, 3-2][Graves]
+
+* Modern grid has 99.97% energy availability reliability in the United States [EPRI, 9][EPRI]
 
 ### Electrical characteristics and losses
 * A detailed engineering introduction to the electrical dynamics of the grid can be found in [Hiskens]
