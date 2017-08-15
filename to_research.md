@@ -21,9 +21,5 @@ Gaps in my information– rough to-learn list.
 * Define brownout
 * What is the term for when the electrical supply is too high?
 * What does the grid do to dump power when oversupplied?
-* Do turbines really burn out in direct response to oversupply of energy?
 * What is the uptime on the American electrical grid? What about compared to other countries?
-* What percentage does the grid need to be within ideal amperage/voltage?
 * What are ballpark stats on number of electrical generation facilities hooked into the grid, and points of demand?
-* What are the specific V&A metrics the grid has to keep to?
-* What's the link where you can watch the national grid in real time? What about the US ones (to-read channel on slack)?

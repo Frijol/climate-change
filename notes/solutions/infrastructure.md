@@ -10,6 +10,8 @@
 * Generators produce electricity, typically in large plants of varying types (hydro, gas, wind, etc.). Electricity is step-up transformed to be transported over high voltage transmission lines, then step-down transformed closer to the destination for distribution to end users [Hug, 8][Hug]
 * Most of the system is in AC [Hug, 8][Hug]
 * High voltage lines are operated in the 230,000-750,000V range at low current, which keeps losses due to conductor heating low [Hug, 8][Hug]
+* Grid can be vertically integrated, or have one or various parts privately and independently controlled (with transco, genco, disco, coexisting with or existing independently from vertically integrated utilities, moderated by ISO and/or other MO). In the United States, privatization for competition is part of a deregulation/anti-monopoly trend begun in the 1980's [Kirschen, 3][Kirschen]
+* Large consumers can participate actively in the electricity market, sometimes bidding in timing of their high-load periods to change the shape of the grid, sometimes directly connected to transmission lines for wholesale energy purchase [Kirschen, 4][Kirschen]
 
 ### System components
 

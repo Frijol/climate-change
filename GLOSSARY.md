@@ -253,6 +253,9 @@ distributed generation (of power)
 ## direct emissions
 emissions caused by e.g. the manufacturing and transport of an item
 
+## disco
+distribution company, a company that owns and operates electrical distribution networks
+
 ## distributed generation
 local production of power, e.g. solar panels on the roofs of buildings that use the power generated for their own energy needs but can also feed back excess/draw from the grid
 
@@ -403,6 +406,9 @@ when oil is extracted, natural gas builds up. "Flaring" this gas is setting it o
 ## GCR
 Ground cover ratio
 
+## genco
+generating company, a company that produces and sells electrical energy
+
 ## geoengineering
 Deliberate human intervention in the earth's climate on a global scale
 
@@ -461,7 +467,7 @@ High voltage DC power
 Co-located farms for multiple renewable energy types, esp. wind and solar
 
 ## hydrostatic head
-the water in the artificial estuary of a tidal barrage [Helston]
+a stable level from which water has to fall before the point where power is generated
 
 ## ICRP
 International Commission on Radiological Protection
@@ -490,14 +496,17 @@ investor owned utility, as opposed to publicly owned
 ## IPCC
 Intergovernmental Panel on Climate Change (a UN organization)
 
+## IPP
+independent power producer, a power generating company (term usually used when in coexistence with a vertically integrated utility company, as distinguished from utility-owned generation)
+
 ## IRP
 integrated resource planning [Trabish]
 
 ## ISO
-Independent System Operator for grid energy market (sometimes interchangeable with RTO)- a regional energy market oversight entity which exists to facilitate competition among wholesale energy companies, schedule and monitor transmission for non-discriminatory access, ensure reliability of the grid, manage the interconnection of new resources, guard against market manipulation, and create transparency into the system. [Caspary, 2][Caspary]
+Independent System Operator for grid energy market (sometimes interchangeable with RTO)- a regional energy market oversight entity which exists to facilitate competition among wholesale energy companies, schedule and monitor transmission for non-discriminatory access, ensure reliability of the grid, manage the interconnection of new resources, guard against market manipulation, and create transparency into the system. [Caspary, 2][Caspary] The ISO typically owns any computing and communication assets required to monitor and control the system and has the ultimate goal of creating security in the grid [Kirschen, 3][Kirschen]
 
 ## ITC
-Investment Tax Credit: http://energy.gov/savings/business-energy-investment-tax-credit-itc
+Investment Tax Credit: http://energy.gov/savings/business-energy-investment-tax-credit-itc OR independent transmission company, a company that owns electrical transmission assets but not generation capacity
 
 ## ITEDSA
 Indian Tribal Energy Development and Self-Determination Act (2005), the most significant law in effect relating to energy on tribal lands (as of 2013) [Bronin, 222][Bronin]
@@ -585,6 +594,9 @@ marine hydro-kinetic
 
 ## millisievert
 0.1 rem of radiation
+
+## MO
+market operator, in the electrical grid, the entity that matches the bids and offers of buyers and sellers of electricity and settles payments. ISO is a MO
 
 ## MPC
 model predictive control, a grid power scheduling system whereby a model of the system's demands is used to schedule the running of generators so that the power is present in the system before it is required
@@ -931,6 +943,9 @@ time of use, a utility power billing scheme to correlate the price of electricit
 
 ## TPES
 total primary energy supply, the sum of production and imports minus exports and storage charges. See PE for more information [wiki](https://en.wikipedia.org/wiki/Primary_energy)
+
+## transco
+transmission company
 
 ## transition costs
 in electrical power generation, the cost to start up and shut down a power generation station, generally very significant in thermally-based power plants

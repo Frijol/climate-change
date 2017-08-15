@@ -25,6 +25,7 @@
   * [Energy Sources](notes/energy/_energy.md)
     * [Coal](notes/energy/coal.md)
     * [Geothermal](notes/energy/geothermal.md)
+    * [Hydro](notes/energy/hydro.md)
     * [Natural Gas](notes/energy/natural_gas.md)
     * [Nuclear](notes/energy/nuclear.md)
     * [Oil](notes/energy/oil.md)
