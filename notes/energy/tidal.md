@@ -19,7 +19,11 @@ I posit that another approach to tidal turbines is to deploy them in smaller coa
 - Peak-to-trough amplitude of tides would be theoretically ~1m due to solar + lunar gravity on a perfectly fluid Earth. We see more extreme tides (e.g. 4m in Puget Sound) where there are geographical restrictions or shallower water. In an _inlet_, water has to _flow_ in & out to accommodate the tide change [Murphy-tides]
 
 ### Tidal harvest mechanisms
+* Potential energy of tidal power sites: E sub p = K × 10 up 6 AR up 2 where K varies in the 1.92-1.97 range. R is average range in meters A is basin area in km sq E sub p is potential energy in kW/h/year [Charlier, 67][Charlier]
 * Tide mill: a medieval technology where tides push water up an estuary into a retaining basin; sluices direct the draining water through a run-of-the-river waterwheel to turn a grindstone [Charlier, 80][Charlier]
+* Tidal mill requires a tidal range of at least 2m [Charlier, 38][Charlier]
+* Tidal mill functions from 3h before to 3h after low tide (with variance of around 30 minutes due to wind). On average, can operate 12.4 hours of the day [Charlier, 38][Charlier]
+* China has a lot of small, local tidal mill plants [Charlier, 31][Charlier]
 * Tidal power plant (TPP): a tidal barrage using one or more basins. Single or double effect (can power on ebb tide, flood tide, or both). Might or might not have pumping to even out flow across tides. Uses bulb, straflo, or other turbines [Charlier, 80][Charlier]
 * Tidal stream/tidal current: uses the horizontal movement (flow) of tides rather than the vertical up & down movement [Charlier, 80][Charlier]
 * Pulse stream: A converter uses a pair of hydrofoils oscillating across the flow of the tide, useful to harvest tidal energy in shallow water. There's a 100kW prototype in progress. [Charlier, 80][Charlier]

@@ -19,6 +19,9 @@ Portmanteau of affluence and influenza, relating to overload, debt, anxiety and 
 ## AGC
 automatic generation control uses an area control error (ACE) signal to adjust the governors of electrical generation plants for droop control - keeping all the grid generators running at the same frequency
 
+## agger double tide
+a tide having two equal-height maxima and one low minimum
+
 ## agroecology
 the use of sustainable farming methods on small-scale farms based on the combination of local knowledge and modern science. Based on the principle that farming should maximize species diversity and enhance natural systems of soil protection and pest control
 
@@ -258,6 +261,9 @@ distribution company, a company that owns and operates electrical distribution n
 
 ## distributed generation
 local production of power, e.g. solar panels on the roofs of buildings that use the power generated for their own energy needs but can also feed back excess/draw from the grid
+
+## diurnal tides
+tides with one high and one low per day
 
 ## DoE
 Department of Energy (U.S.A.)
@@ -577,6 +583,9 @@ long run avoided costs
 ## LSE
 load serving entities: energy suppliers
 
+## macrotidal
+having tides larger than 4m
+
 ## MARPOL
 International Convention for the Prevention of Pollution from Ships [EIA, 45][EIA]
 
@@ -591,6 +600,9 @@ marine gas oil: fuel oil made from distillate only- wiki: https://en.wikipedia.o
 
 ## MHK
 marine hydro-kinetic
+
+## microtidal
+having tides smaller than 2m
 
 ## millisievert
 0.1 rem of radiation
@@ -815,6 +827,9 @@ a dimensionless quantity in fluid mechanics used to predict flow patterns. It is
 ## RGGI
 Regional Greenhouse Gas Initiative (New England), the first mandatory, regulated carbon market in the United States [Wiki](https://en.wikipedia.org/wiki/Regional_Greenhouse_Gas_Initiative)
 
+## rip tide
+turbulent water from the opposition of tidal current to prevailing current
+
 ## RMI
 Rocky Mountain Institute, a sustainability research and education foundation
 
@@ -847,6 +862,9 @@ Giant whirlpools found at the ends of ocean currents. They take surface water an
 
 ## selective catalytic reduction
 chemical reaction catalyzed by injection into exhaust which turns NOx into nitrogen, water, and tiny amounts of CO2, can reduce NOx up to 90% (http://www.dieselforum.org/about-clean-diesel/what-is-scr)
+
+## semidiurnal
+two each of high and low tides per day
 
 ## SERC
 State Electricity Regulatory Commission
@@ -935,6 +953,9 @@ the height difference between high tide and low tide
 ## tidal stream generator
 underwater turbines for tidal power
 
+## tide race
+a tidal stream that flows very rapidly where passage is constricted
+
 ## tie-line
 electrical line which connects two neighboring areas (usually there are many tie-lines)
 
@@ -955,6 +976,9 @@ in electrical power generation, the cost to start up and shut down a power gener
 
 ## Transition town
 a grassroots community movement to reduce local dependence on oil and other high-emitting energy sources
+
+## tropic tides
+tides at low latitudes, characterized by high amplitude and high range
 
 ## TSO
 transmission system operator
