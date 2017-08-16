@@ -688,6 +688,9 @@ organization of the petroleum exporting countries
 ## OPF
 optimum power flow, models to simulate power dispatch from various generators through various transmission lines– used by some utilities every half hour; others not at all due to high computational intensity [Graves, 1-5][Graves]
 
+## OTEC
+ocean thermal energy conversion, also called thalassothermal energy
+
 ## OWC
 oscillating water column: a vertical chamber drilled into a cliff where waves push aboveground air through a turbine
 
