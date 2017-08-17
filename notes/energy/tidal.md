@@ -12,6 +12,8 @@ The newer tidal technology is an underwater turbine called a tidal turbine, esse
 
 I posit that another approach to tidal turbines is to deploy them in smaller coastal communities– towns of a few hundred, in the remote areas which are most appropriate for tidal power from the perspective of tide height. These towns are often highly energy-dependent on expensive imported oil used to generate electricity locally; due to the high price of existing energy and potentially low expense of one or two tidal turbines, there is potential for greater energy independence and cost savings for residents.
 
+* Two main issues in tidal power: (1) time difference between occurrence of tides and need for power; (2) difficulty of power transmission from energy harvesting device [Charlier, 72][Charlier]
+
 ## How it works
 
 - Major methods are tidal barrage (essentially a hydroelectric dam: open for inflow, close & run generator on outflow), tidal stream generator (underwater turbine), and dynamic tidal power (not defined but perhaps similar to wave mechanisms?) [Maehlum]
@@ -28,14 +30,15 @@ I posit that another approach to tidal turbines is to deploy them in smaller coa
 * Tidal stream/tidal current: uses the horizontal movement (flow) of tides rather than the vertical up & down movement [Charlier, 80][Charlier]
 * Pulse stream: A converter uses a pair of hydrofoils oscillating across the flow of the tide, useful to harvest tidal energy in shallow water. There's a 100kW prototype in progress. [Charlier, 80][Charlier]
 * Gorlov: a tidal power scheme using a helicoidal turbine that needs no dam. He works at Northeastern University in Boston [Charlier, 80][Charlier]
-*
 
 ## Tidal barrage
 
 - Energy harvest can be ebb (high tide is trapped in, allowed to outflow through turbines), flood (high tide is trapped out, allowed to inflow through turbines- less popular than ebb because it reduces the size of the basin, impacting shipping and the environment), or two-way (both, with a smaller hydrostatic head & thus a gentler peak generation over more time). [O Rourke, 4][ORourke]
+- In LaRance construction, cofferdam use was a major contributor to environmental degradation [Charlier, 110][Charlier]
 - Essentially a hydroelectric dam where sluice gates create the hydrostatic head, thus generating a head differential which can be harvested
 - Tidal barrage functions best in inlets/similar places where the water can be trapped and tidal amplitude is high [Murphy-tides]
 - Double basin tidal barrage: ebb system where some of the electricity generated is used to pump water into a second basin & thus save generating capacity for when it is needed. Economically unfeasible (in 2009) because of generator inefficiencies and higher construction costs [O Rourke, 5][ORourke]
+- A pumped storage reservoir lets tidal power shift to peak times. Work on this is happening in Taiwan [Charlier, 125][Charlier]
 - Tidal barrage power calculations: P=ρFgh, where ρ = 1000 kg/m³, g = 10 m/s² (surface gravity), F is the flow rate of water in (m³/s), and h is the height of the water behind the dam. **h** is very small in a tidal installation compared with river hydroelectric (often 200m+). Accounting for timing (outer water has to be higher to create inflow, so you can't harvest the whole tide), ideal power is P = (1/8)πρgAH²/T, where A is the area impounded, H is the peak-to-peak tidal amplitude, and T is the period (about 12 hours) [Murphy-tides]
 - UK is interested in taking a lead with tidal power [Helston]
 
@@ -50,6 +53,7 @@ I posit that another approach to tidal turbines is to deploy them in smaller coa
 - Essentially an underwater turbine in a tidal current
 - Estimation of extractable power (in W/m^2): Px = 1/2u * w * Ks * Kn * V^3 = 0.3 * w * V^3 where u is the efficiency factor (0.25), Ks is the velocity profile factor (0.424), and Kn is the spring/neap tide factor (0.57), and w is the fluid density in kg/m^3 [Charlier, 144][Charlier]
 - Tidal fences/tidal farms: a row of turbines through which water flows [Helston]
+- Tidal current velocity is fastest at high and low water [Charlier, 143][Charlier]
 
 ### Siting
 
@@ -58,6 +62,7 @@ I posit that another approach to tidal turbines is to deploy them in smaller coa
 - Stable underwater site for installation [Helston]
 - Typically sunk 20-30 meters, anywhere with a strong tidal flow [Helston]
 - Environmental disturbances should be minimal [Helston]
+- Locations of old tidal mills may be good turbine sites [Charlier, 79][Charlier]
 
 ### Turbine design
 

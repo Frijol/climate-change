@@ -196,6 +196,9 @@ Carbon dioxide equivalent, "the total climate change impact of all the greenhous
 ## coal gas
 fuel gas harvested from seams of coal burning underground [Muller, 232][Muller]
 
+## cofferdam
+a watertight enclosure pumped dry to permit construction below the waterline
+
 ## contract path billing
 in wheeling (selling of power), the cost for the transmission infrastructure is usually derived from the annualized cost of a specific power line, despite the physical innacuracy of this concept caused by loop flow
 
@@ -703,6 +706,9 @@ optimum power flow, models to simulate power dispatch from various generators th
 ## OTEC
 ocean thermal energy conversion, also called thalassothermal energy
 
+## overburden
+the material that lies above an area suitable for economic exploitation (e.g. soil, plants above a potential mine)
+
 ## OWC
 oscillating water column: a vertical chamber drilled into a cliff where waves push aboveground air through a turbine
 
@@ -814,6 +820,9 @@ Renewable Energy Independent Power Producer Procurement
 
 ## rem
 the unit measure of radiation exposure
+
+## re-timing
+shifting off-peak generation to on-peak energy demand times
 
 ## retorting
 a method of shale oil extraction. In this method, you mine shale, heat it aboveground to let kerogen leak out, and then refine the kerogen into oil. The process leaves a lot of leftover shale rock [Muller, 109][Muller]
