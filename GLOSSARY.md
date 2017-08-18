@@ -470,10 +470,13 @@ pricing point for natural gas futures contracts [wiki](https://en.wikipedia.org/
 hydrocarbon gas liquids: produced from unrefined natural gas, they have high energy density and sit on the gas/liquid boundary [EIA factsheet on HGL](https://www.eia.gov/energyexplained/index.cfm?page=hgls_home)
 
 ## HVDC
-High voltage DC power
+high voltage DC power
 
 ## hybrid parks
-Co-located farms for multiple renewable energy types, esp. wind and solar
+co-located farms for multiple renewable energy types, esp. wind and solar
+
+## hydrophones
+microphones that detect sound waves under water
 
 ## hydrostatic head
 a stable level from which water has to fall before the point where power is generated
@@ -697,6 +700,9 @@ organization for economic cooperation and development, a forum of 34 countries w
 ## OEM
 original equipment manufacturer
 
+## oil trap
+a geologic structure which holds underground oil
+
 ## OPEC
 organization of the petroleum exporting countries
 
@@ -890,6 +896,9 @@ movable gates that allow or impede the flow of water e.g. to let water into the 
 ## SMPS
 switched-mode power suppliers (AC/DC)
 
+## sniffers
+sensitive electronic equipment that finds hydrocarbons in air, used in oil deposit discovery
+
 ## socio-environmental
 environmental aspects with significant social ramifications, e.g. culturally significant species [mctiernan]
 
@@ -946,6 +955,9 @@ tribal energy resource agreement, which occurs between a tribe and the Secretary
 
 ## three-phase
 in an electric power system, having at least three conductors carrying AC voltages that are offset in time by 1/3 the period, the most common type of generator in the electrical grid
+
+## thumper truck
+a vehicle used for seismology-based oil discovery which slams heavy plates into the ground to produce shock waves [Freudenrich]
 
 ## tidal barrage
 a tidal power generator that is essentially a hydroelectric dam: open for inflow, close & run generator on outflow (possible to generate power in both directions) [Maehlum]
