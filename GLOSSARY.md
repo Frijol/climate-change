@@ -169,6 +169,9 @@ a photovoltaic composed of copper, indium, gallium, and selenium, notable as a t
 ## clathrate
 also called methane hydrate, a form of natural gas that is highly hydrated and found in deep sea formations [Muller, 98]
 
+## consumer's surplus
+(net consumer's surplus): in economics, the difference between the total value the consumer attaches to a given purchase, minus the cost of the purchase
+
 ## consumptive withdrawal
 a resource removed from its source and not returned, e.g. water taken from streams that evaporates & moves elsewhere or is used as part of a crop or product [Meadows, 69][Meadows]
 
@@ -237,6 +240,9 @@ Clean Water Act
 
 ## deadband
 the allowable error range around a frequency before a governor kicks on to adjust the system back to its set frequency
+
+## deadweight loss
+in economics, the total loss from the global welfare due to regulation of the market
 
 ## declining block rates
 The more you buy, the cheaper the price per unit
@@ -394,6 +400,12 @@ also called the Fischer-Tropsch Synthesis or F-T. A set of chemical reactions th
 ## FIT
 feed-in tariffs, a long-term guaranteed incentive to resource owners based on the enegy produced (in kWh) and not based on demand [EPRI, 12][EPRI]
 
+## forward contract
+a forward contract specifies for a future transaction: quantity and quality of goods, delivery date, payment amount and type, payment date, and any penalties for failure to uphold the agreement
+
+## forward market
+a market where the transaction is agreed upon in a contract ("forward contract") in advance of delivery or payment
+
 ## fracking
 Hydraulic fracturing, a high-pressure injection of a liquid into a wellbore to create cracks in deep-rock formations to access otherwise hard-to-reach natural gas and petroleum
 
@@ -408,6 +420,9 @@ see Fischer-Tropsch process
 
 ## fuel cell
 a battery wherein you "recharge" by pumping in new chemicals. E.g. a hydrogen fuel cell requires new hydrogen + air [Muller, 177][Muller]
+
+## futures market
+a market in which standardized forward contracts are bid upon, not necessarily by buyers and sellers of the product, predicting the forward markets from volatility by spreading out the risk
 
 ## gas flaring
 when oil is extracted, natural gas builds up. "Flaring" this gas is setting it on fire (instead of capturing it for sale).
@@ -432,6 +447,9 @@ the length of a tidal barrage in meters compared to its output in kWh/year. An e
 
 ## GIL
 gas-insulated lines (for transmission of electricity)
+
+## global welfare
+in economics, the sum of net consumer's surplus and producer's profit, quantifying the total benefit produced by trading
 
 ## governor
 in a load-following generator, the device which changes energy input to the prime mover to maintain frequency
@@ -583,8 +601,14 @@ moderation of generator electricity production to match energy load, or demand
 ## loop flow
 the fact that power flows over all available paths between supply and load, despite specifications in a given power transfer contract [Graves, 1-3][Graves]
 
+## LRAC
+long-run average cost
+
 ## LRACs
 long run avoided costs
+
+## LRMC
+long-run marginal cost
 
 ## LSE
 load serving entities: energy suppliers
@@ -637,6 +661,9 @@ National Action Plan on Climate Change
 ## NAS
 National Academy of Sciences
 
+## natural monopoly
+a monopoly found in an industry that has a minimum efficient size comparable to the demand and therefore is typically regulated. A natural monopoly often arises when there are large fixed costs and relatively small variable costs [Kirschen, 43][Kirschen]
+
 ## NCRE
 Non-conventional renewable energy
 
@@ -648,6 +675,9 @@ National Environmental Policy Act: requires any federal actions with significant
 
 ## NERC
 North American Electric Reliability Corporation, a nonprofit international regulatory agency (NERC.com)
+
+## net surplus
+also called producer's profit, an economics term for the ability of a producer to sell a product for more than the opportunity cost
 
 ## New Pangaea
 A term used to refer to the ecological globalization/homogenization of the world through the spreading of non-native species via human activities
@@ -716,10 +746,13 @@ ocean thermal energy conversion, also called thalassothermal energy
 the material that lies above an area suitable for economic exploitation (e.g. soil, plants above a potential mine)
 
 ## OWC
-oscillating water column: a vertical chamber drilled into a cliff where waves push aboveground air through a turbine
+oscillating water column: a vertical chamber drilled into a cliff where waves push aboveground air up the tube through a turbine
 
 ## PAR
 photosynthetically active radiation
+
+## Pareto efficiency
+in economics, a system is Pareto efficient if benefit to one side (producer or consumer) can only be increased by reducing the benefit to another party
 
 ## PE
 primary energy: energy contained in raw fuels, or otherwise received as input to a system. Use of this metric ignores conversion efficiency (from its potential energy to the amount we can actually harvest), so it leads to imperfect comparisons - for example, nuclear, coal, and other thermal electricity generation processes are highly inefficient and can be overvalued using this metric [wiki](https://en.wikipedia.org/wiki/Primary_energy)
@@ -817,6 +850,9 @@ the power available for performing useful work, measured in Watts, in contrast t
 
 ## rebound effect
 e.g. a low-carbon technology is more convenient than a high-carbon technology, so we use it more, and end up using more carbon than previously [Berners-Lee, 16][Berners-Lee]
+
+## recoverable cost
+a cost that can be recovered through sale of the asset, e.g. the land on which a generator plant is built
 
 ## refractometer
 a tool to measure Brix - looks like a small spyglass
@@ -917,11 +953,20 @@ a speed control mode in a system of generators which allows them to run in paral
 ## spinning reserve
 any back-up energy production capacity which is can be made available to a transmission system with ten minutes' notice and can operate continuously for at least two hours once it is brought online
 
+## spot market
+a market where goods are delivered immediately and the buyer pays in full on the spot, with no conditions attached to the transaction
+
 ## SPR
 Stream Protection Rule: proposed rule affects surface mining operations and underground mining operations that affect the surface [EIA, 32][EIA]
 
+## SRAC
+short-run average cost
+
 ## SRM
-Solar radiation management (albedo engineering)
+solar radiation management (albedo engineering)
+
+## SRMC
+short-run marginal cost
 
 ## station backup failure
 failure of an electricity generation station due to loss of electricity

@@ -41,6 +41,7 @@ You have to use some energy to get the energy you need to use. Changing ratios p
 
 ## Stubs
 * No country, as of 2000, uses local power as a major (even non-negligible) energy source [Smil, 49][Smil]
+* Startup fuel cost of a generator is a quasi-fixed cost– it is "fixed" in that it doesn't depend on the amount of energy produced, but doesn't count as a fixed cost because it would not be a cost if no energy were to be produced [Kirschen, 29]
 
 
 {% include "../../BIBLIOGRAPHY.md" %}
