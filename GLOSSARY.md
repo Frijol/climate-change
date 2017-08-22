@@ -427,14 +427,17 @@ a market in which standardized forward contracts are bid upon, not necessarily b
 ## gas flaring
 when oil is extracted, natural gas builds up. "Flaring" this gas is setting it on fire (instead of capturing it for sale).
 
+## gate closure
+in economics, the time at which bidding into the market stops and a clearing price is decided
+
 ## GCR
-Ground cover ratio
+ground cover ratio
 
 ## genco
 generating company, a company that produces and sells electrical energy
 
 ## geoengineering
-Deliberate human intervention in the earth's climate on a global scale
+deliberate human intervention in the earth's climate on a global scale
 
 ## geothermal reservoir
 the underground fracture network in rock in areas of high temperature gradient where geothermal energy can be harvested
@@ -458,13 +461,13 @@ in a load-following generator, the device which changes energy input to the prim
 land not previously used for industry (as opposed to brownfields)
 
 ## greenhouse gases
-Atmospheric gases which are transparent to ultraviolet radiation from the sun, but impermeable to infrared (such as the warmth rising from the earth). Carbon dioxide is such a gas.
+atmospheric gases which are transparent to ultraviolet radiation from the sun, but impermeable to infrared (such as the warmth rising from the earth). Carbon dioxide is such a gas.
 
 ## green manures
 quick-growing plants that help prevent erosion and replace nutrients in soil
 
 ## Green Revolution
-From 1950-1992, a movement to increase food production without bringing more land under cultivation. Related to the work of Norman Borlaug and spread of monocultures.
+from 1950-1992, a movement to increase food production without bringing more land under cultivation. Related to the work of Norman Borlaug and spread of monocultures.
 
 ## GTL
 gas to liquid, a form of synfuel where natural gas is converted into an oil substitute [wiki](https://en.wikipedia.org/wiki/Gas_to_liquids)
@@ -479,7 +482,7 @@ the difference in heights between the hydrostatic head of a tidal barrage and th
 heavy-duty vehicles, 8.5k+ lbs GVWR [transportpolicy.net](http://transportpolicy.net/index.php?title=US:_Vehicle_Definitions)
 
 ## helical turbine
-A vertical turbine whose blades are modeled after birds' wings
+a vertical turbine whose blades are modeled after birds' wings
 
 ## Henry Hub
 pricing point for natural gas futures contracts [wiki](https://en.wikipedia.org/wiki/Henry_Hub)
