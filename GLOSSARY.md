@@ -1073,6 +1073,9 @@ an extra cost, usually about 10% of the power purchase price, added to the power
 ## VARs
 volt-amps reactive, a measure of reactive power
 
+## VOLL
+value of lost load, the average price per megawatt-hour that consumers would be willing to pay to avoid being disconnected without notice [Kirschen, 74][Kirschen]
+
 ## voltage collapse
 power demand exceeds supply so much that the system goes down (any given power supply has a finite supply capability, a "point of maximum loadability") [Hiskens, 21][Hiskens]
 
