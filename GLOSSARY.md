@@ -14,7 +14,7 @@ the assurance to a buyer of a carbon market that the money spent is really elici
 alternative energy development plan
 
 ## affluenza
-Portmanteau of affluence and influenza, relating to overload, debt, anxiety and waste from consumerism [Friedman 53][Friedman]
+Portmanteau of affluence and influenza, relating to overload, debt, anxiety and waste from consumerism [Friedman, 53][Friedman]
 
 ## AGC
 automatic generation control uses an area control error (ACE) signal to adjust the governors of electrical generation plants for droop control - keeping all the grid generators running at the same frequency
@@ -30,6 +30,9 @@ reflectivity
 
 ## alternator
 an electrical generator that converts mechanical energy into electrical energy in the form of alternating current
+
+## ancillary services
+in the context of the electrical grid, services which support the trade of electricity, useful primarily for their potential to deliver a needed resource to the grid on request, quantifiable by their ability to respond when needed [Kirschen, 106][Kirschen]
 
 ## aneutronic
 producing no neutrons
@@ -108,6 +111,9 @@ black start diesel generator
 
 ## BSER
 best system of emission reduction
+
+## busbar
+a system of electrical conductors in a generating or receiving station on which power is concentrated for distribution
 
 ## CAA
 Clean Air Act

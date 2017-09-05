@@ -22,3 +22,4 @@ Gaps in my information– rough to-learn list.
 * What does the grid do to dump power when oversupplied?
 * What is the uptime on the American electrical grid? What about compared to other countries?
 * What are ballpark stats on number of electrical generation facilities hooked into the grid, and points of demand?
+* Find syllabi from university courses for resources on: hydro, oil, natural gas, energy generally, coal, geothermal, etc.
