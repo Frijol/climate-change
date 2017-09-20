@@ -526,6 +526,9 @@ planting two or more crops interspersed to maximize light, water, and nutrient u
 ## intertidal zone
 land area that is exposed when the tide is not high
 
+## intertrip scheme
+a grid network security service designed to mitigate transient stability problems by automatically disconnecting either generation or load in the event of a fault [Kirschen, 117][Kirschen]
+
 ## inverted rates
 The more you buy, the more it costs per unit
 
@@ -805,6 +808,9 @@ wave harvesting device based on a floating part and a fixed part where the float
 
 ## POU
 publicly owned utility (as opposed to investor owned)
+
+## power-system stabilizer
+a mechanism often provided as a grid ancillary service which damps oscillations in power to prevent their spread through the network
 
 ## PPM
 Parts per million

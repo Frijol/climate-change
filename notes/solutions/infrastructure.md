@@ -57,6 +57,8 @@ security | ability of the system to sustain changes in power flow | operating tr
 [Graves, 3-2][Graves]
 
 * Modern grid has 99.97% energy availability reliability in the United States [EPRI, 9][EPRI]
+* A system supplied by a few large generating units need more reserve than one with many small generating units. It follows that a system based on fewer, larger plants has higher operating costs, which are passed on to the consumer [Kirschen, 130][Kirschen]
+* A study in 2000 showed that industrial consumers account for 93% of the analyzed power system's regulation and 58% of its load following even though they represented only 34% of its total load. Since charges are based on consumption, this means residential customers end up subsidizing the expensive needs of industrial customers. Within industrial, there is also wide variance of this type of need [Kirschen, 130][Kirschen]
 
 ### Electrical characteristics and losses
 * A detailed engineering introduction to the electrical dynamics of the grid can be found in [Hiskens]
