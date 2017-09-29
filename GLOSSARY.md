@@ -133,6 +133,9 @@ organisms that build shells or external skeletons, or for plants, internal scaff
 ## capacity factor
 The ratio of a power plant's actual output to its theoretical potential output at full capacity – accounting for downtime and other inefficiencies.
 
+## capacity market
+also called a forward market, a direct investment by grid operators into power plants ahead of their production, intended to improve long-term price signaling [James]
+
 ## CARB
 California Air Resource Board
 
@@ -174,6 +177,9 @@ a photovoltaic composed of copper, indium, gallium, and selenium, notable as a t
 
 ## clathrate
 also called methane hydrate, a form of natural gas that is highly hydrated and found in deep sea formations [Muller, 98]
+
+## clearing price
+in an electrical energy market, generators bid in costs per MWh, theoretically at operating costs. Power (or demand reduction) is then purchased in order of cheapest to most expensive bids until all demand is met, at the "clearing price", or the price of the most expensive electricity needed to meet demand (so, even the cheaper bidders get paid at the clearing price)
 
 ## consumer's surplus
 (net consumer's surplus): in economics, the difference between the total value the consumer attaches to a given purchase, minus the cost of the purchase

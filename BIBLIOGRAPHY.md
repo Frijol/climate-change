@@ -32,6 +32,7 @@
 [hiskens]: http://ccc.centers.ufl.edu/sites/default/files/files/background.pdf "Hiskens, Ian. 'Introduction to Power Grid Operation.' Michigan Engineering. 2013."
 [hug]: http://www.cmu.edu/epp/people/faculty/gabriela-hug.html "Hug, Gabriela. 'Fundamentals in Electric Energy Systems.' Carnegie Mellon University Electric Energy Systems Group, 2013."
 [ifc]: http://www.ifc.org/wps/wcm/connect/f05d3e00498e0841bb6fbbe54d141794/IFC+Solar+Report_Web+_08+05.pdf?MOD=AJPERES "International Finance Corporation. 'Utility-Scale Solar Photovoltaic Power Plants: A Project Developer’s Guide.' 2015. Detailed guide for the siting, building, and efficient operation of a large-scale solar farm."
+[james]: http://midwestenergynews.com/2013/06/17/explainer-how-capacity-markets-work/ "James, Adam. 'Explainer: How capacity markets work.' 2013."
 [joslin]: http://depts.washington.edu/nnmrec/docs/JoslinMTS2015%20-%20Optical%20Port%20Biofouling.pdf "Joslin, James. 'Demonstration of Biofouling Mitigation Methods for Long-Term Deployment of Optical Cameras.' Marine Technology Society Journal. 2015."
 [kiker]: http://aceee.org/press/2014/03/new-report-finds-energy-efficiency-a "Kiker, Patrick. 'New Report Finds Energy Efficiency is America’s Cheapest Energy Resource.' 2014."
 [king]: https://m.youtube.com/watch?v=Wc1kQXL1Nwg "King, Martin Luther, Jr. 'Radical Revolution of Values.' 1967."
