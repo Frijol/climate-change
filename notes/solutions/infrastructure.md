@@ -1,5 +1,7 @@
 # Infrastructure
 
+* In the United States, 72.2% of electricity was served by shareholder-owned companies (14.1% public, 11.8% cooperatives, 1.9% energy service providers) [EEI, 27][EEI]
+
 ## Physical characteristics
 
 ### Use of electricity

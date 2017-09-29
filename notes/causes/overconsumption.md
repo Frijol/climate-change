@@ -1,5 +1,7 @@
 # Overconsumption
 
+* Average American household in 2008 used 934 kWh/month [EEI, 45][EEI]
+
 ![](http://akarlin.com/wp-content/uploads/2013/01/overshoot1.png)
 *Ecological footprint vs. carrying capacity of the earth, from [Meadows, xv][Meadows]*
 

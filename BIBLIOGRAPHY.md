@@ -1,5 +1,3 @@
-[klossner](http://www.ems.psu.edu/~elsworth/courses/cause2003/finalprojects/canutepaper.pdf "Tidal Energy. 2003\. "):
-
 [adams]: https://www.goodreads.com/book/show/8696.Last_Chance_to_See "Adams, Douglas. 'Last Chance to See.' 1990. An entertaining romp with the Hitchhiker's Guide author as he travels with a zoologist to see a number of the world's most endangered species. Enjoyable, but light on information."
 [atwood]: https://medium.com/@MargaretAtwood/the-carbonivore-fund-b42b386a9af8#.o4ez5a7il "Atwood, Margaret. 'The Carbonivore Fund'. List of companies working against climate change."
 [barber]: https://www.goodreads.com/book/show/18667790-the-third-plate "Barber, Dan. 'The Third Plate: Field Notes on the Future of Food.' 2014. A chef's search for excellent farm-to-table flavor and accompanying romance with organics and sustainability."
@@ -19,13 +17,14 @@
 [d'aprile]: http://www.mckinsey.com/business-functions/sustainability-and-resource-productivity/our-insights/the-new-economics-of-energy-storage "D'Aprile, Paolo. 'The new economics of energy storage.' 2016. McKinsey & Company."
 [diamond]: https://www.goodreads.com/book/show/475.Collapse "Diamond, Jared. 'Collapse: How Societies Choose to Fail or Succeed.' 2005."
 [doris]: http://www.nrel.gov/docs/fy13osti/56641.pdf "Doris, E. 'Geospatial Analysis of Renewable Energy Technical Potential on Tribal Lands.' 2013."
+[eei]: http://www.entergy.com/global/documents/utility/industry/Electricity_101.pdf "Edison Electric Institute. 'Electricity 101.' 2010."
 [eia]: http://www.eia.gov/outlooks/aeo/pdf/0383(2016).pdf "Energy Information Administration. 'Annual Energy Outlook 2016 with projections to 2040.' 2016."
 [energy.govptc]: http://energy.gov/savings/renewable-electricity-production-tax-credit-ptc "Energy.gov. 'Renewable Energy Production Tax Credit (PTC).' 2016. Information on federal tax credit for renewable energy production."
 [epa]: https://www.epa.gov/ghgemissions/overview-greenhouse-gases "EPA. 'Overview of Greenhouse Gases.' 2014."
 [epa-gwp]: https://www.epa.gov/ghgemissions/understanding-global-warming-potentials "EPA. 'Understanding Global Warming Potentials.'"
 [epri]: http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002002733 "Electric Power Research Institute. 'The Integrated Grid: Realizing the Full Value of Central and Distributed Energy Resources.' 2014. Paper designed to give stakeholders in DER context and examples for desiging systems to handle distributed energy resources in the United States."
 [fitzgerald]: http://www.rmi.org/Content/Files/RMI-TheEconomicsOfBatteryEnergyStorage-FullReport-FINAL.pdf "Fitzgerald, Garrett, et al. 'The Economics of Battery Energy Storage: How Multi-Use, Customer-Sited Batteries Deliver the Most Services and Value to Customers and the Grid.' 2015. Rocky Mountain Institute."
-[freudenrich]: http://science.howstuffworks.com/environmental/energy/oil-drilling.htm "Freudenrich, Craig. 'How Oil Drilling Works.' HowStuffWorks.com."
+[freudenrich]: http://science.howstuffworks.com/environmental/energy/oil-drilling.htm "Freudenrich, Craig. 'How Oil Drilling Works.' HowStuffWorks.com"
 [friedman]: https://www.goodreads.com/book/show/2358737.Hot_Flat_and_Crowded "Friedman, Thomas. 'Hot, Flat, and Crowded: Why We Need a Green Revolution--and How It Can Renew America.' 2008. Concise, compelling, and holistic, this systems-level view is a standout for its treatment of environmental issues in a geopolitical context."
 [goodell]: https://www.goodreads.com/book/show/7687504-how-to-cool-the-planet "Goodell, Jeff. How to Cool the Planet. 2010. Conversational introduction to geoengineering."
 [helston]: http://www.energybc.ca/profiles/tidal.html "Helston, Charlotte. 'EnergyBC Profiles: Tidal.' 2011. Excellent overview for tidal power in general and the Northwest Coast specifically."

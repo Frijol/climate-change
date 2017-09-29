@@ -1,5 +1,7 @@
 # Natural Gas
 
+* 21.3% of American electrical energy production is natural gas as of 2010, 20.8% expected in 2035; nearly 95% of new generation installed 2000-2010 was natural gas [EEI, 38][EEI]
+
 ## Controversy
 
 Natural gas is typically harvested in environmentally destructive processes. Like other fossil fuels, burning it causes GHG emissions – less CO2/Watt than coal, but more methane/Watt.
