@@ -71,6 +71,7 @@
 [rusch]: https://www.goodreads.com/book/show/20256582-the-next-wave "Rusch, Elizabeth. The Next Wave: The Quest to Harness the Power of the Ocean. Houghton Mifflin, 2014. A children's book introduction to wave power research, showcasing several different techniques and configurations and how they work."
 [sale]: http://depts.washington.edu/nnmrec/docs/METS2016_Sale1.pdf "Sale, Danny. 'Computational Simulation of Tidal Generation Estuary-Scale Scenarios.' "
 [salter]: http://link.springer.com/article/10.1007/s40722-016-0057-3 "Salter, Stephen. 'Wave energy: Nostalgic Ramblings, future hopes and heretical suggestions.' Journal of Ocean Engineering Marine Energy. 2016."
+[saunders]: https://www.goodreads.com/book/show/3227233-geothermal-energy "Saunders, Nigel. 'Geothermal Energy.' Gareth Stevens Publishing, 2008."
 [simpson]: https://m.youtube.com/watch?v=EkrkCTZWWJU "Simpson, Leanne. 'Leanne Simpson speaking at Beit Zatoun.' 2012."
 [smil]: https://www.goodreads.com/book/show/8793836-energy-myths-and-realities "Smil, Vaclav. 'Energy Myths and Realities.' 2010. Debunking of various headlines surrounding energy miracles. My study guide on the book: https://blog.hc3.io/engineering-and-entrepreneurship-opportunities-from-energy-myths-and-realities-by-vaclav-smil-facaf9728c31#.czmo9q1u5"
 [stjohn]: https://www.greentechmedia.com/articles/read/californias-plan-to-turn-distributed-energy-resources-into-grid-market-play "St. John, Jeff. 'California’s Plan to Turn Distributed Energy Resources Into Grid Market Players.' 2015. Green Tech Media."
