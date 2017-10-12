@@ -31,6 +31,12 @@ reflectivity
 ## alternator
 an electrical generator that converts mechanical energy into electrical energy in the form of alternating current
 
+## AMF
+advanced metering functionality, the broad capabilities enabled by the existence of AMI (smart meters and related technologies)
+
+## AMI
+advanced metering infrastructure "commonly defined as an integrated network of smart meters, communication networks, and data management systems, which has the potential to transform how utilities, customers, and third-party providers manage electricity generation, delivery, and use" [Girouard]
+
 ## ancillary services
 in the context of the electrical grid, services which support the trade of electricity, useful primarily for their potential to deliver a needed resource to the grid on request, quantifiable by their ability to respond when needed [Kirschen, 106][Kirschen]
 
