@@ -691,6 +691,9 @@ a monopoly found in an industry that has a minimum efficient size comparable to 
 ## NCRE
 Non-conventional renewable energy
 
+## NEM
+Net Energy Metering
+
 ## NEMS
 National Energy Modeling System
 
