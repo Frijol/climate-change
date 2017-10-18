@@ -409,6 +409,9 @@ raw material to supply an industrial process
 ## FERC
 Federal Energy Regulatory Commission (U.S.A.) (FERC.gov)
 
+## FGRs
+see flowgate rights
+
 ## FIDVR
 fault induced delayed voltage recovery: a temporary dip in voltage causes a power supply stall [Hiskens, 24][Hiskens]
 
@@ -417,6 +420,12 @@ also called the Fischer-Tropsch Synthesis or F-T. A set of chemical reactions th
 
 ## FIT
 feed-in tariffs, a long-term guaranteed incentive to resource owners based on the enegy produced (in kWh) and not based on demand [EPRI, 12][EPRI]
+
+## fixed losses
+in power transmission, fixed losses (also called no-load losses, shunt losses, or iron losses) are caused by eddy effects and hysteresis in the iron core of transformers and the corona effect of transmission lines. They are proportional to the square of the voltage (and independent from power flow). Because voltage is relatively constant, fixed losses are often treated as constant [Kirschen, 176][Kirschen]
+
+## flowgate rights
+like FTRs except attached to a branch in a network instead of just between two adjacent nodes. The value is tied not to the price difference between nodes but to the Lagrange multiplier associated with the maximum capacity of the flowgate– so, these rights have value only in congested branches [Kirschen, 198][Kirschen]
 
 ## forward contract
 a forward contract specifies for a future transaction: quantity and quality of goods, delivery date, payment amount and type, payment date, and any penalties for failure to uphold the agreement
@@ -435,6 +444,9 @@ Hydraulic fracturing, a high-pressure injection of a liquid into a wellbore to c
 
 ## F-T
 see Fischer-Tropsch process
+
+## FTRs
+financial transmission rights, a contract defined between any two nodes in a power transmission network entitling holders to a revenue equal to the product of the amount of transmission rights purchased and the price differential between the two nodes. They serve as a hedge against congestion in the transmission network, creating a market incentive to equalize nodes [Kirschen, 194][Kirschen]
 
 ## fuel cell
 a battery wherein you "recharge" by pumping in new chemicals. E.g. a hydrogen fuel cell requires new hydrogen + air [Muller, 177][Muller]
@@ -568,6 +580,9 @@ Indian Tribal Energy Development and Self-Determination Act (2005), the most sig
 ## JI
 Joint Implementation, a flexible mechanism for carbon markets under the Kyoto Protocol
 
+## KCL
+Kirchhoff's Current Law (see also: Kirchhoff's Laws)
+
 ## Keeling's curve
 The mapping of background carbon concentrations on Mauna Loa which by 1962 showed that ~half the CO2 from fossil fuel burning was accumulating in the air.
 
@@ -575,7 +590,10 @@ The mapping of background carbon concentrations on Mauna Loa which by 1962 showe
 impure oil-rich gunk that can be extracted from shale to make shale oil
 
 ## Kirchhoff's Laws
-Two equalities describing current and voltage in lumped models of electrical circuits. (1) Node rule (KCL): Conservation of electric charge. The sum of current flowing into a node is equal to the sum of current flowing out of that node. (2) Loop rule (KVL): The sum of directional electric voltage around a closed loop is zero– or, the sum of voltage drops must be equal to the sum of the applied EMF. [Wiki](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws)
+Two equalities describing current and voltage in lumped models of electrical circuits. (1) Node rule (KCL): Conservation of electric charge. The sum of current flowing into a node is equal to the sum of current flowing out of that node. (2) Loop rule (KVL): The sum of directional electric voltage around a closed loop is zero– or, the sum of voltage drops must be equal to the sum of the applied EMF. [Wiki](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws). Because electrical transmission follows these physical laws, it is difficult to accurately charge for electrical transmission on the grid in a fair and accurate manner.
+
+## KVL
+Kirchhoff's Voltage Law (see also: Kirchhoff's Laws)
 
 ## kWh
 kilowatt hour, the product of the power transmitted in kilowatts and the time in hours
@@ -621,6 +639,9 @@ liquid natural gas
 
 ## load following
 moderation of generator electricity production to match energy load, or demand
+
+## locational marginal pricing
+the marginal cost of energy production, taking into account the cost of transmission (where the energy is produced or consumed)– nodal pricing is a subset where a price is defined at each node or bus in the system [Kirschen, 153][Kirschen]
 
 ## loop flow
 the fact that power flows over all available paths between supply and load, despite specifications in a given power transfer contract [Graves, 1-3][Graves]
@@ -703,6 +724,9 @@ National Environmental Policy Act: requires any federal actions with significant
 ## NERC
 North American Electric Reliability Corporation, a nonprofit international regulatory agency (NERC.com)
 
+## net power injection
+at a node in a power transmission system, an integer representing the flow of power through the bus (positive if local production exceeds demand) [Kirschen, 182][Kirschen]
+
 ## net surplus
 also called producer's profit, an economics term for the ability of a producer to sell a product for more than the opportunity cost
 
@@ -724,8 +748,14 @@ National Ignition Facility, a laser facility at Lawrence Livermore National Labo
 ## NIMBY
 Not in my backyard. As in "yes high voltage power transmission is a great idea, but not in my backyard"
 
+## nodal pricing
+in electricity generation, a form of locational marginal pricing where price is defined at each node or bus of an interconnected system [Kirschen, 153][Kirschen]
+
 ## non-spinning reserve
 also called supplemental reserve. Generating capacity which is capable of being brought online within 10 minutes if it is offline, or interrupted within 10 minutes if it is online, and which is capable of either being operated or interrupted for at least two hours
+
+## nontechnical losses
+energy that is stolen from a power transmission system [Kirschen, 176][Kirschen]
 
 ## NOx
 nitrogen oxide, typically nitrogen dioxide, a pollutant in emissions that is harmful to humans- wiki: https://en.wikipedia.org/wiki/Nitrogen_dioxide#Human-caused_sources_and_exposure
@@ -808,6 +838,9 @@ voltage as measured between one phase and the neutral point, the voltage at an e
 
 ## phase-to-phase voltage
 voltage as measured between two phases, the voltage at an element in a delta configuration of generations
+
+## physical transmission rights
+in a grid electrical system, the right to transmit a certain amount of power, for a certain time, through a certain branch of the transmission network [Kirschen, 147][Kirschen]
 
 ## phytonutrients
 chemical compounds that are the building blocks of taste, such as amino acids, esters, and flavinoids. Also part of plant immune systems.
@@ -1096,6 +1129,9 @@ planning regarding which generating units should be on during a given day to mee
 
 ## uplift
 an extra cost, usually about 10% of the power purchase price, added to the power purchase price to account for extra operating costs (out-of-merit dispatch, standby, and reactive power) related to market inefficiencies resulting from a day-ahead power purchase market in the United Kingdom [Graves, 1-2][Graves]
+
+## variable losses
+variable losses in power transmission (also called load losses, series losses, copper losses, or transport-related losses) are caused by current flowing through the lines, cables, and transformers of a network. This loss can be approximated as a quadratic of the active power flow (proportional to power squared) [Kirschen, 175-176][Kirschen]
 
 ## VARs
 volt-amps reactive, a measure of reactive power
