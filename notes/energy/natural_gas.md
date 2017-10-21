@@ -1,8 +1,11 @@
 # Natural Gas
 
+* Natural gas is primarily methane. It is naturally colorless and odorless, and highly combustible [FERC, 5][FERC]
 * 21.3% of American electrical energy production is natural gas as of 2010, 20.8% expected in 2035; nearly 95% of new generation installed 2000-2010 was natural gas [EEI, 38][EEI]
 * Natural gas is used across sectors:
 ![Natural gas use by sector (graph)](https://www.c2es.org/docUploads/ng_1.png)
+* Electricity generation is the primary use of natural gas (since 2007) [FERC, 8][FERC]
+* As of 2014, unconventional gas makes up 2/3 of American natural gas recovery [FERC, 14][FERC]
 
 ## Controversy
 
@@ -19,6 +22,7 @@ I have an article that goes into more detail on what to expect for natural gas b
 ### Natural gas as a transition fuel
 * Natural gas is so cheap that it's causing coal plants to close/switching American power generation away from coal [EIA, 112][EIA]
 * Methane emissions are highly warming, but they persist in the atmosphere only about 12 years, compared to 20-200 years for CO2 [Clark]
+* Government publications including [FERC] (2015) frequently tout natural gas as environmentally friendly [FERC, 8][FERC]
 
 ## Climate change problems caused by natural gas
 * Natural gas has been argued for as a "clean alternative" to oil, but fracked natural gas may emit enough methane to make it comparable in "dirtiness" to coal [Klein, 192][Klein]
@@ -30,7 +34,22 @@ I have an article that goes into more detail on what to expect for natural gas b
 * Fracking (hydraulic fracturing): Water is shot into the shale layer through a drilled hole. When water pressure exceeds the weight of the rock above it, the rock cracks to let the water expand. This lets gases (adsorbed into rock) escape. When water pressure is released, it spurts from the ground along with the released gas. [Muller, 93][Muller]
 * Compressed natural gas (CNG) is compressible to 250 atm and can be carried in steel or fiber composite tanks. At this level, CNG is 1/3 the energy density of gasoline (11kwh/g), 10x the energy density of li-ion, 4x the energy density of hydrogen at the same pressure, and 2/5 cost of gasoline [Muller, 261][Muller]
 
-## Economics of natural gas harvest
+## Natural gas delivery
+* Much like electricity, natural gas is considered a necessity for homes and businesses, so supply has to be set up to exactly match demand in real time [FERC, 2][FERC]
+* Natural gas uses storage sites close to sites and linepack to ensure capacity to meet demand [FERC, 2][FERC]
+* Natural gas flows through a pipeline at an average of 25mph, making storage near use sites particularly valuable [FERC, 2][FERC]
+* United States natural gas storage is primarily underground, specifically in depleted basins– so it can use the same infrastructure as when the basin was producing [FERC, 29][FERC]
+* Key characteristics of natural gas storage: deliverability rate (rate at which inventory can be withdrawn), cycling capacity (ability of a facility to quickly allow injections and withdrawals– salt caverns are notably good for this) [FERC, 28][FERC]
+* Natural gas storage requires a quantity of base gas, above which working gas can be used for delivery [FERC, 29][FERC]
+* Natural gas is typically stockpiled April–Oct to support increased winter loads (not typical in electricity storage) [FERC, 30][FERC]
+
+## Natural gas market mechanics
+* A natural gas hub can occur at the intersection of natural gas pipelines where natural gas is bought and sold. In the United States, the Henry Hub in Louisiana is used as a benchmark [FERC, 6][FERC]
+* Natural gas is traded on a cash market (daily sales for immediate delivery) and on a forward market (contracts for delivery in a month or more) [FERC, 6][FERC]
+* Natural gas pricing is inelastic; consumers don't typically have alternatives, so they buy natural gas regardless of its price– which implies a potential for price spikes in periods of short supply [FERC, 8][FERC]
+* Typically, natural gas demand is relatively constant in the industrial sector and more variable in the residential sector. In part due to this (and the expense of building for peak capacity), residential prices for natural gas tend to be higher than industrial [FERC, 8][FERC]
+
+## Economic future of natural gas
 * Both demand (including export) and supply (improved technology and lots of deposits) are expected to increase in the United States over the 2015-2040 period. This should keep natural gas prices stable & low over that time period [EIA, 21][EIA]
 * The vast majority of new gas projects in North America rely on fracking [Klein, 192][Klein]
 * Rising natural gas production makes byproduct fuels like HGL and NGPL more economically viable [EIA, 83][EIA]

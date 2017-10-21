@@ -73,6 +73,9 @@ the power to balance out stochastically available electrical generation resource
 ## BAPV
 Building applied photovoltaic [IFC]
 
+## base gas
+the volume of natural gas in a storage reservoir that is needed to maintain adequate pressure and deliverability– often about half of the gas in a given storage facility, but less in a salt cavern [FERC, 29][FERC]
+
 ## BAT
 best available technology
 
@@ -151,6 +154,9 @@ Seasonal cycling of carbon dioxide around the earth, which fluctuates annually b
 ## carbon engineering
 Geoengineering to pull carbon out of the atmosphere
 
+## CBM
+coalbed methane, natural gas trapped in coal seams
+
 ## CCGT
 combined cycle gas turbine: both steam and gas turbines used in combination
 
@@ -219,6 +225,9 @@ fuel gas harvested from seams of coal burning underground [Muller, 232][Muller]
 
 ## cofferdam
 a watertight enclosure pumped dry to permit construction below the waterline
+
+## commercial
+in reference to customer type, 'commercial' typically includes hotels, restaurants, offices, retail and wholesale stores, government buildings, and schools
 
 ## contract path billing
 in wheeling (selling of power), the cost for the transmission infrastructure is usually derived from the annualized cost of a specific power line, despite the physical innacuracy of this concept caused by loop flow
@@ -515,7 +524,7 @@ heavy-duty vehicles, 8.5k+ lbs GVWR [transportpolicy.net](http://transportpolicy
 a vertical turbine whose blades are modeled after birds' wings
 
 ## Henry Hub
-pricing point for natural gas futures contracts [wiki](https://en.wikipedia.org/wiki/Henry_Hub)
+pricing point for natural gas futures contracts, physically located in Louisiana [wiki](https://en.wikipedia.org/wiki/Henry_Hub)
 
 ## HGL
 hydrocarbon gas liquids: produced from unrefined natural gas, they have high energy density and sit on the gas/liquid boundary [EIA factsheet on HGL](https://www.eia.gov/energyexplained/index.cfm?page=hgls_home)
@@ -624,6 +633,9 @@ Economies of scale combined with improvements in technology and lessons learned 
 
 ## LFG
 landfill gas
+
+## linepack
+in natural gas transmission, a pressurized section, used to pack more molecules into the same space [FERC, 2][FERC]
 
 ## LMFBRs
 liquid metal fast breeder nuclear reactors
@@ -805,6 +817,9 @@ the material that lies above an area suitable for economic exploitation (e.g. so
 ## OWC
 oscillating water column: a vertical chamber drilled into a cliff where waves push aboveground air up the tube through a turbine
 
+## PAL
+Park and loan service, a natural gas delivery mechanism whereby shippers can "park" gas not needed to supply demand or "borrow" gas in the pipeline, a short-term load balancing solution typically offered by a hub as a minor revenue source for pipeline operators [FERC, 26][FERC]
+
 ## PAR
 photosynthetically active radiation
 
@@ -872,6 +887,9 @@ the idea that when there is uncertainty, you should err on the side of safety
 ## prime mover
 a machine or part of a machine that converts energy from a source energy into mechanical energy, e.g. a steam turbine or water wheel
 
+## proved reserves
+the estimated quantity of a natural resource that, based on data gathering, can reasonably be projected to be recoverable from a given area under existing economic and operating conditions [FERC, 10][FERC]
+
 ## PTC
 Production Tax Credit, a federal tax credit in the United States which provides inflation-adjusted per-kWH rebates for qualifying renewable energy sales [Energy.gov][Energy.govPTC]
 
@@ -925,6 +943,9 @@ Renewable Energy Independent Power Producer Procurement
 
 ## rem
 the unit measure of radiation exposure
+
+## resource
+when used to indicate quantity of a natural resource, the total amount of a resource estimated to exist in a specified area (more than the amount which can be produced or harvested from that area) [FERC, 10][FERC]
 
 ## re-timing
 shifting off-peak generation to on-peak energy demand times
@@ -1121,6 +1142,9 @@ A type of climate change that is abrupt and results from the crossing of tipping
 ## TZEV
 transitional zero-emissions vehicles, plug-in hybrid electric and hydrogen internal combustion engine vehicles [EIA, 22, 35][EIA]
 
+## unconventional gas
+natural gas that cannot be produced at economic flow rates or in economic volumes of natural gas unless the well is stimulated by fracking or similar [FERC, 10][FERC]
+
 ## UNFCCC
 1992 United Nations Framework Convention on Climate Change
 
@@ -1147,6 +1171,9 @@ wave energy converter
 
 ## wheeling
 the practice of shipping power between a buyer and a seller over third-party transmission lines [Graves, 1-3][Graves]
+
+## working gas
+the natural gas in a storage facility which can be used; the gas in excess of the base gas [FERC, 29][FERC]
 
 ## ZEV
 zero-emissions vehicles: battery-electric and hydrogen fuel cell [EIA, 22, 35][EIA]
