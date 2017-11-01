@@ -23,3 +23,4 @@ Gaps in my information– rough to-learn list.
 * What is the uptime on the American electrical grid? What about compared to other countries?
 * What are ballpark stats on number of electrical generation facilities hooked into the grid, and points of demand?
 * Find syllabi from university courses for resources on: hydro, oil, natural gas, energy generally, coal, geothermal, etc.
+* How frequently are plants commissioned/decommissioned, and what are the key factors? Getting towards the question of– how do we actually transition away from combustion-based energy rather than just fulfilling RPS's with a percentage of new plants being built renewable? How do we combat rather than simply mitigate the problem of highly emissive electrical energy sources?

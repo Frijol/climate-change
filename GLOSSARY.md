@@ -649,6 +649,9 @@ locational net benefit analysis, an effort by California to value distributed en
 ## LNG
 liquid natural gas
 
+## load-duration curve
+an encapsulation of information on how many hours each year electrical load is below a certain value (used in consideration of investments in generation capacity) [Kirschen, 214][Kirschen]
+
 ## load following
 moderation of generator electricity production to match energy load, or demand
 
