@@ -19,5 +19,6 @@
 * The cost of installing solar has been dropping to such a degree that the labor costs significantly outweigh the cost of materials, at least in the United States. Does this create an opportunity in parts of the world where labor is very cheap?
 * Painting the buildings of commercial rooftops white to cheaply cut their air conditioning costs
 * Any of these various grid trends– support real-time communication infrastructure to create market mechanisms for small- and large-scale ancillary markets as well as multidirectional power transactions https://www.smartgrid.gov/files/Future_of_the_Grid_web_final_v2.pdf
+* Electricity generation capacity construction tends to follow a boom/bust cycle, possibly due to the delay between market demand (high electricity prices) and capacity availability(permitting and construction) [Kirschen, 220][Kirschen]. This gives advantage to plants that can get online faster than other new plants (and thus serve the market before prices dip again due to oversupply). How can we streamline to advantage renewables?
 
 {% include "../BIBLIOGRAPHY.md" %}
