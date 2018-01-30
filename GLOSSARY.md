@@ -1130,6 +1130,9 @@ in electrical power generation, the cost to start up and shut down a power gener
 ## Transition town
 a grassroots community movement to reduce local dependence on oil and other high-emitting energy sources
 
+## transmission
+transportation of a resource to an area where it can be used
+
 ## tropic tides
 tides at low latitudes, characterized by high amplitude and high range
 

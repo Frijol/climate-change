@@ -1,5 +1,13 @@
 # Policy solutions for climate change
 
+* A policy is "investment-grade" when it reduces uncertainty. It shifts risk to parties that can best manage it, causing it to offer return commensurate with risk and thus driving private investment. This makes a transition affordable [Aggarwal, 7][Aggarwal]
+* Factors in making policy investment-grade: policy certainty/longevity/stability to support long payback periods; long-term certainty about price or about access to markets; contract sanctity esp. with utilities as buyers; few non-price barriers (such as permitting); grid is accessible; application processing should not take long [Aggarwal, 7][Aggarwal]
+* Energy policy should incentivize delivery of the best energy service, not the most electrons. Optimize for high reliability, reasonable cost, and strong environmental performance. Policy sets emphasis in balancing these factors. [Aggarwal, 10, 12][Aggarwal]
+
+![screen shot 2018-01-29 at 4 04 00 pm](https://user-images.githubusercontent.com/454690/35541142-270441b4-050e-11e8-8d6b-26f6064ab20f.png)
+[Aggarwal, 13][Aggarwal]
+
+
 ## Incentives
 * Germany is a model for adoption of solar: ![screen shot 2017-03-23 at 10 28 45 am](https://cloud.githubusercontent.com/assets/454690/24261569/a1e973c2-0fb4-11e7-923e-6625b57c368e.png) [EPRI, 10][EPRI]
 * German PV and wind adoption are driven by the German Renewable Energy Sources Act (EEG) which created FIT for solar and wind. These sources are now cheap enough that FIT has droped from €0.50/kWh to €0.18 but solar + wind continue to grow [EPRI, 11][EPRI]
