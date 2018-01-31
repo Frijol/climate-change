@@ -1,6 +1,7 @@
 # Hydropower
 
 * As of 2010, 5.8% of power supply in the United States, projected 5.9% by 2035. Largest renewable source [EEI, 40][EEI]
+* In-conduit hydropower: turbines inside of the water pipes used to source water for a city– minimize environmental impact. Portland, Oregon uses this (3.5' turbines) [Hawken, 27][Hawken]
 
 ## How does it work?
 * Water flow moves a primary mover such as a turbine or water wheel

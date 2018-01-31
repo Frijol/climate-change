@@ -31,6 +31,7 @@ https://www.sciencedirect.com/science/article/pii/S1040619013001917 "Aggarwal, S
 [friedman]: https://www.goodreads.com/book/show/2358737.Hot_Flat_and_Crowded "Friedman, Thomas. 'Hot, Flat, and Crowded: Why We Need a Green Revolution--and How It Can Renew America.' 2008. Concise, compelling, and holistic, this systems-level view is a standout for its treatment of environmental issues in a geopolitical context."
 [girouard]: http://www.utilitydive.com/news/advanced-metering-making-the-most-of-connectivity-for-a-modern-grid/505283/ "Girouard, Coley. 'Advanced metering: Making the most of connectivity for a modern grid.' Utility Dive, 2017."
 [goodell]: https://www.goodreads.com/book/show/7687504-how-to-cool-the-planet "Goodell, Jeff. How to Cool the Planet. 2010. Conversational introduction to geoengineering."
+[hawken]: https://www.goodreads.com/book/show/31624481-drawdown "Hawken, Paul. Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming. 2017."
 [helston]: http://www.energybc.ca/profiles/tidal.html "Helston, Charlotte. 'EnergyBC Profiles: Tidal.' 2011. Excellent overview for tidal power in general and the Northwest Coast specifically."
 [graves]: http://s-chapel.com/sites/default/files/Downloads/Publications/EPRI/ReportTR-104604.pdf "Graves, F.C. 'A Primer on Electric Power Flow for Economists and Utility Planners.' Electric Power Research Institute, 1995."
 [hiskens]: http://ccc.centers.ufl.edu/sites/default/files/files/background.pdf "Hiskens, Ian. 'Introduction to Power Grid Operation.' Michigan Engineering. 2013."

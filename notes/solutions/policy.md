@@ -7,6 +7,8 @@
 ![screen shot 2018-01-29 at 4 04 00 pm](https://user-images.githubusercontent.com/454690/35541142-270441b4-050e-11e8-8d6b-26f6064ab20f.png)
 [Aggarwal, 13][Aggarwal]
 
+* Revenue decoupling: an example of performance-based regulation (regulation towards a specific goal). Utility's financial health is separated from the volume of product it moves and re-coupled to e.g. energy efficiency, reliability of service, etc. to align goals with customer needs [Aggarwal, 21][Aggarwal]
+
 
 ## Incentives
 * Germany is a model for adoption of solar: ![screen shot 2017-03-23 at 10 28 45 am](https://cloud.githubusercontent.com/assets/454690/24261569/a1e973c2-0fb4-11e7-923e-6625b57c368e.png) [EPRI, 10][EPRI]
