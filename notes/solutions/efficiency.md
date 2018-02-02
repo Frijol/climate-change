@@ -3,6 +3,8 @@
 * Key targets for energy efficiency gains: transportation, buildings, agriculture, forestry [Lovins, 32][Lovins]
 * Distributed generation is similar in metric to efficiency gains– both increased efficiency and the practice of producing power locally reduce draw on electric grid delivered energy [EIA, 102][EIA]
 * DoE has been setting efficiency standards for appliances and equipment since 1988 [EIA, 34][EIA]
+* Key standards for building efficiency: Leadership in Energy and Environmental Design (LEED), Net Zero from the International Living Futures Institute, Passivhaus from the German Passivhaus Institute, R-2000 from Natural Resources Canada. These each provide guides on efficient construction [Hawken, 103][Hawken]
+* Water pipe leakage has significant impact– in Britain the National Leakage Initiative performs inspections to reduce & this model has been copied in other nations [Hawken, 105][Hawken]
 
 ## Drawbacks
 * Energy efficiency often creates a rebound/backfire effect actually leading to increased consumption. Increased energy efficiency = increased productivity of energy, thus making it cheaper to use the thing that requires energy, thus driving up demand for that thing [Owens, 120][Owens]
