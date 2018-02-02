@@ -25,6 +25,9 @@ a tide having two equal-height maxima and one low minimum
 ## agroecology
 the use of sustainable farming methods on small-scale farms based on the combination of local knowledge and modern science. Based on the principle that farming should maximize species diversity and enhance natural systems of soil protection and pest control
 
+## agroforestry
+intercropping of trees and crops for increased crop yield, especially naturally planted trees (through manure fertilization). Also called farmer-managed natural regeneration [Hawken, 118][Hawken]
+
 ## albedo
 reflectivity
 
@@ -96,6 +99,9 @@ the type of oil extracted from the Alberta Tar Sands
 
 ## black start
 the process of starting an electric grid section or power station without relying on an external transmission network– often, small generators (BSDG) start larger generators to start main power station generators. The challenge is that large power generation plants require some base electricity in order to begin operation. Hydroelectric plants are relatively easy to black start because you just need enough energy to open intake gates and excite the turbine generators
+
+## blue carbon
+storage of carbon in wetlands, unusually high in proportion to land area [Hawken, 112][Hawken]
 
 ## BOO
 Build-Own-Operate
@@ -409,6 +415,9 @@ current supplied to a conductor wrapped around a conductive core to create a mag
 ## exhaust gas recirculation
 NOx reduction technique where exhaust gas is sent back to the engine to reduce the availability of O2 and thus lower the combustion temperatures – since NOx is produced at high temperatures [wiki](https://en.wikipedia.org/wiki/Exhaust_gas_recirculation)
 
+## FAO
+(United Nations) Food and Agriculture Organization
+
 ## FCR
 feed conversion ratio: in agriculture and aquaculture, the ratio of feed consumed versus pound of weight gained
 
@@ -435,6 +444,9 @@ in power transmission, fixed losses (also called no-load losses, shunt losses, o
 
 ## flowgate rights
 like FTRs except attached to a branch in a network instead of just between two adjacent nodes. The value is tied not to the price difference between nodes but to the Lagrange multiplier associated with the maximum capacity of the flowgate– so, these rights have value only in congested branches [Kirschen, 198][Kirschen]
+
+## FLR
+forest landscape restoration: a holistic approach to forest restoration incorporating humans as stakeholders (e.g. pride and/or tourism), an approach proposed by the United Nations Food and Agriculture Organization (FAO) [Hawken, 116][Hawken]
 
 ## forward contract
 a forward contract specifies for a future transaction: quantity and quality of goods, delivery date, payment amount and type, payment date, and any penalties for failure to uphold the agreement
@@ -823,6 +835,9 @@ oscillating water column: a vertical chamber drilled into a cliff where waves pu
 ## PAL
 Park and loan service, a natural gas delivery mechanism whereby shippers can "park" gas not needed to supply demand or "borrow" gas in the pipeline, a short-term load balancing solution typically offered by a hub as a minor revenue source for pipeline operators [FERC, 26][FERC]
 
+## paludiculture
+wet agriculture and forestry on peatlands, keeping the bogs wet (thus continuing to store carbon) while also productive & growing through accumulation of decaying vegetation. Oranges, tea trees are example crops on peatlands [Hawken, 123][Hawken]
+
 ## PAR
 photosynthetically active radiation
 
@@ -859,6 +874,9 @@ voltage as measured between two phases, the voltage at an element in a delta con
 
 ## physical transmission rights
 in a grid electrical system, the right to transmit a certain amount of power, for a certain time, through a certain branch of the transmission network [Kirschen, 147][Kirschen]
+
+## phytoliths
+tiny silica structures in grass that are composed of minerals and thus resist degradation faster than other plant material– allowing them to sequester carbon for hundreds to thousands of years. Formed in grasses including bamboo [Hawken, 117][Hawken]
 
 ## phytonutrients
 chemical compounds that are the building blocks of taste, such as amino acids, esters, and flavinoids. Also part of plant immune systems.
@@ -1066,6 +1084,9 @@ in electrical transformers, the process of transforming electrical power so that
 
 ## step-up
 in electrical transformers, the process of transforming electrical power so that it has higher voltage and lower current, typically for the purpose of transmitting the electrical energy over long distances with minimal power loss
+
+## swidden
+burning and clearing of forest land for annual cultivation and subsequent fallowing to allow for regeneration (a form of shifting cultivation from indigenous farming) [Hawken, 125][Hawken]
 
 ## synchronous generator
 An electrical generator of AC power which is synchronized with a standard frequency

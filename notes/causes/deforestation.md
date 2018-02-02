@@ -8,4 +8,12 @@
 * China has only 0.3 acres of forest/person. World average is 1.6 [Diamond, 365][Diamond]
 * Deforestation is a major contributor to China's soil erosion and floods [Diamond, 366][Diamond]
 
+## Fighting deforestation
+* Organizations: United Nations Reducing Emissions from Deforestation and Forest Degradation (REDD+), New York Declaration on Forests, Forest Carbon Partnership Facility [Hawken, 110][Hawken]
+* Brazil cut loss by 80% in 10 years with strong enforcement, scientific monitoring including satellite photo alerts of new deforestation, land registry programs, credit withholding from government entities with high deforestation rates, financing of projects devoted to sustainable development, reduction of deforestation, and increased productivity of agricultural lands [Hawken, 111][Hawken]
+* Soy traders: embargo products from recently deforested land. Similar embargo: Amazon meat packers vs. suppliers who deforested (orchestrated by Greenpeace) [Hawken, 111][Hawken]
+* United Nations Environment Programme awards money to countries for reaching target reductions of deforestation [Hawken, 111][Hawken]
+* Concept of FLR points to needs of a protected and/or restored forest to interact economically & socially with its surrounding environs [Hawken, 116][Hawken]
+* AFR100: the African Forest Landscape Restoration Initiative is committed to restoring 247 million acres of degraded land by 2030 [Hawken, 116][Hawken]
+
 {% include "../../BIBLIOGRAPHY.md" %}
