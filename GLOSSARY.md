@@ -121,6 +121,9 @@ flooding the land or using sprinklers to distribute water over a large area (as 
 ## brownfields
 a former industrial or commercial site where future use is affected by real or perceived environmental contamination
 
+## BRT
+bus rapid transit, mass transit on bus systems designed to have the advantages of rail (e.g. specialized lanes, regularity, multi-point entry) [Hawken, 136][Hawken]
+
 ## BSDG
 black start diesel generator
 
@@ -540,6 +543,9 @@ pricing point for natural gas futures contracts, physically located in Louisiana
 
 ## HGL
 hydrocarbon gas liquids: produced from unrefined natural gas, they have high energy density and sit on the gas/liquid boundary [EIA factsheet on HGL](https://www.eia.gov/energyexplained/index.cfm?page=hgls_home)
+
+## HSR
+high speed rail, almost exclusively electrically powered [Hawken, 138][Hawken]
 
 ## HVDC
 high voltage DC power
