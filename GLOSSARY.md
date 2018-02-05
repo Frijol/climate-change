@@ -343,6 +343,9 @@ the land area required to provide the resources for and absorb the emissions fro
 ## EEG
 German Renewable Energy Sources Act, which created feed-in tariffs for solar and wind
 
+## EEDI
+Energy Efficiency Design Index, the International Maritime Organization (UN agency)'s standard for shipping vessels' energy efficiency [Hawken, 140][Hawken]
+
 ## EEPS
 energy efficiency portfolio standard: legislated energy use reduction. "mandatory, sets long-term reduction targets (at least three years), is sufficiently funded to allow covered entities to meet their targets, uses financial incentives or nonperformance penalties, and usually (but not always) increases over time" [EIA, 42][EIA]
 
