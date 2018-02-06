@@ -394,6 +394,9 @@ Energy Policy Act of 2005 increased ITC [EIA, 33][EIA]
 ## EPIA
 European Photovoltaic Industry Association
 
+## EPR
+extended producer responsibility, a policy that makes companies responsible for managing the post-use impacts of their products [Hawken, 160][Hawken]
+
 ## EPRI
 Electric Power Research Institute
 
@@ -501,6 +504,9 @@ the underground fracture network in rock in areas of high temperature gradient w
 
 ## GHG
 greenhouse gas
+
+## ghost fishing
+fishing gear abandoned in the ocean continues to catch and kill fish [Hawken, 160][Hawken]
 
 ## Gibrat ratio
 the length of a tidal barrage in meters compared to its output in kWh/year. An economic term where a smaller ratio implies a preferable cost ratio [Klossner, 36][Klossner]
@@ -853,6 +859,9 @@ photosynthetically active radiation
 ## Pareto efficiency
 in economics, a system is Pareto efficient if benefit to one side (producer or consumer) can only be increased by reducing the benefit to another party
 
+## pay-as-you-throw
+a garbage collection and recycling program where the cost of refuse collection is based on the landfill-bound waste (and compost and recycling is free) [Hawken, 159][Hawken]
+
 ## PE
 primary energy: energy contained in raw fuels, or otherwise received as input to a system. Use of this metric ignores conversion efficiency (from its potential energy to the amount we can actually harvest), so it leads to imperfect comparisons - for example, nuclear, coal, and other thermal electricity generation processes are highly inefficient and can be overvalued using this metric [wiki](https://en.wikipedia.org/wiki/Primary_energy)
 
@@ -964,6 +973,9 @@ e.g. a low-carbon technology is more convenient than a high-carbon technology, s
 
 ## recoverable cost
 a cost that can be recovered through sale of the asset, e.g. the land on which a generator plant is built
+
+## recycling rate
+the fraction of waste successfully redirected from landfill/incinerant, etc., often including compost [Hawken, 159][Hawken]
 
 ## refractometer
 a tool to measure Brix - looks like a small spyglass
@@ -1189,6 +1201,9 @@ planning regarding which generating units should be on during a given day to mee
 
 ## uplift
 an extra cost, usually about 10% of the power purchase price, added to the power purchase price to account for extra operating costs (out-of-merit dispatch, standby, and reactive power) related to market inefficiencies resulting from a day-ahead power purchase market in the United Kingdom [Graves, 1-2][Graves]
+
+## valorization
+the process of diverting and recovering waste materials, extracting the value that a discarded item retains [Hawken, 159][Hawken]
 
 ## variable losses
 variable losses in power transmission (also called load losses, series losses, copper losses, or transport-related losses) are caused by current flowing through the lines, cables, and transformers of a network. This loss can be approximated as a quadratic of the active power flow (proportional to power squared) [Kirschen, 175-176][Kirschen]
