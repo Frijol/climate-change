@@ -14,6 +14,7 @@ https://www.sciencedirect.com/science/article/pii/S1040619013001917 "Aggarwal, S
 [chao]: http://newscenter.lbl.gov/2017/07/20/berkeley-lab-lead-multimillion-dollar-geothermal-energy-project/ "Chao, Julie. 'Berkeley Lab to Lead Multimillion-Dollar Geothermal Energy Project.' Berkeley Lab, 2017."
 [charlier]: https://www.goodreads.com/book/show/16884573-ocean-energies "Charlier, R. H. 'Ocean Energy: Tide and Tidal Power.' Springer, 2009."
 [clark]: https://www.theguardian.com/environment/2012/jan/16/greenhouse-gases-remain-air "Clark, Duncan. 'How long do greenhouse gases stay in the air?' 2012."
+[cpuc]: http://www.cpuc.ca.gov/WorkArea/DownloadAsset.aspx?id=9141 "California Public Utilities Commission. 'Beyond 33% Renewables: Grid Integration Policy for a Low-­Carbon Future'. 2015."
 [cravens]: https://www.goodreads.com/book/show/1906869.Power_to_Save_the_World "Cravens, Gwyneth. Power to Save the World: the Truth about Nuclear Energy. 2007."
 [cuff]: https://www.theguardian.com/environment/2016/jan/12/vattenfall-starts-work-on-uk-hybrid-wind-and-solar-farm "Cuff, Madeleine. 'Vattenfall Starts Work on UK Hybrid Wind and Solar Farm.' 2016. The Guardian."
 [d'aprile]: http://www.mckinsey.com/business-functions/sustainability-and-resource-productivity/our-insights/the-new-economics-of-energy-storage "D'Aprile, Paolo. 'The new economics of energy storage.' 2016. McKinsey & Company."

@@ -1,3 +1,9 @@
+## AAEE
+additional achievable energy efficiency [CPUC][CPUC]
+
+## AB32
+Assembly Bill 32, Global Warming Solutions Act of 2006, a California State bill setting greenhouse gas emissions reduction targets [Wiki](https://en.wikipedia.org/wiki/Global_Warming_Solutions_Act_of_2006)
+
 ## ACE
 area control error: in the electric grid, adjustments to generators to ensure that each control area is generating the correct amount of energy (according to power purchase agreements between control areas). Typically measured every few seconds, its formula is (average frequency in control area) * bias + (net unscheduled tie-line flows into or out of the area), where bias accounts for the MWs of energy needed within the control area to offset an frequency shift of 0.01 Hz [Graves, 3-17][Graves]
 
@@ -15,6 +21,9 @@ alternative energy development plan
 
 ## affluenza
 Portmanteau of affluence and influenza, relating to overload, debt, anxiety and waste from consumerism [Friedman, 53][Friedman]
+
+## AFV
+Alternative Fuel Vehicles [CPUC][CPUC]
 
 ## AGC
 automatic generation control uses an area control error (ACE) signal to adjust the governors of electrical generation plants for droop control - keeping all the grid generators running at the same frequency
@@ -187,6 +196,9 @@ a photovoltaic composed of cadmium and telluride, notable as a thin, flexible PV
 ## CERC
 Central Energy Regulatory Commission
 
+## CES-21
+California Energy Systems for the 21st Century, a collaborative research project between CA's three main utilities and the Lawrence Livermore National Laboratory for cybersecurity on the electric grid
+
 ## CFD
 computational fluid dynamics
 
@@ -256,6 +268,9 @@ The 2009 Climate Change Convention of the Parties in Copenhagen
 ## CPP
 Clean Power Plan, a 2015 federal initiative in the United States to reduce greenhouse gas emissions from power plants. EPA factsheet: https://www.epa.gov/cleanpowerplan/fact-sheet-overview-clean-power-plan
 
+## CPUC
+California Public Utilities Commission
+
 ## CSAPR
 Cross State Air Pollution Rule requires states to reduce power plant emissions that leave air pollution/particulate in other states (2011)
 
@@ -267,6 +282,9 @@ concentrating solar power, whereby thermal power from sunlight is reflected onto
 
 ## CTL
 coal to liquid (a synthetic fuel/synfuel) [wiki](https://en.wikipedia.org/wiki/Coal_liquefaction)
+
+## curtailment
+the reduction of output of a renewable resource below what it could have otherwise produced, used e.g. by the CAISO to reduce the problem of oversupply
 
 ## CVM
 contingent valuation methodology: a standard non-market valuation technique for renewable energy technology, based in economic theory and survey methodology specifically asking willingness to pay [Polis]
@@ -352,6 +370,9 @@ energy efficiency portfolio standard: legislated energy use reduction. "mandator
 ## EERS
 energy efficiency resource standard: legislated energy use reduction. See EEPS [EIA, 42][EIA]
 
+## EFC
+effective flexible capacity
+
 ## EG
 Steam Electric Power Generating Effluent Guidelines
 
@@ -360,6 +381,12 @@ electric generating unit
 
 ## EGS
 enhanced geothermal energy systems
+
+## EIM
+Energy Imbalance Market [CPUC][cpuc]
+
+## ELCC
+effective load carrying capacity [CPUC][cpuc]
 
 ## EMEC
 European Marine Energy Center: a marine power generation research facility located in Orkney, Scotland. The center was created to offer marine-based renewable energy technology developers the opportunity to test full-scale, grid-connected devices [O Rourke, 9][ORourke]
@@ -385,6 +412,9 @@ thermally and mechanically stressing aquatic organisms to create clean water [EI
 ## ENTSO-E
 European Network of Transmission System Operators for Electricity, the international organization for grid reliability in Europe
 
+## EOM
+energy-only market (as opposed to a capacity market)– a scheme where electrical generators are paid only for the energy generated
+
 ## EOR
 enhanced oil recovery: steam heat to reduce the viscosity of the oil, then pump in oxygen to burn in situ [Muller, 234][Muller]
 
@@ -408,6 +438,9 @@ Equity reference Framework
 
 ## EROEI
 energy return on energy invested [Murphy]
+
+## ESDER
+energy storage and distributed energy resources [CPUC][cpuc]
 
 ## ETS
 Emissions Trading System
@@ -646,6 +679,9 @@ taking place across constant streamlines; not turbulent
 ## LCA
 life cycle assessment (typically, cradle to grave carbon impact analysis)
 
+## LCBF
+least-cost, best-fit, the CPUC's methodology for procuring energy in line with RPS goals ([more information](http://cpuc.ca.gov/Utility_Scale_RFO/))
+
 ## LCOE
 levelized cost of electricity: the cost of building and operating a plant per kWh of output. Useful for comparing costs among technologies with similar operating characteristics– see also LACE (for varied duty cycles). Can vary significantly by region for renewables (e.g. solar in Seattle vs. San Diego) [EIA, 115][EIA]
 
@@ -703,6 +739,9 @@ long-run marginal cost
 ## LSE
 load serving entities: energy suppliers
 
+## LTPP
+long-term procurement plan ([more information](http://www.cpuc.ca.gov/irp/))
+
 ## macrotidal
 having tides larger than 4m
 
@@ -729,6 +768,9 @@ having tides smaller than 2m
 
 ## MO
 market operator, in the electrical grid, the entity that matches the bids and offers of buyers and sellers of electricity and settles payments. ISO is a MO
+
+## MOO
+must-offer obligation
 
 ## MPC
 model predictive control, a grid power scheduling system whereby a model of the system's demands is used to schedule the running of generators so that the power is present in the system before it is required
@@ -880,6 +922,9 @@ The use of destruction from catastrophic events as an opportunity to rebuild wit
 ## petrochemical cracker
 a plant designed to convert ethane, propane, and normal
 butane, as well as naphtha, to ethylene, propylene, and other building blocks of the petrochemical industry [EIA, 86][EIA]
+
+## PEV
+plug-in electric vehicle
 
 ## pH
 pH is a logarithmic scale from 0 to 14, where 7 is neutral, higher is basic (alkaline), and lower is acidic
@@ -1213,6 +1258,9 @@ variable losses in power transmission (also called load losses, series losses, c
 
 ## VARs
 volt-amps reactive, a measure of reactive power
+
+## VGI
+vehicle-grid integration
 
 ## VOLL
 value of lost load, the average price per megawatt-hour that consumers would be willing to pay to avoid being disconnected without notice [Kirschen, 74][Kirschen]
