@@ -659,10 +659,13 @@ Light-duty vehicle, i.e. passenger vehicles and some ~van-sized commercial vehic
 Economies of scale combined with improvements in technology and lessons learned as a technology rolls out [Naam][NaamStorage]
 
 ## LFG
-landfill gas
+landfill gas, gas harvested from anaerobic decomposition of trash in landfills (methane)
 
 ## linepack
 in natural gas transmission, a pressurized section, used to pack more molecules into the same space [FERC, 2][FERC]
+
+## linked fee
+a carbon tax pricing scheme designed to stabilize the price of carbon (giving e.g. oil refiners - who proposed this - better stability), averaging that price over three months rather than using realtime pricing [Lizza][Lizza]
 
 ## LMFBRs
 liquid metal fast breeder nuclear reactors
