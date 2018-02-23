@@ -352,6 +352,9 @@ demand-side management
 ## DSO
 (electric) distribution service operator
 
+## dynamic pricing
+electricity rate pricing that dynamically tracks grid conditions [Trabish][trabish-dynamic]
+
 ## ECA
 emission control area
 

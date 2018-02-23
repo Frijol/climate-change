@@ -84,6 +84,8 @@ https://www.sciencedirect.com/science/article/pii/S1040619013001917 "Aggarwal, S
 [sutter]: http://www.cnn.com/2016/04/19/opinions/sutter-carbon-tax-washington-british-columbia/index.html "Sutter, John. 'There\'s a cheap, proven fix to the world's biggest problem.' Really overstated title, but decent information about carbon taxation."
 [sutterparis]: http://www.cnn.com/2016/04/21/opinions/sutter-paris-agreement-whats-next/index.html "Sutter, John. 'What\'s next for the Paris agreement?' 2016. Straightforward FAQ on the Paris Agreement."
 [trabish]: http://www.utilitydive.com/news/have-californias-efforts-to-value-distributed-resources-hit-a-roadblock/438400/ "Trabish, Herman K. 'Have California's efforts to value distributed resources hit a roadblock?'. 2017. Utility Dive."
+[trabish-dynamic]:
+https://www.utilitydive.com/news/beyond-tou-is-more-dynamic-pricing-the-future-of-rate-design/447171/ "Trabish, Herman. 'Beyond ToU: Is more dynamic pricing the future of rate design?' Utility Dive, 2017."
 [victor]: http://worrydream.com/ClimateChange/ "Victor, Bret. 'What Can a Technologist Do about Climate Change? (A Personal View).' 2015. Essay on how techies and entrepreneurs can work on the problem of climate change."
 [weisman]: https://www.goodreads.com/book/show/248787.The_World_Without_Us "Weisman, Alan. 'The World Without Us.' 2007. How Earth would remember our species if all humans suddenly disappeared. Thoroughly researched and dryly stated."
 [wilczewski]: http://www.eia.gov/todayinenergy/detail.php?id=27372 "Wilczewski, Warren. 'Future natural gas plant liquids production depends on resources, market conditions.' 2016."
