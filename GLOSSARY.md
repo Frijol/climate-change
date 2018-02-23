@@ -50,7 +50,7 @@ advanced metering functionality, the broad capabilities enabled by the existence
 advanced metering infrastructure "commonly defined as an integrated network of smart meters, communication networks, and data management systems, which has the potential to transform how utilities, customers, and third-party providers manage electricity generation, delivery, and use" [Girouard]
 
 ## ancillary services
-in the context of the electrical grid, services which support the trade of electricity, useful primarily for their potential to deliver a needed resource to the grid on request, quantifiable by their ability to respond when needed [Kirschen, 106][Kirschen]
+in the context of the electrical grid, services which support the trade of electricity, useful primarily for their potential to deliver a needed resource to the grid on request, quantifiable by their ability to respond when needed [Kirschen, 106][Kirschen]. Any services in addition to the provision of energy to meet load [CPUC, 14][CPUC].
 
 ## aneutronic
 producing no neutrons
@@ -357,6 +357,9 @@ emission control area
 
 ## ecological footprint
 the land area required to provide the resources for and absorb the emissions from global society [Meadows, xiv][Meadows]
+
+## economic curtailment
+curtailment of electrical energy onto the grid through negative market pricing
 
 ## EEG
 German Renewable Energy Sources Act, which created feed-in tariffs for solar and wind
@@ -721,6 +724,9 @@ an encapsulation of information on how many hours each year electrical load is b
 ## load following
 moderation of generator electricity production to match energy load, or demand
 
+## local curtailment
+congestion-related energy curtailment events [CPUC, 13][CPUC]
+
 ## locational marginal pricing
 the marginal cost of energy production, taking into account the cost of transmission (where the energy is produced or consumed)– nodal pricing is a subset where a price is defined at each node or bus in the system [Kirschen, 153][Kirschen]
 
@@ -744,6 +750,9 @@ long-term procurement plan ([more information](http://www.cpuc.ca.gov/irp/))
 
 ## macrotidal
 having tides larger than 4m
+
+## manual curtailment
+a special dispatch from a grid authority such as an ISO directing a specific generating entity to reduce generation [CPUC, 13][CPUC]
 
 ## MARPOL
 International Convention for the Prevention of Pollution from Ships [EIA, 45][EIA]
@@ -799,6 +808,9 @@ a monopoly found in an industry that has a minimum efficient size comparable to 
 ## NCRE
 Non-conventional renewable energy
 
+## negative market price
+(of electricity pricing on the grid) a negative per-unit-energy price for feeding electrical energy into the grid, generally caused by oversupply
+
 ## NEM
 Net Energy Metering
 
@@ -810,6 +822,9 @@ National Environmental Policy Act: requires any federal actions with significant
 
 ## NERC
 North American Electric Reliability Corporation, a nonprofit international regulatory agency (NERC.com)
+
+## net load
+the customer load remaining to be served after subtracting out energy provided by wind and solar [CPUC, 9][CPUC]
 
 ## net power injection
 at a node in a power transmission system, an integer representing the flow of power through the bus (positive if local production exceeds demand) [Kirschen, 182][Kirschen]
@@ -889,6 +904,9 @@ ocean thermal energy conversion, also called thalassothermal energy
 ## overburden
 the material that lies above an area suitable for economic exploitation (e.g. soil, plants above a potential mine)
 
+## oversupply
+"a condition when the grid has more generation being produced from all of the resources on the grid than is needed, based on the load—in other words, an imbalance between electricity supply and demand" [CPUC, 11][CPUC]
+
 ## OWC
 oscillating water column: a vertical chamber drilled into a cliff where waves push aboveground air up the tube through a turbine
 
@@ -909,6 +927,9 @@ a garbage collection and recycling program where the cost of refuse collection i
 
 ## PE
 primary energy: energy contained in raw fuels, or otherwise received as input to a system. Use of this metric ignores conversion efficiency (from its potential energy to the amount we can actually harvest), so it leads to imperfect comparisons - for example, nuclear, coal, and other thermal electricity generation processes are highly inefficient and can be overvalued using this metric [wiki](https://en.wikipedia.org/wiki/Primary_energy)
+
+## peaker
+in reference to an electric plant, designed to meet the highest electrical load demand of the year. Generally a gas-burning plant that can be got online quickly and is only used during parts of the hottest summer months
 
 ## peak oil
 the point in time when the maximum extraction of oil is reached (based on a theory by M. King Hubbert, a Shell researcher). Based on the incorrect belief that resource extraction curves fit a bell curve, “peak oil’ is the idea that we will run out of oil to extract and then our industry will drop precipitously, returning us to a hunter-gatherer lifestyle within a few thousand years [Smil, 62-64][Smil]
@@ -1162,6 +1183,9 @@ An electrical generator of AC power which is synchronized with a standard freque
 
 ## synfuel
 synthetic fuel; fuel (liquid hydrocarbons such as gasoline or kerosene) produced from coal, natural gas, or biomass into synthetic crude or other liquid fuel
+
+## system curtailment
+curtailment induced by oversupply [CPUC, 13][CPUC]
 
 ## system upgrade deferral
 allocation of off-peak energy (e.g. through battery storage) to times when new capacity would otherwise have to be added to meet demand [Fitzgerald, 15][Fitzgerald]

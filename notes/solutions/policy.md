@@ -1,5 +1,6 @@
 # Policy solutions for climate change
 
+* RPS does spur renewables integration, but the % renewable does not map 1:1 into GHG improvements. For example, lower (or more frequently changing) output from traditional plants can cause them to operate at lower efficiency & be more polluting per energy generated [CPUC, 6][CPUC] 
 * A policy is "investment-grade" when it reduces uncertainty. It shifts risk to parties that can best manage it, causing it to offer return commensurate with risk and thus driving private investment. This makes a transition affordable [Aggarwal, 7][Aggarwal]
 * Factors in making policy investment-grade: policy certainty/longevity/stability to support long payback periods; long-term certainty about price or about access to markets; contract sanctity esp. with utilities as buyers; few non-price barriers (such as permitting); grid is accessible; application processing should not take long [Aggarwal, 7][Aggarwal]
 * Energy policy should incentivize delivery of the best energy service, not the most electrons. Optimize for high reliability, reasonable cost, and strong environmental performance. Policy sets emphasis in balancing these factors. [Aggarwal, 10, 12][Aggarwal]
