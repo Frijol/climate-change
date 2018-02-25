@@ -14,7 +14,7 @@ absorption-attenuation meter, an optical sensor
 alternative compliance payment: amount that electricity suppliers have to pay if they aren't able to generate or buy rights to sufficient renewable energy to meet their renewable portfolio standards
 
 ## additionality
-the assurance to a buyer of a carbon market that the money spent is really eliciting a reduction in carbon
+the assurance to a buyer of a carbon market that the money spent is really eliciting a reduction in carbon - that the money spent leads to a move toward sustainability that would not otherwise have happened
 
 ## AEDP
 alternative energy development plan
@@ -138,6 +138,9 @@ black start diesel generator
 
 ## BSER
 best system of emission reduction
+
+## BTM
+behind the meter, i.e. on the consumer side of an electrical energy meter (used in discussion of where e.g. demand response takes place– if BTM, at the source of the demand)
 
 ## busbar
 a system of electrical conductors in a generating or receiving station on which power is concentrated for distribution
