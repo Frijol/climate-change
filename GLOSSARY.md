@@ -397,6 +397,9 @@ Energy Imbalance Market [CPUC][cpuc]
 ## ELCC
 effective load carrying capacity [CPUC][cpuc]
 
+## EM&V
+evaluation, measurement, & verification
+
 ## EMEC
 European Marine Energy Center: a marine power generation research facility located in Orkney, Scotland. The center was created to offer marine-based renewable energy technology developers the opportunity to test full-scale, grid-connected devices [O Rourke, 9][ORourke]
 
