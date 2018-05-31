@@ -13,6 +13,7 @@ Quick scroll-through visualization showing [what causes global warming](https://
 * Tipping point events could cause much faster global warming. For example: the Antarctic ice sheet loosens and slips into the sea, causing 100 feet of sea rise globally; freshwater from Greenland glaciers disrupts Gulf Stream current and thus currents throughout the Pacific Ocean; Methane is released from clathrates in melting permafrost or Arctic seabeds [Muller, 51][Muller]
 * "Owing to a combination of fossil fuel combustion and deforestation, the concentration of carbon dioxide in the air has risen by forty percent over the last two centuries, while the concentration of methane, an even more potent greenhouse gas, has doubled." [Kolbert, 108][Kolbert]
 * It's not just CO2– here are the major greenhouse gases:
+
 | Greenhouse gas | Global Warming Potential (GWP) | Remains in atmosphere | Emitted from |
 |---|---|---|---|
 | Carbon dioxide (CO2) | 1 (by definition of GWP) [EPA-GWP] | 20-200 years to remove 65-80%, then hundreds of thousands of years [Clark] | Fossil fuel combustion (coal, natural gas, oil), solid waste combustion, cement manufacturing [EPA] |
