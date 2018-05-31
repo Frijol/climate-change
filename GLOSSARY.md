@@ -947,7 +947,10 @@ the point in time when the maximum extraction of oil is reached (based on a theo
 Proton Exchange Membrane, a type of fuel cell with low efficiency (50%) and low (50-80C) operating temperature typically used in the transportation sector
 
 ## People's Recovery
-The use of destruction from catastrophic events as an opportunity to rebuild with equity in mind
+the use of destruction from catastrophic events as an opportunity to rebuild with equity in mind
+
+## per-capita human impact
+average resource consumption and waste production of one person. A society's total impact is per-capita impact multiplied by population. [Diamond, 353][Diamond]
 
 ## petrochemical cracker
 a plant designed to convert ethane, propane, and normal
