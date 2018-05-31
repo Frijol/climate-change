@@ -1,5 +1,7 @@
 # Solutions - stub notes
 
+**Peer-edited studies of the most impactful climate change reversal strategies, in ranked order: [Project Drawdown](http://www.drawdown.org/)**
+
 ## Cleaner industrial processes
 * Capturing carbon at its source is a good idea, but companies are not incentivized to capture and sequester their emissions. “CCS” (carbon capture and sequestration) involves sorting CO2 out of exhaust at its source, transporting the CO2 (typically, in compressed form through pipelines) and injecting it into underground structures [Smil, 89][Smil]
 
@@ -16,5 +18,6 @@
 * In high-income cities, factors for successful recycling policies include public awareness while making collection easy and using incentives such as pay-as-you-throw (San Francisco) [Hawken, 159][Hawken]
 * EPR, policy to improve thoughtful lifecycle design of products, includes charges to a company for the cost of recovery and recycling (pure financial approach) or can include company recovery and reprocessing of the product [Hawken, 160][Hawken]
 * U. S. Materials Marketplace is a matchmaking market for secondary-use materials [Hawken, 161][Hawken]
+* CFCs (chlorofluorocarbons) were evidence that humans were massively impacting the environment and creating a hole in the ozone layer. Political action banning specific chemical products was fairly decisive in reducing this issue.
 
 {% include "../../BIBLIOGRAPHY.md" %}

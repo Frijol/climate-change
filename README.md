@@ -1,6 +1,8 @@
 # Climate Change
 
-Personal notes as I explore the subject of climate change. Top books I've read: [book list](/book_list.html)
+Personal notes as I explore the subject of climate change.
+
+New to the field? Start with the [basics](https://frijol.gitbooks.io/climate-change/content/notes/causes/basics.html).
 
 ---
 
@@ -9,6 +11,8 @@ Personal notes as I explore the subject of climate change. Top books I've read: 
 [*See the book's webpage*](http://ifoundthemeaningoflife.com/climate-change-book)
 
 ---
+
+Top books I've read during this research: [book list](/book_list.html)
 
 [View as a Gitbook](https://frijol.gitbooks.io/climate-change/content/) ([PDF](https://www.gitbook.com/download/pdf/book/frijol/climate-change) | [ePub](https://www.gitbook.com/download/epub/book/frijol/climate-change) | [Mobi](https://www.gitbook.com/download/mobi/book/frijol/climate-change))
 
