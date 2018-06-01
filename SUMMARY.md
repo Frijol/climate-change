@@ -2,7 +2,6 @@
 
 * [Notes](notes/_notes.md)
   * [Causes](notes/causes/_causes.md)
-    * [Basics](notes/causes/basics.md)
     * [Agriculture](notes/causes/agriculture.md)
     * [Deforestation](notes/causes/deforestation.md)
     * [Overconsumption](notes/causes/overconsumption.md)
