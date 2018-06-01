@@ -21,6 +21,12 @@ Quick scroll-through visualization showing [what causes global warming](https://
 | Nitrous oxide | 265-298 [EPA-GWP] | 114 years [Clark] | Agricultural and industrial activities, combustion of fossil fuels and solid waste [EPA] |
 | Halocarbons/CFCs | 1000s-10,000s [EPA-GWP] | Varies from less than a year to thousands of years. [Here is a table.](http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch2s2-10-2.html#table-2-14) | Freon (refrigerators), industrial processes [EPA] |
 
+### Positive feedback loops
+* Global warming reduces the likelihood that we can count on forests and trees as permanent carbon sinks. Sequestration of carbon in forests fluctuates to the extent that some years forests can produce more carbon than they sequester [Smil, 80][Smil]. In the near future, Tropical forests’ carbon impacts will change in the near future mostly due to deforestation, but many other forests will be limited by water and soil nutrient availability, especially a lack of nitrogen. This is one of the effects of global warming. We will also have more carbon-releasing wildfires across these forests due to longer droughts from global warming. [Smil, 82][Smil]
+* Methane emissions from thawing peat bogs in Western Siberia are up to 100k tons/day, a greater warming effect than U.S. man-made emissions [Pearce, 79][Pearce]
+* Stordalen mire: well-monitored permafrost peat bog in northern Sweden that is beginning to break up [Pearce, 82][Pearce]
+* 1-10t tons of methane is currently held by clathrates [Pearce, 92][Pearce]
+
 ## Where the warming comes from
 *Note: this is super weird presentation of disparate facts. TODO: make this a section with charts*
 * The world's highest-emission companies: [Carbon Majors, 2017](https://b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf?1499866813)
@@ -29,14 +35,19 @@ Quick scroll-through visualization showing [what causes global warming](https://
 * At least half of waste is generated outside households (industrial) [Hawken, 160][Hawken]
 * 5-6% of the world's annual oil production is feedstock for plastic manufacturing [Hawken, 168][Hawken]
 * 1/3 of plastic ends up in ecosystems, 5% is recycled; the rest is landfilled or burned [Hawken, 169][Hawken]
-* Hot water is responsible for a quarter of residential energy use globally [Hawken, 170][Hawken] 
+* Hot water is responsible for a quarter of residential energy use globally [Hawken, 170][Hawken]
 
 ## Politics: Why Warming Continues
 ### Global political response
 * There is no decisive political action that can be taken regarding carbon emissions, because any that would actually work would also shut down the global economy.
 * Paris Agreement established the goal of limiting climate change to 1.5-2 degrees C above preindustrial levels and creates a process for emissions cuts. [Sutter][SutterParis] Obama administration released CPP as a concrete plan to meet these targets but it's currently held up in court (update expected Feb 2017)
+
 ### We're not changing
 * The amount of carbon that can be burned between 2011 and 2049 to have a 50% chance of keeping global warming below 2 degrees celcius is 565 gigatons. Reserves already claimed by all fossil fuel companies for oil, gas, and coal amounts to 2,795 gigatons of carbon. [Klein, 134][Klein]
+
+### Continued effects even after we improve
+* The IPCC says we get 90 more years of climate change regardless of how much emission we stop. 2007: 385 PPM CO2. No way to avoid 450 PPM by midcentury according to Pew Center on Global Climate Change [Begley]
+* In order to have a 50% chance of keeping below the agreed-upon international target of no more than 2 degrees C of warming, all wealthy countries need to start cutting greenhouse gas emissions by 8-10% immediately (2015) [Klein, 81][Klein]
 
 ## Planetary Impacts: How Much This Matters
 ### Humans have drastically altered the planet

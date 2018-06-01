@@ -1,16 +1,7 @@
 # Effects of climate change
 
+## Weather extremes
 * On average, storms last 60% longer and have wind speeds 15% higher in the 2000s than they did in the 1950s [Pearce, 215][Pearce]
-
-## Positive feedback loops
-* Global warming reduces the likelihood that we can count on forests and trees as permanent carbon sinks. Sequestration of carbon in forests fluctuates to the extent that some years forests can produce more carbon than they sequester [Smil, 80][Smil]. In the near future, Tropical forests’ carbon impacts will change in the near future mostly due to deforestation, but many other forests will be limited by water and soil nutrient availability, especially a lack of nitrogen. This is one of the effects of global warming. We will also have more carbon-releasing wildfires across these forests due to longer droughts from global warming. [Smil, 82][Smil]
-* Methane emissions from thawing peat bogs in Western Siberia are up to 100k tons/day, a greater warming effect than U.S. man-made emissions [Pearce, 79][Pearce]
-* Stordalen mire: well-monitored permafrost peat bog in northern Sweden that is beginning to break up [Pearce, 82][Pearce]
-* 1-10t tons of methane is currently held by clathrates [Pearce, 92][Pearce]
-
-## Continued effects even after we improve
-* The IPCC says we get 90 more years of climate change regardless of how much emission we stop. 2007: 385 PPM CO2. No way to avoid 450 PPM by midcentury according to Pew Center on Global Climate Change [Begley]
-* In order to have a 50% chance of keeping below the agreed-upon international target of no more than 2 degrees C of warming, all wealthy countries need to start cutting greenhouse gas emissions by 8-10% immediately (2015) [Klein, 81][Klein]
 
 ## Glacier retreat
 * In Glacier Bay (AK), ice front surveyed by Cook in late 1700s retreated 50 miles by 1980s [Montgomery, 32][Montgomery]
