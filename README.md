@@ -24,7 +24,9 @@ Bibliography section is annotated with a basic description per source, but I hav
 
 Areas of opportunity is a great place to start if you're looking for ways an engineer might work in this space or what some key questions might be.
 
-## Meta-notes: what is here, and what is missing?
+====
+
+## Meta-notes (to self): what is here, and what is missing?
 
 ### Overall comments
 
