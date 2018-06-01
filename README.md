@@ -1,18 +1,19 @@
 # Climate Change
 
-**I'm currently working on making this into a published book. Interested? [Let me know!](http://ifoundthemeaningoflife.com/climate-change-book)**
+## Help me publish this book:
+I'm currently working on making this into a published book. Interested? **[Let me know!](http://ifoundthemeaningoflife.com/climate-change-book)**
 
 ---
 
-[View as a Gitbook](https://frijol.gitbooks.io/climate-change/content/) ([PDF](https://www.gitbook.com/download/pdf/book/frijol/climate-change) | [ePub](https://www.gitbook.com/download/epub/book/frijol/climate-change) | [Mobi](https://www.gitbook.com/download/mobi/book/frijol/climate-change))
+[View notes as a Gitbook](https://frijol.gitbooks.io/climate-change/content/) ([PDF](https://www.gitbook.com/download/pdf/book/frijol/climate-change) | [ePub](https://www.gitbook.com/download/epub/book/frijol/climate-change) | [Mobi](https://www.gitbook.com/download/mobi/book/frijol/climate-change))
 
 ---
 
-## How do I use this book?
+## How do I use these notes?
 
 If you're in the Gitbook, you can hover over or click on links. Underlined links are glossary terms (hover or click to read descriptions); non-underlined links are citations - hover to read bibliography or click to access articles or links to books.
 
-## How is this organized?
+## How are these notes organized?
 
 Main sections have an introduction to what is there; they will also have a "stubs" section for unsorted notes and pieces which don't yet deserve their own sections.
 
