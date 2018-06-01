@@ -274,6 +274,9 @@ Clean Power Plan, a 2015 federal initiative in the United States to reduce green
 ## CPUC
 California Public Utilities Commission
 
+## creeping normalcy
+the idea that slow trends are concealed within noisy fluctuations, such that they can't be discerned by people who have experienced the slow change. E.g. do we experience more heat waves now than when I was a child? We had a lot two years ago, just a few last year. But I don't remember if we ever had more than one per year when I was seven. [Diamond, 69.4%][Diamond]
+
 ## CSAPR
 Cross State Air Pollution Rule requires states to reduce power plant emissions that leave air pollution/particulate in other states (2011)
 
@@ -687,6 +690,9 @@ levelized avoided cost of electricity: LCOE for technologies with different duty
 
 ## laminar
 taking place across constant streamlines; not turbulent
+
+## landscape amnesia
+forgetting how different the landscape used to look because the change has been gradual. E.g. lack of snow in the summer on a mountaintop may seem normal if it has gradually disappeared over 50 years but is shocking to someone who had never seen it bare from a childhood 50 years previous [Diamond, 69.4%][Diamond]
 
 ## LCA
 life cycle assessment (typically, cradle to grave carbon impact analysis)

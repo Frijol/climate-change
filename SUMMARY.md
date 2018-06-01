@@ -1,6 +1,6 @@
 # Summary
 
-* [Notes](notes/_notes.md)
+* Notes
   * [Causes](notes/causes/_causes.md)
     * [Agriculture](notes/causes/agriculture.md)
     * [Deforestation](notes/causes/deforestation.md)

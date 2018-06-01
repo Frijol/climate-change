@@ -9,4 +9,10 @@
 ## Controversy
 * Some worry that focus on adaptation will create financial incentives for climate change acceleration. Others argue that we will need adaptation services/technologies regardless of how fast we curb emissions, so we should start now.
 
+## Electric cars: considered (falsely?) adaptive
+* Hybrid cars have taken more than 10 years to claim less than 3 percent of the market [Smil, 25][Smil]
+* In large cities (where electric cars for commute make the most sense), 30–60% of cars are parked curbside. Since most electric car scenarios envision overnight charging in garages, how would these curb-parked cars be charged? [Smil, 25][Smil]
+* Most published scenarios put likely share of pure electric cars at no more than 25% by 2050 [Smil, 25][Smil]
+* We don’t produce enough energy to charge 100% of cars, and can’t scale up to it quickly. Assuming that the overall demand of a midsized electric car is around 6MW/year, if all American cars suddenly became electric, we would immediately need new power generation equal to 25% of all of the energy used in the United States in 2008. [Smil, 26][Smil] We can’t produce that much more energy soon. It took 15 years (1993–2008) to spin up that quantity of power the last time we did. [Smil, 26][Smil]
+
 {% include "../../BIBLIOGRAPHY.md" %}

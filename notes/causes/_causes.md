@@ -43,6 +43,7 @@ Quick scroll-through visualization showing [what causes global warming](https://
 * Paris Agreement established the goal of limiting climate change to 1.5-2 degrees C above preindustrial levels and creates a process for emissions cuts. [Sutter][SutterParis] Obama administration released CPP as a concrete plan to meet these targets but it's currently held up in court (update expected Feb 2017)
 
 ### We're not changing
+* Creeping normalcy and landscape amnesia make it easy for people to feel that the change we're experiencing is normal [Diamond]
 * The amount of carbon that can be burned between 2011 and 2049 to have a 50% chance of keeping global warming below 2 degrees celcius is 565 gigatons. Reserves already claimed by all fossil fuel companies for oil, gas, and coal amounts to 2,795 gigatons of carbon. [Klein, 134][Klein]
 
 ### Continued effects even after we improve
