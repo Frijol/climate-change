@@ -1,8 +1,6 @@
 # Climate Change
 
-**I'm currently working on making this into a published book. Interested? [Let me know with this quick form.](https://docs.google.com/forms/d/e/1FAIpQLSeY0nX5XvmM2795fGK06CL-ePCxfy4oSXGMkRfz2mnmX832UA/viewform?usp=sf_link)**
-
-[*See the book's webpage*](http://ifoundthemeaningoflife.com/climate-change-book)
+**I'm currently working on making this into a published book. Interested? [Let me know!](http://ifoundthemeaningoflife.com/climate-change-book)**
 
 ---
 
