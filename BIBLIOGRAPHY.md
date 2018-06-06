@@ -2,6 +2,7 @@
 [aggarwal]:
 https://www.sciencedirect.com/science/article/pii/S1040619013001917 "Aggarwal, Sonia and Harvey, Hal. 'Rethinking Energy Policy to Deliver a Clean Energy Future.' Energy Innovation, 2013."
 [atwood]: https://medium.com/@MargaretAtwood/the-carbonivore-fund-b42b386a9af8#.o4ez5a7il "Atwood, Margaret. 'The Carbonivore Fund'. List of companies working against climate change."
+[bainbridge]: https://www.goodreads.com/book/show/1550348.A_Guide_for_Desert_and_Dryland_Restoration "Bainbridge, David. 'A Guide for Desert and Dryland Restoration: New Hope for Arid Lands.' Island Press, 2007."
 [barber]: https://www.goodreads.com/book/show/18667790-the-third-plate "Barber, Dan. 'The Third Plate: Field Notes on the Future of Food.' 2014. A chef's search for excellent farm-to-table flavor and accompanying romance with organics and sustainability."
 [begley]: http://www.newsweek.com/learning-love-climate-adaptation-95079 "Begley, Sharon. Learning to Love Climate Adaptation. 2007. Newsweek. Economic opportunities created by climate change."
 [berners-lee]: https://www.goodreads.com/book/show/7230015-how-bad-are-bananas "Berners-Lee, Mike. 'How Bad Are Bananas? The Carbon Footprint of Everything.' 2010. An guide to help the average reader develop an instinct for the emissions impact of their everyday choices."
