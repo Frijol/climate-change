@@ -4,6 +4,11 @@
 
 ## Landscape restoration
 * Overgrazing is the most serious and common problem for drylands globally [Bainbridge, 2][Bainbridge]
+* Natural restoration can take hundreds of years on noncompacted lands in drylands, longer for compacted due to irregular and infrequent favorable conditions for plant establishment. Thus, active restoration is necessary to restore dryland within a generation [Bainbridge, 6][Bainbridge]
+* "Ecological restoration tries to restore ecosystem function (how things work) and ecosystem structure (how things look) to match undisturbed reference sites." [Bainbridge, 8][Bainbridge]
+* Society for Ecological Restoration
+* "Traditionally, structure has often been favored (how many plants, what kinds) over function (water flow and retention, nutrient cycling), but repairing function usually is more important." [Bainbridge, 12][Bainbridge]
+* Restoration costs: $100's to 20,000/acre or more [Bainbridge, 12][Bainbridge]
 
 ## Cleaner industrial processes
 * Capturing carbon at its source is a good idea, but companies are not incentivized to capture and sequester their emissions. “CCS” (carbon capture and sequestration) involves sorting CO2 out of exhaust at its source, transporting the CO2 (typically, in compressed form through pipelines) and injecting it into underground structures [Smil, 89][Smil]

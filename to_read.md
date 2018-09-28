@@ -1,6 +1,9 @@
 # Further research (to do)
 
 * Learn more about landfill gas
+* Compilation of good [links to look through](https://jahya.net/blog/climate-change-links-refs/)
+* [EDGI reports on how the US gvt presents climate-related data](https://envirodatagov.org/publications/)
+* [ClimateWatch open data visualizations](https://www.climatewatchdata.org/)
 
 ## Reports
 * McKinsey: [Unlocking Energy Efficiency in the U.S. Economy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0ahUKEwitzMmuuoTVAhVKzGMKHQd3BU0QFgg6MAc&url=http%3A%2F%2Fwww.mckinsey.com%2Fclient_service%2Felectric_power_and_natural_gas%2Flatest_thinking%2F~%2Fmedia%2F204463a4d27a419ba8d05a6c280a97dc.ashx&usg=AFQjCNGBIpEUQpS3PmPkFNPg3hBjrnz11w&cad=rja)
