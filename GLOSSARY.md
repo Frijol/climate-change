@@ -361,6 +361,9 @@ demand-side management
 ## dynamic pricing
 electricity rate pricing that dynamically tracks grid conditions [Trabish][trabish-dynamic]
 
+## EA
+Environmental Assessment, typically a less formal EIA
+
 ## ECA
 emission control area
 
@@ -369,6 +372,9 @@ the land area required to provide the resources for and absorb the emissions fro
 
 ## economic curtailment
 curtailment of electrical energy onto the grid through negative market pricing
+
+## EDGI
+Environmental Data Governance Initiative, an open source nonprofit monitoring and archiving U.S. government treatment of environmental data
 
 ## EEG
 German Renewable Energy Sources Act, which created feed-in tariffs for solar and wind
@@ -393,6 +399,12 @@ electric generating unit
 
 ## EGS
 enhanced geothermal energy systems
+
+## EIA
+environmental impact assessment, i.e. for a construction site
+
+## EIS
+environmental impact statement, the most comprehensive form of EIA, including: information about the proposed action and reasonable alternatives; data on baseline environmental conditions; predictions of environmental impacts from the proposed action and alternatives, including cumulative impacts with other proposed projects in the area; assessment methodologies for these predictions; descriptions of mitigation methods; summaries of public commments [Wentz, 2][Wentz]
 
 ## EIM
 Energy Imbalance Market [CPUC][cpuc]
@@ -504,6 +516,9 @@ like FTRs except attached to a branch in a network instead of just between two a
 
 ## FLR
 forest landscape restoration: a holistic approach to forest restoration incorporating humans as stakeholders (e.g. pride and/or tourism), an approach proposed by the United Nations Food and Agriculture Organization (FAO) [Hawken, 116][Hawken]
+
+## FONSI
+Findings of No Significant Impact, from an EIA/EIS
 
 ## forward contract
 a forward contract specifies for a future transaction: quantity and quality of goods, delivery date, payment amount and type, payment date, and any penalties for failure to uphold the agreement
@@ -1097,6 +1112,9 @@ turbulent water from the opposition of tidal current to prevailing current
 ## RMI
 Rocky Mountain Institute, a sustainability research and education foundation
 
+## ROD
+Record of Decision from an environmental impact study (EIS)
+
 ## rotor
 the part that turns– in a generator, a rotor (typically producing a magnetic field) turns around a stator
 
@@ -1264,6 +1282,9 @@ a grassroots community movement to reduce local dependence on oil and other high
 
 ## transmission
 transportation of a resource to an area where it can be used
+
+## TRI
+Toxic Release Inventory, which requires the use of standardized reporting metrics that allow for comparison, ranking, and tracking of performance across multiple projects [Wentz, 3][Wentz]
 
 ## tropic tides
 tides at low latitudes, characterized by high amplitude and high range

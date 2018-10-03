@@ -10,5 +10,6 @@
 * A big reason why new nuclear plants have been expensive is that the laws changed while construction was already underway. Another (relatedly) is that they don’t follow a standard design. There may be an opportunity to greatly reduce construction cost and time by designing and implementing a standardized nuclear plant now that regulations are more settled.
 * Devise a good/safe/reliable method for storing a small volume of highly radioactive waste to be sequestered for thousands of years. No country has one yet. [Smil, 43][Smil]
 * How can we futureproof our infrastructure? E.g right now, we are dependent on gasoline for cars even though there may be other ways to cheaply deliver energy in vehicles. What infrastructure are we currently building, and how can we enable it to adapt to technologies we will want to use 100 years in the future?
+* Make EIA/EIS documents more available to lawyers, environmental agencies, and grassroots organizers by building searchable online access as described in [Wentz][Wentz]
 
 {% include "../BIBLIOGRAPHY.md" %}
