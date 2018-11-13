@@ -7,6 +7,7 @@
 * Fertilizers mask the signs of soil abuse, leading to a delay in signals, which is a characteristic cause of systemic overshoot [Meadows, 62][Meadows]
 * Greenhouse gas emissions are typically dominated by production, not by miles traveled to consumption [McWilliams, 26][McWilliams]
 * In an eight-year test comparing crop yields, organic farms produced 20% less than the control group at best, and often 50% less [McWilliams, 58][McWilliams]
+* Ranching and farming on leased land is very common. Leased rather than owned land encourages extractive rather than sustainable practices (get the most economic value you can & then leave). More than half of farming in California takes place on leased land. In a typical CA land lease, landlord provides the land & water + 40% of chemical costs (herbicides, fertilizers, pesticides) & a portion of harvest & drying costs in exchange for 40% of the crop. [Bainbridge, 36][Bainbridge]
 
 ## Overproduction
 * American farms overproduce to the extent that in 1962 the government subsidized at more than $1bn/year in surplus food storage [Carson, 27][Carson] //TODO: updated stat?
