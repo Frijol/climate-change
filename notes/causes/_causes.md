@@ -63,4 +63,7 @@ Quick scroll-through visualization showing [what causes global warming](https://
 #### Effects of past global warmings
 * The end-Permian extinction (a big five extinction event) appears to have been triggered by a rapid rise in CO2/climate. Ocean temperatures rose ~18 degrees F, waters became more acidic and lost oxygen. 90% of species on earth became extinct over a period of 100-200k years. [Kolbert, 183][Kolbert]
 
+## Economic cause
+* Under-regulation & over-regulation of resource use are both harmful. Under-regulation can lead to unmitigated harvest. Over-regulation can result in impractical delays & costs for harvest, frequently (e.g. sandalwood in India) creating opportunities for corruption/bribing that outweigh the economic benefits of harvest. This can create a market for piracy/black market as the resource is too scarce & worth a lot– resulting in a new unregulated and unregulable market [Bainbridge, 38][Bainbridge]
+
 {% include "../../BIBLIOGRAPHY.md" %}
