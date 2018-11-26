@@ -880,6 +880,9 @@ National Ignition Facility, a laser facility at Lawrence Livermore National Labo
 ## NIMBY
 Not in my backyard. As in "yes high voltage power transmission is a great idea, but not in my backyard"
 
+## NMREC
+National Marine Energy Center, now rebranding as PMEC, the Pacific Marine Energy Center
+
 ## nodal pricing
 in electricity generation, a form of locational marginal pricing where price is defined at each node or bus of an interconnected system [Kirschen, 153][Kirschen]
 
@@ -1003,6 +1006,9 @@ chemical compounds that are the building blocks of taste, such as amino acids, e
 
 ## Pinatubo Option
 shorthand name for albedo engineering
+
+## PMEC
+[Pacific Marine Energy Center](http://depts.washington.edu/pmec/index.html), a collaboration between University of Washington, Oregon State University, and the University of Alaska Fairbanks to facilitate the responsible commercialization of marine energy technologies 
 
 ## P-node
 pricing node (in electric grid balancing). P-nodes, PNodes, or pricing nodes, are a pricing structure for distributed energy resources. Essentially, a price is set by balancing the supply and demand at each point where two wires cross. As of 2015, there were 4,900 of these in California. [StJohn]
