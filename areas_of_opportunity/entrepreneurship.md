@@ -1,5 +1,7 @@
 # Entrepreneurship
 
+(See also: Entities > Funds for a list of startup accelerators)
+
 * Expand market for coal ash. New regulation for this coal plant waste byproduct requires more expensive disposal, but it can be used in the production of industrial and consumer products (nearly half of coal ash was used in this way in 2014). Can this difference in availability/use be manipulated to better match? New water regulations (EG) make dry disposal of coal ash more likely, which could also be beneficial to secondary market opportunities. How is coal ash used in product creation? [EIA, 32][EIA]
 * Help states that are lagging in their RPS catch up by investigating the qualifying technologies listed at [EIA, 38][EIA]
 * Provide/create the infrastructure for CA and the 9 other states adopting ZEV laws based on suggestions in [Smil] - [My notes from Smil](https://blog.hc3.io/engineering-and-entrepreneurship-opportunities-from-energy-myths-and-realities-by-vaclav-smil-facaf9728c31#.a29e5yyno)
