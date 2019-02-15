@@ -5,7 +5,8 @@ I'm currently working on making this into a published book. Interested? **[Let m
 
 ---
 
-[View notes as a Gitbook](https://frijol.gitbooks.io/climate-change/content/) ([PDF](https://www.gitbook.com/download/pdf/book/frijol/climate-change) | [ePub](https://www.gitbook.com/download/epub/book/frijol/climate-change) | [Mobi](https://www.gitbook.com/download/mobi/book/frijol/climate-change))
+[View notes as a Gitbook](https://frijol.gitbooks.io/climate-change/content/) ([PDF](https://www.gitbook.com/download/pdf/book/frijol/climate-change) | [ePub](https://www.gitbook.com/download/epub/book/frijol/climate-change) | [Mobi](https://www.gitbook.com/download/mobi/book/frijol/climate-change) | [Dat site](dat://b3c98f2c0ee40323148c99285a83c1a80d2179a454dcbc7d3393dc52cc146f47/))
+
 
 ---
 
