@@ -2,6 +2,9 @@
 
 **Peer-edited studies of the most impactful climate change reversal strategies, in ranked order: [Project Drawdown](http://www.drawdown.org/)**
 
+## Learning curves and innovation
+* Idea that the design/idea/science/knowledge of assembly for a thing/technology is far more valuable than its component parts– and infinitely shareable immediately and as a component, as opposed to material goods which are finite. "Infinite resource" of human knowledge [Naam, 99][Naam]
+
 ## Landscape restoration
 * Overgrazing is the most serious and common problem for drylands globally [Bainbridge, 2][Bainbridge]
 * Natural restoration can take hundreds of years on noncompacted lands in drylands, longer for compacted due to irregular and infrequent favorable conditions for plant establishment. Thus, active restoration is necessary to restore dryland within a generation [Bainbridge, 6][Bainbridge]

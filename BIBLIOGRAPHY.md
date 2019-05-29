@@ -64,6 +64,7 @@ https://www.sciencedirect.com/science/article/pii/S1040619013001917 "Aggarwal, S
 [muller]: https://www.goodreads.com/book/show/13707580-energy-for-future-presidents "Muller, Richard. 'Energy for Future Presidents.' W.W. Norton & Company, Inc., 2012. Berkeley professor of physics and founder of Berkeley Earth project on global warming explains current energy technologies in context."
 [murphy]: http://physics.ucsd.edu/do-the-math/2011/10/the-energy-trap/ "Murphy, Tom. 'The Energy Trap.' 2011. Discussion of peak oil."
 [murphy-tides]: http://physics.ucsd.edu/do-the-math/2011/12/can-tides-turn-the-tide/ "Murphy, Tom. 'Can Tides Turn the Tide?' 2011. Tidal power discussion."
+[naam]: https://www.goodreads.com/book/show/16291969-the-infinite-resource?from_search=true "Naam, Ramez. 'The Infinite Resource'. University Press of New England, 2013."
 [naamsolar]: http://rameznaam.com/2015/08/10/how-cheap-can-solar-get-very-cheap-indeed/ "Naam, Ramez. 'How Cheap can Solar Get? Very Cheap Indeed.' 2015. Analysis of market readiness for solar technology."
 [naamstorage]: http://rameznaam.com/2015/10/14/how-cheap-can-energy-storage-get/ "Naam, Ramez. 'How Cheap Can Energy Storage Get? Pretty Darn Cheap.' 2015."
 [naamwind]: http://rameznaam.com/2015/08/30/how-steady-can-the-wind-blow/ "Naam, Ramez. 'How Steady can Wind Power Blow.' 2015. Analysis of market readiness for wind power."

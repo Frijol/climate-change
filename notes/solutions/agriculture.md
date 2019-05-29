@@ -17,4 +17,7 @@
 ## Animal farming
 * Grazing animals seek varied and nutritious diets. That's why you see them reaching through fencelines. [Barber, 61][Barber]
 
+## Fish
+* Fish are 16% of global human protein consumption, 21% in Africa, 28% in Asia, 50% of available protein in Bangladesh [Naam, 48][Naam]
+
 {% include "../../BIBLIOGRAPHY.md" %}

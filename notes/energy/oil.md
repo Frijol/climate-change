@@ -14,6 +14,7 @@
 * The United States Geographical Survey sets a 95% probability there are 400b barrels of oil that can be extracted from currently known fields. At a current global rate of ~100m barrels consumed per day, this would last us 4000 years [Smil, 68][Smil]
 * There are enormous major sedimentary fields both associated with existing land and deep underwater that most likely have a lot of oil. They have not been truly tapped until they have the same density of drilling as Texas. [Smil, 68][Smil]
 * Likelihoood of discovering new oil is highest in Mesopotamian Foredeep Basin (north of Baghdad through Iraq & Kuwait to E Saudi Ar), west Siberian Basin, Zagros Fold Belt of SE Iran, Niger Delta, Rub al Khali basin, East Greenland Rift Basin. In N America, northern Alaska, Canadian Arctic, Gulf of Mexico, supplemented by Venezuela, offshore Brazil. In Africa, offshore Congo and Niger, in Algeria, Libya. Asia: Kazakhstan, Timan-Pechora Basin. Europe: Atlantic west of Scotland [Smil, 68][Smil]
+* Fatih Birol, chief economist of the IEA says peak of worldwide oil supplies from all sources occurring by 2020 (look up interviews in British "Independent" and Aussie "ABC Radio") [Naam, 44][Naam]
 
 ### Oil discovery
 * Geologists find likely sites for oil traps by investigating surface rocks and terrain (older method). Newer methods include the use of sniffers, gravity meters and magnetometers to find minute changes in Earth's gravitational field and magnetic fields from oil flow, and sniffers [Freudenrich]
@@ -25,6 +26,9 @@
 * Siting: water source is needed (if none nearby, a well may be drilled); land must be cleared and leveled; access roads may be built [Freudenrich]
 * Construction: a reserve pit (for waste rock cuttings and drilling mud) is dug and lined with plastic (to protect the environment). A rectangular pit "cellar" is dug around the drilling hole, for use as a workspace. A crew drills to an initial shallow depth; a rig is brought in to pump. The rig drills downward and sends mud upward through the outside of the drilling pipe until the depth of oil. [Freudenrich]
 * The rig is removed when oil is hit, and the well head is attached to the pump. An electric pump creates suction, drawing up the oil [Freudenrich]
+* "New enhanced recovery techniques have made it conceivable to retrieve 60 percent or even 80 percent of the oil from a field, where once the number was only 40 percent." [Naam, 41][Naam]
+* Extracting a barrel of fuel from oil sands can use a quarter to a third as much energy as is in the barrel [Naam, 41][Naam]
+* Oil shale contains kerogen but extracting/refining takes up to half of the energy it provides– EROI of 1 to 1.7 [Naam, 41][Naam]
 
 
 ### Climate change problems caused by oil extraction
