@@ -29,7 +29,7 @@ Areas of opportunity is a great place to start if you're looking for ways an eng
 ## Meta-notes (to self): what is here, and what is missing?
 
 ### Overall comments
-
+- Of fairly immediate importance: if you look at [Project Drawdown's rankings of climate change solutions by impact](https://www.drawdown.org/solutions-summary-by-rank), you'll notice that while there is overlap between their list and the solutions I have notes for, the overlap is not that great. I think that this is because their approach was specifically targeted at finding maximum-impact solutions, while mine has been more a survey of existing literature. The discrepancy is huge! Many of Drawdown's top list items aren't even mentioned across the books and articles I've come across. Does this point to a misdirection of effort? A bias on my part to looking primarily at the energy sector? Flaws in Drawdown's approach? An area of opportunity for solutions that aren't widely publicized yet? Worth your while to have a look at the Drawdown list.
 - In general, this book is full of weird levels of specificity. The aim: provide broad context and increasing detail in promising areas. This doesn't always play out & can be corrected
 - Much of this is US-centric. Haven't decided if this is as it should be or not– climate change is global, but if the intent is to provide actionable and timely notes, focus on just one area is likely appropriate/international examples are good where adaptable/usable as prior art
 - What's a good way to link in the various lists (entities in particular) to the descriptive notes?
