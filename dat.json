@@ -1,4 +1,12 @@
 {
   "title": "Climate Change Book",
-  "web_root": "/_book"
+  "web_root": "/_book",
+  "links": {
+    "payment": [
+      {
+        "href": "https://www.patreon.com/ifoundthemeaningoflife",
+        "type": "text/html"
+      }
+    ]
+  }
 }

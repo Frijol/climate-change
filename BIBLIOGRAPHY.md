@@ -25,6 +25,7 @@ https://www.sciencedirect.com/science/article/pii/S1040619013001917 "Aggarwal, S
 [eia]: http://www.eia.gov/outlooks/aeo/pdf/0383(2016).pdf "Energy Information Administration. 'Annual Energy Outlook 2016 with projections to 2040.' 2016."
 [energy.govptc]: http://energy.gov/savings/renewable-electricity-production-tax-credit-ptc "Energy.gov. 'Renewable Energy Production Tax Credit (PTC).' 2016. Information on federal tax credit for renewable energy production."
 [epa]: https://www.epa.gov/ghgemissions/overview-greenhouse-gases "EPA. 'Overview of Greenhouse Gases.' 2014."
+[epa-energy]: https://19january2017snapshot.epa.gov/climate-impacts/climate-impacts-energy_.html "EPA. 'Climate Impacts on Energy.' 2017."
 [epa-gwp]: https://www.epa.gov/ghgemissions/understanding-global-warming-potentials "EPA. 'Understanding Global Warming Potentials.'"
 [epri]: http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002002733 "Electric Power Research Institute. 'The Integrated Grid: Realizing the Full Value of Central and Distributed Energy Resources.' 2014. Paper designed to give stakeholders in DER context and examples for desiging systems to handle distributed energy resources in the United States."
 [ferc]: https://www.ferc.gov/market-oversight/guide/energy-primer.pdf "Federal Energy Regulatory Commission. 'Energy Primer: A Handbook of Energy Market Basics.' 2015."

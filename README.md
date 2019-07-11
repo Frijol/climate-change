@@ -7,31 +7,64 @@ I'm currently working on making this into a published book. Interested? **[Let m
 
 [View notes as a Gitbook](https://frijol.gitbooks.io/climate-change/content/) ([PDF](https://www.gitbook.com/download/pdf/book/frijol/climate-change) | [ePub](https://www.gitbook.com/download/epub/book/frijol/climate-change) | [Mobi](https://www.gitbook.com/download/mobi/book/frijol/climate-change) | [Dat site](dat://b3c98f2c0ee40323148c99285a83c1a80d2179a454dcbc7d3393dc52cc146f47/))
 
-
 ---
 
-## How do I use these notes?
+### Introduction
+
+In September of 2017 I stood on a stage in Barcelona, in front of a packed room of software engineers.
+
+"How many of you think climate change is important?" I asked.
+
+Hands went up all over the room.
+
+"How many of you would like to work on climate change for your job?"
+
+This wasn't everybody in the room, but around half of the hands stayed up.
+
+"And now, how many of you feel like if you decided to look for a job working on climate change, tomorrow, you'd know where to start?"
+
+Every single hand went down. I nodded. That was me, too, a year and a half before.
+
+This is a strange phenomenon. Climate change is urgent. It's terrifying. It touches the lives of everyone on the globe, and impacts (and is impacted by) major industries. But somehow, most people don't feel like they can do anything about it– recycle, fly less, buy an electric car, but: vocationally, there isn't an obvious place to go.
+
+Here's my suspicion: climate change is *so* big, so sprawling and hydra-headed, that by the time you get down into the problem space a company can solve, you're so deep into the weeds that nothing really looks like climate change anymore. It looks like marginal gains in building retrofits, manipulations in the timing of energy grid markets, sensors for monitoring cricket or fish farms. It's niche, it's short on flash, and it's so much smaller than the problem that if you didn't frame its purpose at that global-problem scale, you might miss it.
+
+But niches can be virtues. Niches give specificity to a large and formless problem. They're tackle-able. And in this case, all of the little corners at the edges of the climate change problem need building out. The endless tiny challenges are each whole realms for innovation. And in the case of climate change, the impact of many minds on many niche problems is not just great, but necessary.
+
+#### Who is this book for?
+
+This book is not for everyone. I have approached this problem as an engineer, in the United States, seeking opportunities for entrepreneurship– so that's where the research for this book is strongest.
+
+In the United States, production and use of energy accounts for more than 84% of total emissions [EPA][epa-energy], and these notes reflect that focus.
+
+Climate change has a lot of justice elements. This is basically untouched in this book. For a more global and holistic perspective, [Project Drawdown's rankings of climate change solutions by impact](https://www.drawdown.org/solutions-summary-by-rank) is an excellent place to start.
+
+I'm writing this book with a specific type of reader in mind: You probably have a bit of technical background. You have a strong interest in climate change as a vocational path, but lack actionable information on climate change problems. And you're ready to make a move.
+
+If I wrote this book as intended, this book can be a launching point, a reference, and a place to turn when you need a next thing to try. I want it to give you the background you need to show up informed to the conversations you'll need to have, and enough idea of each problem space that you can imagine what it's like to start that work.
+
+#### How do I use these notes?
 
 If you're in the Gitbook, you can hover over or click on links. Underlined links are glossary terms (hover or click to read descriptions); non-underlined links are citations - hover to read bibliography or click to access articles or links to books.
 
-## How are these notes organized?
+#### How are these notes organized?
 
-Main sections have an introduction to what is there; they will also have a "stubs" section for unsorted notes and pieces which don't yet deserve their own sections.
+The notes themselves are a mess at the moment of different levels of research and specificity. The best advice I can give you is to click around. I'll work on prose for these (and more complete notes) hopefully soon.
 
-Glossary section includes some pieces which are not necessarily mentioned in the notes. They should serve as an introduction to the key terms and description of processes in the space.
+The **glossary** section includes some pieces which are not necessarily mentioned in the notes. They should serve as an introduction to the key terms and description of processes in the space. I'd recommend it as a resource while you do your own research; there are a lot of jargon terms out there.
 
-Bibliography section is annotated with a basic description per source, but I haven't yet found a good way to have it display in the gitbook. Work in progress.
+The **bibliography** section is partially annotated with basic descriptions of the sources, which should help you build your own reading list if you're so inclined. Unfortunately, I haven't yet found a good way to have that display in the gitbook, but you can see it in the [source file](https://github.com/Frijol/climate-change/blob/master/BIBLIOGRAPHY.md). Here's my [shortlist](https://github.com/Frijol/climate-change/blob/master/book_list.md) of good reads to get going in the space.
 
-Areas of opportunity is a great place to start if you're looking for ways an engineer might work in this space or what some key questions might be.
+**Areas of opportunity** is a great place to skip to as a quick start. It should give you an idea of the kinds of problems that make sense to face in this space.
+
+And finally, if you want to **just jump in**, check out the "Entities" section. I have lists of companies, funders, researchers, and places. Talk to people! Like everything else here, these lists are incomplete– but they might be enough to get you started.
 
 ====
 
 ## Meta-notes (to self): what is here, and what is missing?
 
 ### Overall comments
-- Of fairly immediate importance: if you look at [Project Drawdown's rankings of climate change solutions by impact](https://www.drawdown.org/solutions-summary-by-rank), you'll notice that while there is overlap between their list and the solutions I have notes for, the overlap is not that great. I think that this is because their approach was specifically targeted at finding maximum-impact solutions, while mine has been more a survey of existing literature. The discrepancy is huge! Many of Drawdown's top list items aren't even mentioned across the books and articles I've come across. Does this point to a misdirection of effort? A bias on my part to looking primarily at the energy sector? Flaws in Drawdown's approach? An area of opportunity for solutions that aren't widely publicized yet? Worth your while to have a look at the Drawdown list.
 - In general, this book is full of weird levels of specificity. The aim: provide broad context and increasing detail in promising areas. This doesn't always play out & can be corrected
-- Much of this is US-centric. Haven't decided if this is as it should be or not– climate change is global, but if the intent is to provide actionable and timely notes, focus on just one area is likely appropriate/international examples are good where adaptable/usable as prior art
 - What's a good way to link in the various lists (entities in particular) to the descriptive notes?
 - These notes are highly pragmatic and occasionally technical. There is almost no treatment of social justice. My tentative assessment is that this choice narrows target readership to engineers & entrepreneurs over activists and policymakers, which is useful to focus.
 - How much explanation of specific mechanisms is appropriate/useful? E.g. do we need to know that a battery stores energy, or that different chemistries have specific characteristics, or what the market trends are with those battery chemistries? What has useful shelf life, and how can I get people into position to seek information beyond my resources?
